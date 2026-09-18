@@ -2,7 +2,7 @@
 
 QLoRA fine-tuning pipeline to adapt the official **`sarvamai/Sarvam-30B`** base (Apache-2.0,
 MoE, 128 experts, 22 Indian languages) into a Bengali-medium, step-by-step teaching model for
-West Bengal government schools — companion to the data/eval work in [`../Eval`](../Eval).
+West Bengal government schools — companion to the data/eval work in [`../Evaluation`](../Evaluation).
 
 ## Scope (read first)
 Fine-tuning here carries **behaviour, format, and identity** — the Bengali `প্রশ্ন → ধাপ → চূড়ান্ত উত্তর`
