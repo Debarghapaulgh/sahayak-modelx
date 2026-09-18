@@ -136,12 +136,6 @@ generate_pan_ncert_indic_dataset.py
 sarg_llama_synthetic*.jsonl
 Sargvision/
 WBBSE_Question_Papers/
-evaluation/
-Finetune/
-Finetune-qwen/
-Serving/
-EXECUTION_PLAN.md
-PROGRESS.md
 *Syllabus.md
 implementationocr.md
 sarg_lm.ipynb
