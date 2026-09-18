@@ -1,0 +1,47 @@
+{
+  "pilot_name": "wbbse_textbook_sft_pilot_50_v2",
+  "total_records": 50,
+  "task_distribution": {
+    "CONCEPT_EXPLANATION": 5,
+    "GUIDED_PROBLEM_SOLVING": 5,
+    "SOURCE_GROUNDED_QA": 5,
+    "LESSON_PLAN": 5,
+    "QUIZ_GENERATION": 5,
+    "DEFINITION": 5,
+    "WORKSHEET": 5,
+    "TEACHER_PEDAGOGY": 5,
+    "SUMMARY_RECAP": 5,
+    "ERROR_CORRECTION": 5
+  },
+  "subject_distribution": {
+    "Mathematics": 15,
+    "Science": 10,
+    "Bengali": 12,
+    "English": 8,
+    "History": 4,
+    "Geography": 1
+  },
+  "grade_distribution": {
+    "6": 14,
+    "8": 19,
+    "7": 7,
+    "10": 3,
+    "9": 7
+  },
+  "audience_distribution": {
+    "শিক্ষার্থী": 30,
+    "শিক্ষক মহাশয় / শিক্ষাবিদ": 20
+  },
+  "validation_summary": {
+    "PASSED": 50
+  },
+  "quality_metrics": {
+    "self_contained_prompt_rate": 1.0,
+    "source_packaging_rate": 1.0,
+    "bengali_numeral_fidelity": 1.0,
+    "zero_leakage_rate": 1.0,
+    "zero_truncation_rate": 1.0,
+    "zero_metadata_mismatch_rate": 1.0,
+    "pass_rate": 1.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "paper_id": "WBBSE_Class_10_Geography_2026_GEN",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: ['নিচের কোনটি বহির্জাত প্রক্রিয়', 'বহির্জাত প্রক্রিয়া ও সৃষ্ট ভূ', 'বহির্জাত প্রক্রিয়া ও সৃষ্ট ভূ']"
+  ],
+  "metrics": {
+    "total_questions": 19,
+    "total_sections": 4,
+    "total_marks": 25.0,
+    "calculated_marks": 25.0,
+    "provenance_counts": {
+      "HISTORICAL": 11,
+      "GENERATED": 8
+    }
+  }
+}

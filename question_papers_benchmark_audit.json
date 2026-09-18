@@ -1,0 +1,102 @@
+{
+  "benchmark_papers_count": 9,
+  "total_extracted_questions": 1169,
+  "quality_breakdown": {
+    "HIGH": 810,
+    "ACCEPTABLE": 291,
+    "FAIL_REVIEW": 68
+  },
+  "visual_dependency_breakdown": {
+    "NONE": 1145,
+    "SUPPORTIVE": 23,
+    "REQUIRED": 1
+  },
+  "question_type_breakdown": {
+    "MCQ": 572,
+    "SHORT_ANSWER": 361,
+    "UNKNOWN": 202,
+    "NUMERICAL": 16,
+    "GRAPH_BASED": 4,
+    "MAP_BASED": 2,
+    "FILL_IN_THE_BLANK": 1,
+    "TRUE_FALSE": 6,
+    "PROOF": 5
+  },
+  "marks_validation_breakdown": {
+    "NOT_APPLICABLE": 1169
+  },
+  "papers": [
+    {
+      "paper_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024",
+      "filename": "WBBSE_Madhyamik_Bengali_Question_Paper_2024.pdf",
+      "questions": 88,
+      "high": 47,
+      "acceptable": 34,
+      "review": 7
+    },
+    {
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "filename": "HS_Sem3_Biology_Model_Question.pdf",
+      "questions": 542,
+      "high": 422,
+      "acceptable": 92,
+      "review": 28
+    },
+    {
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "filename": "HS_Sem3_English_Model_Question.pdf",
+      "questions": 312,
+      "high": 197,
+      "acceptable": 105,
+      "review": 10
+    },
+    {
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "filename": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "questions": 23,
+      "high": 5,
+      "acceptable": 7,
+      "review": 11
+    },
+    {
+      "paper_id": "wbchse_physics_wb_hs_physics_question_paper_2024",
+      "filename": "WB_HS_Physics_Question_Paper_2024.pdf",
+      "questions": 55,
+      "high": 51,
+      "acceptable": 4,
+      "review": 0
+    },
+    {
+      "paper_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024",
+      "filename": "WBBSE_Madhyamik_Life_Science_Question_Paper_2024.pdf",
+      "questions": 48,
+      "high": 28,
+      "acceptable": 14,
+      "review": 6
+    },
+    {
+      "paper_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024",
+      "filename": "WBBSE_Madhyamik_Mathematics_Question_Paper_2024.pdf",
+      "questions": 59,
+      "high": 26,
+      "acceptable": 28,
+      "review": 5
+    },
+    {
+      "paper_id": "wbbse_physical_science_wbbse_madhyamik_physical_science_question_paper_2024",
+      "filename": "WBBSE_Madhyamik_Physical_Science_Question_Paper_2024.pdf",
+      "questions": 37,
+      "high": 29,
+      "acceptable": 7,
+      "review": 1
+    },
+    {
+      "paper_id": "wbbse_general_/_multi-subject_wb_madhyamik_model_sample_paper",
+      "filename": "WB_Madhyamik_Model_Sample_Paper.pdf",
+      "questions": 5,
+      "high": 5,
+      "acceptable": 0,
+      "review": 0
+    }
+  ]
+}

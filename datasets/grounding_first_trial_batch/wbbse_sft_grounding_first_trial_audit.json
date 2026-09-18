@@ -1,0 +1,24 @@
+{
+  "batch_name": "wbbse_sft_grounding_first_trial",
+  "timestamp": "2026-09-16 20:12:27",
+  "total_records": 6,
+  "audit_metrics": {
+    "total_evaluated": 5,
+    "passed": 3,
+    "rejected": 2,
+    "retrieval_failures": 1,
+    "compatibility_rejections": 0,
+    "tier_breakdown": {
+      "TIER_1_FORMAT": 0,
+      "TIER_2_NO_RAW_EXCERPT": 0,
+      "TIER_3_GROUNDING_FIDELITY": 0,
+      "TIER_4_NO_META_LEAKAGE": 0,
+      "TIER_5_BANGLA_NUMERALS": 0,
+      "TIER_6_AUDIENCE_REGISTER": 0,
+      "TIER_7_TASK_FIDELITY": 2,
+      "TIER_8_MATH_SCIENTIFIC_INTEGRITY": 0,
+      "TIER_9_SELF_CONTAINEDNESS": 0,
+      "TIER_10_COMPLETENESS": 0
+    }
+  }
+}

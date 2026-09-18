@@ -1,0 +1,35 @@
+{
+  "paper_id": "wbbse_class9_mathematics_1115efdf",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: [\"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\"]",
+    "POTENTIAL_CHAPTER_SCOPE_DRIFT: Questions ['১.১', '১.২', '১.৩', '১.৪', '১.৫'] might contain concepts outside requested chapters."
+  ],
+  "metrics": {
+    "total_questions": 30,
+    "total_sections": 4,
+    "total_marks": 40.0,
+    "calculated_marks": 40.0,
+    "provenance_counts": {
+      "GENERATED": 30
+    },
+    "blueprint_source": "GENERATED_STANDARD_PATTERN",
+    "blueprint_classification": "GENERATED_STANDARD_PATTERN",
+    "chapter_mode": "CHAPTER_FILTERED",
+    "requested_chapters": [
+      "বাস্তব সংখ্যা",
+      "লাভ ও ক্ষতি"
+    ],
+    "cognitive_distribution": {
+      "APPLYING": 9,
+      "EVALUATING": 17,
+      "REMEMBERING": 1,
+      "ANALYSING": 3
+    }
+  }
+}

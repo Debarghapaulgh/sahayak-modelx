@@ -1,0 +1,12 @@
+{
+  "title": "NCERT Class 9 & 10 Science Comprehensive Curriculum",
+  "domain": "Science",
+  "grade_level": "Grade 9-10",
+  "content": "Chapter 1: Motion and Velocity. Velocity is speed in a given direction. Acceleration is the rate of change of velocity. Newton's First Law states that an object remains in a state of rest or uniform motion unless acted upon by an external unbalanced force. Newton's Second Law states that force is mass times acceleration (F=ma). Newton's Third Law states that every action has an equal and opposite reaction.\n\nChapter 2: Atoms and Molecules. An atom is the basic unit of a chemical element. Atoms consist of protons, neutrons, and electrons. The atomic number is the number of protons. The mass number is the sum of protons and neutrons. Isotopes are atoms of the same element with different numbers of neutrons.\n\nChapter 3: Cell Biology. The cell is the fundamental structural and functional unit of living organisms. Mitochondria are the powerhouse of the cell, producing ATP. Chloroplasts contain chlorophyll for photosynthesis in plant cells. Osmosis is the movement of water molecules across a semi-permeable membrane from lower solute to higher solute concentration.\n\nChapter 4: Work and Energy. Work is done when a force produces displacement (W = F * d). Kinetic energy is energy of motion (KE = 0.5 * m * v^2). Potential energy is stored energy due to position (PE = m * g * h). Law of Conservation of Energy states that energy can neither be created nor destroyed, only transformed.",
+  "sections": [
+    {"title": "Motion and Newton's Laws", "text": "Motion, velocity, acceleration, Newton's 1st, 2nd, 3rd laws."},
+    {"title": "Atomic Structure", "text": "Atoms, protons, neutrons, electrons, atomic number, isotopes."},
+    {"title": "Cellular Organelles", "text": "Cell theory, mitochondria, chloroplasts, ATP, osmosis."},
+    {"title": "Work and Energy", "text": "Work done, kinetic energy, potential energy, energy conservation."}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "paper_id": "wbbse_class2_general_95cae801",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: [\"'|| a' অধ্যায় থেকে নিচের কোনট\", \"'|| a' অধ্যায় থেকে নিচের কোনট\", \"'|| a' অধ্যায় থেকে এক কথায় উ\", \"'|| a' অধ্যায় থেকে সংক্ষিপ্ত \", \"'|| a' অধ্যায় থেকে সংক্ষিপ্ত \", \"'|| a' অধ্যায় থেকে বিস্তারিত \", \"'|| a' অধ্যায় থেকে বিস্তারিত \"]"
+  ],
+  "metrics": {
+    "total_questions": 36,
+    "total_sections": 4,
+    "total_marks": 50.0,
+    "calculated_marks": 50.0,
+    "provenance_counts": {
+      "GENERATED": 36
+    },
+    "blueprint_source": "GENERATED_STANDARD_PATTERN",
+    "blueprint_classification": "GENERATED_STANDARD_PATTERN",
+    "chapter_mode": "FULL_SYLLABUS",
+    "cognitive_distribution": {
+      "REMEMBERING": 24,
+      "APPLYING": 10,
+      "ANALYSING": 2
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "dataset_name": "wbbse_textbook_sft_300",
+  "description": "Final 300-Record Textbook-Only SFT Pilot Dataset for SahayakAI with Explicit Source Mode (PROVIDED vs NOT_PROVIDED) and Full Textbook Grounding",
+  "version": "3.0.0",
+  "total_records": 300,
+  "files": {
+    "validated": "wbbse_textbook_sft_300_validated.jsonl",
+    "provenance": "wbbse_textbook_sft_300_provenance.jsonl",
+    "review": "wbbse_textbook_sft_300_review.jsonl",
+    "raw": "wbbse_textbook_sft_300_raw.jsonl",
+    "rejected": "wbbse_textbook_sft_300_rejected.jsonl",
+    "audit": "wbbse_textbook_sft_300_audit.json"
+  },
+  "target_audience": "WBBSE Bengali-Medium Students (~215) & Teachers (~85)",
+  "created_at": "2026-09-16 14:21:29"
+}

@@ -1,0 +1,110 @@
+{
+  "WBBSE_CLASS_10_SUMMATIVE": {
+    "board": "WBBSE",
+    "grade_band": "Class 10",
+    "total_marks": 50,
+    "duration_minutes": 105,
+    "blueprint_type": "WBBSE_MADHYAMIK_MODEL_PATTERN",
+    "sections": [
+      {
+        "section_id": "sec_1",
+        "name": "বিভাগ 'ক' (বহুবিকল্পভিত্তিক প্রশ্ন / MCQ)",
+        "question_type": "MCQ",
+        "marks_per_q": 1,
+        "count": 10,
+        "total_marks": 10,
+        "cognitive_level": "RECALL"
+      },
+      {
+        "section_id": "sec_2",
+        "name": "বিভাগ 'খ' (অতিসংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন / VSA — এক কথায় উত্তর / শূন্যস্থান পূরণ)",
+        "question_type": "VERY_SHORT_ANSWER",
+        "marks_per_q": 1,
+        "count": 10,
+        "total_marks": 10,
+        "cognitive_level": "UNDERSTANDING"
+      },
+      {
+        "section_id": "sec_3",
+        "name": "বিভাগ 'গ' (সংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন / SA — ২-৩টি বাক্যে উত্তর)",
+        "question_type": "SHORT_ANSWER",
+        "marks_per_q": 2,
+        "count": 6,
+        "total_marks": 12,
+        "cognitive_level": "APPLICATION"
+      },
+      {
+        "section_id": "sec_4",
+        "name": "বিভাগ 'ঘ' (বিশ্লেষণমূলক ও ব্যাখ্যামূলক প্রশ্ন / গাণিতিক সমস্যা)",
+        "question_type": "DESCRIPTIVE",
+        "marks_per_q": 3,
+        "count": 3,
+        "total_marks": 9,
+        "cognitive_level": "ANALYSIS"
+      },
+      {
+        "section_id": "sec_5",
+        "name": "বিভাগ 'ঙ' (দীর্ঘ উত্তরভিত্তিক ও বিশদ রচনামূলক প্রশ্ন)",
+        "question_type": "LONG_ANSWER",
+        "marks_per_q": 4.5,
+        "count": 2,
+        "total_marks": 9,
+        "cognitive_level": "ANALYSIS"
+      }
+    ]
+  },
+  "WBCHSE_CLASS_12_MODEL": {
+    "board": "WBCHSE",
+    "grade_band": "Class 12",
+    "total_marks": 50,
+    "duration_minutes": 120,
+    "blueprint_type": "WBCHSE_HIGHER_SECONDARY_MODEL_PATTERN",
+    "sections": [
+      {
+        "section_id": "sec_1",
+        "name": "Part B (Group A — বহুবিকল্পভিত্তিক প্রশ্নাবলী / MCQ)",
+        "question_type": "MCQ",
+        "marks_per_q": 1,
+        "count": 12,
+        "total_marks": 12,
+        "cognitive_level": "RECALL"
+      },
+      {
+        "section_id": "sec_2",
+        "name": "Part B (Group B — অতিসংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন / VSA)",
+        "question_type": "VERY_SHORT_ANSWER",
+        "marks_per_q": 1,
+        "count": 8,
+        "total_marks": 8,
+        "cognitive_level": "UNDERSTANDING"
+      },
+      {
+        "section_id": "sec_3",
+        "name": "Part A (Group C — সংক্ষিপ্ত ও ব্যাখ্যামূলক প্রশ্ন / SA)",
+        "question_type": "SHORT_ANSWER",
+        "marks_per_q": 2,
+        "count": 5,
+        "total_marks": 10,
+        "cognitive_level": "APPLICATION"
+      },
+      {
+        "section_id": "sec_4",
+        "name": "Part A (Group D — বিশ্লেষণমূলক ও গাণিতিক সমস্যা / প্রতিপাদন)",
+        "question_type": "DESCRIPTIVE",
+        "marks_per_q": 3,
+        "count": 4,
+        "total_marks": 12,
+        "cognitive_level": "ANALYSIS"
+      },
+      {
+        "section_id": "sec_5",
+        "name": "Part A (Group E — দীর্ঘ বিশ্লেষণাত্মক প্রশ্ন / LA)",
+        "question_type": "LONG_ANSWER",
+        "marks_per_q": 4,
+        "count": 2,
+        "total_marks": 8,
+        "cognitive_level": "ANALYSIS"
+      }
+    ]
+  }
+}

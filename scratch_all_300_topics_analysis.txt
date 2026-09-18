@@ -1,0 +1,1200 @@
+#000 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0001 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ কী করবে না / কী করবে : ১ ) প্রতিদিন যা খাওয়া দরকার তার অর্ধেক খাবার খেতে হবে । ৪ ) অধিক পরিমাণ শাকসবজি খে
+
+#001 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0002 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ১৫: বীজগাণিতিক সংখ্যামালার সরলীকরণ
+  Prompt: পাঠ্যাংশ: """ ১. ( b ) p = - ৩ """  প্রশ্ন / নির্দেশ: উপরিউক্ত পাঠ্যাংশে `p = - ৩` এর মতো একটি বীজগাণিতিক সমীকরণের সমাধা
+
+#002 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0003 | Gr: 11 | Subj: Bengali
+  Topic: ৩০ अंक
+  Prompt: পাঠ্যাংশ: """ " ' व्हाट ... টি ? " " টি ... এ ওয়াইড ফুট । " ডটার বোঝালো । "নো নো , উই আর পিওর ডিরিয়াস।" বলে শিক্ষিকা ম
+
+#003 [RANGE,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0004 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৭-১৯: ত্রিভুজ ও চতুর্ভুজের পরিসীমা ও ক্ষেত্রফল, প্রতিসাম্য, সমীকরণ গঠন ও সমাধান
+  Prompt: পাঠ্যাংশ: """ ৩. ( a ) ৪ : ৩ , গুরুঅনুপাত ( b ) ১:১৭ লঘুঅনুপাত """  প্রশ্ন / নির্দেশ: উপরের পাঠ্যাংশে গুরুঅনুপাত ও লঘুঅন
+
+#004 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0005 | Gr: 11 | Subj: Bengali
+  Topic: charl chud  कछु नच
+  Prompt: charl chud कछु नच' পাঠ্যাংশে লেখক যে মূল বার্তাটি দিতে চেয়েছেন, তা ব্যাখ্যা করো।
+
+#005 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0006 | Gr: 5 | Subj: English
+  Topic: The Rebel Poet
+  Prompt: পাঠ্যাংশ: """ Pritam : Did Kumud Ranjan inspire him to write poems ? Father : Yes . But Nazrul was also influenced by Ra
+
+#006 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0007 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ আসুন , আমরা সকলে মিলে মাননীয়া মুখ্যমন্ত্রী মমতা বন্দ্যোপাধ্যায়ের দীপ্ত কণ্ঠে উচ্চারিত Safe Drive Save Li
+
+#007 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0008 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৩: সমান্তরাল সরলরেখা ও ছেদক
+  Prompt: সমান্তরাল সরলরেখা ও ছেদকের অধ্যায়ে একান্তর কোণ বলতে কী বোঝায়? একটা ছবি এঁকে বা উদাহরণ দিয়ে পরিষ্কার করে বুঝিয়ে দেবে কি?
+
+#008 [STRUCT] | ID: wbbse_tb_sft_300_b2_final_0009 | Gr: 4 | Subj: English
+  Topic: Lesson ৪ The Hero On your mark
+  Prompt: পাঠ্যাংশ: """ Let's learn Read the following sentences 1. Every afternoon , my friends played football or cricket . """ 
+
+#009 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0010 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: এল ও এন ডি ও এন— লন্ডন খেলাটা খেললে আমাদের শরীরের কী কী উপকার হয়?
+
+#010 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0011 | Gr: 9 | Subj: Mathematics
+  Topic: অধ্যায় ১: বাস্তব সংখ্যা
+  Prompt: পাঠ্যাংশ: """ ১৩. সম্পাদ্য : একটি ত্রিভুজাকার ক্ষেত্রের সমান ক্ষেত্রফলবিশিষ্ট একটি সামান্তরিক আকারের ক্ষেত্র অঙ্কন যার এ
+
+#011 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0012 | Gr: 10 | Subj: English
+  Topic: Lesson ৪: My Own True Family (Ted Hughes)
+  Prompt: পাঠ্যাংশ: """ To walk is to make slow progress . It is to think with clarity and closely look at all that is around you 
+
+#012 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0013 | Gr: 9 | Subj: Mathematics
+  Topic: অধ্যায় ১: বাস্তব সংখ্যা
+  Prompt: পাঠ্যাংশ: """ ১৬. বৃত্তের পরিধি : বৃত্তের পরিধি নির্ণয় । -এর ধারণা এবং বৃত্তের পরিধির সূত্রের সাহায্যে বাস্তব সমস্যার স
+
+#013 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0014 | Gr: 6 | Subj: Bengali
+  Topic: দ্বিতীয় অধ্যায়: স্বরধ্বনি ও ব্যঞ্জনধ্বনি
+  Prompt: পাঠ্যাংশ: """ ৩.৪ চতুষ্পার্শ্ব পরিষ্কার রাখলে মশার হাত থেকে নিষ্কৃতি পাওয়া যায় । """  প্রশ্ন / নির্দেশ: উপরিউক্ত পাঠ্য
+
+#014 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0015 | Gr: 9 | Subj: English
+  Topic: Lesson ৮: His First Flight (Liam O'Flaherty)
+  Prompt: Liam O'Flaherty-এর 'His First Flight' গল্পে ছোট সিগালটির প্রথমবার উড়তে এত ভয় লাগছিল কেন? তার মা তাকে উড়তে শেখাতে কী কৌশল
+
+#015 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0016 | Gr: 10 | Subj: Mathematics
+  Topic: অধ্যায় ১: একচলবিশিষ্ট দ্বিঘাত সমীকরণ
+  Prompt: পাঠ্যাংশ: """ vi ) দুটি ত্রিভুজের একটির একটি কোণ অপরটির একটি কোণের সমান এবং কোণগুলির ধারক বাহুগুলি সমানুপাতী হলে ত্রিভুজ
+
+#016 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0017 | Gr: 7 | Subj: English
+  Topic: Lesson ১৩: Ghosts on the Verandah (Ruskin Bond)
+  Prompt: পাঠ্যাংশ: """ Unit II Monday , 15 June , 1942 I had my birthday party on Sunday afternoon . We showed a film The Lightho
+
+#017 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0018 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ ইংরেজরা চেয়েছিল একজোট হওয়া মানুষকে আলাদা করতে । বাংলাকে দু - ভাগ করে দিয়ে সেই ভাগাভাগি শুরু করতে চেয়েছ
+
+#018 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0019 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ দাবা চতুর্থ শ্রেণি কার্ড – ৬২ - কিস্তিমাত ( CHECKMATE ) : ‘ কিস্তিমাত ' - ই দাবা খেলার অভীষ্ট লক্ষ্য । যখন
+
+#019 [RANGE,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0020 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৭-১৯: ত্রিভুজ ও চতুর্ভুজের পরিসীমা ও ক্ষেত্রফল, প্রতিসাম্য, সমীকরণ গঠন ও সমাধান
+  Prompt: সমবাহু ত্রিভুজ বলতে কী বোঝায়? এর প্রধান বৈশিষ্ট্যগুলো কী কী, একটু বুঝিয়ে দেবে?
+
+#020 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0021 | Gr: 8 | Subj: Bengali
+  Topic: তৃতীয় পাঠ: সবুজ জামা (বীরেন্দ্র চট্টোপাধ্যায়) ও চিঠি (স্বামী বিবেকানন্দ)
+  Prompt: পাঠ্যাংশ: """ ৭.১ লাফিয়ে উঠে টেনিদা বাগানের দিকে ছুটল । ( জটিল বাক্যে ) """  প্রশ্ন / নির্দেশ: উপরিউক্ত সরল বাক্যটিকে জ
+
+#021 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0022 | Gr: 3 | Subj: English
+  Topic: • ১৩ .৬১ •
+  Prompt: পাঠ্যাংশ: """ Let's fill in the blanks with ' that'and ' those ' : 1 . is a boy and 2 . is a tree and 3 . is a pond and 
+
+#022 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0023 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: দাঁড়ানোর বিভিন্ন ভঙ্গিমা বলতে কী বোঝায়? কয়েকটি ভঙ্গিমার নাম বলো।
+
+#023 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0024 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৩: সমান্তরাল সরলরেখা ও ছেদক
+  Prompt: পাঠ্যাংশ: """ সাদা রং করতে খরচ হবে ( ৪৮০ × ৬০ ) টাকা = টাকা ।  নিজে করি— ১৭.২ ১ ) গ্রামের হাসপাতালের দ্বিতীয় ঘরের উচ্চত
+
+#024 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0025 | Gr: 6 | Subj: English
+  Topic: Lesson ১২: Rip Van Winkle (Washington Irving)
+  Prompt: পাঠ্যাংশ: """ Activity ৯ ( b ) Identify the types of sentences given below : ( i ) Rip's sole follower was the dog Wolf 
+
+#025 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0026 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১২: বীজগাণিতিক সূত্রাবলি
+  Prompt: এই বীজগাণিতিক গুণফলটি সূত্রের সাহায্যে কীভাবে নির্ণয় করব? (x + ৫)(x - ৫)(x² + ২৫)
+
+#026 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0027 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আবৃত্ত দশমিক সংখ্যা
+  Prompt: পাঠ্যাংশ: """ ১৪. ১৪৫ ও ২৩২ সংখ্যা দুটির গ.সা.গু. - এর মান খুঁজি ও ওই গ.সা.গু. - এর সাহায্যে ল.সা.গু. - এর মান খোঁজার চে
+
+#027 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0028 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: আমি একটি জলাশয়ের পাশে গিয়েছিলাম। সেখানে অনেক মাছ, শামুক আর সাপ দেখলাম। এইরকম একটি জলাশয়ে আর কী কী প্রাণী থাকতে পারে, তার
+
+#028 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0029 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আবৃত্ত দশমিক সংখ্যা
+  Prompt: পাঠ্যাংশ: """ ২৪. হিসাব করে ১৩ দিয়ে বিভাজ্য এমন ক্ষুদ্রতম সংখ্যা খুঁজি যা ৮, ১২, ১৬, ও ২০ দিয়ে ভাগ করলে প্রতিক্ষেত্রে 
+
+#029 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0030 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আসন্ন মান
+  Prompt: পাঠ্যাংশ: """ """ প্রশ্ন / নির্দেশ: আসন্ন মান কাকে বলে এবং দশমিকের পর ২ স্থান পর্যন্ত আসন্ন মান নির্ণয় করার পদ্ধতিটি একট
+
+#030 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0031 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ এখানে আছে বক্সা দুর্গ । একসময় এই দুর্গ ছিল ভুটানের । ১৮৬০ - র দশকে ব্রিটিশরা এই দুর্গ দখল করেন । সেই থেকে
+
+#031 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0032 | Gr: 9 | Subj: Bengali
+  Topic: ষষ্ঠ পাঠ: আমরা (সত্যেন্দ্রনাথ দত্ত) ও চন্দ্রনাথ (তারাশঙ্কর বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ ৩.২ . ‘ সেই আংটিটা রাজার ( খুব ) প্রিয় ছিল । ’ নাট্যাংশের কোন ঘটনা প্রমাণ করে ‘ আংটিটা রাজার ( খুব ) প্রি
+
+#032 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0033 | Gr: 10 | Subj: Mathematics
+  Topic: অধ্যায় ১: একচলবিশিষ্ট দ্বিঘাত সমীকরণ
+  Prompt: একটি ট্রেনের গতিবেগ যদি প্রতি ঘন্টায় ৫ কিমি বেশি হত, তাহলে ৩০০ কিমি পথ যেতে তার ১ ঘন্টা কম সময় লাগত। ট্রেনটির স্বাভাবি
+
+#033 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0034 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ পুবদিকটা অনুর্বর । তাহলে ওই দিকটায় নিশ্চয়ই জঙ্গল আছে ? আছে । তবে খুব ঘন জঙ্গল নয় । পিপুল , নিম , তেঁতুল
+
+#034 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0035 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ৯: সর্বসমতার ধারণা
+  Prompt: পাঠ্যাংশ: """ A D ৪০ ° ৩০ ° ৩০ ° ৪০ ° B F ৪ সেমি . CE ৪ সেমি . """  প্রশ্ন / নির্দেশ: উপরিউক্ত পাঠ্যাংশে দুটি ত্রিভুজের 
+
+#035 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0036 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: পাঠ্যাংশ: """ পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ । """  প্রশ্ন / নির্দেশ: ১। বনে অনেক - এর পরে কী লিখতে
+
+#036 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0037 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ৪: স্তম্ভচিত্র ও তথ্যের উপস্থাপন
+  Prompt: পাঠ্যাংশ: """ ১৮. একটি সংস্থা একজন চিত্রকরের আঁকা দুটি ছবি কিনেছেন যথাক্রমে ৯০০০০০ টাকা ও ২০০০০০০ টাকায় এবং আর একজন চিত
+
+#037 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0038 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আবৃত্ত দশমিক সংখ্যা
+  Prompt: পাঠ্যাংশ: """ ২. আমাদের স্কুলের হল ঘরের দৈর্ঘ্য ২০০০ সেমি . এবং প্রস্থ ১৬০০ সেমি .। হিসাব করে দেখি সবচেয়ে লম্বা কত দৈর্
+
+#038 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0039 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ৪: স্তম্ভচিত্র ও তথ্যের উপস্থাপন
+  Prompt: পাঠ্যাংশ: """ ১৯. কোনো একটি দেশের ক্ষেত্রফল প্রায় ৩২৮৭২৬৩ বর্গকিলোমিটার । এর মধ্যে বনভূমি প্রায় ৭৫৪৭৪০ বর্গকিলোমিটার ও
+
+#039 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0040 | Gr: 9 | Subj: Bengali
+  Topic: স্বর্ণপর্ণী
+  Prompt: স্বর্ণপর্ণী গল্পে মহাকাশযানের কণ্ঠস্বর বস্তুটি সম্পর্কে যে সতর্কবার্তা দিয়েছিল, তা কেন গুরুত্বপূর্ণ? যদি সেই সতর্কবার্ত
+
+#040 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0041 | Gr: 9 | Subj: Mathematics
+  Topic: অধ্যায় ১: বাস্তব সংখ্যা
+  Prompt: পাঠ্যাংশ: """ a² − - a + b + c – ৩abc , ( i ) একটি ত্রিভুজের যে - কোনো দুটি বাহুর মধ্যবিন্দুর সংযোগকারী সরলরেখাংশ তৃতীয়
+
+#041 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0042 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ বড়ো টিকটিকিটা পড়ল ছোটোটার ঘাড়ে । তার লেজ কামড়ে ধরল । লেজটা ছিঁড়ে গেল । ছেঁড়া লেজটা লাফাতে লাগল ৷ - ত
+
+#042 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0043 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ STOP থামো : এটি একটি গুরুত্বপূর্ণ ও বিশিষ্ট রোড সাইন । এটি চালককে তাৎক্ষণিক থামার জন্য ইঙ্গিত দেয় । সাইকে
+
+#043 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0044 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আসন্ন মান
+  Prompt: পাঠ্যাংশ: """ ১৩. নীচের সংখ্যাগুলির আসন্ন মান লিখি । ( i ) √৬ ( দুই দশমিক স্থান পর্যন্ত ) ( ii ) √৮ ( দুই দশমিক স্থান পর
+
+#044 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0045 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ অন্তরা বলল — স্যার , জলের কলটা কি জলাশয় ? স্যার হেসে বললেন— আমিও তাই ভাবছি ! জলাশয় না হোক জলের উৎস তো বট
+
+#045 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0046 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ভুজঙ্গাসন নামের উৎস : ভুজঙ্গ অর্থে সাপ । আসন অর্থে ভঙ্গিমা । সাপ চলার সময় যেমন মাঝে মুখ ও বুক উঁচু করে চল
+
+#046 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0047 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১৫: ক্ষেত্রফল ও পরিসীমা
+  Prompt: ক্ষেত্রফল কাকে বলে? সহজভাবে বুঝিয়ে দাও।
+
+#047 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0048 | Gr: 11 | Subj: Bengali
+  Topic: ৩৭ লালন ফকির
+  Prompt: পাঠ্যাংশ: """ পশ্চাতে আসিয়া যূনকদলের নৃত্য পঞ্চক । ও কী রে ! তোরা কখন পিছনে এসে নাচতে লেগেছিলি ? প্রথম যূনক । আমরা নাচব
+
+#048 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0049 | Gr: 9 | Subj: English
+  Topic: Lesson ৭: Tom Loses a Tooth (Mark Twain)
+  Prompt: পাঠ্যাংশ: """ In set 6 , the first sentence is Negative and the second sentence is an Affirmative sentence . Affirmative
+
+#049 [RANGE,TRAIL_NUM,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0050 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ , খনিজ ও শক্তি সম্পদ ৩১২-৩৩৮ পরিবেশ ও পরিবহণ ৩৩৯
+  Prompt: পথ সুরক্ষা কাকে বলে?
+
+#050 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0051 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ৭ ) শীতলকারক স্প্রে , নেবাসালফ । ৮ ) ব্যান্ডেজ বিভিন্ন প্রকারের , টুরনিকেটের রাবার । ৯ ) লিউকোপ্লাস্ট , বা
+
+#051 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0052 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আসন্ন মান
+  Prompt: পাঠ্যাংশ: """ ৯. দুটি ধনাত্মক সংখ্যার গুণফল ১S এবং তাদের ভাগফল ২৪ হলে , সংখ্যা দুটি কী কী হবে তা নির্ণয় করি । """  প্রশ
+
+#052 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0053 | Gr: 9 | Subj: Bengali
+  Topic: প্রোফেসর শঙ্কু ও আশ্চর্য পুতুল
+  Prompt: প্রোফেসর শঙ্কু ও আশ্চর্য পুতুল গল্পে 'পোর্ট্রেট' বলতে কী বোঝানো হয়েছে?
+
+#053 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0054 | Gr: 8 | Subj: English
+  Topic: Lesson ৪: The Great Escape (Sugata Bose)
+  Prompt: পাঠ্যাংশ: """ Let's learn : Read the following sentences carefully : ( ১ ) Sisir would have to drive his uncle . ( ২ ) S
+
+#054 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0055 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ কত দিন তারা সইবে গো অপমান ? কত দিন তারা শুধু হবে লাঞ্ছিত ? নিপীড়িত তারা শিক্ষায় বঞ্চিত । মেয়েদেরও আছে শ
+
+#055 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0056 | Gr: 8 | Subj: Bengali
+  Topic: পথের পাঁচালি (সহায়ক পাঠ - বিভূতিভূষণ বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ —সামনের বুধবারের পরের বুধবারে —আসবি নে আর কখনও ? রানির চোখ অশ্রুপূর্ণ হইয়া উঠিল , বলিল — তুই যে বলিস নিশ্
+
+#056 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0057 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ - ঘাস ছেড়া IN শিক্ষার্থীদের বুড়ো আঙুল ও অন্যান্য এক - একটি আঙুলকে পর্যায়ক্রমে ব্যবহার করে বিভিন্নভাবে ম
+
+#057 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0058 | Gr: 11 | Subj: General
+  Topic: প্রথম অধ্যায় নৃতাত্ত্বিক পর্যায় নিরূপণের উপায়
+  Prompt: পাঠ্যাংশ: """ ৫. প্রাক্ - চৈতন্যযুগের বৈয়ব সাহিত্যে কৃষ্ণ - বিষ্ণু - বাসুদেব প্রায় অভিন্ন ছিলেন । বৈঘ্নব সমাজে উৎস হিস
+
+#058 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0059 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: জল শোধনের প্রাকৃতিক পদ্ধতি এবং রাসায়নিক পদ্ধতির মধ্যে প্রধান পার্থক্যগুলি কী কী, বুঝিয়ে দাও।
+
+#059 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0060 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ৪. বল হাতে আসার সঙ্গে সঙ্গে আঙুলগুলো বন্ধ করে বুকের কাছে টেনে নিতে হবে । """  প্রশ্ন / নির্দেশ: যখন আমরা স
+
+#060 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0061 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ তৃতীয় ব্যায়াম ( ১ ) লাফিয়ে পা দুটো পাশাপাশি অল্প ফাঁকা করে হাত দুটো কনুই থেকে ভাঁজ করে বুকের সামনে রাখত
+
+#061 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0062 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: বনভূমি আর বাগানের মধ্যে প্রধান পার্থক্যগুলো কী কী? সহজভাবে বুঝিয়ে দাও।
+
+#062 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0063 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ ১. সামনে - পিছনে পাঁ ফাঁক করে বসা ( ঘ ) শিক্ষকের সাহায্যে দুপা সোজা রেখে সামনে - পিছনে ফাঁক করে বসার চেষ্ট
+
+#063 [PAGE] | ID: wbbse_tb_sft_300_b2_final_0064 | Gr: 5 | Subj: Bengali
+  Topic: L OO সাত ছেলেবেলা রবীন্দ্রনাথ ঠাকুর পৃষ্ঠা
+  Prompt: পাঠ্যাংশ: """ জনপ্রিয় উপন্যাস ‘ঝাঁসির রানী’, ‘নটী’, ‘অরণ্যের অধিকার’, ‘হাজার চুরাশির মা’ । ছোটোদের জন্য বিখ্যাত গ্রন্থ 
+
+#064 [RANGE,TRAIL_NUM,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0065 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ , খনিজ ও শক্তি সম্পদ ৩১২-৩৩৮ পরিবেশ ও পরিবহণ ৩৩৯
+  Prompt: পাঠ্যাংশ: """ বাড়িতে আমাকে বলে , অন্য কিছু করতে হবে না । ভালো করে লেখাপড়া করো । - এটা ঠিক নয় । শেখার বিষয়ের একটা অংশ
+
+#065 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0066 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ মেঘে মেঘে ঘর্ষণের ফলে যে বিকট শব্দ ও বিদ্যুৎ চমকায় যা বৈদ্যুতিক শক্তি , আলোক শক্তি , তাপশক্তি , শব্দশক্তি
+
+#066 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0067 | Gr: 8 | Subj: Bengali
+  Topic: দ্বিতীয় অধ্যায়: বাক্যের ভাব ও রূপান্তর
+  Prompt: পাঠ্যাংশ: """ ওপরের বাক্য চারটিতে বারবার রবীন্দ্রনাথ ঠাকুরের নাম ব্যবহার করা হয়েছে । এইভাবে নাম ব্যবহার না করে তার পরিব
+
+#067 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0068 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ স্যার বললেন - তা হতে পারে । এসব জ্ঞান সাধারণত পারিবারিক সম্পদ । বাবা - মায়ের কাছ থেকে ছেলেমেয়েরা শেখে । 
+
+#068 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0069 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: আমরা যখন দৌড়ানোর জন্য তৈরি হই, তখন কোমর উঁচুতে তুলে সামান্য সামনে ঝুঁকে দাঁড়াই কেন? এর ফলে দৌড়াতে কী সুবিধা হয়?
+
+#069 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0070 | Gr: 9 | Subj: Bengali
+  Topic: কর্ভাস
+  Prompt: পাঠ্যাংশ: """ ১৬ ই নভেম্বর ভেবেছিলাম কালকের ঘটনা কালকেই লিখে রাখব , কিন্তু বিভীষিকার ঘোর কাটাতে সারা রাত লেগে গেল । কাল 
+
+#070 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0071 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ মাসি বললেন— জীবাণু সবার শরীরেই কমবেশি আছে । আবার শরীরের মধ্যেই তা প্রতিরোধের ব্যবস্থাও আছে । – তাহলে লোকের
+
+#071 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0072 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ অ্যাথলিটিক্‌স দ্বিতীয় শ্রেণি কার্ড - ৪৪ * ক্রাউচ স্টার্ট কৌশল উন্নতি করার জন্য যেসকল অনুশীলনগুলো অত্যন্ত 
+
+#072 [RANGE,TRAIL_NUM,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0073 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ , খনিজ ও শক্তি সম্পদ ৩১২-৩৩৮ পরিবেশ ও পরিবহণ ৩৩৯
+  Prompt: পাঠ্যাংশ: """ আবার একটা ট্রেন বিভিন্ন অঞ্চলের মধ্যে দিয়ে যেত । এভাবে নানান অঞ্চলের মানুষের মধ্যে মেলামেশা সহজ হয়ে এল ট
+
+#073 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0074 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ E ১. হাতের আঙুল যেন দৌড় শুরুর রেখার বেশি পিছনে না থাকে । """  প্রশ্ন / নির্দেশ: চতুর্থ শ্রেণির শিক্ষার্থী
+
+#074 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0075 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১৫: ক্ষেত্রফল ও পরিসীমা
+  Prompt: পাঠ্যাংশ: """ আমরা জানি, কোনো সমতল ক্ষেত্রের চারপাশের মোট দৈর্ঘ্যকে তার পরিসীমা বলে। আর ওই সমতল ক্ষেত্রটি যতটা জায়গা জুড়
+
+#075 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0076 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ২.৬ ‘ ছোটোদের পথের পাঁচালী ' কোন রীতিতে লেখা উপন্যাস । """  প্রশ্ন / নির্দেশ: অষ্টম শ্রেণির বাংলা পাঠ্যপুস
+
+#076 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0077 | Gr: 9 | Subj: English
+  Topic: Lesson ১১: A Shipwrecked Sailor (Daniel Defoe)
+  Prompt: পাঠ্যাংশ: """ When Mrs. Johnson saw another book coming into the house she was very angry . ' I told you I won't have an
+
+#077 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0078 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ২. ধীরে সামনে দৌড়োনো পা হাঁটু থেকে ভেঙে অল্প উপরে তুলে পায়ের পাতা সামনে ফেলে দৌড়োতে হবে । হাতের চলন ধীর
+
+#078 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0079 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ৯: সর্বসমতার ধারণা
+  Prompt: পাঠ্যাংশ: """  """  প্রশ্ন / নির্দেশ: সপ্তম শ্রেণির গণিত পাঠ্যবইয়ের "অধ্যায় ৯: সর্বসমতার ধারণা" শুরু করার পূর্বে শিক্ষা
+
+#079 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0080 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: প্রথম শ্রেণির 'পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।' এই পাঠটি পড়ানোর জন্য একটি ৩০ মিনিটের পাঠপরিকল্পনা 
+
+#080 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0081 | Gr: 9 | Subj: English
+  Topic: Lesson ৪: A Day in the Zoo (Gerald Durrell)
+  Prompt: নবম শ্রেণির ইংরেজি বিষয়ের 'Lesson ৪: A Day in the Zoo (Gerald Durrell)' পাঠটি পড়ানোর জন্য একটি ৪০ মিনিটের পাঠপরিকল্পনা ত
+
+#081 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0082 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ৯: সর্বসমতার ধারণা
+  Prompt: পাঠ্যাংশ: """ D ( iii ) B ৩০ ° ৩ সেমি . ৩ সেমি . ৪ সেমি .  ৩০ ° ৪ সেমি . C E A D ৪ সেমি . """  প্রশ্ন / নির্দেশ: সপ্তম শ
+
+#082 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0083 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ প্রচলিত লোকক্ৰীড়া দ্বিতীয় শ্রেণি কার্ড - ৪৯ তালে তালে সাত তালি খেলার উদ্দেশ্য : প্রতিবর্ত ক্রিয়া , প্রত
+
+#083 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0084 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ৩: সমানুপাত
+  Prompt: পাঠ্যাংশ: """ ৭. বিবেকানন্দ যুব পাঠাগার কোনো এক বছর ৭৪,৩৫০ টাকা সরকারি অনুদান পেল , ৪,৩৫০ টাকা চাঁদা আদায় করল এবং পুরোন
+
+#084 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0085 | Gr: 7 | Subj: English
+  Topic: Lesson ৩: We are Seven (William Wordsworth)
+  Prompt: পাঠ্যাংশ: """ In some of the adjectives , however , the last letter is repeated while adding ' er ' and ' est ' . This u
+
+#085 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0086 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: প্রথম শ্রেণির শারীরিক শিক্ষা বিষয়ের 'দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড' পাঠটি পড়ানোর জন্য একটি ৩৫ মিনিটের পাঠ
+
+#086 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0087 | Gr: 10 | Subj: Mathematics
+  Topic: অধ্যায় ১: একচলবিশিষ্ট দ্বিঘাত সমীকরণ
+  Prompt: পাঠ্যাংশ: """ i ) একটি প্রদত্ত ত্রিভুজের অন্তবৃত্ত অঙ্কন । iii ) একটি প্রদত্ত ত্রিভুজের বহির্ভূত্ত অঙ্কন । ( মূল্যায়নের
+
+#087 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0088 | Gr: 11 | Subj: Bengali
+  Topic: ৩৭ লালন ফকির
+  Prompt: পাঠ্যাংশ: """ মহাপঞ্চক । আগামী অমাবস্যায় - রাজা । না না , এখন তিথিনক্ষত্র দেখবার সময় নেই । বিপদ আসন্ন । সংকটের সময় আম
+
+#088 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0089 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ নির্মল বিদ্যালয় চতুর্থ শ্রেণি কার্ড - ৪৭ বিদ্যালয়ের পরিকাঠামোগত পরিবেশ ১ ) সীমানা পাঁচিল বা বেড়া দিয়ে 
+
+#089 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0090 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আবৃত্ত দশমিক সংখ্যা
+  Prompt: পাঠ্যাংশ: """ ৫. নীচের সংখ্যাগুলির গ.সা.গু. -এর মান কি হবে খুঁজি । ( a ) ২৪ , ৩৬ , ৫৪ ( d ) ১৬০ , ১৬৫,৩০৫ ( b ) ২৪ , ৩০ 
+
+#090 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0091 | Gr: 11 | Subj: General
+  Topic: প্রথম অধ্যায় নৃতাত্ত্বিক পর্যায় নিরূপণের উপায়
+  Prompt: পাঠ্যাংশ: """ ‘ বাঙালির নৃতাত্ত্বিক পরিচয় ' অংশে বলা হয়েছে নৃতাত্ত্বিকদের মতে ভারতীয় জনসমূহের প্রাচীনতম স্তর নিগ্রোবট
+
+#091 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0092 | Gr: 5 | Subj: English
+  Topic: ১০ A Great Social Reformer
+  Prompt: পঞ্চম শ্রেণির ইংরেজি বিষয়ের '১০ A Great Social Reformer' অধ্যায়টির উপর একটি কুইজ তৈরি করে দিন। কুইজটিতে ৫টি শূন্যস্থান প
+
+#092 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0093 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ বাড়ির বাইরে থেকে এলে অবশ্যই হাত - পা সাবান দিয়ে ধুয়ে ঘরে ঢোকার অভ্যাস স্বাস্থ্যের পক্ষে ভালো । খাবার আগ
+
+#093 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0094 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ১১: শতকরা
+  Prompt: পাঠ্যাংশ: """ ১১. AABC এর ZABC ও ZACB এর অন্তঃসমদ্বিখণ্ডকদ্বয় O বিন্দুতে মিলিত হয় । প্রমাণ করি যে , ১ ZBOC = ৯০ ° + ZB
+
+#094 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0095 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ স্যার বললেন— হ্যাঁ , তবে জলাভূমি বলাই ভালো । আসলে ওটা হয়তো বুজে যাওয়া বিশাল দিঘি কিংবা বাঁওড় । আবার মরা
+
+#095 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0096 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ১২: মিশ্রণ
+  Prompt: পাঠ্যাংশ: """ ১০. একটি পৌরসভা পানীয় জল সংরক্ষণের জন্য একটি জলাধার নির্মাণ করে তাতে পাম্প যুক্ত করেছে । পাম্পগুলি আলাদা 
+
+#096 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0097 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: পাঠ্যাংশ: """ ৩৭৫ mm m ww we গাছ । গাছবীজ ৩৭৬ এই দেখো গাছ । কত কিছু নিয়ে ওর শরীর । মাটির নীচে শিকড় বা মূল ৷ আর মাটির ও
+
+#097 [PAGE] | ID: wbbse_tb_sft_300_b2_final_0098 | Gr: 5 | Subj: English
+  Topic: Page ১২১ Teachers ' Guidelines
+  Prompt: পাঠ্যাংশ: """ Lesson ৩ : - Phulmani's India A list of questions is provided for the warm - up task . The teacher may add
+
+#098 [RANGE,TRAIL_NUM,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0099 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ , খনিজ ও শক্তি সম্পদ ৩১২-৩৩৮ পরিবেশ ও পরিবহণ ৩৩৯
+  Prompt: পাঠ্যাংশ: """ স্যার বললেন ট্রেনের দু - দিকের চাকার ভিতর দিকে খাঁজ থাকে । কোনোদিকেই লাইন থেকে সরতে পারে না । সুযোগ পেলে এ
+
+#099 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0100 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ সামর্থ্য ( ১ ) অঙ্গসঞ্চালনের মাধ্যমে শারীরিক ক্রিয়াকলাপ । ( ২ ) জীবনবোধের শিক্ষা , মূল্যবোধের শিক্ষা । ( 
+
+#100 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0101 | Gr: 10 | Subj: Mathematics
+  Topic: অধ্যায় ১: একচলবিশিষ্ট দ্বিঘাত সমীকরণ
+  Prompt: পাঠ্যাংশ: """ ২ ৬. রাশিবিজ্ঞান : গড় , মধ্যমা , ওজাইভ , সংখ্যাগুরুমান i ) মধ্যমগামিতা মাপকসমূহের ধারণা । """  প্রশ্ন / ন
+
+#101 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0102 | Gr: 10 | Subj: English
+  Topic: Lesson ৫: Our Runaway Kite (Lucy Maud Montgomery)
+  Prompt: পাঠ্যাংশ: """ ১০. Join the following pairs of sentences into single sentences as directed : ( a ) I saw a snake . I ran 
+
+#102 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0103 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ( গ ) বৃত্তের কেন্দ্রে মুখ করে বড়ো গাছের মতো উঁচু হয়ে পায়ের গোড়ালি তুলে দাঁড়াতে হবে এবং বাতাসে গাছের 
+
+#103 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0104 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৬: দ্বি-স্তম্ভ লেখ
+  Prompt: পাঠ্যাংশ: """ ৪ iii ) দুটি সংখ্যার একটি অপরটির তিনগুণ । ছোটোটির সঙ্গে ১০ যোগ করলে যোগফল দ্বিতীয়টির ২ গুণ হয় । হিসাব কর
+
+#104 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0105 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ ২. টিয়া ও কাকাতুয়া খেলা শুরু করার আগে অংশগ্রহণকারী খেলোয়াড়দের সমান দুটি দলে ভাগ করে একটি দলের ‘ টিয়া 
+
+#105 [RANGE,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0106 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১৬-২১: কোণ, ত্রিভুজ ও চতুর্ভুজ অঙ্কন, সমীকরণ গঠন
+  Prompt: পাঠ্যাংশ: """ ৩. এখন আমার বয়স ১১ বছর ৭ মাস ১০ দিন । হিসাব করে দেখি আর কত বছর পরে আমি ভোট দেওয়ার অধিকার পাব । কষে দেখি 
+
+#106 [PAGE] | ID: wbbse_tb_sft_300_b2_final_0107 | Gr: 5 | Subj: Bengali
+  Topic: গান রবীন্দ্রনাথ ঠাকুর পৃষ্ঠা —২৯
+  Prompt: পাঠ্যাংশ: """ ৬.১ ‘ বোকা কুমিরের কথা ' গল্পটি পড়ে কুমিরটিকে আমার মনে হয়েছে , সে ৬.২ গল্পের শিয়ালটি আসলে খুব বার ঠকেছে
+
+#107 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0108 | Gr: 11 | Subj: English
+  Topic: C ONTENTS English For Specific Purpose Project : Methodology & Application
+  Prompt: পাঠ্যাংশ: """ In fine , the main objectives of writing a classified are as follows : First of all , it must appeal to th
+
+#108 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0109 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ এই রোগ কতদিনে সারে ? বছরখানেক হাসপাতালে DOT চিকিৎসা করাতে হয় । তাহলে এখন পুরো সেরে যায় । ষাট - সত্তর বছর
+
+#109 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0110 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ খেলতে খেলতে শেখা দ্বিতীয় শ্রেণি কার্ড – ২৩ - উদ্দেশ্য : পেশির সক্ষমতা বৃদ্ধি ও সৃজনাত্মক দক্ষতাবৃদ্ধি জল 
+
+#110 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0111 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৩: সমান্তরাল সরলরেখা ও ছেদক
+  Prompt: সপ্তম শ্রেণির গণিত বিষয়ের 'অধ্যায় ১৩: সমান্তরাল সরলরেখা ও ছেদক' অধ্যায় থেকে শিক্ষার্থীদের অনুশীলনের জন্য ৫টি গাণিতিক 
+
+#111 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0112 | Gr: 1 | Subj: General
+  Topic: পাঠে ‘ ঋ ’ - কার দেওয়া কথাগুলি বেছে নিয়ে লেখো : ৫ . ২ . ৩ . ৮ . ৫ . ৭ . ৮ . ৯ . ১০ . ১১ . ১২ . ১৩ . ১৪ . ১৫ .
+  Prompt: পাঠ্যাংশ: """ """  প্রশ্ন / নির্দেশ: প্রথম শ্রেণির শিক্ষার্থীদের জন্য ‘ঋ’-কার যুক্ত শব্দ চিহ্নিতকরণের এই অনুশীলনে পাঠ্যা
+
+#112 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0113 | Gr: 8 | Subj: English
+  Topic: Lesson ১১: Midnight Express (Alfred Noyes)
+  Prompt: পাঠ্যাংশ: """ wee ( ii ) stirring ( iii ) busy ( iv ) dewdrops : Let's talk : The dawn and the sunset both look beautifu
+
+#113 [RANGE,TRAIL_NUM,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0114 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ , খনিজ ও শক্তি সম্পদ ৩১২-৩৩৮ পরিবেশ ও পরিবহণ ৩৩৯
+  Prompt: পাঠ্যাংশ: """  মুজিবর বলল— তার দরকার নেই । একটা তার দিয়ে চাঁদের কক্ষপথটা করে নেব । তুই কাল টায়ারটা নিয়ে আসবি । আমি তা
+
+#114 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0115 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ হাঁচব , কাশব কাপড়ে মুখ ঢাকব । অন্যকে রোগ দেবো না অন্যের রোগ নেব না । স্বাস্থ্যবিধান দিচ্ছে ডাক । রোগজীবাণ
+
+#115 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0116 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আসন্ন মান
+  Prompt: পাঠ্যাংশ: """ ৮. -কে সবচেয়ে ছোটো কোন ধনাত্মক পূর্ণসংখ্যা দিয়ে গুণ করলে গুণফলটি একটি পূর্ণবর্গ সংখ্যা হবে তা নির্ণয় কর
+
+#116 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0117 | Gr: 6 | Subj: English
+  Topic: Lesson ৪: The Shop that Never Was (H. G. Wells)
+  Prompt: পাঠ্যাংশ: """ In the above sentences , the coloured words help to form tenses , questions and to explain the sense of th
+
+#117 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0118 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ১০ ) এছাড়া Dr. William Bet পদ্ধতি পালনের মাধ্যমে চোখের স্বাস্থ্য বজায় রাখা যায় : i ) চোখের পাতা তাড়াতা
+
+#118 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0119 | Gr: 9 | Subj: Mathematics
+  Topic: অধ্যায় ১: বাস্তব সংখ্যা
+  Prompt: পাঠ্যাংশ: """ """  প্রশ্ন / নির্দেশ: নবম শ্রেণির 'বাস্তব সংখ্যা' অধ্যায়ের জন্য একটি অনুশীলন পত্র (worksheet) তৈরির উদ্দে
+
+#119 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0120 | Gr: 8 | Subj: Bengali
+  Topic: তৃতীয় পাঠ: সবুজ জামা (বীরেন্দ্র চট্টোপাধ্যায়) ও চিঠি (স্বামী বিবেকানন্দ)
+  Prompt: অষ্টম শ্রেণির বাংলা পাঠ্যবইয়ের 'তৃতীয় পাঠ: সবুজ জামা (বীরেন্দ্র চট্টোপাধ্যায়) ও চিঠি (স্বামী বিবেকানন্দ)' এই দুটি রচনা 
+
+#120 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0121 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ৫: ঘনফল নির্ণয়
+  Prompt: পাঠ্যাংশ: """ b + a = ১ হলে ( a + b ) -এর মান কী হবে হিসাব করে লিখি । """  প্রশ্ন / নির্দেশ: অষ্টম শ্রেণির গণিত বইয়ের 'অ
+
+#121 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0122 | Gr: 10 | Subj: English
+  Topic: Lesson ৩: The Passing Away of Bapu (Nayantara Sehgal)
+  Prompt: পাঠ্যাংশ: """ ১১. Fill in the blanks with appropriate articles and prepositions : Arifa , the younger older one is the t
+
+#122 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0123 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ৭: বিপ্রতীপ কোণের ধারণা
+  Prompt: পাঠ্যাংশ: """ ১০. দুটি সরলরেখাংশ PQ এবং RS পরস্পরকে X বিন্দুতে এমনভাবে ছেদ করে যাতে XP = XR এবং ZPSX = ZRQX হয় । প্রমাণ
+
+#123 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0124 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ৫. প্রধান শিক্ষক / প্রধান শিক্ষিকাসহ শিক্ষক - শিক্ষিকা বিদ্যালয় সম্পর্কিত নির্দেশ দেবেন । পালনীয় দিনের ত
+
+#124 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0125 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ৭: কম্পাসের সাহায্যে বিভিন্ন কোণ অঙ্কন
+  Prompt: পাঠ্যাংশ: """ ১১. ( ৫ + ৯x ) এবং ( ৬-৭x + ৪x২ ) এর যোগফল থেকে ( x২-৯x ) এবং ( -২x২ + ৩x + ৫ ) এর যোগফল বিয়োগ করি । """ 
+
+#125 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0126 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ * বিভিন্ন পচনশীল ও অপচনশীল বর্জ্য বিষয়ে পড়ুয়াদের জানানো ও বর্জ্য নির্ধারিত জায়গায় ফেলার ব্যাপারে সচেত
+
+#126 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0127 | Gr: 9 | Subj: Bengali
+  Topic: পঞ্চম পাঠ: আবহমান (নীরেন্দ্রনাথ চক্রবর্তী) ও চিঠি (স্বামী বিবেকানন্দ)
+  Prompt: আমি ভেবেছিলাম মিস ম্যাকলাউড স্বামী বিবেকানন্দের কোনো আত্মীয় ছিলেন, কারণ স্বামীজি তাঁকে 'জো' বলে ডাকতেন। আমার এই ধারণাটা
+
+#127 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0128 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আবৃত্ত দশমিক সংখ্যা
+  Prompt: পাঠ্যাংশ: """ ১৯. দুটি সংখ্যার যোগফল ৩৮৪ এবং সংখ্যা দুটির গ.সা.গু. ৪৮ ; সংখ্যা দুটি কী কী হতে পারে হিসাব করি । """  প্রশ
+
+#128 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0129 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: আমি ভেবেছিলাম মাছ তো শুধু জলেই থাকে। কিন্তু আমাদের পাঠে 'আছে মাছ' বলা হয়েছে। তাহলে কি বনেও মাছ থাকতে পারে? আমার এই ধারণা
+
+#129 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0130 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ৮: মেট্রিক পদ্ধতি
+  Prompt: পাঠ্যাংশ: """ অধ্যায় : ৯ ৪. আমাদের চ্যাটার্জি পাড়ার লাইব্রেরিতে ২১০০ টি গল্পের বই আছে । যত গল্পের বই আছে তার ৩০ % গল্প
+
+#130 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0131 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ৪ ) দুটি হাত শরীরের দুই পাশে দেহের সঙ্গে প্যান্টের সেলাই - লাইনের বরাবর সোজা করে রাখতে হবে । ৫ ) হাত দুটি 
+
+#131 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0132 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ৮: সমান্তরাল সরলরেখা ও ছেদকের ধর্ম
+  Prompt: পাঠ্যাংশ: """ ১৬. এই বছরে নন্দলাল উচ্চমাধ্যমিক বিদ্যালয়ের পরিক্ষার্থীদের ৮৫ % বাংলায় , ৭০ % অঙ্কে এবং ৬৫ % উভয় বিষয়ে
+
+#132 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0133 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: আমি ভেবেছিলাম সমতল ভূমিতে শুধু মিহি পলি মাটিই থাকে, বালি বা নুড়ি-পাথর থাকে না। কিন্তু তরাই অঞ্চলের মাটিতে নাকি বালি আর ন
+
+#133 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0134 | Gr: 10 | Subj: Bengali
+  Topic: পঞ্চম পাঠ: পথের দাবী (শরৎচন্দ্র চট্টোপাধ্যায়) ও অদল বদল (পান্নালাল প্যাটেল)
+  Prompt: আমি ভেবেছিলাম পান্নালাল প্যাটেলের 'অদল বদল' গল্পটি কেবল দুই বন্ধুর পোশাক অদল বদল এবং তাদের মারামারি নিয়েই লেখা। কিন্তু আ
+
+#134 [RANGE,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0135 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৭-১৯: ত্রিভুজ ও চতুর্ভুজের পরিসীমা ও ক্ষেত্রফল, প্রতিসাম্য, সমীকরণ গঠন ও সমাধান
+  Prompt: পাঠ্যাংশ: """ d ) তিনটি সরলরেখাংশের দৈর্ঘ্য লেখো যাদের দ্বারা ত্রিভুজ আঁকা সম্ভব । """  প্রশ্ন / নির্দেশ: এই পাঠ্যাংশে ত
+
+#135 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0136 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ প্রথম বন্ধু অমনি তখন গাছে পড়ল উঠে ! বেঁটে বন্ধু পারলো নাকো চড়তে কোনো গাছে ভালুক তখন লোভী চোখে এসে গেছে ক
+
+#136 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0137 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: আমি ভেবেছিলাম '১। বনে অনেক' মানে অনেকগুলো বন আছে। কিন্তু আমার দিদিমণি বললেন এর পরে 'গাছ' বা 'পশু' এমন কিছু লিখতে হবে। আম
+
+#137 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0138 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ৯: সর্বসমতার ধারণা
+  Prompt: পাঠ্যাংশ: """ ৪১৫৯.২৫১ - এর দুই দশমিক স্থান পর্যন্ত আসন্নমান কী হবে ? """  প্রশ্ন / নির্দেশ: উপরের পাঠ্যাংশে দেওয়া সংখ্য
+
+#138 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0139 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ১৫: বীজগাণিতিক সংখ্যামালার সরলীকরণ
+  Prompt: পাঠ্যাংশ: """ বীজগাণিতিক সংখ্যামালার সরলীকরণের একটি উদাহরণ নিচে দেওয়া হলো: (x + ২)(x - ৩) = x(x - ৩) + ২(x - ৩) = x² - 
+
+#139 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0140 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ শ্রেণিকে জিজ্ঞেস করুন পুষ্টিপতাকায় কী কী রং আছে । উত্তর পাওয়ার পর সেই অনুযায়ী শ্রেণিকে তিনটি দলে ভাগ কর
+
+#140 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0141 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ৭: দশমিক ভগ্নাংশের ধারণা
+  Prompt: পাঠ্যাংশ: """ দশমিক ভগ্নাংশ হলো এমন এক ধরনের ভগ্নাংশ যার হর ১০, ১০০, ১০০০ ইত্যাদি হয়। যেমন, ০.১ মানে ১/১০, ০.০৫ মানে ৫/১
+
+#141 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0142 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পশ্চিমবঙ্গ প্রাথমিক শিক্ষা পর্ষদের দ্বিতীয় শ্রেণির স্বাস্থ্য ও শারীরশিক্ষা বিষয়ের 'দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড' প
+
+#142 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0143 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ৫: সূচকের ধারণা
+  Prompt: পাঠ্যাংশ: """ যদি লিফটটি ভূমির ২০ মিটার উঁচুথেকে ভূমির নীচে যেত তাহলে , ৩০ মিনিট পরে লিফটটির অবস্থান হতো { ( -১৮০ ) +২০ 
+
+#143 [PAGE] | ID: wbbse_tb_sft_300_b2_final_0144 | Gr: 5 | Subj: English
+  Topic: The Clever Monkey Page ৬২ Lesson
+  Prompt: পাঠ্যাংশ: """ ACTIVITY 4 Provide information from the passage . Work in groups : ( 1 ) The four fast bowlers of West Ind
+
+#144 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0145 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ কদমতাল ( পায়ে তাল রাখো ) সাবধান অবস্থানে কদমতালের আদেশ দেওয়া হয় । এই আদেশ দেওয়ার সঙ্গে সঙ্গে— ১ ) বাঁ 
+
+#145 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0146 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ৩: সংখ্যাতত্ত্বের ধারণা ও রোমান সংখ্যা
+  Prompt: ষষ্ঠ শ্রেণির গণিত বিষয়ের 'অধ্যায় ৩: সংখ্যাতত্ত্বের ধারণা ও রোমান সংখ্যা' পাঠটি পড়ানোর জন্য একটি ৪৫ মিনিটের পাঠপরিকল্পন
+
+#146 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0147 | Gr: 8 | Subj: English
+  Topic: Lesson ৪: The Great Escape (Sugata Bose)
+  Prompt: পাঠ্যাংশ: """ Let's do : Activity ১ Tick the correct alternative : ( i ) When the warm sun has returned again , it is ni
+
+#147 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0148 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ৭: কম্পাসের সাহায্যে বিভিন্ন কোণ অঙ্কন
+  Prompt: পাঠ্যাংশ: """ ৮. -৮x২ + ৮x + ১- এর সাথে কত যোগ করলে -১৪x২ + ১১x - ৩ পাব হিসাব করি । """  প্রশ্ন / নির্দেশ: সপ্তম শ্রেণির
+
+#148 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0149 | Gr: 11 | Subj: English
+  Topic: ৭ O. Henry
+  Prompt: পাঠ্যাংশ: """ Mr Ralph Spencer , the phoenix that arose from Jimmy Valentine's ashes- ashes left by the flame of a sudde
+
+#149 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0150 | Gr: 7 | Subj: Bengali
+  Topic: ষষ্ঠ পাঠ: নোটবই (সুকুমার রায়) ও লালুর পাঠশালা (শরৎচন্দ্র চট্টোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ ৮.১ ‘ আমি দু - নম্বর ব্যাট ’ , ভার্ন বলে । """  প্রশ্ন / নির্দেশ: লালুর পাঠশালা গল্পে ভার্ন কেন নিজেকে ‘দু
+
+#150 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0151 | Gr: 11 | Subj: English
+  Topic: ৩৬ William Blake
+  Prompt: পাঠ্যাংশ: """ A cursory look at our educational scene will reveal that , while this country's cultural life has fanned o
+
+#151 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0152 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ মুনিরাম মুনশি : দু - হাত দিয়ে গোঁফ পাকিয়ে দু - হাত উপরে তুলতে হবে । কোমরেতে ঘুনসি : বাঁদিকে কোমরে ঘুনসি 
+
+#152 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0153 | Gr: 8 | Subj: Bengali
+  Topic: তৃতীয় অধ্যায়: পদ পরিবর্তন ও সমাস
+  Prompt: পাঠ্যাংশ: """ ১. নির্দেশক ভাব : যখন কোনো ক্রিয়ার মাধ্যমে কোনো কাজ হওয়া বা না হওয়া বোঝায় , এমনকি কোনো প্রশ্ন বা বিস্ম
+
+#153 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0154 | Gr: 6 | Subj: English
+  Topic: Lesson ৮: Goodbye to the Moon (Monica Hughes)
+  Prompt: পাঠ্যাংশ: """ Activity ৯ ( a ) Replace the underlined words with their antonyms : ( i ) I helped a poor girl yesterday .
+
+#154 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0155 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ মোদের বাংলা ভূমির মাটি তোমার শহর গ্রাম ও বাটি সযতনে সবাই মোরা রাখব পরিপাটি । করব পানার নির্বাসন ছেঁটে গাছে
+
+#155 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0156 | Gr: 10 | Subj: English
+  Topic: Lesson ৫: Our Runaway Kite (Lucy Maud Montgomery)
+  Prompt: পাঠ্যাংশ: """ ১. Being sad , men and women collected around Birla House . ( participle ) 2. Gandhiji , Father of the nat
+
+#156 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0157 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ কুচকাওয়াজ তৃতীয় শ্রেণি কার্ড – ২৬ - পিছনে ফেরো ( পিছে মুড় ) সাবধান অবস্থান থেকেই পিছনে ফিরতে হয় । বাংল
+
+#157 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0158 | Gr: 5 | Subj: English
+  Topic: ১০ A Great Social Reformer
+  Prompt: পাঠ্যাংশ: """ ACTIVITY 2 Write T for true and F for false statements in the given boxes : ( a ) The space shuttle was na
+
+#158 [RANGE,TRAIL_NUM,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0159 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ , খনিজ ও শক্তি সম্পদ ৩১২-৩৩৮ পরিবেশ ও পরিবহণ ৩৩৯
+  Prompt: পাঠ্যাংশ: """ মনসুর বলল — A বিন্দুতে থাকলে সূর্য দেখা যাবে । তখন দিন । চাঁদ কীভাবে দেখব ? সাগিনা বলল তাই তো । চন্দ্রগ্রহ
+
+#159 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0160 | Gr: 7 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: ক্রিয়ার কাল
+  Prompt: পাঠ্যাংশ: """ ভালোমন্দ , হাসিকান্না , শত্রুমিত্র , ভূতভবিষ্যৎ , যাওয়াআসা , অল্পবিস্তর ইত্যাদি । আজ রাতের খাওয়ায় ভালোম
+
+#160 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0161 | Gr: 1 | Subj: General
+  Topic: প্রথম পাঠ বনে থাকে বাঘ । গাছে থাকে পাখি । জলে থাকে মাছ । ডালে আছে ফল । পাখি ফল খায় ।
+  Prompt: পাঠ্যাংশ: """ প্ৰথম ভাগ তিন মাত্রা , যথা কাল ছিল ডাল । খালি আজ ফুলে যায় । ভ'রে— ।  তিন মাত্রার তালে পড়লেই ভালো হয় । "
+
+#161 [STRUCT] | ID: wbbse_tb_sft_300_b2_final_0162 | Gr: 4 | Subj: English
+  Topic: Lesson ৪ The Hero On your mark
+  Prompt: পাঠ্যাংশ: """ ৩. I quietly took a place among the crowd . """  প্রশ্ন / নির্দেশ: উপরের বাক্যটিতে 'quietly' শব্দটি একটি a
+
+#162 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0163 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ১. বাস্তব পরিস্থিতি না বুঝে বড়ো বড়ো কথা ( স্পর্ধিত উক্তি ) সবাই বলে । """  প্রশ্ন / নির্দেশ: উপরের পাঠ্য
+
+#163 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0164 | Gr: 6 | Subj: English
+  Topic: Lesson ৮: Goodbye to the Moon (Monica Hughes)
+  Prompt: পাঠ্যাংশ: """ Activity ৮ ( b ) Use the words to make sentences in the form of a question : ( i ) are , where , going , y
+
+#164 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0165 | Gr: 8 | Subj: Bengali
+  Topic: চতুর্থ অধ্যায়: ক্রিয়ার কাল ও প্রকার
+  Prompt: পাঠ্যাংশ: """ যে দুটি পদের সমাস হবে সেই দুটি পদের একই বিভক্তি হলে , সমানাধিকরণ [ সমান + অধিকরণ ( = বিভক্তি ) = সমানাধিকর
+
+#165 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0166 | Gr: 7 | Subj: English
+  Topic: Lesson ১৩: Ghosts on the Verandah (Ruskin Bond)
+  Prompt: পাঠ্যাংশ: """ The animal remembered with gratitude its saviour. """  প্রশ্ন / নির্দেশ: এই বাক্যটির Voice Change করলে কী 
+
+#166 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0167 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ৯। কাজের বেলায় কাজি , কাজ ফুরোলে পাজি । ( কাজ করিয়ে পারিশ্রমিক থেকে বঞ্চিত করা এবং দুর্নাম করা । ) ১০। দ
+
+#167 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0168 | Gr: 8 | Subj: English
+  Topic: Lesson ৫: Princess September (W. Somerset Maugham)
+  Prompt: পাঠ্যাংশ: """ Activity ১০ ( b ) Write a summary of the following passage : Mahatma Gandhi was very honest from his child
+
+#168 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0169 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আসন্ন মান
+  Prompt: পাঠ্যাংশ: """ ১. একটি বর্গক্ষেত্রের ক্ষেত্রফল ১০৮৯ ৬২৫ হবে হিসাব করি । """  প্রশ্ন / নির্দেশ: এই অঙ্কটিতে বর্গক্ষেত্রের 
+
+#169 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0170 | Gr: 9 | Subj: Bengali
+  Topic: স্বর্ণপর্ণী
+  Prompt: পাঠ্যাংশ: """ এই অভিযান সম্ভব হয়েছে যন্ত্রের নির্দেশে । আমি নিজে যন্ত্র । এই আমাদের শেষ অভিযান । """  প্রশ্ন / নির্দেশ:
+
+#170 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0171 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৬: দ্বি-স্তম্ভ লেখ
+  Prompt: পাঠ্যাংশ: """ নির্ণেয় সংখ্যাটি ৪০ কষে দেখি— ২২.৪ গল্প পড়ে সমীকরণ তৈরি করি ও সমাধান করি : """  প্রশ্ন / নির্দেশ: আমি সপ
+
+#171 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0172 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ৩. এভাবে বসে ( নিষ্কর্মা হওয়া ) থাকলেই দিন চলবে ? """  প্রশ্ন / নির্দেশ: এই পাঠ্যাংশে 'বসে থাকা' বাগধারাট
+
+#172 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0173 | Gr: 9 | Subj: Mathematics
+  Topic: অধ্যায় ১: বাস্তব সংখ্যা
+  Prompt: পাঠ্যাংশ: """ ৭. বহুপদী সংখ্যামালা : ( i ) এক বা একের বেশি চলবিশিষ্ট বহুপদী সংখ্যামালার ধারণা । ( ii ) বহুপদী সংখ্যামালা
+
+#173 [RANGE,TRAIL_NUM,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0174 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ , খনিজ ও শক্তি সম্পদ ৩১২-৩৩৮ পরিবেশ ও পরিবহণ ৩৩৯
+  Prompt: পাঠ্যাংশ: """ অজিত বলল - চওড়া পিচ রাস্তাটা পশ্চিমে আর উত্তরে । খালটা গেছে পূর্ব দিক দিয়ে । """  প্রশ্ন / নির্দেশ: এই প
+
+#174 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0175 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ৭: দশমিক ভগ্নাংশের ধারণা
+  Prompt: পাঠ্যাংশ: """ ১৫০ টাকার ½ অংশ থেকে কত টাকা নিলে ৩০ টাকা পড়ে থাকবে । """  প্রশ্ন / নির্দেশ: আমি এই সমস্যাটি সমাধান করার 
+
+#175 [PAGE,TRAIL_NUM] | ID: wbbse_tb_sft_300_b2_final_0176 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ ও বনভূমি পৃষ্ঠা ১
+  Prompt: পাঠ্যাংশ: """ নীচের জল তুললে বৃষ্টির জল আবার ঢুকে যাবে ? —সেটা সহজে হবে না । এসব হতে বহু বছর লাগে । অনেক নীচের স্তরে বৃষ
+
+#176 [RANGE,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0177 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৭-১৯: ত্রিভুজ ও চতুর্ভুজের পরিসীমা ও ক্ষেত্রফল, প্রতিসাম্য, সমীকরণ গঠন ও সমাধান
+  Prompt: একটি আয়তাকার পার্কের দৈর্ঘ্য তার প্রস্থের ৩ গুণ অপেক্ষা ১০ মিটার কম। যদি পার্কটির পরিসীমা ২২০ মিটার হয়, তাহলে পার্কটির
+
+#177 [RANGE,TRAIL_NUM,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0178 | Gr: 5 | Subj: Environmental Science
+  Topic: পরিবেশ , খনিজ ও শক্তি সম্পদ ৩১২-৩৩৮ পরিবেশ ও পরিবহণ ৩৩৯
+  Prompt: পাঠ্যাংশ: """ মুখ্য জোয়ারের মূল কারণ চাঁদের আকর্ষণ । আর গৌণ জোয়ারের মূল কারণ পৃথিবীর ঘূর্ণন । দিদি বললেন— পৃথিবীর যে দ
+
+#178 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0179 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ পদ্ধতি ১. একটা বুড়ো আঙুল নড়ে— প্রথমে বাঁ হাত মাথার উপর উঁচু করে তুলে বুড়ো আঙুল বের করে আঙুলের গিঁট ভেঙে
+
+#179 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0180 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১৫: ক্ষেত্রফল ও পরিসীমা
+  Prompt: পাঠ্যাংশ: """ ৪. আঁটলা গ্রামের সফিকুলচাচা তার জমিতে লাগাবার জন্য ৭৮০ টি পেঁপের চারা এনেছেন । ঠিক করেছেন যে যতগুলি সারিতে
+
+#180 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0181 | Gr: 7 | Subj: Bengali
+  Topic: চতুর্থ পাঠ: কুতুব মিনারের কথা (সৈয়দ মুজতবা আলী) ও মেঘচোর (শীর্ষেন্দু মুখোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ ১১.৩ ‘ মেঘ - চোর ' কাকে বলা হয়েছে ? """  প্রশ্ন / নির্দেশ: আমার বাংলা বইয়ের 'মেঘচোর' গল্প থেকে এই প্রশ্ন
+
+#181 [PAGE] | ID: wbbse_tb_sft_300_b2_final_0182 | Gr: 5 | Subj: English
+  Topic: The Clever Monkey Page ৬২ Lesson
+  Prompt: পাঠ্যাংশ: """ ACTIVITY 2 Write T for true and F for false statements in the given boxes : ( a ) The author went to Bally
+
+#182 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0183 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ২. সাগরদিঘির ধার দিয়ে পাকা ( কংক্রিট ) রাস্তা ধরে সোজা হাঁটলেই তোমার চরে পৌঁছাবে । ৩. বয়স অল্প হলেও ছেলে
+
+#183 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0184 | Gr: 8 | Subj: English
+  Topic: Lesson ১১: Midnight Express (Alfred Noyes)
+  Prompt: পাঠ্যাংশ: """ Activity 8 ( a ) Suppose you spent a moonlit night in a forest guest house . Write a paragraph of about ei
+
+#184 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0185 | Gr: 9 | Subj: English
+  Topic: Lesson ৩: Autumn (John Clare)
+  Prompt: পাঠ্যাংশ: """ Exercise 8 Tick the correct alternative given in the brackets : ( a ) It ( rains has been raining / is rai
+
+#185 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0186 | Gr: 8 | Subj: Bengali
+  Topic: পথের পাঁচালি (সহায়ক পাঠ - বিভূতিভূষণ বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ আজ কিন্তু তাহার মনে হইল এ মোহনভোগে আর মায়ের তৈয়ারি মোহনভোগে আকাশ - পাতাল তফাত ! ... সঙ্গে সঙ্গে মায়ের উ
+
+#186 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0187 | Gr: 10 | Subj: Bengali
+  Topic: কোনি (সহায়ক পাঠ - মতি নন্দী)
+  Prompt: পাঠ্যাংশ: """ “ আজ পর্যন্ত কেউ টি বি রুগী হয়েছে সাঁতার কেটে , এমন কথা শুনিনি । আসলে এটা অলস ফাঁকিবাজদের , যাদের উচ্চাকা
+
+#187 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0188 | Gr: 6 | Subj: Bengali
+  Topic: ষষ্ঠ অধ্যায়: বিপরীত শব্দ, প্রতিশব্দ ও পত্রলিখন
+  Prompt: পাঠ্যাংশ: """ তাহলে সঙ্গে , পাশে , মধ্যে এরকম অনুসর্গগুলির পরেও কিন্তু শব্দবিভক্তি লাগানো যাচ্ছে । • বিভক্তিগুলির যেমন দ
+
+#188 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0189 | Gr: 6 | Subj: English
+  Topic: Lesson ৮: Goodbye to the Moon (Monica Hughes)
+  Prompt: পাঠ্যাংশ: """ Activity 9 ( b ) Make meaningful sentences of your own with the following words : flashed present : messag
+
+#189 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0190 | Gr: 8 | Subj: English
+  Topic: Lesson ১১: Midnight Express (Alfred Noyes)
+  Prompt: পাঠ্যাংশ: """ Activity 6 ( a ) Fill in the blanks with the correct form of the given verbs in brackets : ( i ) The Mayor
+
+#190 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0191 | Gr: 9 | Subj: Bengali
+  Topic: ব্যোমযাত্রীর ডায়রি (প্রোফেসর শঙ্কু - সত্যজিৎ রায়)
+  Prompt: প্রোফেসর শঙ্কুর 'ব্যোমযাত্রীর ডায়রি' গল্পে তিনি মহাকাশের প্রতি যে এক অদ্ভুত আকর্ষণের কথা বলেছেন, যাকে তিনি মাধ্যাকর্ষণে
+
+#191 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0192 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ সেবামূলক ভালো কাজ ( গুড টার্ন ) ... এটি প্রত্যেক শিক্ষার্থীর অবশ্য করণীয় কাজ । এটা সাধারণ , সহজ , কিন্তু 
+
+#192 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0193 | Gr: 8 | Subj: Bengali
+  Topic: পথের পাঁচালি (সহায়ক পাঠ - বিভূতিভূষণ বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ দুর্গা বলিল – মজুমদারেরা বড়োলোক ছিল তো মা ? ওদের ভিটের জঙ্গলে কারা নাকি মোহর কুড়িয়ে পেয়েছিল । এটা একেব
+
+#193 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0194 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ পদ্ধতি : ১ . প্রথমে বাবু হয়ে বসে এরপর দু - পা সামনের দিকে সমানভাবে ছড়িয়ে মাটিতে বসতে হয় । তারপর ডান - 
+
+#194 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0195 | Gr: 6 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: বিশেষ্য, বিশেষণ, সর্বনাম, অব্যয়, ক্রিয়া
+  Prompt: পাঠ্যাংশ: """ ৬.৩ আড়াই কিলো ময়দায় দুপোয়া ঘি মেখে এক লিটার জল দিয়ে আধ ঘণ্টা রেখে লেচি পাকিয়ে প্রয়োজন মতো দুটো চারট
+
+#195 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0196 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ৫. ডাক্তারবাবুর হাত যশে ( দক্ষতার জন্য খ্যাতি ) বিধবার একমাত্র সন্তান এ যাত্রা মৃত্যুমুখ থেকে ফিরে এল । ৬ 
+
+#196 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0197 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ সারাজীবনে একজন মানুষের দরকার হয় এক চামচ আয়োডিন । একজনের সারাদিনে এক চিমটি আয়োডিনযুক্ত লবণ প্রয়োজন । ""
+
+#197 [STRUCT] | ID: wbbse_tb_sft_300_b2_final_0198 | Gr: 4 | Subj: English
+  Topic: Lesson ৮ Sisters On your mark ১. What are the things that you see on the stage as shown in the picture ?
+  Prompt: পাঠ্যাংশ: """ ১. Bikash has been gone for six months 2. She makes the gesture of opening a door In sentence 1 , ' Bikash
+
+#198 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0199 | Gr: 10 | Subj: Bengali
+  Topic: ষষ্ঠ পাঠ: অস্ত্রের বিরুদ্ধে গান (জয় গোস্বামী) ও নদীর বিদ্রোহ (মানিক বন্দ্যোপাধ্যায়)
+  Prompt: অস্ত্রের বিরুদ্ধে গান" কবিতায় কবি জয় গোস্বামী কি সত্যিই বোঝাতে চেয়েছেন যে, গান গেয়ে যুদ্ধ থামানো সম্ভব? আমার মনে হয়
+
+#199 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0200 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১১: ভগ্নাংশের বর্গমূল
+  Prompt: পাঠ্যাংশ: """ ৯. পূর্ণবর্গাকারে প্রকাশ করে মান নির্ণয় করি । ( iii ) ৬৪ - + যখন p = -১ p p² """  প্রশ্ন / নির্দেশ: ৯ নম্
+
+#200 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0201 | Gr: 11 | Subj: Bengali
+  Topic: ৩৭ লালন ফকির
+  Prompt: পাঠ্যাংশ: """ বঙ্কিমচন্দ্র চট্টোপাধ্যায় রবীন্দ্রনাথ ঠাকুর ৮. সুনীতিকুমার চট্টোপাধ্যায় ৫ . আব্দুল জব্বার সত্যেন্দ্রনাথ 
+
+#201 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0202 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ( ২ ) মাথার ওপর তালি মারো লাফিয়ে দু - পা আবার জোড়ো । ( ৩ ) ১ - এর মতোই তালি জানি লাফিয়ে পা - ফাঁক সেটাই
+
+#202 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0203 | Gr: 7 | Subj: English
+  Topic: Lesson ১৩: Ghosts on the Verandah (Ruskin Bond)
+  Prompt: পাঠ্যাংশ: """ [ Para - 1 ] ( b ) imaginary : [ Para - 2 ] ( c ) inside :  [ Para - 3 ] ( d ) hate : [ Para - 6 ] ( e ) h
+
+#203 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0204 | Gr: 8 | Subj: Bengali
+  Topic: পথের পাঁচালি (সহায়ক পাঠ - বিভূতিভূষণ বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ এতদিন নেড়াদের বাড়ি , নিজেদের বাড়ির সামনেটা , বড়োজোর রানুদিদিদের বাড়ি , ইহাই ছিল তাহার জগতের সীমা । ওই
+
+#204 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0205 | Gr: 9 | Subj: English
+  Topic: Lesson ২: All about a Dog (A. G. Gardiner)
+  Prompt: পাঠ্যাংশ: """ Exercise 3 Answer the following questions within twenty - five words : ( a ) Why was no real treasure foun
+
+#205 [RANGE,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0206 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৭-১৯: ত্রিভুজ ও চতুর্ভুজের পরিসীমা ও ক্ষেত্রফল, প্রতিসাম্য, সমীকরণ গঠন ও সমাধান
+  Prompt: একটি আয়তাকার পার্কের দৈর্ঘ্য তার প্রস্থের চেয়ে ৫ মিটার বেশি। যদি পার্কটির পরিসীমা ৫০ মিটার হয়, তাহলে পার্কটির ক্ষেত্র
+
+#206 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0207 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ৮: সমান্তরাল সরলরেখা ও ছেদকের ধর্ম
+  Prompt: পাঠ্যাংশ: """ ১৮. একটি আয়তক্ষেত্রের দৈর্ঘ্য ১৫ % বৃদ্ধি করা হলো এবং প্রস্থ ১৫ % হ্রাস করা হলো । আয়তক্ষেত্রের ক্ষেত্রফল
+
+#207 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0208 | Gr: 8 | Subj: Bengali
+  Topic: দ্বিতীয় অধ্যায়: বাক্যের ভাব ও রূপান্তর
+  Prompt: পাঠ্যাংশ: """ ৯. হরিচরণ বন্দ্যোপাধ্যায় মহাশয় যখন রবীন্দ্রনাথের নির্দেশে বঙ্গীয় শব্দকোষ রচনায় প্রবৃত্ত হন তখন বঙ্গীয়
+
+#208 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0209 | Gr: 10 | Subj: Mathematics
+  Topic: অধ্যায় ১: একচলবিশিষ্ট দ্বিঘাত সমীকরণ
+  Prompt: পাঠ্যাংশ: """ ২১. সম্পাদ্য : মধ্যসমানুপাতী নির্ণয় i ) জ্যামিতিক পদ্ধতিতে দুটি সরলরেখাংশের মধ্যসমানুপাতী নির্ণয় । """  
+
+#209 [STRUCT] | ID: wbbse_tb_sft_300_b2_final_0210 | Gr: 4 | Subj: English
+  Topic: Lesson ৪ The Hero On your mark
+  Prompt: পাঠ্যাংশ: """ Let's learn Both the underlined and circled words are past forms of verbs . Note that the verbs which form
+
+#210 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0211 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ পায়ের শক্তিবৃদ্ধির খেলা তৃতীয় শ্রেণি কার্ড - ১৫ বস্তা দৌড় পদ্ধতি : ৪ জন করে শিক্ষার্থীকে নিয়ে ৬ টি দল 
+
+#211 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0212 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ৯. তাৎক্ষণিক বক্তৃতায় অষ্টম শ্রেণির ওয়াহিদার বক্তব্যের শুরুটা ভালো হলেও শেষে তাল কেটে ( সমতা নষ্ট হওয়া 
+
+#212 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0213 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ৫. ধূর্ত মেজবাবুর সঙ্গে বিবাদ বাধানোর মতো কাঁচা কাজ ( ভুল ) কোরো না । ৬ . এমন কাঁচা লেখা ( নিম্নমান ) কখনো
+
+#213 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0214 | Gr: 10 | Subj: Bengali
+  Topic: ষষ্ঠ পাঠ: অস্ত্রের বিরুদ্ধে গান (জয় গোস্বামী) ও নদীর বিদ্রোহ (মানিক বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ [ সিরাজ ফিরিয়া আসিলেন ] সিরাজ । ওয়াটস - ক্লাইভ - ওয়াটসন কোম্পানির কথা থাক , ইংরেজ - ফরাসি- পোর্তুগীজ প্
+
+#214 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0215 | Gr: 2 | Subj: General
+  Topic: || A
+  Prompt: পাঠ্যাংশ: """ এসো একইরকমের নতুন কথা শিখি : ত্বক , গাত্র , মহাত্মা , নিত্য , রত্ন , দ্বিতীয় , ভাদ্র , উদ্ভব । এসো ছক পূর
+
+#215 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0216 | Gr: 10 | Subj: Bengali
+  Topic: কোনি (সহায়ক পাঠ - মতি নন্দী)
+  Prompt: পাঠ্যাংশ: """ - ইলা ঢুকে পড়েছে কোনির লেনে । দুজনে মুখোমুখি সংঘর্ষ ! “ উঃ ” বলে কোনি চেঁচিয়ে উঠল একবার , দেখা গেল ওরা জ
+
+#216 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0217 | Gr: 9 | Subj: English
+  Topic: Lesson ১০: The Price of Bananas (Mulk Raj Anand)
+  Prompt: ন ক্রুসো' সম্পর্কিত প্রশ্ন দেওয়া আছে, কিন্তু আমাদের পাঠ্যক্রম অনুযায়ী এটি 'The Price of Bananas' অধ্যায়ের অংশ। এই অসঙ্গত
+
+#217 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0218 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ কুচকাওয়াজ দ্বিতীয় শ্রেণি কার্ড - ৩৩ বাঁয়ে ফেরো ১ ) বাঁয়ে ফেরো আদেশের সঙ্গে সঙ্গে বাঁ পায়ের গোড়ালি ও 
+
+#218 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0219 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ৮. পাড়ার রবীন্দ্রজয়ন্তী অনুষ্ঠানে চিত্রাঙ্গদার ভূমিকায় রেশমার অভিনয় ছিল চোখে পড়ার মতো ( দ্রষ্টব্য ) ।
+
+#219 [PAGE,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0220 | Gr: 11 | Subj: General
+  Topic: দ্বিতীয় পৰ্ব ভাষা ( প্রথম পর্যায় ) প্রথম অধ্যায় : বিশ্বের ভাষা ও পরিবার , পৃষ্ঠা ১০৯ দ্বিতীয় অধ্যায় : ভারতের ভাষা পরিবার ও বাংলা ভাষা , পৃষ্ঠা ১১৯ তৃতীয় অধ্যায় : প্রাচীন লিপি এবং বাংলা লিপির উদ্ভব ও বিকাশ , পৃষ্ঠা ১৩০ চতুর্থ অধ্যায় : ভাষাবৈচিত্র্য ও বাংলা ভাষা ,
+  Prompt: পাঠ্যাংশ: """ ভোরে উঠে ছ'টার মধ্যে হাত - মুখ ধুয়ে জলখাবার খেয়ে পড়তে বসে যাওয়া ; উঠে ছ'টা থেকে আটটা পর্যন্ত ইংরেজি , 
+
+#220 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0221 | Gr: 8 | Subj: Bengali
+  Topic: চতুর্থ অধ্যায়: ক্রিয়ার কাল ও প্রকার
+  Prompt: পাঠ্যাংশ: """ ৫.১ তদ্ধিতার্থক দ্বিগু দ্বি গো - র বিনিময়ে কেনা = দ্বিগু ; বাংলায় অনুরূপ শব্দ : তিনকড়ি , পাঁচকড়ি , সাত
+
+#221 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0222 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ নহ বিভু তুমি কভু ভিন্ন হে ; দু - হাত বুকের কাছ থেকে বাম হাতের উপর ডান হাত দিয়ে দু - দিকে দু - হাত মেলতে হ
+
+#222 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0223 | Gr: 11 | Subj: Bengali
+  Topic: रहीम ৫৩
+  Prompt: পাঠ্যাংশ: """ সেঠজি : ( ক্রোধ সে ) য়া বক- কর র হো ! কহ যো দিয়া , অভী য়হ যাও , বাকী ফির জানা ।  ভগবতী : হম তো আজ হী সব কর
+
+#223 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0224 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ ৩. এবার ধীরে ধীরে সামনের দিকে ঝুঁকে দু - হাতের আঙুল দিয়ে দু - পা ছুঁতে হবে । উপকারিতা : ডায়াবেটিস , ক্ষু
+
+#224 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0225 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১৫: ক্ষেত্রফল ও পরিসীমা
+  Prompt: পাঠ্যাংশ: """ ৪. পাড়ার সুকান্ত স্মৃতি গ্রন্থাগারের সদস্যদের প্রত্যেক সদস্য সদস্যসংখ্যার সমান সংখ্যক টাকা চাঁদা দেওয়ায়
+
+#225 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0226 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ৮: সমান্তরাল সরলরেখা ও ছেদকের ধর্ম
+  Prompt: পাঠ্যাংশ: """ ১৩. জল জমে বরফ হলে আয়তন ১০ % বৃদ্ধি পায় । এই বরফ গলে জল হলে আয়তন শতকরা কত হ্রাস পাবে হিসাব করে লিখি । "
+
+#226 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0227 | Gr: 9 | Subj: English
+  Topic: Lesson ৪: A Day in the Zoo (Gerald Durrell)
+  Prompt: পাঠ্যাংশ: """ Exercise 4 Change the voice of the following sentences : ( a ) The boy has read out the letter . ( b ) I s
+
+#227 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0228 | Gr: 10 | Subj: Bengali
+  Topic: কোনি (সহায়ক পাঠ - মতি নন্দী)
+  Prompt: পাঠ্যাংশ: """ ‘ কো ও ও নি ই ই ... কো ও ও নি ই ই । ” গলার স্বরটা আর্তনাদের মতো শোনাচ্ছে । মুখখানি অসহায় ৷ “ কো ও ও নি ই 
+
+#228 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0229 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ পানীয় জল বিশুদ্ধ হওয়া চাই ; নলকূপের জল পেলে ভালো নইলে জল ফুটিয়ে নেওয়া চাই । থুথু কিংবা সর্দি কফ , কিংব
+
+#229 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0230 | Gr: 11 | Subj: Bengali
+  Topic: ৩৭ লালন ফকির
+  Prompt: পাঠ্যাংশ: """ পঞ্চক । তোরা দেখবি কী রে ! সর্বনাশ ! তিনি তো যূনকদের গুরু নন । তাঁর কথা তোদের কানে পাছে এক অক্ষরও যায় সেজ
+
+#230 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0231 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ৩ ) পড়াশোনার আতঙ্কে বাড়ি থেকে পালায় । ৫ ) পড়াশোনার প্রতি অনিচ্ছা ও কুঁড়েমি গ্রাস করে । """  প্রশ্ন / 
+
+#231 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0232 | Gr: 11 | Subj: English
+  Topic: ৬৩ William Shakespeare
+  Prompt: পাঠ্যাংশ: """ "I were young once and I wanted things I could not get . " There was another long pause . The boy's mouth 
+
+#232 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0233 | Gr: 6 | Subj: English
+  Topic: Lesson ৩: The Rainbow (Christina Georgina Rossetti)
+  Prompt: পাঠ্যাংশ: """ Activity 8 ( f ) Read the sentences carefully and put the underlined words in the correct columns : ( i ) 
+
+#233 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0234 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: পাঠ্যাংশ:** """ ‘ কালো রাতি গেল ঘুচে ’ পাঠটি দেখে লেখো ক ) কালো আলো খ ) ভাঙা গ ) ঘুচে .......... """  **প্রশ্ন / নির্দেশ
+
+#234 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0235 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৬: দ্বি-স্তম্ভ লেখ
+  Prompt: পাঠ্যাংশ: """ ৩ ৯. একটি সাইকেল রিকশা থেকে একটি অটো রিকশার গতিবেগ ঘন্টায় ৪ কিমি . বেশি । রীতা তার বাড়ি থেকে ২ ঘণ্টা সাই
+
+#235 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0236 | Gr: 7 | Subj: Mathematics
+  Topic: অধ্যায় ১৩: সমান্তরাল সরলরেখা ও ছেদক
+  Prompt: পাঠ্যাংশ: """ ১ বগমিটার = ১০০ সেমি . × ১০০ সেমি . = ১০০০০ বর্গসেমি . :: . ১ বর্গসেমি . = ১ ÷ ১০০০০ বর্গমিটার = ০.০০০১ বর
+
+#236 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0237 | Gr: 8 | Subj: Bengali
+  Topic: চতুর্থ অধ্যায়: ক্রিয়ার কাল ও প্রকার
+  Prompt: পাঠ্যাংশ: """ ১.২ উপমিত কর্মধারয় যে কর্মধারয় সমাসের পূর্বপদে উপমেয় ( যাকে তুলনা করা হচ্ছে ) ও উত্তর পদে উপমান ( যার স
+
+#237 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0238 | Gr: 8 | Subj: English
+  Topic: Lesson ২: Clouds (Intizar Hussain)
+  Prompt: পাঠ্যাংশ: """ Activity 8 ( b ) Underline the verbs in the following sentences which suggest actions that began before a 
+
+#238 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0239 | Gr: 10 | Subj: Bengali
+  Topic: ষষ্ঠ পাঠ: অস্ত্রের বিরুদ্ধে গান (জয় গোস্বামী) ও নদীর বিদ্রোহ (মানিক বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ বাংলা শুধু হিন্দুর নয় , বাংলা শুধু মুসলমানের নয় — মিলিত হিন্দু - মুসলমানের মাতৃভূমি গুলবাগ এই বাংলা । অপ
+
+#239 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0240 | Gr: 9 | Subj: English
+  Topic: Lesson ৩: Autumn (John Clare)
+  Prompt: পাঠ্যাংশ: """ Exercise 7 Change the voice of the following sentences : ( a ) They agreed to my plan . ( b ) My brother l
+
+#240 [PAGE,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0241 | Gr: 11 | Subj: General
+  Topic: দ্বিতীয় পৰ্ব ভাষা ( প্রথম পর্যায় ) প্রথম অধ্যায় : বিশ্বের ভাষা ও পরিবার , পৃষ্ঠা ১০৯ দ্বিতীয় অধ্যায় : ভারতের ভাষা পরিবার ও বাংলা ভাষা , পৃষ্ঠা ১১৯ তৃতীয় অধ্যায় : প্রাচীন লিপি এবং বাংলা লিপির উদ্ভব ও বিকাশ , পৃষ্ঠা ১৩০ চতুর্থ অধ্যায় : ভাষাবৈচিত্র্য ও বাংলা ভাষা ,
+  Prompt: পাঠ্যাংশ: """ প্রকল্প — বিষয় (২) [ লোকায়ত আঙ্গিক / সাহিত্য / রাজনীতি / ক্রীড়া / নাচ / গান / কলাক্ষেত্রের যে কোনো বিখ্
+
+#241 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0242 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: পাঠ্যাংশ: """ টেবিলে ৯ টা আম ছিল । ছেলেটি আর একটা আম রাখল । ৯ + ১ টা আম হল । ৯ + ১ কে বলে দশ । দশ কে লিখি ১০ । ৯ টা পাখি
+
+#242 [STRUCT] | ID: wbbse_tb_sft_300_b2_final_0243 | Gr: 4 | Subj: English
+  Topic: Lesson ৮ Sisters On your mark ১. What are the things that you see on the stage as shown in the picture ?
+  Prompt: পাঠ্যাংশ: """ On your mark gives an exposure to the students to different professions . The lesson begins with the rubri
+
+#243 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0244 | Gr: 11 | Subj: English
+  Topic: ৩৯ Ruskin Bond
+  Prompt: পাঠ্যাংশ: """ T The grey sea and the long black land ; And the yellow half - moon large and low ; And the startled littl
+
+#244 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0245 | Gr: 9 | Subj: Bengali
+  Topic: ডক্টর শেরিং-এর স্মরণশক্তি
+  Prompt: পাঠ্যাংশ: """ আমি জানি কেন। কিছুক্ষণ থেকেই লক্ষ করছি, শেরিং-এর মধ্যে একটা চাপা উশখুশে ভাব। একবার জিভ দিয়ে ঠোঁটটা চাটল। 
+
+#245 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0246 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ঐচ্ছিক ব্যায়াম নিয়ম অনুযায়ী ন্যূনতম সাতটি ব্যায়াম সমন্বয় রচনার মাধ্যমে প্রদর্শন করতে হয় । * * সকলের 
+
+#246 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0247 | Gr: 6 | Subj: Mathematics
+  Topic: অধ্যায় ১০: আবৃত্ত দশমিক সংখ্যা
+  Prompt: আবৃত্ত দশমিক সংখ্যা বলতে কী বোঝায়? একটা উদাহরণ দিয়ে সহজভাবে বুঝিয়ে দেবে?
+
+#247 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0248 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ফুলকো লুচি , ফুলকো লুচি ফাঁকা ফাঁকা ভাবে বৃত্তের কেন্দ্রের দিকে মুখ করে বৃত্তাকারে দাঁড়িয়ে দু - হাত দিয়
+
+#248 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0249 | Gr: 4 | Subj: Health and Physical Education
+  Topic: স্বাস্থ্যবিধান চতুর্থ শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ বোড়ে প্রথমবার ১ ঘর বা ২ ঘর চলতে পারে । তারপর থেকে ১ ঘর করে সোজাসুজি চলে । বিপক্ষের বা নিজের কোনো ঘুঁটি সা
+
+#249 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0250 | Gr: 10 | Subj: Bengali
+  Topic: চতুর্থ পাঠ: সিরাজউদ্দৌলা (শচীন্দ্রনাথ সেনগুপ্ত) ও সিন্ধুতীরে (সৈয়দ আলাওল)
+  Prompt: পাঠ্যাংশ: """ রানিমা সরকারের কাছ থেকে জেলেরা গঙ্গার যে অংশে মাছ ধরে অর্থাৎ হাওড়ার ঘুসুড়ি থেকে মেটিয়াবুরুজ পর্যন্ত , দ
+
+#250 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0251 | Gr: 11 | Subj: English
+  Topic: ৭ O. Henry
+  Prompt: ও. হেনরির গল্পে 'আকস্মিক সমাপ্তি' (surprise ending) একটি গুরুত্বপূর্ণ বৈশিষ্ট্য। পরীক্ষায় এই বিষয়ে প্রশ্ন এলে আমি কীভা
+
+#251 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0252 | Gr: 2 | Subj: Health and Physical Education
+  Topic: দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ড
+  Prompt: আমাদের দেশাত্মবোধ দ্বিতীয় শ্রেণি কার্ডে 'দেশাত্মবোধ' বলতে কী বোঝানো হয়েছে, একটু বুঝিয়ে দেবে?
+
+#252 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0253 | Gr: 10 | Subj: Mathematics
+  Topic: অধ্যায় ১: একচলবিশিষ্ট দ্বিঘাত সমীকরণ
+  Prompt: পাঠ্যাংশ: """ ২ ৪. পূরক কোণের ত্রিকোণমিতিক অনুপাত i ) পূরক কোণের ধারণা । ii ) একটি কোণের পূরক কোণের ত্রিকোণমিতিক অনুপাতে
+
+#253 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0254 | Gr: 10 | Subj: Bengali
+  Topic: প্রথম পাঠ: জ্ঞানচক্ষু (আশাপূর্ণা দেবী) ও অসুখী এক জন (পাবলো নেরুদা)
+  Prompt: পাঠ্যাংশ: """ নবমীর পাঁটার মতো কাঁপতে কাঁপতে ঢুকতে হবে হলঘরে । কী ভীষণ পরিণাম ছাত্রজীবনের ! সত্যি বলছি , শাবলতলার মাঠ দে
+
+#254 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0255 | Gr: 8 | Subj: Bengali
+  Topic: পথের পাঁচালি (সহায়ক পাঠ - বিভূতিভূষণ বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ উঃ ! কী ভীষণ হৃদয়হীনতা ! আগে আগে সে ভাবিত বটে যে , তাহার মা তাহাকে ভালোবাসে অবশ্য যদিও তাহার সে ভ্রান্ত ধ
+
+#255 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0256 | Gr: 9 | Subj: Bengali
+  Topic: মহাকাশের দূত
+  Prompt: পাঠ্যাংশ: """ ‘ কী ব্যাপার ? ’ ‘ এ স্নেক— এ স্নেক ইন মাই রুম ! ’ কথাটা শেষ করে টলায়মান অবস্থায় ঘরে ঢুকে সে ধপ করে আমার
+
+#256 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0257 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ( ২ ) দু - হাত সোজা করে মাথার উপর তুলে ধরতে হবে । ওই অবস্থান থেকে বাঁ হাত ডান দিক দিয়ে এবং ডান হাত বাঁ দি
+
+#257 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0258 | Gr: 8 | Subj: English
+  Topic: Lesson ১১: Midnight Express (Alfred Noyes)
+  Prompt: পাঠ্যাংশ: """ Activity 6 ( d ) Change the following sentences from Active to Passive Voice : ( i ) India won the World C
+
+#258 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0259 | Gr: 7 | Subj: English
+  Topic: Lesson ১৩: Ghosts on the Verandah (Ruskin Bond)
+  Prompt: পাঠ্যাংশ: """ Activity 9 ( a ) Find the antonyms of the following words from the text . You will find the words in the p
+
+#259 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0260 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ১: পূর্বপাঠের পুনরালোচনা
+  Prompt: পাঠ্যাংশ: """ ৩. অজন্তা হাউসিং কমপ্লেক্সের বর্গক্ষেত্রাকার পার্কের বাইরের চারদিকে ৩ মিটার চওড়া একটি রাস্তা আছে । রাস্তা
+
+#260 [RANGE] | ID: wbbse_tb_sft_300_b2_final_0261 | Gr: 3 | Subj: Health and Physical Education
+  Topic: ২. সু - অভ্যাস ( ২-৭ )
+  Prompt: পাঠ্যাংশ: """ ( ২ ) কোমর থেকে নীচের শরীরকে কোনোভাবেই নাড়ানো চলবে না । ( ৩ ) এই অবস্থায় কথা বলা , পিছনে ঘোরা যাবে না । 
+
+#261 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0262 | Gr: 7 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: ক্রিয়ার কাল
+  Prompt: পাঠ্যাংশ: """ একটি বিশেষ শব্দের দুবার ব্যবহারের মধ্যে দিয়ে অর্থের ও ভাবের বৈচিত্র্য সৃষ্টি হলে , শব্দের এই প্রয়োগকে শব
+
+#262 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0263 | Gr: 9 | Subj: Bengali
+  Topic: প্রোফেসর শঙ্কু ও আশ্চর্য পুতুল
+  Prompt: পাঠ্যাংশ: """ ৬০০০ ফিটের মতো হাইট , কাজেই আমাদের হিমালয়ের এক একটি শৃঙ্গের কাছে একে সামান্য টিলা বলে মনে হবে । কিন্তু নর
+
+#263 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0264 | Gr: 7 | Subj: English
+  Topic: Lesson ৫: Uncle Podger Hangs a Picture (Jerome K. Jerome)
+  Prompt: পাঠ্যাংশ: """ The red - coloured words describe the nouns that come after them . These are Participle Adjectives . They 
+
+#264 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0265 | Gr: 10 | Subj: Bengali
+  Topic: কোনি (সহায়ক পাঠ - মতি নন্দী)
+  Prompt: পাঠ্যাংশ: """ " “ যাই হোক না , তাতে আপনার কী ? ” , “ ব্লাডপ্রেশারটার মেপেছেন ? ” “ আপনার দরকার ? ” “ ব্লাড সুগার পরীক্ষা
+
+#265 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0266 | Gr: 7 | Subj: Bengali
+  Topic: চতুর্থ পাঠ: কুতুব মিনারের কথা (সৈয়দ মুজতবা আলী) ও মেঘচোর (শীর্ষেন্দু মুখোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ ‘ যে - ক’জন বিজ্ঞানী আমার সঙ্গে শত্রুতা করেছে , আমার নামে নিন্দে রটিয়েছে , তাদের দেশে আমি ইচ্ছে করলে একফো
+
+#266 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0267 | Gr: 10 | Subj: Bengali
+  Topic: কোনি (সহায়ক পাঠ - মতি নন্দী)
+  Prompt: পাঠ্যাংশ: """ “ কী ব্যাপার , কীসের টাকা ? ” “ ওই একটা ঘর ভাড়া নেওয়ার ব্যাপার । হাতিবাগানে আমার একটা বাড়িতে এরা দোকান 
+
+#267 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0268 | Gr: 7 | Subj: Bengali
+  Topic: তৃতীয় অধ্যায়: নানা রকম শব্দ (তৎসম, তদ্ভব, দেশি, বিদেশি)
+  Prompt: পাঠ্যাংশ: """ মুণ্ডারি : থলি , ফর্সা , ময়ূর ইত্যাদি । তেলেগু : পিলে [ ছেলেপিলে < ( পিললা ) ] ইত্যাদি । সাঁওতালি : কম্বল
+
+#268 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0269 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: পাঠ্যাংশ: """ ছবি দেখি , নাম লিখি ১ ডাঙাতেও চলি আমি বেশি থাকি জলে , কথা বলি হেলেদুলে পেঁক পেঁক বলে । """  প্রশ্ন / নির্দ
+
+#269 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0270 | Gr: 8 | Subj: Mathematics
+  Topic: অধ্যায় ১৫: বীজগাণিতিক সংখ্যামালার সরলীকরণ
+  Prompt: আমি (৩x – ৫) (২x + ৩) এই বীজগাণিতিক সংখ্যামালাটি সরল করতে গিয়ে ৬x² – ১৫ পেয়েছি। কিন্তু আমার মনে হচ্ছে কোথাও একটা ভুল হচ্
+
+#270 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0271 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ উপকারিতা দুটি হাত নড়ে— উপরের ভঙ্গিগুলোর সঙ্গে ডান হাত ঘোরাতে হবে এবং ২ নং ভঙ্গিটি শেষে করতে হবে । একটা পা
+
+#271 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0272 | Gr: 8 | Subj: Bengali
+  Topic: প্রথম অধ্যায়: দল ও ধ্বনি পরিবর্তন
+  Prompt: পাঠ্যাংশ: """ ১. আদি - স্বরলোপ : শব্দের আদিতে অবস্থিত স্বরধ্বনিটি লুপ্ত হলে তাকে আদি - স্বরলোপ বলা হয় । যেমন : অলাবু > 
+
+#272 [STRUCT] | ID: wbbse_tb_sft_300_b2_final_0273 | Gr: 3 | Subj: English
+  Topic: Lesson ৪ Know Your Birds On your mark ...
+  Prompt: পাঠ্যাংশ: """ Activity - 4 You can see pictures of some parts of a tree and the names of those parts . Match the names w
+
+#273 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0274 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ২.১৪ চলিত থেকে সাধু ভাষায় রূপান্তর করো : ‘ স্বপনদার কথা শুনে রঞ্জনের মনের মধ্যে চেপে রাখা রাগটা আবার মাথা
+
+#274 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0275 | Gr: 8 | Subj: Bengali
+  Topic: পথের পাঁচালি (সহায়ক পাঠ - বিভূতিভূষণ বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ পটু বলিল - পরে সে চারিদিকে চাহিয়া দেখিল জেলের ছেলেরা সব একদিকে হইয়াছে । পটু ভাবিল এত বেশি কড়ি আমি কোনোদ
+
+#275 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0276 | Gr: 10 | Subj: Bengali
+  Topic: কোনি (সহায়ক পাঠ - মতি নন্দী)
+  Prompt: পাঠ্যাংশ: """ "চাই না তোমাদের জল। আমাদের কলের জলই ভালো।" কোনি হন হন করে একাই এগিয়ে গেল। ক্ষিতীশ অপ্রতিভ হয়ে বলল, "আমি 
+
+#276 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0277 | Gr: 9 | Subj: English
+  Topic: Lesson ৩: Autumn (John Clare)
+  Prompt: জন ক্লেয়ারের 'Autumn' কবিতায় 'gleaning' বলতে কী বোঝানো হয়েছে? এর একটি সহজ সংজ্ঞা দেবে?
+
+#277 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0278 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ১০. জমিদারের নায়েব চোখ রাঙিয়ে ( শাসন করে ) দরিদ্র প্রজাদের জানিয়ে দিল যে দ্বিগুণ কর দিতেই হবে । মাথা ১.
+
+#278 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0279 | Gr: 8 | Subj: Bengali
+  Topic: ষষ্ঠ পাঠ: লোকটা জানলই না (সুভাষ মুখোপাধ্যায়) ও জেলখানার চিঠি (সুভাষচন্দ্র বসু)
+  Prompt: পাঠ্যাংশ: """ প্রায় কাঁদো - কাঁদো হয়ে বলেন , ‘ সত্যি ! এই ছেলেকে নিয়ে যে আমাদের কী জ্বালাই হয়েছে ছেনুমাসি , হাড় ভাজ
+
+#279 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0280 | Gr: 8 | Subj: Bengali
+  Topic: পথের পাঁচালি (সহায়ক পাঠ - বিভূতিভূষণ বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ রানুদি , তোমাদের এই পশ্চিমের ঘরের আলমারিতে যে বইগুলো আছে সতুদা পড়তে দেয় না ! একখানা দেবে পড়তে ? পড়েই দ
+
+#280 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0281 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: পাঠ্যাংশ: """ ১. a fat man ২. a red hen ৩. a cat on a mat ৪. a pet on a bed ৫. a rat in a den ৬. an egg in a pan ৩৫৭৫ ২০
+
+#281 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0282 | Gr: 8 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: শব্দার্থের পরিবর্তন ও বাগধারা
+  Prompt: পাঠ্যাংশ: """ ৩. ছোটো ( বয়স ) থেকেই নরেন্দ্রনাথ ছিলেন নির্ভীক , সত্যবাদী এবং পরের দুঃখে কাতর । ৪ . এত লেখাপড়া শিখেও তু
+
+#282 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0283 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ অন্য বিষয়ের সঙ্গে সংযোগ : অঙ্ক — নকশা- বিভিন্ন আকৃতিতে নিশ্চল ভারসাম্য ধরে রাখা । এই আকৃতিগুলো ধারাবাহিক 
+
+#283 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0284 | Gr: 8 | Subj: Bengali
+  Topic: দ্বিতীয় পাঠ: চন্দ্রগুপ্ত (দ্বিজেন্দ্রলাল রায়) ও বনভোজনের ব্যাপার (নারায়ণ গঙ্গোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ পুরুকে বন্দি করে আনি যখন – সে কি বললে জানো ? সেলুকস । কী সম্রাট ? সেকেন্দার । আমি জিজ্ঞাসা করলাম , ‘ আমার 
+
+#284 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0285 | Gr: 10 | Subj: Bengali
+  Topic: তৃতীয় পাঠ: হারিয়ে যাওয়া কালি কলম (শ্রীপান্থ) ও বহুরূপী (সুবোধ ঘোষ)
+  Prompt: পাঠ্যাংশ: """ আমি খুব চটপট টাকা গুনতে পারি , হিসেবেও আমি খুব পাকা । তাই ক্যাশ থেকে আমাকে অন্য কোথাও দেওয়া হয় না । হলেও
+
+#285 [PAGE,TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0286 | Gr: 11 | Subj: General
+  Topic: দ্বিতীয় পৰ্ব ভাষা ( প্রথম পর্যায় ) প্রথম অধ্যায় : বিশ্বের ভাষা ও পরিবার , পৃষ্ঠা ১০৯ দ্বিতীয় অধ্যায় : ভারতের ভাষা পরিবার ও বাংলা ভাষা , পৃষ্ঠা ১১৯ তৃতীয় অধ্যায় : প্রাচীন লিপি এবং বাংলা লিপির উদ্ভব ও বিকাশ , পৃষ্ঠা ১৩০ চতুর্থ অধ্যায় : ভাষাবৈচিত্র্য ও বাংলা ভাষা ,
+  Prompt: পাঠ্যাংশ: """ ৩. সিস্টিন চ্যাপেল : রোমের ভ্যাটিকান সিটিতে অবস্থিত ছোট্ট খ্রিস্টীয় ভজনালয় । এটি ষোড়শ শতাব্দীতে নির্মিত
+
+#286 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0287 | Gr: 7 | Subj: English
+  Topic: Lesson ৪: The Beauty and the Beast
+  Prompt: পাঠ্যাংশ: """ A simple child That lightly draws its breath And feels its life in every limb , What should it know of dea
+
+#287 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0288 | Gr: 7 | Subj: English
+  Topic: Lesson ১৩: Ghosts on the Verandah (Ruskin Bond)
+  Prompt: পাঠ্যাংশ: """ Fill in the blanks with appropriate possessive adjectives given below :  their , your , my , our , its Und
+
+#288 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0289 | Gr: 8 | Subj: Bengali
+  Topic: তৃতীয় অধ্যায়: পদ পরিবর্তন ও সমাস
+  Prompt: পাঠ্যাংশ: """ ক্রিয়ার ভাব বাক্যে ক্রিয়া সম্পন্ন হওয়ার রীতিকে বলা হয় ক্রিয়ার ভাব বা প্রকার । ক্রিয়ার ভাব বা প্রকারক
+
+#289 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0290 | Gr: 8 | Subj: Bengali
+  Topic: চতুর্থ অধ্যায়: ক্রিয়ার কাল ও প্রকার
+  Prompt: পাঠ্যাংশ: """ ভাণ্ডারের নিমিত্ত ঘর = ভাণ্ডারঘর দুগ্ধ থেকে জাত = দুগ্ধজাত রোগ থেকে মুক্ত = রোগমুক্ত মৃগের শিশু = মৃগশিশু 
+
+#290 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0291 | Gr: 6 | Subj: Bengali
+  Topic: পঞ্চম অধ্যায়: বিশেষ্য, বিশেষণ, সর্বনাম, অব্যয়, ক্রিয়া
+  Prompt: পাঠ্যাংশ: """ বাংলা বাগ্ধারায় অর্থাৎ লোকমুখে প্রচলিত বিশিষ্ট অর্থবোধক কথাতেও সংখ্যাবাচক শব্দের প্রয়োগ অন্যধরনের অর্থ প
+
+#291 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0292 | Gr: 1 | Subj: General
+  Topic: পাঠ দেখে লেখো : ১। বনে অনেক ২। বনে থাকে ৩ । আছে মাছ ।
+  Prompt: পাঠ্যাংশ: """ শিখন পরামর্শ : শিক্ষার্থীরা শব্দ - বাক্স থেকে শব্দ নিয়ে অর্থপূর্ণ বাক্য গঠন করবে । """  প্রশ্ন / নির্দেশ:
+
+#292 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0293 | Gr: 8 | Subj: Bengali
+  Topic: পথের পাঁচালি (সহায়ক পাঠ - বিভূতিভূষণ বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ স্থানটা তাহার ভারি ভালো লাগে , একেবারে নির্জন , দু - ধারে নদীর পাড়ে কতকী গাছপালা নদীর জলে ঝুঁকিয়া পড়িয়
+
+#293 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0294 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ সব সময়ে চারদিক দেখেশুনে রাস্তা হলে পার , দুর্ঘটনার সম্ভাবনা থাকবে নাকো আর ! প্রথম শ্রেণি কার্ড - ৪৩ লাল হ
+
+#294 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0295 | Gr: 11 | Subj: Bengali
+  Topic: रहीम ৫৩
+  Prompt: পাঠ্যাংশ: """ সেঠজি : ( টেলিফোন পর বা জা রাখ হু ) # a পর ভি হরিজন কি সেবা কগা । আপ অপনি হরিজ -- সভা মে ইস বা কি ঘোষণা কর
+
+#295 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0296 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ ৩. বিভিন্ন দেহভঙ্গিমায় সামনে , পিছনে , পাশে দৌড় সকল খেলোয়াড় সামনে / পিছনে / ডান দিকে / বাঁদিকে দৌড়োবে
+
+#296 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0297 | Gr: 8 | Subj: Bengali
+  Topic: পথের পাঁচালি (সহায়ক পাঠ - বিভূতিভূষণ বন্দ্যোপাধ্যায়)
+  Prompt: পাঠ্যাংশ: """ অপু প্রথমটা পটুর দুর্দশায় একটু খুশি না হইয়াছিল তাহা নহে , কারণ সে - ও অনেক কড়ি হারিয়াছে । কিন্তু পটুকে
+
+#297 [LEAD_NUM] | ID: wbbse_tb_sft_300_b2_final_0298 | Gr: 11 | Subj: Bengali
+  Topic: ৩৭ লালন ফকির
+  Prompt: পাঠ্যাংশ: """ হে বিজয়ী বীর , নবীন আশার খড়গ তোমার হাতে , জীর্ণ আবেশ কাটো সুকঠোর ঘাতে , বন্ধন হোক ক্ষয় তোমারি হউক জয় ।
+
+#298 [CLEAN] | ID: wbbse_tb_sft_300_b2_final_0299 | Gr: 1 | Subj: General
+  Topic: পাঠে ‘ ঋ ’ - কার দেওয়া কথাগুলি বেছে নিয়ে লেখো : ৫ . ২ . ৩ . ৮ . ৫ . ৭ . ৮ . ৯ . ১০ . ১১ . ১২ . ১৩ . ১৪ . ১৫ .
+  Prompt: পাঠ্যাংশ: """ ১০০ টাকার নোট দিয়ে বললেন ৯০ টাকা কেটে দিয়ে বললেন , এই নাও বাকি টাকা । শিখন পরামর্শ : শিক্ষার্থীরা উপরের 
+
+#299 [TOC_MULTI] | ID: wbbse_tb_sft_300_b2_final_0300 | Gr: 1 | Subj: Health and Physical Education
+  Topic: দাঁড়ানোর বিভিন্ন ভঙ্গিমা প্রথম শ্রেণি কার্ড
+  Prompt: পাঠ্যাংশ: """ এক্ষেত্রে মুষ্টিবদ্ধ হাতে লাঠিটা ধরে রাখতে হবে এবং তর্জনী লাঠির নীচের দিকের অংশের সঙ্গে লেগে থাকবে । তর্জন
+

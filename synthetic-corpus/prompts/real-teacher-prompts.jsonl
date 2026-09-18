@@ -1,0 +1,36 @@
+{"prompt": "ক্লাস ৫ এর ভগ্নাংশ চ্যাপ্টারের ওপর ৫টি বাস্তব সমস্যার প্রশ্নসহ একটি ওয়ার্কশিট তৈরি করো।", "task_type": "worksheet", "grade": 5, "subject": "Mathematics"}
+{"prompt": "শ্রেণি ৩ এর 'খাদ্য' অধ্যায়ের ওপর একটি ছোট ১০ নম্বরের ওয়ার্কশিট দাও, যেখানে শূন্যস্থান পূরণ থাকবে।", "task_type": "worksheet", "grade": 3, "subject": "Science"}
+{"prompt": "ক্লাস ৪ এর আমাদের পরিবেশের 'স্থাপত্য, ভাস্কর্য ও সংগ্রহশালা' পড়ানোর জন্য একটি ৪০ মিনিটের লেসন প্ল্যান বানাও।", "task_type": "lesson_plan", "grade": 4, "subject": "Science"}
+{"prompt": "শ্রেণি ২ এর অঙ্কের 'টাকা ও পয়সা চেনা' পাঠটি ক্লাসরুমে হাতে-কলমে শেখানোর জন্য একটি অ্যাক্টিভিটি প্ল্যান দাও।", "task_type": "lesson_plan", "grade": 2, "subject": "Mathematics"}
+{"prompt": "ক্লাস ৫ এর বিজ্ঞানের 'পরিবেশ ও বনভূমি' চ্যাপ্টারের অরণ্য সংরক্ষণ ও বন্যপ্রাণী বিষয়টি সহজ ভাষায় বুঝিয়ে দাও।", "task_type": "concept_explanation", "grade": 5, "subject": "Science"}
+{"prompt": "শ্রেণি ৪ এর ছাত্রকে 'আমি সাগর পাড়ি দেবো' কবিতার মূল ভাবটি কীভাবে সহজ করে বোঝাব?", "task_type": "concept_explanation", "grade": 4, "subject": "Bengali"}
+{"prompt": "সুজন অঙ্কে খুব ভালো করেছে কিন্তু বানানে ভুল করছে। ওর বাবাকে ফোন করে জানানোর জন্য একটি ছোট নম্র স্ক্রিপ্ট দাও।", "task_type": "parent_call_script", "grade": 3, "subject": "General"}
+{"prompt": "রিনা বিগত এক সপ্তাহ ধরে স্কুলে আসছে না। ওর পরিবারের খোঁজ নেওয়ার জন্য একটি ছোট ফোনালাপের স্ক্রিপ্ট দাও।", "task_type": "parent_call_script", "grade": 5, "subject": "General"}
+{"prompt": "একটি ছাত্র পরীক্ষায় খুব ভালো লিখেছে কিন্তু খাতার মার্জিন টানেনি। তাকে খাতা ফেরত দেওয়ার সময় কী ফিডব্যাক দেব?", "task_type": "grading_feedback", "grade": 4, "subject": "General"}
+{"prompt": "ক্লাস ৩ এর একটি শিশু যোগ করতে গিয়ে দশকের ঘরের সংখ্যাটি হাতে রাখতে ভুলে যাচ্ছে। তাকে সংশোধন করার জন্য কী ফিডব্যাক দেব?", "task_type": "grading_feedback", "grade": 3, "subject": "Mathematics"}
+{"prompt": "শ্রেণি ৫ এর ইংরেজিতে পিছিয়ে পড়া বাচ্চাদের জন্য 'The Clever Monkey' গল্পের কঠিন শব্দের অর্থসহ একটি সহজ শিট দাও।", "task_type": "differentiated_material", "grade": 5, "subject": "English"}
+{"prompt": "ক্লাস ৪ এর অঙ্কের ভাগের ধারণা বুঝতে যাদের সমস্যা হচ্ছে, তাদের জন্য ৩টি একদম সহজ ছবি দিয়ে অঙ্ক তৈরি করো।", "task_type": "differentiated_material", "grade": 4, "subject": "Mathematics"}
+{"prompt": "একটি ছাত্রী ক্লাসে খুব মনোযোগী এবং সব কাজে সাহায্য করে। তার প্রোগ্রেস রিপোর্টের জন্য বাংলায় একটি প্রশংসামূলক মন্তব্য লেখো।", "task_type": "report_card_remark", "grade": 3, "subject": "General"}
+{"prompt": "অঙ্ক ও বাংলায় ভালো কিন্তু ইংরেজিতে দুর্বল, এমন একজন ছাত্রের জন্য প্রোগ্রেস কার্ডে লেখার উপযোগী মন্তব্য দাও।", "task_type": "report_card_remark", "grade": 5, "subject": "General"}
+{"prompt": "ক্লাস ৪ এর 'নর-হরি দাস' গল্পটি থেকে ছোট ছোট ৫টি অতিসংক্ষিপ্ত প্রশ্ন ও উত্তর তৈরি করো।", "task_type": "worksheet", "grade": 4, "subject": "Bengali"}
+{"prompt": "শ্রেণি ১ এর শিক্ষার্থীদের জন্য 'সহজ পাঠ' এর স্বরবর্ণ ও ব্যঞ্জনবর্ণ চেনার খেলাধুলার মাধ্যমে একটি লেসন প্ল্যান বানাও।", "task_type": "lesson_plan", "grade": 1, "subject": "Bengali"}
+{"prompt": "ক্লাস ৩ এর ছাত্রদের জন্য 'সময়ের কাজ সময়ে করি' বিষয়টি একটি বাস্তব জীবনের উদাহরণ দিয়ে বুঝিয়ে দাও।", "task_type": "concept_explanation", "grade": 3, "subject": "Mathematics"}
+{"prompt": "ইংরেজি বই 'Butterfly' এর Lesson 3 (Taste of Bengal) পড়ানোর পর নেওয়ার মতো একটি ছোট ৫ নম্বরের ফিল-ইন-দ্য-ব্ল্যাঙ্কস শিট দাও।", "task_type": "worksheet", "grade": 4, "subject": "English"}
+{"prompt": "শ্রেণি ২ এর সংখ্যার গঠন ও স্থানীয় মানের ধারণা খুব সহজ একটি খেলার মাধ্যমে বুঝিয়ে দাও।", "task_type": "concept_explanation", "grade": 2, "subject": "Mathematics"}
+{"prompt": "বিশাল ক্লাসে খুব অশান্তি করে কিন্তু পড়াশোনায় অত্যন্ত বুদ্ধিমান। তার অভিভাবককে ক্লাসের আচরণের কথা জানানোর জন্য ফোন স্ক্রিপ্ট দিন।", "task_type": "parent_call_script", "grade": 4, "subject": "General"}
+{"prompt": "এ সপ্তানাটি Grade 3 ব্যাঙকল আন্ড গ্রিডিং ফেব্রিভ্যাক্টার করো, 'কীসের থেকে কী যে হয়' চ্যাপ্টারটির জন্য।", "task_type": "grading_feedback", "grade": 3, "subject": "Bengali"}
+{"prompt": "ক্লাস ৩র বাংলা শিক্ষার জন্য 'নদী' অধ্যায়ের প্রধান ভিত্তি একটা উপdeet তৈরি করো।", "task_type": "concept_explanation", "grade": 3, "subject": "Bengali"}
+{"prompt": "ক্লাস ১২ এর বাংলা অধ্য", "task_type": "worksheet", "grade": 12, "subject": "Bengali"}
+{"prompt": "Grade 9র অঞ্চলে 'নাটক - ভোলা গণ্ডাক' বিষয়ে শিখনী প্লানটি তৈরি করুন।", "task_type": "lesson_plan", "grade": 9, "subject": "English"}
+{"prompt": "শিক্ষকেরা, Grade 10 মেธডিউজমেন্ট, চাপটি: 'দ্বিঘাত করণী'তে ডিফারেন্টিয়েশন গুলির মূল্যাংকনমূলক মাথাপড়া তৈরি করুন।", "task_type": "differentiated_material", "grade": 10, "subject": "Mathematics"}
+{"prompt": "ক্লাস ৯ বিষয়: বengali অধ্য", "task_type": "differentiated_material", "grade": 9, "subject": "Bengali"}
+{"prompt": "ক্লাস ২র বengali অধ্য", "task_type": "concept_explanation", "grade": 2, "subject": "Bengali"}
+{"prompt": "মাত্রা ৭, সubমেথানশন: ম্যাথমেটিকস, চাপ্টার: 'পূর্ণসংখ্যার যোগ, বিয়োগ, গুণ ও ভাগ', জন্য একটা ছোট প্যানেল কন্টেক্ট স্ক্রিপ্ট তৈরি করো।", "task_type": "parent_call_script", "grade": 7, "subject": "Mathematics"}
+{"prompt": "ক্লাস ১০র জন্য ইংরেজি ভিত্তির লেখা প্রণালী তৈরি করো। অধ্য", "task_type": "lesson_plan", "grade": 10, "subject": "English"}
+{"prompt": "ক্লাস ১০ এর পদার্থবিজ্ঞান অধ্য", "task_type": "concept_explanation", "grade": 10, "subject": "Physical_science"}
+{"prompt": "ডাউনস ক্লাসের ৬ এর মাথামধ্যে মাঠে গণিতের 'রেখা, রেখাংশ, রশ্মি ও বিন্দু' বিষয়ের গণনা জবাই। কিছু ঋচিয়ারস তৈরি করো।", "task_type": "grading_feedback", "grade": 6, "subject": "Mathematics"}
+{"prompt": "ক্লাস ১০ এর হист্রি অধ্য", "task_type": "parent_call_script", "grade": 10, "subject": "History"}
+{"prompt": "ক্লাস ৪ এর বengali ভিজির 'ধাঁধাঁর ছড়া' অধ্য", "task_type": "worksheet", "grade": 4, "subject": "Bengali"}
+{"prompt": "ক্লাস ৮ এর মাথেমাট্যাক, চপলা '$\\theta$, ${180}^\\circ - \\theta$ ও ${90}^\\circ + \\theta$' অধ্য", "task_type": "lesson_plan", "grade": 8, "subject": "Mathematics"}
+{"prompt": "Grade 11, Bengali Subject, 'নীলধ্বজের প্রতি জনা' চাবিকবিত্র মেটায়ার তৈরোয় দাও।", "task_type": "differentiated_material", "grade": 11, "subject": "Bengali"}
+{"prompt": "ক্লাস ২'র ইংরেজি অধ्यায় 'সহজ বিশেষণ এবং ভবিষ্যত্তা', এর জন্য রিপোর্ট কার্ডের মন্তব্য তৈরি করো।", "task_type": "report_card_remark", "grade": 2, "subject": "English"}

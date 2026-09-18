@@ -1,0 +1,975 @@
+{
+  "paper_id": "WBCHSE_Class_12_Bengali_2026_GEN",
+  "board": "WBCHSE",
+  "class_level": "Class 12",
+  "subject": "Bengali",
+  "medium": "Bengali",
+  "year": "2026",
+  "total_marks": 40.0,
+  "duration_minutes": 120,
+  "title": "WBCHSE Class 12 — Bengali আদর্শ প্রশ্নপত্র",
+  "general_instructions": [
+    "পরীক্ষার পূর্ণমান: 40 | সময়: 120 মিনিট।",
+    "সমস্ত প্রশ্নের উত্তর পরিচ্ছন্নভাবে উত্তরপত্রে লিখতে হবে।",
+    "প্রয়োজনীয় ক্ষেত্রে মার্জিন ও খসড়া কার্য প্রদর্শন করতে হবে।"
+  ],
+  "sections": [
+    {
+      "section_id": "A",
+      "section_name": "বিভাগ—ক (Group A: MCQ)",
+      "description": "বহুবিকল্পভিত্তিক প্রশ্ন",
+      "total_marks": 8.0,
+      "instructions": "প্রতিটি প্রশ্নের সঠিক বিকল্পটি নির্বাচন করে লেখো:",
+      "questions": [
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_B_q_1.1",
+          "section_id": "A",
+          "question_number_raw": "১.১",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "“নিহত ভাইয়ের শবদেহ দেখে / না-ই যদি হয়”",
+          "options": [
+            "(ক) রোষ (গ) রাগ",
+            "(খ) ক্ষোভ",
+            "(ঘ) ক্রোধ ।"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) রোষ (গ) রাগ",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) রোষ (গ) রাগ",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_B_q_1.1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_A_2",
+          "section_id": "A",
+          "question_number_raw": "১.২",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "নিচের কোনটি ভাষাতত্ত্ব-এর একটি প্রধান বৈশিষ্ট্য বা সঠিক উদাহরণ?",
+          "options": [
+            "(ক) ভাষাতত্ত্ব-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য",
+            "(খ) বিপরীত বা অসঙ্গতিপূর্ণ বিকল্প",
+            "(গ) আংশিক প্রাসঙ্গিক বিকল্প",
+            "(ঘ) বাহ্যিক বা পরিবর্তিত বিকল্প"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) ভাষাতত্ত্ব-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) (ক) ভাষাতত্ত্ব-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য।\nব্যাখ্যা: পাঠ্যসূচির সংশ্লিষ্ট অধ্যায়ের মূল ধারণার ওপর ভিত্তি করে এই বিকল্পটি যুক্তিযুক্ত ও সঠিক।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "সঠিক বিকল্প চিহ্নিতকরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_B_q_1.2",
+          "section_id": "A",
+          "question_number_raw": "১.৩",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "থুথুড়ে ভিখিরি বুড়ির গায়ে জড়ানো",
+          "options": [
+            "(ক) চিটচিটে তুলোর কম্বল",
+            "(খ) ছেঁড়া কাপড় নোংরা চাদর",
+            "(ঘ) দামী শাল ।"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) চিটচিটে তুলোর কম্বল",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) চিটচিটে তুলোর কম্বল",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_B_q_1.2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_A_4",
+          "section_id": "A",
+          "question_number_raw": "১.৪",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "নিচের কোনটি ভারতবর্ষ-এর একটি প্রধান বৈশিষ্ট্য বা সঠিক উদাহরণ?",
+          "options": [
+            "(ক) ভারতবর্ষ-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য",
+            "(খ) বিপরীত বা অসঙ্গতিপূর্ণ বিকল্প",
+            "(গ) আংশিক প্রাসঙ্গিক বিকল্প",
+            "(ঘ) বাহ্যিক বা পরিবর্তিত বিকল্প"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) ভারতবর্ষ-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) (ক) ভারতবর্ষ-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য।\nব্যাখ্যা: পাঠ্যসূচির সংশ্লিষ্ট অধ্যায়ের মূল ধারণার ওপর ভিত্তি করে এই বিকল্পটি যুক্তিযুক্ত ও সঠিক।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "সঠিক বিকল্প চিহ্নিতকরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_B_q_1.3",
+          "section_id": "A",
+          "question_number_raw": "১.৫",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "“এ গল্প গ্রামে সবাই শুনেছে” – গল্পটা হল",
+          "options": [
+            "(ক) বাসিনীর মনিব বাড়িতে হেলাঢেলা ভাত",
+            "(খ) বাসিনীর মনিব খুব ভালো লোক",
+            "(গ) বাসিনীর মনিব সতীশবাবুর আত্মীয়",
+            "(ঘ) বাসিনীর মনিব বাড়িতে লোকের মেলা।"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) বাসিনীর মনিব বাড়িতে হেলাঢেলা ভাত",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) বাসিনীর মনিব বাড়িতে হেলাঢেলা ভাত",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_B_q_1.3",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_A_6",
+          "section_id": "A",
+          "question_number_raw": "১.৬",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "নিচের কোনটি কে বাঁচায় কে বাঁচে-এর একটি প্রধান বৈশিষ্ট্য বা সঠিক উদাহরণ?",
+          "options": [
+            "(ক) কে বাঁচায় কে বাঁচে-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য",
+            "(খ) বিপরীত বা অসঙ্গতিপূর্ণ বিকল্প",
+            "(গ) আংশিক প্রাসঙ্গিক বিকল্প",
+            "(ঘ) বাহ্যিক বা পরিবর্তিত বিকল্প"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) কে বাঁচায় কে বাঁচে-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) (ক) কে বাঁচায় কে বাঁচে-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য।\nব্যাখ্যা: পাঠ্যসূচির সংশ্লিষ্ট অধ্যায়ের মূল ধারণার ওপর ভিত্তি করে এই বিকল্পটি যুক্তিযুক্ত ও সঠিক।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "সঠিক বিকল্প চিহ্নিতকরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_B_q_1.4",
+          "section_id": "A",
+          "question_number_raw": "১.৭",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "“হেড পণ্ডিত ইস্কুলে আমাকে প্রমোশন দেননি।” – কারণ",
+          "options": [
+            "(ক) সংস্কৃতে বারো পেয়েছিলাম",
+            "(খ) সংস্কৃতে ফেল করেছিলাম ( গ ) সংস্কৃতে দশ পেয়েছিলাম",
+            "(ঘ) সংস্কৃতে তেরো পেয়েছিলাম।"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) সংস্কৃতে বারো পেয়েছিলাম",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) সংস্কৃতে বারো পেয়েছিলাম",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_B_q_1.4",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_A_8",
+          "section_id": "A",
+          "question_number_raw": "১.৮",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "নিচের কোনটি ভাষাতত্ত্ব-এর একটি প্রধান বৈশিষ্ট্য বা সঠিক উদাহরণ?",
+          "options": [
+            "(ক) ভাষাতত্ত্ব-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য",
+            "(খ) বিপরীত বা অসঙ্গতিপূর্ণ বিকল্প",
+            "(গ) আংশিক প্রাসঙ্গিক বিকল্প",
+            "(ঘ) বাহ্যিক বা পরিবর্তিত বিকল্প"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) ভাষাতত্ত্ব-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) (ক) ভাষাতত্ত্ব-এর সংজ্ঞার্থ ও মূল বৈশিষ্ট্য।\nব্যাখ্যা: পাঠ্যসূচির সংশ্লিষ্ট অধ্যায়ের মূল ধারণার ওপর ভিত্তি করে এই বিকল্পটি যুক্তিযুক্ত ও সঠিক।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "সঠিক বিকল্প চিহ্নিতকরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    },
+    {
+      "section_id": "B",
+      "section_name": "বিভাগ—খ (Group B: VSA)",
+      "description": "অতিসংক্ষিপ্ত প্রশ্ন",
+      "total_marks": 8.0,
+      "instructions": "নির্দেশ অনুসারে অতিসংক্ষিপ্ত প্রশ্নের উত্তর দাও:",
+      "questions": [
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_A_q_3.2",
+          "section_id": "B",
+          "question_number_raw": "২.১",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "“জীবন কোথায় ?”",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_A_q_3.2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_B_2",
+          "section_id": "B",
+          "question_number_raw": "২.২",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "ভাষাতত্ত্ব বলতে কী বোঝায়? একটি বাক্যে লেখো।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_B_q_V",
+          "section_id": "B",
+          "question_number_raw": "২.৩",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "উৎপলকুমার বসু।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_B_q_V",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_B_4",
+          "section_id": "B",
+          "question_number_raw": "২.৪",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "ভারতবর্ষ বলতে কী বোঝায়? একটি বাক্যে লেখো।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_B_q_1.10",
+          "section_id": "B",
+          "question_number_raw": "২.৫",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "বড়ো বাড়ির হোম-যজ্ঞি করতে এসেছিল -",
+          "options": [
+            "(ক) বেদজ্ঞ পণ্ডিত কুল-পুরোহিত"
+          ],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "বড়ো বাড়ির হোম-যজ্ঞি করতে এসেছিল - এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_B_q_1.10",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_B_6",
+          "section_id": "B",
+          "question_number_raw": "২.৬",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "কে বাঁচায় কে বাঁচে বলতে কী বোঝায়? একটি বাক্যে লেখো।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_B_q_1.13",
+          "section_id": "B",
+          "question_number_raw": "২.৭",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "“রক্তের অক্ষরে দেখিলাম ” – কী দেখলেন ?",
+          "options": [
+            "(ক) আপনার স্বপ্ন আপনার বেদনা"
+          ],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“রক্তের অক্ষরে দেখিলাম ” – কী দেখলেন ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_B_q_1.13",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_B_8",
+          "section_id": "B",
+          "question_number_raw": "২.৮",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "ভাষাতত্ত্ব বলতে কী বোঝায়? একটি বাক্যে লেখো।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_B_q_1.20",
+          "section_id": "B",
+          "question_number_raw": "২.৯",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "রামব্রীজকে রজনীবাবু কত টাকা বক্‌শিশ দিয়েছিলেন ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "রামব্রীজকে রজনীবাবু কত টাকা বক্‌শিশ দিয়েছিলেন ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_B_q_1.20",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_B_10",
+          "section_id": "B",
+          "question_number_raw": "২.১০",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "ভারতবর্ষ বলতে কী বোঝায়? একটি বাক্যে লেখো।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    },
+    {
+      "section_id": "C",
+      "section_name": "বিভাগ—গ (Group C: SA)",
+      "description": "সংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন (২ নম্বর)",
+      "total_marks": 10.0,
+      "instructions": "সংক্ষেপে উত্তর দাও (বিকল্প প্রশ্ন লক্ষণীয়):",
+      "questions": [
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_A_q_1.1",
+          "section_id": "C",
+          "question_number_raw": "৩.১",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "“এ সংসারে সব কিছুই চলে বড়ো পিসিমার নিয়মে।” বড়ো পিসিমা কে ? গল্পে তার চরিত্রের কী",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“এ সংসারে সব কিছুই চলে বড়ো পিসিমার নিয়মে।” বড়ো পিসিমা কে ? গল্পে তার চরিত্রের কী এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_A_q_1.1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_C_2",
+          "section_id": "C",
+          "question_number_raw": "৩.২",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "ভাষাতত্ত্ব-এর দুটি গুরুত্বপূর্ণ বৈশিষ্ট্য এবং ব্যবহারিক তাৎপর্য সংক্ষেপে উল্লেখ করো।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, ভাষাতত্ত্ব-এর সাথে সংশ্লিষ্ট প্রধান পার্থক্যের দুটি দিক আলোচনা করো।",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_A_q_8.2",
+          "section_id": "C",
+          "question_number_raw": "৩.৩",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "“কে আবার গড়ে তুলল এতবার ?” কী গড়ে তোলার কথা বলা হয়েছে ? এই প্রশ্নের মাধ্যমে কবি কী বলতে চেয়েছেন ? ১ + ৪ a.",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“কে আবার গড়ে তুলল এতবার ?” কী গড়ে তোলার কথা বলা হয়েছে ? এই প্রশ্নের মাধ্যমে কবি কী বলতে চেয়েছেন ? ১ + ৪ a. এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_A_q_8.2",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_C_4",
+          "section_id": "C",
+          "question_number_raw": "৩.৪",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "ভারতবর্ষ-এর দুটি গুরুত্বপূর্ণ বৈশিষ্ট্য এবং ব্যবহারিক তাৎপর্য সংক্ষেপে উল্লেখ করো।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, ভারতবর্ষ-এর সাথে সংশ্লিষ্ট প্রধান পার্থক্যের দুটি দিক আলোচনা করো।",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_A_q_5.1",
+          "section_id": "C",
+          "question_number_raw": "৩.৫",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "“এ-অঞ্চলের গারোদের ঘর দূর থেকে দেখলেই চেনা যায়” গারোদের ঘর কেমন তার বিবরণ দাও । কোন্ অঞ্চলের কথা বলা হয়েছে ? ১ + ৪",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“এ-অঞ্চলের গারোদের ঘর দূর থেকে দেখলেই চেনা যায়” গারোদের ঘর কেমন তার বিবরণ দাও । কোন্ অঞ্চলের কথা বলা হয়েছে ? ১ + ৪ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_A_q_5.1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_C_6",
+          "section_id": "C",
+          "question_number_raw": "৩.৬",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "কে বাঁচায় কে বাঁচে-এর দুটি গুরুত্বপূর্ণ বৈশিষ্ট্য এবং ব্যবহারিক তাৎপর্য সংক্ষেপে উল্লেখ করো।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, কে বাঁচায় কে বাঁচে-এর সাথে সংশ্লিষ্ট প্রধান পার্থক্যের দুটি দিক আলোচনা করো।",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_A_q_5.2",
+          "section_id": "C",
+          "question_number_raw": "৩.৭",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "“জেলখানাটা পাহাড়ের তিনতলা সমান একটা হাঁটুর ওপর।” কোন্ জেলখানা ? সেখানে সাধারণ কয়েদিদের ওপর কীরকম অত্যাচার করা হত ? ১ + ৪",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“জেলখানাটা পাহাড়ের তিনতলা সমান একটা হাঁটুর ওপর।” কোন্ জেলখানা ? সেখানে সাধারণ কয়েদিদের ওপর কীরকম অত্যাচার করা হত ? ১ + ৪ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_A_q_5.2",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    },
+    {
+      "section_id": "D",
+      "section_name": "বিভাগ—ঘ (Group D: LA)",
+      "description": "দীর্ঘ উত্তরভিত্তিক / গাণিতিক সমস্যা",
+      "total_marks": 14.0,
+      "instructions": "নিচের প্রশ্নগুলির বিস্তারিত সমাধান ও ব্যাখ্যা লেখো:",
+      "questions": [
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_A_q_1.2",
+          "section_id": "D",
+          "question_number_raw": "৪.১",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.666666666666667,
+          "question_text": "পরিচয় পাওয়া যায় ? “সেই সময় এল এক বুড়ি।” ১ + ৪ লেখক বুড়ির সম্পর্কে যে বর্ণনা দিয়েছেন তা নিজের ভাষায় লেখো। ৫ “আরোগ্যের জন্য ঐ সবুজের ভীষণ দরকার” সবুজকে পাওয়ার জন্য কবি কী কী নির্দেশ দিয়েছেন ? ‘ঐ সবুজ' বলতে কবি কী বুঝিয়েছেন ? সেই ১ +8 “আমি তা পারি না।” – কবি কী পারেন না ? “যা পারি কেবল” – কবি কী পারেন P 3 + 2",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "পরিচয় পাওয়া যায় ? “সেই সময় এল এক বুড়ি।” ১ + ৪ লেখক বুড়ির সম্পর্কে যে বর্ণনা দিয়েছেন তা নিজের ভাষায় লেখো। ৫ “আরোগ্যের জন্য ঐ সবুজের ভীষণ দরকার” সবুজকে পাওয়ার জন্য কবি কী কী নির্দেশ দিয়েছেন ? ‘ঐ সবুজ' বলতে কবি কী বুঝিয়েছেন ? সেই ১ +8 “আমি তা পারি না।” – কবি কী পারেন না ? “যা পারি কেবল” – কবি কী পারেন P 3 + 2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_A_q_1.2",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_D_2",
+          "section_id": "D",
+          "question_number_raw": "৪.২",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.666666666666667,
+          "question_text": "ভাষাতত্ত্ব-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, ভাষাতত্ত্ব-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_A_q_3.1",
+          "section_id": "D",
+          "question_number_raw": "৪.৩",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.666666666666667,
+          "question_text": "“আমি রোজ লুকিয়ে লুকিয়ে গ্রিনরুমে ঘুমোই চাটুজ্জেমশাই কেউ জানে না” কোন্ নাটকের অংশ ? বক্তা কে ? তিনি কেন গ্রিনরুমে ঘুমোন ? কে, কাকে বলেছেন ? বক্তা জীবনকে কোথায় খুঁজে পাওয়া যাবে বলে মনে ১+১+৩ করেন ? ১+১+৩ 8. “অবাক-বিহ্বল বসে আছি, মুখে কথা নেই।” – মুখে কথা নেই কেন ? \"",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“আমি রোজ লুকিয়ে লুকিয়ে গ্রিনরুমে ঘুমোই চাটুজ্জেমশাই কেউ জানে না” কোন্ নাটকের অংশ ? বক্তা কে ? তিনি কেন গ্রিনরুমে ঘুমোন ? কে, কাকে বলেছেন ? বক্তা জীবনকে কোথায় খুঁজে পাওয়া যাবে বলে মনে ১+১+৩ করেন ? ১+১+৩ 8. “অবাক-বিহ্বল বসে আছি, মুখে কথা নেই।” – মুখে কথা নেই কেন ? \" এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_A_q_3.1",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_Ben_D_4",
+          "section_id": "D",
+          "question_number_raw": "৪.৪",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.666666666666667,
+          "question_text": "ভারতবর্ষ-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, ভারতবর্ষ-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Bengali পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Bengali_Part_A_q_6.1",
+          "section_id": "D",
+          "question_number_raw": "৪.৫",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.666666666666667,
+          "question_text": "বিভাজ্য ধ্বনি কাকে বলে ? দুটি বিভাজ্য ধ্বনির পরিচয় দাও। ১+২+২ ফলিত ভাষাবিজ্ঞানের বিভিন্ন শাখাগুলির উল্লেখ করে যে-কোনো একটি শাখার আলোচনা করো। 2+3",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "বিভাজ্য ধ্বনি কাকে বলে ? দুটি বিভাজ্য ধ্বনির পরিচয় দাও। ১+২+২ ফলিত ভাষাবিজ্ঞানের বিভিন্ন শাখাগুলির উল্লেখ করে যে-কোনো একটি শাখার আলোচনা করো। 2+3 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Bengali_Part_A_q_6.1",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    }
+  ],
+  "mode": "HYBRID",
+  "created_at": "2026-09-17T10:55:25.003028"
+}

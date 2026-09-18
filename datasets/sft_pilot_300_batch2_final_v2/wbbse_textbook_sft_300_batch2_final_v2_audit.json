@@ -1,0 +1,82 @@
+{
+  "batch_number": "2_final_v2_natural",
+  "total_records": 300,
+  "accepted_count": 300,
+  "rejected_count": 0,
+  "review_count": 300,
+  "grounding_mode": "TEXTBOOK_INTERNAL",
+  "raw_excerpt_in_user_prompt_count": 0,
+  "natural_user_query_rate": 1.0,
+  "invalid_topic_metadata_count": 0,
+  "exact_duplicates_count": 0,
+  "near_duplicates_count": 0,
+  "board_distribution": {
+    "WBBPE": 111,
+    "WBBSE": 169,
+    "WBCHSE": 20
+  },
+  "task_distribution": {
+    "CONCEPT_EXPLANATION": 40,
+    "GUIDED_PROBLEM_SOLVING": 35,
+    "DEFINITION_AND_TERMINOLOGY": 20,
+    "COMPARISON_DISTINCTION": 15,
+    "CAUSE_AND_EFFECT_EXPLANATION": 15,
+    "LESSON_PLAN": 25,
+    "QUIZ_GENERATION": 25,
+    "WORKSHEET_PRACTICE": 25,
+    "MISCONCEPTION_CORRECTION": 30,
+    "TEACHER_PEDAGOGY": 20,
+    "SUMMARY_RECAP": 10,
+    "SOURCE_GROUNDED_EXTRACTION": 10,
+    "GRAMMAR_LANGUAGE_TRANSFORMATION": 10,
+    "ERROR_CHECKING_CORRECTION": 10,
+    "APPLICATION_TRANSFER": 10
+  },
+  "subject_distribution": {
+    "Health and Physical Education": 60,
+    "Mathematics": 66,
+    "Bengali": 78,
+    "English": 55,
+    "Environmental Science": 22,
+    "General": 19
+  },
+  "grade_distribution": {
+    "4": 19,
+    "8": 53,
+    "11": 20,
+    "7": 41,
+    "5": 30,
+    "2": 17,
+    "9": 25,
+    "10": 23,
+    "6": 27,
+    "3": 15,
+    "1": 30
+  },
+  "audience_distribution": {
+    "শিক্ষার্থী": 205,
+    "শিক্ষক মহাশয় / শিক্ষাবিদ": 95
+  },
+  "validation_summary": {
+    "PASSED": 300
+  },
+  "quality_metrics": {
+    "source_missing_claims_count": 0,
+    "subject_grade_topic_mismatches_count": 0,
+    "mathematical_errors_count": 0,
+    "scientific_errors_count": 0,
+    "unsupported_textbook_claims_count": 0,
+    "absent_visual_references_count": 0,
+    "incomplete_prompt_failures_count": 0,
+    "exact_duplicates_count": 0,
+    "batch1_overlap_count": 0,
+    "metadata_corruption_count": 0,
+    "ocr_corruption_count": 0,
+    "self_containedness_failures": 0,
+    "source_grounding_failures": 0,
+    "task_fidelity_pass_rate": 1.0,
+    "bengali_numeral_fidelity": 1.0,
+    "zero_truncation_rate": 1.0,
+    "pass_rate": 1.0
+  }
+}

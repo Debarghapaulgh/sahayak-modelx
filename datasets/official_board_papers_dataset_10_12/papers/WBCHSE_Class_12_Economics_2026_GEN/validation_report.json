@@ -1,0 +1,22 @@
+{
+  "paper_id": "WBCHSE_Class_12_Economics_2026_GEN",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: ['জাতীয় আয় বলতে কী বোঝায়? একট', 'ব্যাংকিং ব্যবস্থা বলতে কী বোঝা', 'চাহিদা ও যোগানের স্থিতিস্থাপকত', 'উৎপাদন তত্ত্ব ও ব্যয় বলতে কী ', 'বাজারের বিভিন্ন রূপ বলতে কী বো', 'ব্যাংকিং ব্যবস্থা-এর দুটি গুরু', 'চাহিদা ও যোগানের স্থিতিস্থাপকত', 'উৎপাদন তত্ত্ব ও ব্যয়-এর দুটি ', 'বাজারের বিভিন্ন রূপ-এর দুটি গু', 'জাতীয় আয়-এর মূল কার্যপদ্ধতি ', 'ব্যাংকিং ব্যবস্থা-এর মূল কার্য']"
+  ],
+  "metrics": {
+    "total_questions": 55,
+    "total_sections": 4,
+    "total_marks": 80.0,
+    "calculated_marks": 80.0,
+    "provenance_counts": {
+      "HISTORICAL": 23,
+      "GENERATED": 32
+    }
+  }
+}

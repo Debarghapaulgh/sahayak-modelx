@@ -1,0 +1,17 @@
+{
+  "dataset_name": "topic_based_question_papers_9_10",
+  "version": "1.0.0",
+  "board": "WBBSE",
+  "classes": [
+    "Class 9",
+    "Class 10"
+  ],
+  "total_papers": 100,
+  "total_questions": 2314,
+  "files": {
+    "sft_conversations": "datasets/topic_based_question_papers_9_10\\topic_based_sft_9_10.jsonl",
+    "questions": "datasets/topic_based_question_papers_9_10\\topic_based_questions_9_10.jsonl",
+    "papers": "datasets/topic_based_question_papers_9_10\\topic_based_papers_9_10.jsonl",
+    "audit": "datasets/topic_based_question_papers_9_10\\topic_based_audit.json"
+  }
+}

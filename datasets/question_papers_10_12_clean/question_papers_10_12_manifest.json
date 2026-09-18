@@ -1,0 +1,25 @@
+{
+  "dataset_name": "question_papers_10_12_clean",
+  "version": "1.0.0",
+  "boards": [
+    "WBBSE",
+    "WBCHSE"
+  ],
+  "classes": [
+    "Class 10",
+    "Class 12"
+  ],
+  "total_clean_questions": 7162,
+  "total_reconstructed_papers": 147,
+  "total_blueprints": 23,
+  "total_sft_conversations": 154,
+  "files": {
+    "historical_sft_conversations": "datasets/question_papers_10_12_clean\\historical_sft_10_12.jsonl",
+    "historical_questions": "datasets/question_papers_10_12_clean\\historical_questions_10_12.jsonl",
+    "historical_papers": "datasets/question_papers_10_12_clean\\historical_papers_10_12.jsonl",
+    "assessment_blueprints": "datasets/question_papers_10_12_clean\\assessment_blueprints_10_12.json",
+    "review_queue": "datasets/question_papers_10_12_clean\\question_papers_10_12_review.jsonl",
+    "excluded_records": "datasets/question_papers_10_12_clean\\question_papers_10_12_excluded.jsonl",
+    "audit_report": "datasets/question_papers_10_12_clean\\question_papers_10_12_audit.json"
+  }
+}

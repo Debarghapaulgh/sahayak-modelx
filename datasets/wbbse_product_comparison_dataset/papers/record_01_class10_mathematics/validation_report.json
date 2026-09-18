@@ -1,0 +1,27 @@
+{
+  "paper_id": "wbbse_class10_mathematics_1a53f8d5",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 1.0,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "total_questions": 52,
+    "total_sections": 5,
+    "total_marks": 90.0,
+    "calculated_marks": 90.0,
+    "provenance_counts": {
+      "HISTORICAL": 52
+    },
+    "blueprint_source": "OFFICIAL_HISTORICAL_WBBSE_CLASS_10",
+    "chapter_mode": "FULL_SYLLABUS",
+    "cognitive_distribution": {
+      "REMEMBERING": 12,
+      "APPLYING": 27,
+      "EVALUATING": 9,
+      "ANALYSING": 4
+    }
+  }
+}

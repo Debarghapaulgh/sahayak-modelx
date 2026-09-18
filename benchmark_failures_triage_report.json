@@ -1,0 +1,951 @@
+{
+  "total_failures": 68,
+  "cause_breakdown": {
+    "LAYOUT": 46,
+    "OCR": 22
+  },
+  "failures_by_paper": {
+    "HS_Sem3_English_Model_Question.pdf": {
+      "LAYOUT": 8,
+      "OCR": 2
+    },
+    "HS_Sem3_Biology_Model_Question.pdf": {
+      "LAYOUT": 24,
+      "OCR": 4
+    },
+    "WBBSE_Madhyamik_Physical_Science_Question_Paper_2024.pdf": {
+      "LAYOUT": 1
+    },
+    "WBBSE_Madhyamik_Mathematics_Question_Paper_2024.pdf": {
+      "LAYOUT": 3,
+      "OCR": 2
+    },
+    "WBBSE_Madhyamik_Life_Science_Question_Paper_2024.pdf": {
+      "LAYOUT": 5,
+      "OCR": 1
+    },
+    "WB_Madhyamik_English_Question_Paper_2025.pdf": {
+      "OCR": 10,
+      "LAYOUT": 1
+    },
+    "WBBSE_Madhyamik_Bengali_Question_Paper_2024.pdf": {
+      "LAYOUT": 4,
+      "OCR": 3
+    }
+  },
+  "all_triaged_records": [
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0078",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 31,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'Creeper'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Creeper",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0086",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 32,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: 'Arch'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Arch",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0095",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 33,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'Keening'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Keening",
+      "options_count": 8
+    },
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0120",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 37,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'Humble'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Humble",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0121",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 37,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: 'Wise'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Wise",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0122",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 37,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'Greedy'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Greedy",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0123",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 37,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'Honest'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Honest",
+      "options_count": 12
+    },
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0152",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 46,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'Python'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Python",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0154",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 46,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'Kokilas'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Kokilas",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_english_hs_sem3_english_model_question_q_0189",
+      "paper_id": "wbchse_english_hs_sem3_english_model_question",
+      "exam_title": "HS_Sem3_English_Model_Question.pdf",
+      "page": 54,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'Prayer'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Prayer",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0049",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 10,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0050",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 10,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0051",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 10,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0052",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 11,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0053",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 11,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 10
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0054",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 11,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0055",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 11,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0075",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 17,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0178",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 35,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 10
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0179",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 35,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0180",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 35,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0181",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 36,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0182",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 36,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0183",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 36,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0184",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 36,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0185",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 36,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0224",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 44,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '+ XY'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "+ XY",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0225",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 44,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '+ XX'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "+ XX",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0227",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 44,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '+ XO'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "+ XO",
+      "options_count": 4
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0249",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 49,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'n + 2'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "n + 2",
+      "options_count": 8
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0286",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 57,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '34nm'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "34nm",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0346",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 66,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'ছত্রাক'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "ছত্রাক",
+      "options_count": 4
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0481",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 92,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'Mammals'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "Mammals",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0497",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 106,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 9
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0512",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 108,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'HIV\na .'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "HIV\na .",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0522",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 109,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0531",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 110,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 9
+    },
+    {
+      "question_id": "wbchse_biology_hs_sem3_biology_model_question_q_0543",
+      "paper_id": "wbchse_biology_hs_sem3_biology_model_question",
+      "exam_title": "HS_Sem3_Biology_Model_Question.pdf",
+      "page": 111,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বিবৃতি'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বিবৃতি",
+      "options_count": 5
+    },
+    {
+      "question_id": "wbbse_physical_science_wbbse_madhyamik_physical_science_question_paper_2024_q_0012",
+      "paper_id": "wbbse_physical_science_wbbse_madhyamik_physical_science_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Physical_Science_Question_Paper_2024.pdf",
+      "page": 3,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'A\n3a , 4ẞ'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "A\n3a , 4ẞ",
+      "options_count": 3
+    },
+    {
+      "question_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024_q_0004",
+      "paper_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Mathematics_Question_Paper_2024.pdf",
+      "page": 1,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: '( d )'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "( d )",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024_q_0009",
+      "paper_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Mathematics_Question_Paper_2024.pdf",
+      "page": 2,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '2'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "2",
+      "options_count": 1
+    },
+    {
+      "question_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024_q_0010",
+      "paper_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Mathematics_Question_Paper_2024.pdf",
+      "page": 2,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '4'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "4",
+      "options_count": 1
+    },
+    {
+      "question_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024_q_0019",
+      "paper_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Mathematics_Question_Paper_2024.pdf",
+      "page": 3,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: '3 : 4'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "3 : 4",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024_q_0047",
+      "paper_id": "wbbse_mathematics_wbbse_madhyamik_mathematics_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Mathematics_Question_Paper_2024.pdf",
+      "page": 7,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: '10-15 15-20 20-25'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "10-15 15-20 20-25",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024_q_0008",
+      "paper_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Life_Science_Question_Paper_2024.pdf",
+      "page": 2,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'নীচের ।'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "নীচের ।",
+      "options_count": 2
+    },
+    {
+      "question_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024_q_0010",
+      "paper_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Life_Science_Question_Paper_2024.pdf",
+      "page": 2,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'নাইট্রে'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "নাইট্রে",
+      "options_count": 3
+    },
+    {
+      "question_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024_q_0014",
+      "paper_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Life_Science_Question_Paper_2024.pdf",
+      "page": 2,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'গরুমা'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "গরুমা",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024_q_0016",
+      "paper_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Life_Science_Question_Paper_2024.pdf",
+      "page": 2,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: '2 : 4\n( ঘ )\n( 51 )'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "2 : 4\n( ঘ )\n( 51 )",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024_q_0017",
+      "paper_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Life_Science_Question_Paper_2024.pdf",
+      "page": 2,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: '2 : 1\n( ঘ )'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "2 : 1\n( ঘ )",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024_q_0027",
+      "paper_id": "wbbse_life_science_wbbse_madhyamik_life_science_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Life_Science_Question_Paper_2024.pdf",
+      "page": 4,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '৪'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "৪",
+      "options_count": 3
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0001",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 2,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: 'j<' L:J'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "j<' L:J",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0002",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 3,
+      "cause": "OCR",
+      "reason_detail": "Corrupted characters / binary encoding artifacts in OCR text",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "CORRUPTED_OCR_CHARS"
+      ],
+      "text_snippet": "people outside the house\nAns: _______________________ _\n(e)\nWith tears of rage and pain in eyes, the guest affects to be",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0003",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 3,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'unhappy'",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "unhappy",
+      "options_count": 4
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0005",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 5,
+      "cause": "OCR",
+      "reason_detail": "Corrupted characters / binary encoding artifacts in OCR text",
+      "audit_flags": [
+        "TEXT_INSUFFICIENT_OR_FRAGMENT",
+        "CORRUPTED_OCR_CHARS"
+      ],
+      "text_snippet": ":.1\n\u0003;<'\ncd",
+      "options_count": 8
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0007",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 7,
+      "cause": "OCR",
+      "reason_detail": "Corrupted characters / binary encoding artifacts in OCR text",
+      "audit_flags": [
+        "CORRUPTED_OCR_CHARS"
+      ],
+      "text_snippet": "\"Conservation of these saltwater monsters\" refers to conservation of\n.,.14\u0004\noo· \u0003\n{",
+      "options_count": 15
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0008",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 8,
+      "cause": "OCR",
+      "reason_detail": "Corrupted characters / binary encoding artifacts in OCR text",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "CORRUPTED_OCR_CHARS"
+      ],
+      "text_snippet": "What were the main objectives of the crocodile conservation project ?\nAns: ------------------------\n'\nl!Jo/00\n(ii)\nWhy w",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0011",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 9,
+      "cause": "OCR",
+      "reason_detail": "Corrupted characters / binary encoding artifacts in OCR text",
+      "audit_flags": [
+        "CORRUPTED_OCR_CHARS"
+      ],
+      "text_snippet": "Do as directed :\nl!l\u0004'.l!I\n[!I\u0003[!]\nY.i,!. • ...\n,.i\"k,",
+      "options_count": 1
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0013",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 10,
+      "cause": "OCR",
+      "reason_detail": "Corrupted characters / binary encoding artifacts in OCR text",
+      "audit_flags": [
+        "CORRUPTED_OCR_CHARS"
+      ],
+      "text_snippet": "The people were very much stunned. They could not speak in the r\u0002\nAns: ____________________ _\nbeginning. (Join the sente",
+      "options_count": 2
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0020",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 11,
+      "cause": "OCR",
+      "reason_detail": "Corrupted characters / binary encoding artifacts in OCR text",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "CORRUPTED_OCR_CHARS"
+      ],
+      "text_snippet": "i-\u0007· ·,.,\n\u0004;t-\nr,;, • \u0002\n[!l\u0003\n\u0004 -",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0021",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 11,
+      "cause": "OCR",
+      "reason_detail": "Corrupted characters / binary encoding artifacts in OCR text",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "CORRUPTED_OCR_CHARS"
+      ],
+      "text_snippet": "Write a letter to the editor of an English dally complaining about the\n10\npollution caused by fire crackers. (In about 1",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_english_wb_madhyamik_english_question_paper_2025_q_0023",
+      "paper_id": "wbbse_english_wb_madhyamik_english_question_paper_2025",
+      "exam_title": "WB_Madhyamik_English_Question_Paper_2025.pdf",
+      "page": 13,
+      "cause": "OCR",
+      "reason_detail": "Corrupted characters / binary encoding artifacts in OCR text",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "CORRUPTED_OCR_CHARS"
+      ],
+      "text_snippet": "Write a newspaper report (in about 100 words) on a ctacoity In your area. Yoo\n[!)bl(!]\nmay use the following points :\nt\u0002",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024_q_0055",
+      "paper_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Bengali_Question_Paper_2024.pdf",
+      "page": 6,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'মানব ক'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "মানব ক",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024_q_0057",
+      "paper_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Bengali_Question_Paper_2024.pdf",
+      "page": 6,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'বই মানু'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "বই মানু",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024_q_0059",
+      "paper_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Bengali_Question_Paper_2024.pdf",
+      "page": 6,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: 'দেশভ্রম'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "দেশভ্রম",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024_q_0065",
+      "paper_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Bengali_Question_Paper_2024.pdf",
+      "page": 6,
+      "cause": "LAYOUT",
+      "reason_detail": "Split column or truncated line: '“ তার'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "“ তার",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024_q_0071",
+      "paper_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Bengali_Question_Paper_2024.pdf",
+      "page": 6,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '“ কে'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "“ কে",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024_q_0074",
+      "paper_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Bengali_Question_Paper_2024.pdf",
+      "page": 6,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '“ বু'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "“ বু",
+      "options_count": 0
+    },
+    {
+      "question_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024_q_0076",
+      "paper_id": "wbbse_bengali_wbbse_madhyamik_bengali_question_paper_2024",
+      "exam_title": "WBBSE_Madhyamik_Bengali_Question_Paper_2024.pdf",
+      "page": 6,
+      "cause": "OCR",
+      "reason_detail": "Short OCR noise/fragment artifact: '“ ধি'",
+      "audit_flags": [
+        "NO_TERMINAL_PUNCTUATION",
+        "TEXT_INSUFFICIENT_OR_FRAGMENT"
+      ],
+      "text_snippet": "“ ধি",
+      "options_count": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "status": "COMPLETED",
+  "completed": 500,
+  "target": 500,
+  "percent": 100.0,
+  "speed_records_per_sec": 0.75,
+  "speed_records_per_min": 45.29,
+  "elapsed_seconds": 662.4,
+  "eta_minutes": 0.0,
+  "parts": {
+    "PART_A": 200,
+    "PART_B": 200,
+    "PART_C": 100
+  },
+  "models": {
+    "sarvam-105b-conversations": 331,
+    "sarvam-105b": 123,
+    "openai/gpt-oss-120b": 29,
+    "qwen/qwen3.8-27b": 17
+  },
+  "last_updated": "2026-09-18T10:36:38Z"
+}

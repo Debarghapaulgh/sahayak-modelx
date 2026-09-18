@@ -1,0 +1,1870 @@
+{
+  "paper_id": "WBBSE_Class_10_Bengali_2026_GEN",
+  "board": "WBBSE",
+  "class_level": "Class 10",
+  "subject": "Bengali",
+  "medium": "Bengali",
+  "year": "2026",
+  "total_marks": 90.0,
+  "duration_minutes": 180,
+  "title": "WBBSE Class 10 — Bengali আদর্শ প্রশ্নপত্র",
+  "general_instructions": [
+    "পরীক্ষার পূর্ণমান: 90 | সময়: 180 মিনিট।",
+    "সমস্ত প্রশ্নের উত্তর পরিচ্ছন্নভাবে উত্তরপত্রে লিখতে হবে।",
+    "প্রয়োজনীয় ক্ষেত্রে মার্জিন ও খসড়া কার্য প্রদর্শন করতে হবে।"
+  ],
+  "sections": [
+    {
+      "section_id": "A",
+      "section_name": "বিভাগ—ক (Group A: MCQ)",
+      "description": "বহুবিকল্পভিত্তিক প্রশ্ন",
+      "total_marks": 18.0,
+      "instructions": "প্রতিটি প্রশ্নের সঠিক বিকল্পটি নির্বাচন করে লেখো:",
+      "questions": [
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.1",
+          "section_id": "A",
+          "question_number_raw": "১.১",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "গিরীশ মহাপাত্রের সাথে অপূর্বর কোথায় দেখা হয়েছিল?",
+          "options": [
+            "(ক) পুলিশ-স্টেশনে",
+            "(গ) রেল স্টেশনে"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) পুলিশ-স্টেশনে",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) পুলিশ-স্টেশনে",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.2",
+          "section_id": "A",
+          "question_number_raw": "১.২",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "বাইজির ছদ্মবেশে হরিদার রোজগার হয়েছিল-",
+          "options": [
+            "(ক) আট টাকা দশ আনা",
+            "(গ) দশ টাকা চার আনা",
+            "(খ) জাহাজঘাটায়",
+            "(ঘ) বিমান বন্দরে",
+            "(খ) আট টাকা আট আনা",
+            "(ঘ) দশ টাকা দশ আনা"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) আট টাকা দশ আনা",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) আট টাকা দশ আনা",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.3",
+          "section_id": "A",
+          "question_number_raw": "১.৩",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "হোলির দিন দলের ছেলেরা অমৃত আর ইসাবকে একরকম পোশাকে দেখে কী করতে বলেছিল?",
+          "options": [
+            "(ক) ছবি আঁকতে",
+            "(খ) হোলি খেলতে",
+            "(ঘ) ফুটবল খেলতে",
+            "(খ) পদ্মাবতী",
+            "(ঘ) তোহফা",
+            "(গ) কুস্তি লড়তে"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) ছবি আঁকতে",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) ছবি আঁকতে",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.3",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.4",
+          "section_id": "A",
+          "question_number_raw": "১.৪",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "’সিন্ধুতীরে' কাব্যাংশটি কোন্ কাব্যগ্রন্থের অন্তর্গত?",
+          "options": [
+            "(ক) লোরচন্দ্রাণী",
+            "(গ) সতীময়না"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) লোরচন্দ্রাণী",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) লোরচন্দ্রাণী",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.4",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.5",
+          "section_id": "A",
+          "question_number_raw": "১.৫",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "“প্রদোষ কাল ঝঞ্ঝাবাতাসে রুদ্ধশ্বাস,”- ’প্রদোষ' শব্দের অর্থ—",
+          "options": [
+            "(ক) সন্ধ্যা",
+            "(গ) রাত্রি"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) সন্ধ্যা",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) সন্ধ্যা",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.5",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.7",
+          "section_id": "A",
+          "question_number_raw": "১.৬",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "“সিজার যে কলমটি দিয়ে কাসকাকে আঘাত করেছিলেন” তার পোশাকি নাম ST2017",
+          "options": [
+            "(ক) রিজার্ভার",
+            "(গ) পার্কার 1",
+            "(খ) স্টাইলাস",
+            "(ঘ) পাইলট Turn over SRK-C (FL)"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) রিজার্ভার",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) রিজার্ভার",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.7",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.8",
+          "section_id": "A",
+          "question_number_raw": "১.৭",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "নিজের হাতের কলমের আঘাতের মৃত্যু হয়েছিল যে লেখকের, তাঁর নাম—",
+          "options": [
+            "(ক) বনফুল",
+            "(গ) ত্রৈলোক্যনাথ মুখোপাধ্যায়",
+            "(খ) পরশুরাম",
+            "(ঘ) শৈলজানন্দ মুখোপাধ্যায়"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) বনফুল",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) বনফুল",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.8",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.9",
+          "section_id": "A",
+          "question_number_raw": "১.৮",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "যাদের জন্য বিজ্ঞান বিষয়ক বাংলা গ্রন্থ বা প্রবন্ধ লেখা হয় তাদের প্রথম শ্রেণিটি—",
+          "options": [
+            "(ক) ইংরেজি ভাষায় দক্ষ",
+            "(গ) ইংরেজি জানে না বা অতি অল্প জানে"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) ইংরেজি ভাষায় দক্ষ",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) ইংরেজি ভাষায় দক্ষ",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.9",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.11",
+          "section_id": "A",
+          "question_number_raw": "১.৯",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "’তিরিশ বছর ভিজায়ে রেখেছি দুই নয়নের জলে।' নিম্নরেখ পদটি",
+          "options": [
+            "(ক) অপাদান কারক",
+            "(খ) কর্ম কারক",
+            "(গ) কারণ কারক"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) অপাদান কারক",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) অপাদান কারক",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.11",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.13",
+          "section_id": "A",
+          "question_number_raw": "১.১০",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "ইসাবের সঙ্গে কুস্তি লড়তে তো একেবারেই গররাজি নিম্নরেখ পদটি কোন্ সমাসের উদাহরণ?",
+          "options": [
+            "(ক) অব্যয়ীভাব",
+            "(গ) বহুব্রীহি",
+            "(খ) নঞ তৎপুরুষ",
+            "(ঘ) কর্মধারয়"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) অব্যয়ীভাব",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) অব্যয়ীভাব",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.13",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.14",
+          "section_id": "A",
+          "question_number_raw": "১.১১",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "“এইটুকু কাশির পরিশ্রমেই সে হাঁপাইতে লাগিল”–বাক্যটি কোন্ শ্রেণির?",
+          "options": [
+            "(ক) সরল বাক্য",
+            "(গ) যৌগিক বাক্য",
+            "(খ) জটিল বাক্য",
+            "(ঘ) মিশ্র বাক্য"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) সরল বাক্য",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) সরল বাক্য",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.14",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.15",
+          "section_id": "A",
+          "question_number_raw": "১.১২",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "যে বাক্যে সাধারণভাবে কোনো কিছুর বর্ণনা বা বিবৃতি থাকে, তাকে বলা হয়—",
+          "options": [
+            "(ক) অনুজ্ঞাসূচক বাক্য",
+            "(গ) আবেগসূচক বাক্য"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) অনুজ্ঞাসূচক বাক্য",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) অনুজ্ঞাসূচক বাক্য",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.15",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.16",
+          "section_id": "A",
+          "question_number_raw": "১.১৩",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "যে বাক্যে কর্ম কর্তা রূপে প্রতীয়মান হয় তাকে বলে—",
+          "options": [
+            "(ক) কর্মবাচ্য",
+            "(গ) ভাববাচ্য",
+            "(খ) নির্দেশক বাক্য",
+            "(ঘ) প্রশ্নবোধক বাক্য",
+            "(খ) কর্তৃবাচ্য",
+            "(ঘ) কর্মকর্তৃবাচ্য"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) কর্মবাচ্য",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) কর্মবাচ্য",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.16",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_1.17",
+          "section_id": "A",
+          "question_number_raw": "১.১৪",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "“পাঁচদিন নদীকে দেখা হয় নাই”—এটি কোন্ বাচ্যের উদাহরণ?",
+          "options": [
+            "(ক) কর্মবাচ্য ST2017",
+            "(গ) ভাববাচ্য",
+            "(খ) কর্তৃবাচ্য",
+            "(ঘ) কর্মকর্তৃবাচ্য 2 Turn over SRK-C (FL)"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) কর্মবাচ্য ST2017",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) কর্মবাচ্য ST2017",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_1.17",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2018_Bengali_q_1.1",
+          "section_id": "A",
+          "question_number_raw": "১.১৫",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "সপ্তাহে হরিদা বহুরূপী সেজে বাইরে যান –",
+          "options": [
+            "(ক) একদিন",
+            "(খ) দুদিন",
+            "(গ) চারদিন",
+            "(ঘ) পাঁচদিন in"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) একদিন",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) একদিন",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2018_Bengali_q_1.1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2018_Bengali_q_1.2",
+          "section_id": "A",
+          "question_number_raw": "১.১৬",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "তপনের মেসোমশাই কোন্ পত্রিকার সম্পাদককে চিনতেন?",
+          "options": [
+            "(ক) শুকতারা",
+            "(খ) আনন্দমেলা",
+            "(গ) সন্ধ্যাতারা",
+            "(ঘ) দেশ"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) শুকতারা",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) শুকতারা",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2018_Bengali_q_1.2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2018_Bengali_q_1.3",
+          "section_id": "A",
+          "question_number_raw": "১.১৭",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "”দয়ার সাগর! পরকে সেজে দি, নিজে খাইনে”-বক্তা হলেন -",
+          "options": [
+            "(ক) জগদীশবাবু",
+            "(খ) নিমাইবাবু",
+            "(গ) অপূর্ব",
+            "(ঘ) গিরীশ মহাপাত্র"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) জগদীশবাবু",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) জগদীশবাবু",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2018_Bengali_q_1.3",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2018_Bengali_q_1.4",
+          "section_id": "A",
+          "question_number_raw": "১.১৮",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "’সমুদ্রনৃপতি সুতা’-কে?",
+          "options": [
+            "(ক) লক্ষ্মী",
+            "(খ) পদ্মা",
+            "(গ) উমা",
+            "(ঘ) বারুণী 1 Turn over SRK-A (FL)"
+          ],
+          "correct_option": "(ক)",
+          "correct_option_text": "(ক) লক্ষ্মী",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (ক) লক্ষ্মী",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2018_Bengali_q_1.4",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    },
+    {
+      "section_id": "B",
+      "section_name": "বিভাগ—খ (Group B: VSA)",
+      "description": "অতিসংক্ষিপ্ত প্রশ্ন",
+      "total_marks": 18.0,
+      "instructions": "নির্দেশ অনুসারে অতিসংক্ষিপ্ত প্রশ্নের উত্তর দাও:",
+      "questions": [
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_1.2",
+          "section_id": "B",
+          "question_number_raw": "২.১",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "“বিষের জ্বালায় বিশ্ব পুড়ে,”–এখানে কোন্ বিষের কথা বলা হয়েছে?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“বিষের জ্বালায় বিশ্ব পুড়ে,”–এখানে কোন্ বিষের কথা বলা হয়েছে? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_1.2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_1.3",
+          "section_id": "B",
+          "question_number_raw": "২.২",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "“একটি শিশুও ছিল।”—শিশুটি সম্বন্ধে কী কী বিশেষণ ব্যবহার করা হয়েছে?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“একটি শিশুও ছিল।”—শিশুটি সম্বন্ধে কী কী বিশেষণ ব্যবহার করা হয়েছে? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_1.3",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_2.2",
+          "section_id": "B",
+          "question_number_raw": "২.৩",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "”ওটা দিতে হবে।”—কী দিতে হবে? কেন দিতে হবে? ১ + ২",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”ওটা দিতে হবে।”—কী দিতে হবে? কেন দিতে হবে? ১ + ২ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_2.2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_4",
+          "section_id": "B",
+          "question_number_raw": "২.৪",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "উৎস নির্দেশ করে যে-কোনো একটি টীকা অনধিক চারটি বাক্যে লেখো :",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "উৎস নির্দেশ করে যে-কোনো একটি টীকা অনধিক চারটি বাক্যে লেখো : এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_4",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_6.1",
+          "section_id": "B",
+          "question_number_raw": "২.৫",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "বিজ্ঞান আশীর্বাদ না অভিশাপ",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "বিজ্ঞান আশীর্বাদ না অভিশাপ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_6.1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_6.2",
+          "section_id": "B",
+          "question_number_raw": "২.৬",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "তোমার প্রিয় বই",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_6.2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_6.3",
+          "section_id": "B",
+          "question_number_raw": "২.৭",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "সমাজ-জীবনে মেলার প্রয়োজনীয়তা",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "সমাজ-জীবনে মেলার প্রয়োজনীয়তা এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_6.3",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_6.4",
+          "section_id": "B",
+          "question_number_raw": "২.৮",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "পরিবেশ সচেতনতা ও ছাত্রসমাজ",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "পরিবেশ সচেতনতা ও ছাত্রসমাজ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_6.4",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_8.3",
+          "section_id": "B",
+          "question_number_raw": "২.৯",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "“এখন ওর হারার মা-র ওপর রাগ হল।”—হারার মা-র ওপর বক্তার রাগের কারণ কী?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“এখন ওর হারার মা-র ওপর রাগ হল।”—হারার মা-র ওপর বক্তার রাগের কারণ কী? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_8.3",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_9.2",
+          "section_id": "B",
+          "question_number_raw": "২.১০",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "”দৌড় দৌড়...দৌড়”—কারা দৌড়ল? তাদের এভাবে দৌড়নোর কারণ কী?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”দৌড় দৌড়...দৌড়”—কারা দৌড়ল? তাদের এভাবে দৌড়নোর কারণ কী? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_9.2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_11",
+          "section_id": "B",
+          "question_number_raw": "২.১১",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "উৎস নির্দেশ করে যে-কোনো একটি টীক৷ অনধিক চারটি বাক্যে লেখো :",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "উৎস নির্দেশ করে যে-কোনো একটি টীক৷ অনধিক চারটি বাক্যে লেখো : এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_11",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_13.1_1",
+          "section_id": "B",
+          "question_number_raw": "২.১২",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "১ নিজগৃহপথ, তাত, দেখাও তস্করে",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "১ নিজগৃহপথ, তাত, দেখাও তস্করে এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_13.1_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_13.1_2",
+          "section_id": "B",
+          "question_number_raw": "২.১৩",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "২ সম্ভবত বহু বছর পরে এই এর প্রথম অগ্ন্যুৎপাত। (অগ্নিদেবের শয্যা)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "২ সম্ভবত বহু বছর পরে এই এর প্রথম অগ্ন্যুৎপাত। (অগ্নিদেবের শয্যা) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_13.1_2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_13.1_3",
+          "section_id": "B",
+          "question_number_raw": "২.১৪",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "৩ আবার হাততালি উঠছে মুহুর্মুহু। (উলঙ্গ রাজা)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "৩ আবার হাততালি উঠছে মুহুর্মুহু। (উলঙ্গ রাজা) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_13.1_3",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_13.2_1",
+          "section_id": "B",
+          "question_number_raw": "২.১৫",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "১ নিবারণ এখন প্রাইভেট বাসের টিকিটবাবু। (হারুন সালেমের মাসি",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "১ নিবারণ এখন প্রাইভেট বাসের টিকিটবাবু। (হারুন সালেমের মাসি এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_13.2_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_13.2_2",
+          "section_id": "B",
+          "question_number_raw": "২.১৬",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "২ পরদোষে কে চাহে মজিতে। (বিভীষণের প্রতি ইন্দ্রজিৎ)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "২ পরদোষে কে চাহে মজিতে। (বিভীষণের প্রতি ইন্দ্রজিৎ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_13.2_2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_13.2_3",
+          "section_id": "B",
+          "question_number_raw": "২.১৭",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "৩ কুটিরদ্বারে উপস্থিত হইলেন। (সভ্য ও অসভ্য)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "৩ কুটিরদ্বারে উপস্থিত হইলেন। (সভ্য ও অসভ্য) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_13.2_3",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_13.2_4",
+          "section_id": "B",
+          "question_number_raw": "২.১৮",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "৪ জানালার নীচেই একটি ঘাটবাঁধানে পুকুর ছিল। (ঘর ও বাহির)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "৪ জানালার নীচেই একটি ঘাটবাঁধানে পুকুর ছিল। (ঘর ও বাহির) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_13.2_4",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_13.3_1",
+          "section_id": "B",
+          "question_number_raw": "২.১৯",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "১ আজ তাহা স্পষ্ট ভাষায় বলা অসম্ভব। (ঘর ও বাহির )",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "১ আজ তাহা স্পষ্ট ভাষায় বলা অসম্ভব। (ঘর ও বাহির ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_13.3_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_13.3_2",
+          "section_id": "B",
+          "question_number_raw": "২.২০",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "২ শাকে-পাতায় দোষ নেই। (হারুন সালেমের মাসি)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "২ শাকে-পাতায় দোষ নেই। (হারুন সালেমের মাসি) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_13.3_2",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    },
+    {
+      "section_id": "C",
+      "section_name": "বিভাগ—গ (Group C: SA)",
+      "description": "সংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন (২ নম্বর)",
+      "total_marks": 22.0,
+      "instructions": "সংক্ষেপে উত্তর দাও (বিকল্প প্রশ্ন লক্ষণীয়):",
+      "questions": [
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_1",
+          "section_id": "C",
+          "question_number_raw": "৩.১",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "প্রতিটি উত্তর অনধিক তিনটি বাক্যে লিখে যে-কোনো তিনটি প্রশ্নের উত্তর দাও :",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "প্রতিটি উত্তর অনধিক তিনটি বাক্যে লিখে যে-কোনো তিনটি প্রশ্নের উত্তর দাও : এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_1.1",
+          "section_id": "C",
+          "question_number_raw": "৩.২",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "”পাঠাইব রামানুজে শমন-ভবনে,” –বক্তা রামানুজকে শমন-ভবনে পাঠাতে চেয়েছেন কেন?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”পাঠাইব রামানুজে শমন-ভবনে,” –বক্তা রামানুজকে শমন-ভবনে পাঠাতে চেয়েছেন কেন? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_1.1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_1.4",
+          "section_id": "C",
+          "question_number_raw": "৩.৩",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "”যখন সে নেচেছিল ইন্দ্রের সভায়।” তার নাচকে কার সঙ্গে তুলনা করা হয়েছে?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”যখন সে নেচেছিল ইন্দ্রের সভায়।” তার নাচকে কার সঙ্গে তুলনা করা হয়েছে? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_1.4",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_2",
+          "section_id": "C",
+          "question_number_raw": "৩.৪",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "প্রতিটি উত্তর কম-বেশি পাঁচটি বাক্যে লিখে যে-কোনো দুটি প্রশ্নের উত্তর দাও :",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "প্রতিটি উত্তর কম-বেশি পাঁচটি বাক্যে লিখে যে-কোনো দুটি প্রশ্নের উত্তর দাও : এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_2",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_2.1",
+          "section_id": "C",
+          "question_number_raw": "৩.৫",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "”বাংলার নদী মাঠ ভাঁটফুল ঘুঙুরের মতো তার কেঁদেছিল পায়।”—এখানে 'তার' বলতে কাকে বোঝানো হয়েছে? ’বাংলার নদী মাঠ ভাঁটফুল' কেঁদেছিল কেন?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”বাংলার নদী মাঠ ভাঁটফুল ঘুঙুরের মতো তার কেঁদেছিল পায়।”—এখানে 'তার' বলতে কাকে বোঝানো হয়েছে? ’বাংলার নদী মাঠ ভাঁটফুল' কেঁদেছিল কেন? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_2.1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_2.3",
+          "section_id": "C",
+          "question_number_raw": "৩.৬",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "”উড়ছে আজো ধর্ম-ধ্বজা” –’ধৰ্ম-ধ্বজা' কোথায় উড়ছে বলে কবি মনে করেছেন? এরকম মনে করার কারণ কী? ১ + ২",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”উড়ছে আজো ধর্ম-ধ্বজা” –’ধৰ্ম-ধ্বজা' কোথায় উড়ছে বলে কবি মনে করেছেন? এরকম মনে করার কারণ কী? ১ + ২ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_2.3",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_2.4",
+          "section_id": "C",
+          "question_number_raw": "৩.৭",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "“হে পিতৃব্য, তব বাক্যে ইচ্ছি মরিবারে।”— 'পিতৃব্য'র নাম কী? পিতৃব্যর কোন্ বাক্যের উত্তরে বক্তা এমন ইচ্ছা প্রকাশ করেছেন? ১ + ২",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“হে পিতৃব্য, তব বাক্যে ইচ্ছি মরিবারে।”— 'পিতৃব্য'র নাম কী? পিতৃব্যর কোন্ বাক্যের উত্তরে বক্তা এমন ইচ্ছা প্রকাশ করেছেন? ১ + ২ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_2.4",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_3.2",
+          "section_id": "C",
+          "question_number_raw": "৩.৮",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "'বিভীষণের প্রতি ইন্দ্ৰজিৎ' কাব্যাংশ অবলম্বনে বিভীষণ ও ইন্দ্রজিৎ চরিত্রের তুলনামূলক আলো- চনা করো। 1 Turn over SRK-E (FL)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "'বিভীষণের প্রতি ইন্দ্ৰজিৎ' কাব্যাংশ অবলম্বনে বিভীষণ ও ইন্দ্রজিৎ চরিত্রের তুলনামূলক আলো- চনা করো। 1 Turn over SRK-E (FL) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_3.2",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_5.2",
+          "section_id": "C",
+          "question_number_raw": "৩.৯",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "’চিঠি' কবিতার বিষয়বস্তু সংক্ষেপে লেখো। প্রসঙ্গক্রমে সরলার মার স্বদেশপ্রীতির পরিচয় দাও । engta",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "’চিঠি' কবিতার বিষয়বস্তু সংক্ষেপে লেখো। প্রসঙ্গক্রমে সরলার মার স্বদেশপ্রীতির পরিচয় দাও । engta এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_5.2",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_6",
+          "section_id": "C",
+          "question_number_raw": "৩.১০",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "নিম্নলিখিত যে-কোনো একটি বিষয় সম্পর্কে অনধিক ৪০০ শব্দের মধ্যে প্রবন্ধ লেখো : ১৫",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "নিম্নলিখিত যে-কোনো একটি বিষয় সম্পর্কে অনধিক ৪০০ শব্দের মধ্যে প্রবন্ধ লেখো : ১৫ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_6",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_8.1",
+          "section_id": "C",
+          "question_number_raw": "৩.১১",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "”তাহাদের পৃথিবীর অধিকাংশই তাহাদের কাছে অপব্যয়েই নষ্ট হয়।”—এমন মন্তব্যের কারণ কী?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”তাহাদের পৃথিবীর অধিকাংশই তাহাদের কাছে অপব্যয়েই নষ্ট হয়।”—এমন মন্তব্যের কারণ কী? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_8.1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_8.2",
+          "section_id": "C",
+          "question_number_raw": "৩.১২",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "”শংকর তো টলতে-টলতে তাঁবুর মধ্যে ঢুকল।”—তাঁবুর মধ্যে ঢুকে শংকর কী দেখেছিল?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”শংকর তো টলতে-টলতে তাঁবুর মধ্যে ঢুকল।”—তাঁবুর মধ্যে ঢুকে শংকর কী দেখেছিল? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_8.2",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_8.4",
+          "section_id": "C",
+          "question_number_raw": "৩.১৩",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "”জয়েনুদ্দি কছিল, কানা ফকিরে কলেরা চালান দিছে।”—কানা ফকির কীভাবে কলেরা চালান দিত?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”জয়েনুদ্দি কছিল, কানা ফকিরে কলেরা চালান দিছে।”—কানা ফকির কীভাবে কলেরা চালান দিত? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_8.4",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    },
+    {
+      "section_id": "D",
+      "section_name": "বিভাগ—ঘ (Group D: LA)",
+      "description": "দীর্ঘ উত্তরভিত্তিক / গাণিতিক সমস্যা",
+      "total_marks": 32.0,
+      "instructions": "নিচের প্রশ্নগুলির বিস্তারিত সমাধান ও ব্যাখ্যা লেখো:",
+      "questions": [
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_3.1",
+          "section_id": "D",
+          "question_number_raw": "৪.১",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "”বেটা সাধুবেশে পাকা চোর অতিশয়।”—উপেনকে তার নিজের ভিটেয় কীভাবে 'চোর' অপ- বাদ পেতে হল, তা ’দুই বিঘা জমি' কবিতা অনুসরণে আলোচনা করো ।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "”বেটা সাধুবেশে পাকা চোর অতিশয়।”—উপেনকে তার নিজের ভিটেয় কীভাবে 'চোর' অপ- বাদ পেতে হল, তা ’দুই বিঘা জমি' কবিতা অনুসরণে আলোচনা করো । এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_3.1",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_5.1",
+          "section_id": "D",
+          "question_number_raw": "৪.২",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "’লোহার ব্যথা' কবিতায় কবি কাদের ব্যথা-বেদনার কথা প্রকাশ করতে চেয়েছেন? এই ব্যথা- বেদনার কথা প্রকাশ করতে গিয়ে তিনি যেভাবে রূপকের ব্যবহার করেছেন, সে বিষয়ে আলোচনা করো। + ২",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "’লোহার ব্যথা' কবিতায় কবি কাদের ব্যথা-বেদনার কথা প্রকাশ করতে চেয়েছেন? এই ব্যথা- বেদনার কথা প্রকাশ করতে গিয়ে তিনি যেভাবে রূপকের ব্যবহার করেছেন, সে বিষয়ে আলোচনা করো। + ২ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_5.1",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_7",
+          "section_id": "D",
+          "question_number_raw": "৪.৩",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "চলিত গদ্যে বঙ্গানুবাদ করো : Once two women were quarrelling about the claim of a child. They went to the judge for justice. The judge called the executioner amd ordered, \"Cut the child into two halves and give one half to each of the women.” One of the women when she heard the order, remained silent; but the other woman began to weep. 'খ' বিভাগ 2 II = 8 Turn over SRK-E (FL)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "চলিত গদ্যে বঙ্গানুবাদ করো : Once two women were quarrelling about the claim of a child. They went to the judge for justice. The judge called the executioner amd ordered, \"Cut the child into two halves and give one half to each of the women.” One of the women when she heard the order, remained silent; but the other woman began to weep. 'খ' বিভাগ 2 II = 8 Turn over SRK-E (FL) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_7",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_10.1",
+          "section_id": "D",
+          "question_number_raw": "৪.৪",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "'জান' ও 'মান' রক্ষার জন্য রহিম যে সংগ্রাম করেছে 'ছেঁড়া তার' নাট্যাংশ অবলম্বনে তা আলোচনা করো ।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "'জান' ও 'মান' রক্ষার জন্য রহিম যে সংগ্রাম করেছে 'ছেঁড়া তার' নাট্যাংশ অবলম্বনে তা আলোচনা করো । এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_10.1",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2015_Bengali_q_10.2",
+          "section_id": "D",
+          "question_number_raw": "৪.৫",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "’সভ্য ও অসভ্য' রচনাটির কাহিনি বিশ্লেষণ করে কে প্রকৃত সভ্য, আর কে প্রকৃত অসভ্য, তা যুক্তি দিয়ে বুঝিয়ে দাও ।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "’সভ্য ও অসভ্য' রচনাটির কাহিনি বিশ্লেষণ করে কে প্রকৃত সভ্য, আর কে প্রকৃত অসভ্য, তা যুক্তি দিয়ে বুঝিয়ে দাও । এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2015_Bengali_q_10.2",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2016_Bengali_q_7",
+          "section_id": "D",
+          "question_number_raw": "৪.৬",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "চলিত গদ্যে বঙ্গানুবাদ করো : Once there was a beautiful princess. When her mother died the king married another lady who had a magic mir- ror. The mirror said, 'Queen ! you are beautiful but the princess is more beautiful than you'. STQP2016 'খ' বিভাগ 2 Turn over SRK-D (FL)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "চলিত গদ্যে বঙ্গানুবাদ করো : Once there was a beautiful princess. When her mother died the king married another lady who had a magic mir- ror. The mirror said, 'Queen ! you are beautiful but the princess is more beautiful than you'. STQP2016 'খ' বিভাগ 2 Turn over SRK-D (FL) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2016_Bengali_q_7",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2016_Bengali_q_16.1",
+          "section_id": "D",
+          "question_number_raw": "৪.৭",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "’ছেঁড়া তার' নাট্যাংশে ফুলজান চরিত্রটির কী কী বৈশিষ্ট্য তোমার চোখে পড়ে, নিজের ভাষায় আলোচনা করো।",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "’ছেঁড়া তার' নাট্যাংশে ফুলজান চরিত্রটির কী কী বৈশিষ্ট্য তোমার চোখে পড়ে, নিজের ভাষায় আলোচনা করো। এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2016_Bengali_q_16.1",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_6.1",
+          "section_id": "D",
+          "question_number_raw": "৪.৮",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "“বাংলা ভাষায় বিজ্ঞানচর্চায় এখনও নানা রকম বাধা আছে।”—এই বাধা দূর করতে লেখক কী কী পরামর্শ দিয়েছেন তা আলোচনা করো । ৫",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "“বাংলা ভাষায় বিজ্ঞানচর্চায় এখনও নানা রকম বাধা আছে।”—এই বাধা দূর করতে লেখক কী কী পরামর্শ দিয়েছেন তা আলোচনা করো । ৫ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_6.1",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_7.1",
+          "section_id": "D",
+          "question_number_raw": "৪.৯",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "’সিরাজদ্দৌলা' নাট্যাংশ অবলম্বনে সিরাজদ্দৌলার চরিত্র বৈশিষ্ট্য আলোচনা করো। + ১ + 00",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "’সিরাজদ্দৌলা' নাট্যাংশ অবলম্বনে সিরাজদ্দৌলার চরিত্র বৈশিষ্ট্য আলোচনা করো। + ১ + 00 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_7.1",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_Madhyamik_2017_Bengali_q_8.2",
+          "section_id": "D",
+          "question_number_raw": "৪.১০",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "ক্ষিদ্দ৷ কীভাবে কোনির জীবনে প্রেরণা হিসেবে কাজ করেছিল সে সম্পর্কে আলোচনা করো । ৫",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "ক্ষিদ্দ৷ কীভাবে কোনির জীবনে প্রেরণা হিসেবে কাজ করেছিল সে সম্পর্কে আলোচনা করো । ৫ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "Madhyamik_2017_Bengali_q_8.2",
+          "textbook_grounding": null,
+          "cognitive_level": "EVALUATING_CREATING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    }
+  ],
+  "mode": "PAST_PAPER",
+  "created_at": "2026-09-17T10:55:24.055065"
+}

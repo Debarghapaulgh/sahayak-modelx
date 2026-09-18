@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "synthetictutor"
+version = "0.1.0"
+description = "A research-quality scalable synthetic data generation pipeline for educational Socratic dialogues."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "SyntheticTutor Team" }
+]
+dependencies = [
+    "pydantic>=2.5.0",
+    "networkx>=3.1",
+    "jinja2>=3.1.0",
+    "google-genai>=0.1.0",
+    "openai>=1.0.0",
+    "pyarrow>=14.0.0",
+    "pyyaml>=6.0",
+    "click>=8.1.0",
+    "rich>=13.0.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+    "black>=23.0.0",
+    "isort>=5.12.0"
+]
+
+[project.scripts]
+synthetictutor = "synthetictutor.pipeline.cli:cli"
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-ra -q"
+testpaths = [
+    "tests"
+]
+asyncio_mode = "auto"

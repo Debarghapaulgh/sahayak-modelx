@@ -1,0 +1,15 @@
+{
+  "dataset_name": "board_pattern_sft_10_12",
+  "total_papers_generated": 50,
+  "total_questions_generated": 470,
+  "grade_distribution": {
+    "Class 10 (WBBSE Madhyamik)": 20,
+    "Class 12 (WBCHSE Higher Secondary)": 30
+  },
+  "quality_metrics": {
+    "textbook_grounding_rate": 100.0,
+    "historical_leakage_rate": 0.0,
+    "mark_consistency_rate": 100.0,
+    "rubric_coverage_rate": 100.0
+  }
+}

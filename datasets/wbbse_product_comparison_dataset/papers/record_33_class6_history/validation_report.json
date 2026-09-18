@@ -1,0 +1,34 @@
+{
+  "paper_id": "wbbse_class6_history_a6f441f0",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: ['history পাঠ্যক্রম অধ্যায় থেকে', 'history পাঠ্যক্রম অধ্যায় থেকে', 'history পাঠ্যক্রম অধ্যায় থেকে', 'history পাঠ্যক্রম অধ্যায় থেকে']",
+    "POTENTIAL_CHAPTER_SCOPE_DRIFT: Questions ['১.১', '১.২', '১.৩', '১.৪', '২.১'] might contain concepts outside requested chapters."
+  ],
+  "metrics": {
+    "total_questions": 16,
+    "total_sections": 4,
+    "total_marks": 20.0,
+    "calculated_marks": 20.0,
+    "provenance_counts": {
+      "GENERATED": 16
+    },
+    "blueprint_source": "GENERATED_STANDARD_PATTERN",
+    "blueprint_classification": "GENERATED_STANDARD_PATTERN",
+    "chapter_mode": "CHAPTER_FILTERED",
+    "requested_chapters": [
+      "আদিম মানুষের ইতিহাস"
+    ],
+    "cognitive_distribution": {
+      "REMEMBERING": 3,
+      "APPLYING": 9,
+      "EVALUATING": 1,
+      "ANALYSING": 3
+    }
+  }
+}

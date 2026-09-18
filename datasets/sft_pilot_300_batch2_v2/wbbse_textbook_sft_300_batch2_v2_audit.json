@@ -1,0 +1,90 @@
+{
+  "pilot_name": "wbbse_textbook_sft_300_batch2_v2",
+  "batch_number": "2_v2",
+  "total_records": 300,
+  "existing_batch2_records": 300,
+  "kept_records_count": 234,
+  "rejected_records_count": 66,
+  "replacements_generated": 66,
+  "accepted_count": 300,
+  "rejected_count": 0,
+  "review_count": 300,
+  "invalid_topic_metadata_count": 0,
+  "source_mode_distribution": {
+    "PROVIDED": 255,
+    "NOT_PROVIDED": 45
+  },
+  "board_distribution": {
+    "WBBPE": 139,
+    "WBBSE": 136,
+    "WBCHSE": 25
+  },
+  "task_distribution": {
+    "CONCEPT_EXPLANATION": 40,
+    "GUIDED_PROBLEM_SOLVING": 35,
+    "DEFINITION_AND_TERMINOLOGY": 20,
+    "COMPARISON_DISTINCTION": 15,
+    "CAUSE_AND_EFFECT_EXPLANATION": 15,
+    "LESSON_PLAN": 25,
+    "QUIZ_GENERATION": 25,
+    "WORKSHEET_PRACTICE": 25,
+    "MISCONCEPTION_CORRECTION": 30,
+    "TEACHER_PEDAGOGY": 20,
+    "SUMMARY_RECAP": 10,
+    "SOURCE_GROUNDED_EXTRACTION": 10,
+    "GRAMMAR_LANGUAGE_TRANSFORMATION": 10,
+    "ERROR_CHECKING_CORRECTION": 10,
+    "APPLICATION_TRANSFER": 10
+  },
+  "subject_distribution": {
+    "Health and Physical Education": 65,
+    "Mathematics": 64,
+    "Bengali": 60,
+    "Environmental Science": 50,
+    "English": 47,
+    "General": 14
+  },
+  "grade_distribution": {
+    "4": 17,
+    "8": 38,
+    "11": 25,
+    "5": 74,
+    "7": 35,
+    "2": 15,
+    "9": 22,
+    "10": 16,
+    "6": 25,
+    "3": 13,
+    "1": 20
+  },
+  "audience_distribution": {
+    "শিক্ষার্থী": 205,
+    "শিক্ষক মহাশয় / শিক্ষাবিদ": 95
+  },
+  "locale_distribution": {
+    "NONE": 291,
+    "RELEVANT": 9
+  },
+  "validation_summary": {
+    "PASSED": 300
+  },
+  "quality_metrics": {
+    "source_missing_claims_count": 0,
+    "subject_grade_topic_mismatches_count": 0,
+    "mathematical_errors_count": 0,
+    "scientific_errors_count": 0,
+    "unsupported_textbook_claims_count": 0,
+    "absent_visual_references_count": 0,
+    "incomplete_prompt_failures_count": 0,
+    "exact_duplicates_count": 0,
+    "batch1_overlap_count": 0,
+    "metadata_corruption_count": 0,
+    "ocr_corruption_count": 0,
+    "self_containedness_failures": 0,
+    "source_grounding_failures": 0,
+    "task_fidelity_pass_rate": 1.0,
+    "bengali_numeral_fidelity": 1.0,
+    "zero_truncation_rate": 1.0,
+    "pass_rate": 1.0
+  }
+}

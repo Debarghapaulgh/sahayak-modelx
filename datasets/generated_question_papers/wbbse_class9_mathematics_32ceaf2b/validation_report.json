@@ -1,0 +1,30 @@
+{
+  "paper_id": "wbbse_class9_mathematics_32ceaf2b",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: [\"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", 'নিচের বিবৃতিটি সত্য না মিথ্যা ', \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' থেক\", \"'অধ্যায় ১: বাস্তব সংখ্যা' থেক\", \"'অধ্যায় ১: বাস্তব সংখ্যা' থেক\"]"
+  ],
+  "metrics": {
+    "total_questions": 46,
+    "total_sections": 5,
+    "total_marks": 80.0,
+    "calculated_marks": 80.0,
+    "provenance_counts": {
+      "GENERATED": 46
+    },
+    "blueprint_source": "GENERATED_STANDARD_PATTERN",
+    "blueprint_classification": "GENERATED_STANDARD_PATTERN",
+    "chapter_mode": "FULL_SYLLABUS",
+    "cognitive_distribution": {
+      "REMEMBERING": 13,
+      "APPLYING": 24,
+      "EVALUATING": 8,
+      "ANALYSING": 1
+    }
+  }
+}

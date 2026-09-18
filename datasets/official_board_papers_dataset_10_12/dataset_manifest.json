@@ -1,0 +1,36 @@
+{
+  "dataset_name": "official_board_papers_dataset_10_12",
+  "description": "Comprehensive Class 10 (WBBSE Madhyamik) and Class 12 (WBCHSE Higher Secondary) question papers generated directly from extracted historical question papers and verified answers",
+  "total_records": 39,
+  "boards_covered": [
+    "WBBSE",
+    "WBCHSE"
+  ],
+  "classes_covered": [
+    "Class 10",
+    "Class 12"
+  ],
+  "subjects_covered": [
+    "Chemistry",
+    "Political Science",
+    "Economics",
+    "Philosophy",
+    "Education",
+    "English",
+    "Geography",
+    "Physical Science",
+    "Sanskrit",
+    "Bengali",
+    "Physics",
+    "Computer Application",
+    "Biology",
+    "Life Science",
+    "History",
+    "Mathematics"
+  ],
+  "files": {
+    "sft_conversations": "datasets/official_board_papers_dataset_10_12\\official_board_sft_10_12.jsonl",
+    "structured_papers": "datasets/official_board_papers_dataset_10_12\\official_board_papers_10_12.jsonl",
+    "individual_papers_dir": "datasets/official_board_papers_dataset_10_12\\papers"
+  }
+}

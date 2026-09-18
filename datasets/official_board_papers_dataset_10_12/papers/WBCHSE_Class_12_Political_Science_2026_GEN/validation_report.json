@@ -1,0 +1,22 @@
+{
+  "paper_id": "WBCHSE_Class_12_Political_Science_2026_GEN",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: ['নিচের কোনটি আন্তর্জাতিক সম্পর্', 'আন্তর্জাতিক সম্পর্ক বলতে কী বো', 'আন্তর্জাতিক সম্পর্ক-এর দুটি গু', 'আন্তর্জাতিক সম্পর্ক-এর মূল কার']"
+  ],
+  "metrics": {
+    "total_questions": 30,
+    "total_sections": 4,
+    "total_marks": 40.0,
+    "calculated_marks": 40.0,
+    "provenance_counts": {
+      "HISTORICAL": 16,
+      "GENERATED": 14
+    }
+  }
+}

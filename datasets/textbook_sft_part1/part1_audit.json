@@ -1,0 +1,15 @@
+{
+  "total_processed": 1500,
+  "total_approved": 1500,
+  "total_review": 0,
+  "qa_count": 800,
+  "lesson_plan_count": 350,
+  "quiz_count": 350,
+  "acceptance_rate": 1.0,
+  "allocation_matrix": {
+    "Primary (I-V)": 450,
+    "Upper Primary (VI-VIII)": 450,
+    "Secondary (IX-X)": 375,
+    "Higher Secondary (XI-XII)": 225
+  }
+}

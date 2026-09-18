@@ -1,0 +1,22 @@
+{
+  "paper_id": "WBCHSE_Class_12_Sanskrit_2026_GEN",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: ['বনগতা গুহা-এর মূল কার্যপদ্ধতি ', 'শ্রীমদ্ভগবদ্গীতা-এর মূল কার্যপ', 'মেঘদূতম্-এর মূল কার্যপদ্ধতি ও ', 'ব্যাকরণ ও ভাষাতত্ত্ব-এর মূল কা']"
+  ],
+  "metrics": {
+    "total_questions": 55,
+    "total_sections": 4,
+    "total_marks": 80.0,
+    "calculated_marks": 80.0,
+    "provenance_counts": {
+      "HISTORICAL": 46,
+      "GENERATED": 9
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "dataset_id": "BOARD_PATTERN_SFT_1000_ALL_CLASSES",
+  "generated_timestamp": "2026-09-17T22:45:00+05:30",
+  "description": "1,000 Board Pattern SFT Conversations across Classes 1-12 strictly grounded in approved textbook chunks.",
+  "files": {
+    "sft_conversations": "board_pattern_sft_1000.jsonl",
+    "question_units": "board_pattern_questions_1000.jsonl",
+    "papers": "board_pattern_papers_1000.jsonl",
+    "blueprints": "board_pattern_blueprints_1000.json",
+    "audit_report": "board_pattern_audit.json"
+  },
+  "provenance": "Official WBBPE / WBBSE / WBCHSE Textbook Chunks (19,566 Chunks)"
+}

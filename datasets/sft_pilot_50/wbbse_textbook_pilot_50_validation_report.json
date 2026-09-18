@@ -1,0 +1,64 @@
+{
+  "pilot_name": "wbbse_textbook_pilot_50_updated_system_prompt",
+  "generated_at": "2026-09-14T15:41:02Z",
+  "source_scope": "WBBSE Classes 6-10 Verified ELIGIBLE_TEXT_ONLY Textbook Chunks",
+  "system_prompt_version": "Official Refined SahayakAI WBBSE Bengali System Prompt (18 Rules + 4 Context Fields)",
+  "model_used": "gemini-2.5-flash",
+  "concurrency_workers": 10,
+  "generated_count": 50,
+  "accepted_count": 50,
+  "rejected_count": 2,
+  "acceptance_yield_percentage": 100.0,
+  "rejection_reasons": {
+    "TRUNCATED_NO_TERMINAL_PUNCTUATION": 1,
+    "REPAIR_1_TRUNCATED_NO_TERMINAL_PUNCTUATION": 1,
+    "REPAIR_2_TRUNCATED_NO_TERMINAL_PUNCTUATION": 1,
+    "UNBALANCED_BRACKETS": 1
+  },
+  "subject_distribution": {
+    "Mathematics": 12,
+    "Bengali": 12,
+    "Science": 10,
+    "English": 9,
+    "History": 6,
+    "Geography": 1
+  },
+  "grade_distribution": {
+    "10": 8,
+    "6": 16,
+    "7": 9,
+    "8": 11,
+    "9": 6
+  },
+  "task_distribution": {
+    "SHORT_FACTUAL_QA": 5,
+    "COMPLETE_WORKED_SOLUTION": 6,
+    "GUIDED_PROBLEM_SOLVING": 8,
+    "CONCEPT_EXPLANATION": 8,
+    "COMPARISON": 2,
+    "EXAM_STYLE_ANSWER": 5,
+    "QUESTION_GENERATION": 4,
+    "HINT_SOCRATIC_TUTORING": 5,
+    "ERROR_CORRECTION": 3,
+    "TEACHER_FACING_MATERIAL": 2,
+    "REAL_WORLD_APPLICATION": 2
+  },
+  "locale_distribution": {
+    "STRONG": 3,
+    "NONE": 43,
+    "OPTIONAL_USEFUL": 4
+  },
+  "quality_metrics": {
+    "sir_madam_addressal_caught_and_repaired": 0,
+    "numeric_format_violations_caught_and_repaired": 0,
+    "truncation_failures_caught_and_repaired": 3,
+    "filler_failures_caught_and_repaired": 0,
+    "prompt_leaks_caught_and_repaired": 0,
+    "duplicate_rate": 0.0,
+    "source_grounding_failures": 0,
+    "math_failures": 0,
+    "language_failures": 0,
+    "avg_user_prompt_char_len": 107.2,
+    "avg_assistant_response_char_len": 1067.1
+  }
+}

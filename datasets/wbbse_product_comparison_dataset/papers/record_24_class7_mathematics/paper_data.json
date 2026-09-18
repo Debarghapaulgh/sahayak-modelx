@@ -1,0 +1,1180 @@
+{
+  "paper_id": "wbbse_class7_mathematics_9d8633f4",
+  "title": "পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 7 — Mathematics\nপূর্ণমান: ৭০ | সময়: ২ ঘণ্টা ৩০ মিনিট",
+  "paper_config": {
+    "board": "WBBSE",
+    "grade": "Class 7",
+    "subject": "Mathematics",
+    "chapters": [],
+    "chapter_mode": "FULL_SYLLABUS",
+    "difficulty": "Mixed",
+    "difficulty_distribution": {
+      "easy_pct": 0.3,
+      "moderate_pct": 0.5,
+      "challenging_pct": 0.2
+    },
+    "language": "Bengali",
+    "total_marks": 70.0,
+    "duration_minutes": 150,
+    "include_answer_key": true,
+    "include_marking_scheme": true
+  },
+  "blueprint": {
+    "board": "WBBSE",
+    "class_level": "Class 7",
+    "subject": "Mathematics",
+    "total_marks": 70.0,
+    "duration_minutes": 150,
+    "sections": [
+      {
+        "section_id": "A",
+        "section_name": "বিভাগ—ক (MCQ)",
+        "description": "MCQ",
+        "question_type": "MCQ",
+        "total_questions_to_answer": 7,
+        "total_questions_provided": 7,
+        "marks_per_question": 1.0,
+        "total_section_marks": 7.0,
+        "or_choices_count": 0,
+        "instructions": "সঠিক উত্তর বেছে নাও:"
+      },
+      {
+        "section_id": "B",
+        "section_name": "বিভাগ—খ",
+        "description": "শূন্যস্থান পূরণ",
+        "question_type": "VERY_SHORT_ANSWER",
+        "total_questions_to_answer": 7,
+        "total_questions_provided": 9,
+        "marks_per_question": 1.0,
+        "total_section_marks": 7.0,
+        "or_choices_count": 0,
+        "instructions": "শূন্যস্থান পূরণ করো (যেকোনো সাতটি):"
+      },
+      {
+        "section_id": "C",
+        "section_name": "বিভাগ—গ",
+        "description": "সংক্ষিপ্ত প্রশ্ন (২ নম্বর)",
+        "question_type": "SHORT_ANSWER",
+        "total_questions_to_answer": 7,
+        "total_questions_provided": 9,
+        "marks_per_question": 2.0,
+        "total_section_marks": 14.0,
+        "or_choices_count": 2,
+        "instructions": "সমাধান করো (যেকোনো সাতটি):"
+      },
+      {
+        "section_id": "D",
+        "section_name": "বিভাগ—ঘ",
+        "description": "দীর্ঘ সমস্যা",
+        "question_type": "NUMERICAL",
+        "total_questions_to_answer": 6,
+        "total_questions_provided": 8,
+        "marks_per_question": 7.0,
+        "total_section_marks": 42.0,
+        "or_choices_count": 2,
+        "instructions": "সমাধান করো (বিকল্প লক্ষণীয়):"
+      }
+    ],
+    "general_instructions": [
+      "পরীক্ষার পূর্ণমান: ৭০ | সময়: ২ ঘণ্টা ৩০ মিনিট।"
+    ],
+    "blueprint_source": "GENERATED_STANDARD_PATTERN"
+  },
+  "is_valid": true,
+  "validation_report": {
+    "paper_id": "wbbse_class7_mathematics_9d8633f4",
+    "is_valid": true,
+    "structural_score": 1.0,
+    "content_score": 1.0,
+    "assessment_score": 0.85,
+    "language_score": 1.0,
+    "errors": [],
+    "warnings": [
+      "REPEATED_QUESTION_STEMS: [\"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\"]"
+    ],
+    "metrics": {
+      "total_questions": 33,
+      "total_sections": 4,
+      "total_marks": 70.0,
+      "calculated_marks": 70.0,
+      "provenance_counts": {
+        "GENERATED": 33
+      },
+      "blueprint_source": "GENERATED_STANDARD_PATTERN",
+      "blueprint_classification": "GENERATED_STANDARD_PATTERN",
+      "chapter_mode": "FULL_SYLLABUS",
+      "cognitive_distribution": {
+        "REMEMBERING": 8,
+        "APPLYING": 18,
+        "EVALUATING": 4,
+        "ANALYSING": 3
+      }
+    }
+  },
+  "question_paper_markdown": "# পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 7 — Mathematics\nপূর্ণমান: ৭০ | সময়: ২ ঘণ্টা ৩০ মিনিট\n**বোর্ড / সংসদ:** WBBSE | **শ্রেণি:** Class 7 | **বিষয়:** Mathematics\n**সময়:** ১৫০ মিনিট | **পূর্ণমান:** ৭০\n\n---\n### সাধারণ নির্দেশাবলী:\n১. পরীক্ষার পূর্ণমান: ৭০ | সময়: ২ ঘণ্টা ৩০ মিনিট।\n---\n\n## বিভাগ—ক (MCQ)\n*সঠিক উত্তর বেছে নাও:* [৭ নম্বর]\n\n**১.১** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Easy স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.২** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Moderate স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৩** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Moderate স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৪** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Challenging স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৫** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Easy স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৬** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Moderate স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৭** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Moderate স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n\n## বিভাগ—খ\n*শূন্যস্থান পূরণ করো (যেকোনো সাতটি):* [৭ নম্বর]\n\n**২.১** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.২** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৩** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৪** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৫** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৬** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৭** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৮** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৯** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n\n## বিভাগ—গ\n*সমাধান করো (যেকোনো সাতটি):* [১৪ নম্বর]\n\n**৩.১** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Easy — REMEMBERING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.২** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৩** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৪** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৫** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Easy — REMEMBERING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৬** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৭** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৮** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৯** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n\n## বিভাগ—ঘ\n*সমাধান করো (বিকল্প লক্ষণীয়):* [৪২ নম্বর]\n\n**৪.১** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Easy): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর] &nbsp;&nbsp; **[৭]**\n**৪.২** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর] &nbsp;&nbsp; **[৭]**\n**৪.৩** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর] &nbsp;&nbsp; **[৭]**\n**৪.৪** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Challenging): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর] &nbsp;&nbsp; **[৭]**\n**৪.৫** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Easy): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর] &nbsp;&nbsp; **[৭]**\n**৪.৬** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর] &nbsp;&nbsp; **[৭]**\n**৪.৭** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর] &nbsp;&nbsp; **[৭]**\n**৪.৮** 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর] &nbsp;&nbsp; **[৭]**\n",
+  "answer_key_markdown": "# পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 7 — Mathematics\nপূর্ণমান: ৭০ | সময়: ২ ঘণ্টা ৩০ মিনিট — উত্তর নির্দেশিকা (Answer Key)\n**বোর্ড:** WBBSE | **শ্রেণি:** Class 7 | **বিষয়:** Mathematics | **পূর্ণমান:** ৭০\n\n---\n\n### বিভাগ—ক (MCQ)\n- **১.১**: সঠিক বিকল্প **(ক)** \n- **১.২**: সঠিক বিকল্প **(ক)** \n- **১.৩**: সঠিক বিকল্প **(ক)** \n- **১.৪**: সঠিক বিকল্প **(ক)** \n- **১.৫**: সঠিক বিকল্প **(ক)** \n- **১.৬**: সঠিক বিকল্প **(ক)** \n- **১.৭**: সঠিক বিকল্প **(ক)** \n\n### বিভাগ—খ\n- **২.১**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.২**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৩**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৪**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৫**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৬**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৭**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৮**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৯**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n### বিভাগ—গ\n- **৩.১**: Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.২**: Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৩**: Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৪**: Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৫**: Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৬**: Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৭**: Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৮**: Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৯**: Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n### বিভাগ—ঘ\n- **৪.১**: **সমাধান:**\n- **৪.২**: **সমাধান:**\n- **৪.৩**: **সমাধান:**\n- **৪.৪**: **সমাধান:**\n- **৪.৫**: **সমাধান:**\n- **৪.৬**: **সমাধান:**\n- **৪.৭**: **সমাধান:**\n- **৪.৮**: **সমাধান:**\n",
+  "marking_scheme_markdown": "# পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 7 — Mathematics\nপূর্ণমান: ৭০ | সময়: ২ ঘণ্টা ৩০ মিনিট — মূল্যায়ন নির্দেশিকা ও নম্বর বণ্টন (Marking Scheme)\n**বোর্ড:** WBBSE | **শ্রেণি:** Class 7 | **বিষয়:** Mathematics\n\n---\n\n## বিভাগ—ক (MCQ) (মোট নম্বর: ৭)\n\n### প্রশ্ন **১.১** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.২** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৩** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৪** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৫** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৬** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৭** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n\n## বিভাগ—খ (মোট নম্বর: ৭)\n\n### প্রশ্ন **২.১** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.২** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৩** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৪** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৫** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৬** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৭** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৮** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৯** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n\n## বিভাগ—গ (মোট নম্বর: ১৪)\n\n### প্রশ্ন **৩.১** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.২** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৩** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৪** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৫** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৬** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৭** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৮** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৯** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n\n## বিভাগ—ঘ (মোট নম্বর: ৪২)\n\n### প্রশ্ন **৪.১** [পূর্ণমান: ৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.২** [পূর্ণমান: ৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.৩** [পূর্ণমান: ৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.৪** [পূর্ণমান: ৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.৫** [পূর্ণমান: ৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.৬** [পূর্ণমান: ৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.৭** [পূর্ণমান: ৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.৮** [পূর্ণমান: ৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n",
+  "paper_data": {
+    "paper_id": "wbbse_class7_mathematics_9d8633f4",
+    "board": "WBBSE",
+    "class_level": "Class 7",
+    "subject": "Mathematics",
+    "medium": "Bengali",
+    "year": "২০২৫",
+    "total_marks": 70.0,
+    "duration_minutes": 150,
+    "title": "পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 7 — Mathematics\nপূর্ণমান: ৭০ | সময়: ২ ঘণ্টা ৩০ মিনিট",
+    "general_instructions": [
+      "পরীক্ষার পূর্ণমান: ৭০ | সময়: ২ ঘণ্টা ৩০ মিনিট।"
+    ],
+    "sections": [
+      {
+        "section_id": "A",
+        "section_name": "বিভাগ—ক (MCQ)",
+        "description": "MCQ",
+        "total_marks": 7.0,
+        "instructions": "সঠিক উত্তর বেছে নাও:",
+        "questions": [
+          {
+            "question_id": "gen_ec97bedf0b",
+            "section_id": "A",
+            "question_number_raw": "১.১",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Easy স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_6c1e580277",
+            "section_id": "A",
+            "question_number_raw": "১.২",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Moderate স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_8f7fc346ff",
+            "section_id": "A",
+            "question_number_raw": "১.৩",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Moderate স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_79aff2443c",
+            "section_id": "A",
+            "question_number_raw": "১.৪",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Challenging স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_9e84c9ec41",
+            "section_id": "A",
+            "question_number_raw": "১.৫",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Easy স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_c6a0bd4a5e",
+            "section_id": "A",
+            "question_number_raw": "১.৬",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Moderate স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_484fa81db4",
+            "section_id": "A",
+            "question_number_raw": "১.৭",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 7 Mathematics — Moderate স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      },
+      {
+        "section_id": "B",
+        "section_name": "বিভাগ—খ",
+        "description": "শূন্যস্থান পূরণ",
+        "total_marks": 7.0,
+        "instructions": "শূন্যস্থান পূরণ করো (যেকোনো সাতটি):",
+        "questions": [
+          {
+            "question_id": "gen_16bd94aab9",
+            "section_id": "B",
+            "question_number_raw": "২.১",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_92fd515538",
+            "section_id": "B",
+            "question_number_raw": "২.২",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_eabdff613a",
+            "section_id": "B",
+            "question_number_raw": "২.৩",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_6f9f50cbe1",
+            "section_id": "B",
+            "question_number_raw": "২.৪",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_fec4ade5eb",
+            "section_id": "B",
+            "question_number_raw": "২.৫",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_1765697b24",
+            "section_id": "B",
+            "question_number_raw": "২.৬",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_541850741e",
+            "section_id": "B",
+            "question_number_raw": "২.৭",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_911ef79ce9",
+            "section_id": "B",
+            "question_number_raw": "২.৮",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_9263a5689e",
+            "section_id": "B",
+            "question_number_raw": "২.৯",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 7 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      },
+      {
+        "section_id": "C",
+        "section_name": "বিভাগ—গ",
+        "description": "সংক্ষিপ্ত প্রশ্ন (২ নম্বর)",
+        "total_marks": 14.0,
+        "instructions": "সমাধান করো (যেকোনো সাতটি):",
+        "questions": [
+          {
+            "question_id": "gen_73e7991452",
+            "section_id": "C",
+            "question_number_raw": "৩.১",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Easy — REMEMBERING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_d738994ab8",
+            "section_id": "C",
+            "question_number_raw": "৩.২",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_43c5ca5920",
+            "section_id": "C",
+            "question_number_raw": "৩.৩",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_2eab76d8c7",
+            "section_id": "C",
+            "question_number_raw": "৩.৪",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_51fae9622e",
+            "section_id": "C",
+            "question_number_raw": "৩.৫",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Easy — REMEMBERING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_36858c1f6b",
+            "section_id": "C",
+            "question_number_raw": "৩.৬",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_ca6db2ab70",
+            "section_id": "C",
+            "question_number_raw": "৩.৭",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_1d62cf3392",
+            "section_id": "C",
+            "question_number_raw": "৩.৮",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_b9430518a7",
+            "section_id": "C",
+            "question_number_raw": "৩.৯",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      },
+      {
+        "section_id": "D",
+        "section_name": "বিভাগ—ঘ",
+        "description": "দীর্ঘ সমস্যা",
+        "total_marks": 42.0,
+        "instructions": "সমাধান করো (বিকল্প লক্ষণীয়):",
+        "questions": [
+          {
+            "question_id": "gen_46209013f3",
+            "section_id": "D",
+            "question_number_raw": "৪.১",
+            "question_type": "NUMERICAL",
+            "marks": 7.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Easy): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সূত্র নির্বাচন"
+              },
+              {
+                "marks": 6.0,
+                "criterion": "সঠিক গণনা ও একক"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_e0e4a51ccf",
+            "section_id": "D",
+            "question_number_raw": "৪.২",
+            "question_type": "NUMERICAL",
+            "marks": 7.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সূত্র নির্বাচন"
+              },
+              {
+                "marks": 6.0,
+                "criterion": "সঠিক গণনা ও একক"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_4128a380d0",
+            "section_id": "D",
+            "question_number_raw": "৪.৩",
+            "question_type": "NUMERICAL",
+            "marks": 7.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সূত্র নির্বাচন"
+              },
+              {
+                "marks": 6.0,
+                "criterion": "সঠিক গণনা ও একক"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_80158d6a44",
+            "section_id": "D",
+            "question_number_raw": "৪.৪",
+            "question_type": "NUMERICAL",
+            "marks": 7.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Challenging): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সূত্র নির্বাচন"
+              },
+              {
+                "marks": 6.0,
+                "criterion": "সঠিক গণনা ও একক"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_c6467b3fd7",
+            "section_id": "D",
+            "question_number_raw": "৪.৫",
+            "question_type": "NUMERICAL",
+            "marks": 7.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Easy): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সূত্র নির্বাচন"
+              },
+              {
+                "marks": 6.0,
+                "criterion": "সঠিক গণনা ও একক"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_979cf0f6f2",
+            "section_id": "D",
+            "question_number_raw": "৪.৬",
+            "question_type": "NUMERICAL",
+            "marks": 7.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সূত্র নির্বাচন"
+              },
+              {
+                "marks": 6.0,
+                "criterion": "সঠিক গণনা ও একক"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "ANALYSING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_12ac0b644e",
+            "section_id": "D",
+            "question_number_raw": "৪.৭",
+            "question_type": "NUMERICAL",
+            "marks": 7.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সূত্র নির্বাচন"
+              },
+              {
+                "marks": 6.0,
+                "criterion": "সঠিক গণনা ও একক"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "ANALYSING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_6c488afced",
+            "section_id": "D",
+            "question_number_raw": "৪.৮",
+            "question_type": "NUMERICAL",
+            "marks": 7.0,
+            "question_text": "'অধ্যায় ১: পূর্বপাঠের পুনরালোচনা' থেকে গাণিতিক সমস্যা (Moderate): একটি সংখ্যাত্মক সমস্যা সমাধান করো। [৭ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**সমাধান:**\nদেওয়া আছে: ...\nসূত্র: ...\nগণনা: ...\n**ফলাফল:** ... একক।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সূত্র নির্বাচন"
+              },
+              {
+                "marks": 6.0,
+                "criterion": "সঠিক গণনা ও একক"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: পূর্বপাঠের পুনরালোচনা",
+            "cognitive_level": "ANALYSING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      }
+    ],
+    "mode": "HYBRID",
+    "created_at": "2026-09-17T08:56:33.032530"
+  },
+  "provenance": {
+    "curriculum_source": "TEXTBOOK_CORPUS",
+    "curriculum_verified": true,
+    "blueprint_source": "GENERATED_STANDARD_PATTERN",
+    "chapter_mode": "FULL_SYLLABUS",
+    "difficulty_distribution": [
+      0.3,
+      0.5,
+      0.2
+    ],
+    "validation_errors": [],
+    "validation_warnings": [
+      "REPEATED_QUESTION_STEMS: [\"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\", \"'অধ্যায় ১: পূর্বপাঠের পুনরালো\"]"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "dataset_name": "board_pattern_sft_1_9_11",
+  "version": "1.0.0",
+  "boards": [
+    "WBBPE",
+    "WBBSE",
+    "WBCHSE"
+  ],
+  "grade_levels": [
+    "Class 1",
+    "Class 2",
+    "Class 3",
+    "Class 4",
+    "Class 5",
+    "Class 6",
+    "Class 7",
+    "Class 8",
+    "Class 9",
+    "Class 11"
+  ],
+  "total_papers": 97,
+  "total_questions": 1208,
+  "files": {
+    "sft_conversations": "datasets/board_pattern_sft_1_9_11\\board_pattern_sft_1_9_11.jsonl",
+    "questions": "datasets/board_pattern_sft_1_9_11\\board_pattern_questions_1_9_11.jsonl",
+    "papers": "datasets/board_pattern_sft_1_9_11\\board_pattern_papers_1_9_11.jsonl",
+    "blueprints": "datasets/board_pattern_sft_1_9_11\\board_pattern_blueprints_1_9_11.json",
+    "audit": "datasets/board_pattern_sft_1_9_11\\board_pattern_audit.json"
+  }
+}

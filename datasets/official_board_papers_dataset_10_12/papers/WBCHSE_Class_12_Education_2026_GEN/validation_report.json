@@ -1,0 +1,20 @@
+{
+  "paper_id": "WBCHSE_Class_12_Education_2026_GEN",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 1.0,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [],
+  "metrics": {
+    "total_questions": 55,
+    "total_sections": 4,
+    "total_marks": 80.0,
+    "calculated_marks": 80.0,
+    "provenance_counts": {
+      "HISTORICAL": 50,
+      "GENERATED": 5
+    }
+  }
+}

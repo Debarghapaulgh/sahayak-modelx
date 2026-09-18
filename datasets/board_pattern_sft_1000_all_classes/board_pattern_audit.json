@@ -1,0 +1,31 @@
+{
+  "dataset_name": "board_pattern_sft_1000_all_classes",
+  "total_conversations": 1000,
+  "total_question_units": 28905,
+  "total_papers": 1000,
+  "grade_distribution": {
+    "Class 1": 50,
+    "Class 2": 50,
+    "Class 3": 75,
+    "Class 4": 75,
+    "Class 5": 75,
+    "Class 6": 100,
+    "Class 7": 100,
+    "Class 8": 100,
+    "Class 9": 100,
+    "Class 10": 100,
+    "Class 11": 85,
+    "Class 12": 90
+  },
+  "board_distribution": {
+    "WBBPE": 325,
+    "WBBSE": 500,
+    "WBCHSE": 175
+  },
+  "quality_gates": {
+    "leakage_passed_pct": 100.0,
+    "textbook_grounding_pct": 100.0,
+    "system_prompt_compliance_pct": 100.0,
+    "marking_scheme_coverage_pct": 100.0
+  }
+}

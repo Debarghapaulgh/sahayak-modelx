@@ -1,0 +1,1740 @@
+{
+  "paper_id": "WBCHSE_Class_12_Sanskrit_2026_GEN",
+  "board": "WBCHSE",
+  "class_level": "Class 12",
+  "subject": "Sanskrit",
+  "medium": "Bengali",
+  "year": "2026",
+  "total_marks": 80.0,
+  "duration_minutes": 180,
+  "title": "WBCHSE Class 12 — Sanskrit আদর্শ প্রশ্নপত্র",
+  "general_instructions": [
+    "পরীক্ষার পূর্ণমান: 80 | সময়: 180 মিনিট।",
+    "সমস্ত প্রশ্নের উত্তর পরিচ্ছন্নভাবে উত্তরপত্রে লিখতে হবে।",
+    "প্রয়োজনীয় ক্ষেত্রে মার্জিন ও খসড়া কার্য প্রদর্শন করতে হবে।"
+  ],
+  "sections": [
+    {
+      "section_id": "A",
+      "section_name": "বিভাগ—ক (Group A: MCQ)",
+      "description": "বহুবিকল্পভিত্তিক প্রশ্ন",
+      "total_marks": 16.0,
+      "instructions": "প্রতিটি প্রশ্নের সঠিক বিকল্পটি নির্বাচন করে লেখো:",
+      "questions": [
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_A_q_6",
+          "section_id": "A",
+          "question_number_raw": "১.১",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "নিম্নলিখিত শব্দযুগলের অর্থ পার্থক্য নির্ণয় করো (যে কোনো দুইটি )",
+          "options": [
+            "(a) नति- 457",
+            "(b) आचा आचान",
+            "(c) महाज: - HERIG পরিনিষ্ঠিত রূপটি লেখো (যে কোনো তিনটি ) : :",
+            "(a) श्रु + स ल",
+            "(b) कुती + ढ",
+            "(c) 17241 +44",
+            "(d) शिव+ अ (e) + इमनि 8. যে কোনো একটি প্রশ্নের উত্তর দাও : *(12)5045-(09)●-(NS) 5",
+            "(a) ইন্দো-ইউরোপীয় দশটি ভাষাগোষ্ঠীর নাম লেখো ।",
+            "(b) ভারতীয় আর্যভাষার কয়টি স্তর ? কি কি ? নব্য ভারতীয় আর্যভাষা সম্বন্ধে যা জান লেখো। 9. সংস্কৃত ভাষায় অনুবাদ করো (যে-কোনো একটি ) : 5",
+            "(a) অনন্তর শশকটি সবিনয়ে সিংহকে বললো প্রভু আমার কোন অপরাধ নেই। আমার আসার সময় একটা সিংহ আমাকে আটকে রেখেছিল।",
+            "(b) দাক্ষিণাত্য দেশে মহিলারোপ্য নামে এক নগর আছে। সেখানে অমরশক্তি নামে এক রাজা ছিলেন। তাঁর বসুশক্তি, উগ্রশক্তি ও অনেকশক্তি নামে তিন ছেলে ছিল। (ENGLISH VERSION)"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) नति- 457",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) नति- 457",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_A_q_6",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_i",
+          "section_id": "A",
+          "question_number_raw": "১.২",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "অলিপর্বার ভাইয়ের নাম",
+          "options": [
+            "(a) কশ্যপ",
+            "(b) কাশ্যপ",
+            "(c) কালিদাস",
+            "(d) বসন্ত The name of Aliparva's brother is",
+            "(a) 35944",
+            "(b) 887224",
+            "(c) ल",
+            "(d) वसत"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) কশ্যপ",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) কশ্যপ",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_i",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_iii",
+          "section_id": "A",
+          "question_number_raw": "১.৩",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "স্কন্দরাজ রচিত গ্রন্থ",
+          "options": [
+            "(a) অর্থশাস্ত্র",
+            "(b) কামশাস্ত্ৰ",
+            "(c) নীতিশাস্ত্র",
+            "(d) চৌর্যশাস্ত্র The book written by Skandaraja is",
+            "(a) अशान",
+            "(c) faशा",
+            "(b) कामशान",
+            "(d) attened"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) অর্থশাস্ত্র",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) অর্থশাস্ত্র",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_iii",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_vi",
+          "section_id": "A",
+          "question_number_raw": "১.৪",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "গঙ্গার পুত্র হলেন",
+          "options": [
+            "(a) ভগীরথ",
+            "(b) ভীষ্ম",
+            "(c) ভীম ·",
+            "(d) ভরত Ganga's son is",
+            "(a) 41174",
+            "(b) 277047",
+            "(c) 2774",
+            "(d) भरत *(12)5045-(09)⚫-(NS) *(12)5045-(09)●-(NS)"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) ভগীরথ",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) ভগীরথ",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_vi",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_vii",
+          "section_id": "A",
+          "question_number_raw": "১.৫",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "কৃষ্ণ কাকে উপদেশ দিয়েছেন ?",
+          "options": [
+            "(a) সঞ্জয়কে",
+            "(b) কর্ণকে",
+            "(c) বিদুরকে",
+            "(d) অর্জুনকে Whom did krsna advise ?",
+            "(a) सजय",
+            "(b) chuf",
+            "(c) . fagz",
+            "(d) अर्जुन"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) সঞ্জয়কে",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) সঞ্জয়কে",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_vii",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_ix",
+          "section_id": "A",
+          "question_number_raw": "১.৬",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "কৌমুদীর পিতার নাম",
+          "options": [
+            "(a) ইন্দ্ৰবৰ্মা",
+            "(c) বসন্ত Name of Koumudi's father is"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) ইন্দ্ৰবৰ্মা",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) ইন্দ্ৰবৰ্মা",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_ix",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_xi",
+          "section_id": "A",
+          "question_number_raw": "১.৭",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "কৌমুদীর পছন্দের পাত্র হলেন",
+          "options": [
+            "(a) উদয়ন",
+            "(b) দুষ্মন্ত",
+            "(c) বসন্ত",
+            "(d) মকরন্দ Kaumudi's lover is",
+            "(a) 3227",
+            "(b) मत",
+            "(c) वसत",
+            "(d) मकरद"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) উদয়ন",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) উদয়ন",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_xi",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_xii",
+          "section_id": "A",
+          "question_number_raw": "১.৮",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "কনকলেখা হলেন",
+          "options": [
+            "(a) ইন্দ্রবর্মার প্রেমিকা",
+            "(b) ইন্দুশর্মার প্রেমিকা",
+            "(c) বসন্তর প্রেমিকা",
+            "(d) মকরন্দর প্রেমিকা Kanakalekha is",
+            "(a) Lady love of इद्रव",
+            "(b) Lady love of इन्दुशर्मा 9",
+            "(c) Lady love of वसत.",
+            "(d) Lady love of मकरद সাহিত্যেতিহাস ( History of Literature )"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) ইন্দ্রবর্মার প্রেমিকা",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) ইন্দ্রবর্মার প্রেমিকা",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_xii",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_xiii",
+          "section_id": "A",
+          "question_number_raw": "১.৯",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "অভিজ্ঞানশকুন্তলম্-এর রচয়িতা",
+          "options": [
+            "(a) অশ্বঘোষ",
+            "(c) শূদ্রক",
+            "(b) ভাস",
+            "(d) কালিদাস The author of अभिज्ञानशकुतल. is",
+            "(a) अवघोष",
+            "(b) 4474",
+            "(c) क",
+            "(d) Cha"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) অশ্বঘোষ",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) অশ্বঘোষ",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_xiii",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_xiv",
+          "section_id": "A",
+          "question_number_raw": "১.১০",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "বিশাখদত্ত রচিত নাটক",
+          "options": [
+            "(a) মৃচ্ছকটিকম",
+            "(b) মুদ্রারাক্ষসঃ",
+            "(c) চারুদত্ত",
+            "(d) মালবিকাগ্নিমিত্রম্ The play written by Bisakhdatta is",
+            "(a) छकटक",
+            "(c) चादत",
+            "(b) FERIERA:",
+            "(d) मालविकानमिन *(12)5045-(09)●-(NS)"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) মৃচ্ছকটিকম",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) মৃচ্ছকটিকম",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_xiv",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_xv",
+          "section_id": "A",
+          "question_number_raw": "১.১১",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "'বরাহমিহির' রচিত গ্রন্থটির নাম",
+          "options": [
+            "(a) আর্যসিদ্ধান্ত",
+            "(b) বৃহৎসংহিতা",
+            "(c) ব্রহ্মস্ফুট সিদ্ধান্ত",
+            "(d) দশগীতিকাসূত্র The book written by Barahamihir is",
+            "(a) 3ff",
+            "(b) हत्संहिता",
+            "(c) टसत",
+            "(d) दशगीतिकासू Write the answers in complete sentence : গদ্যাংশ ( Prose ) যে কোনো তিনটি ) ( Any three )"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) আর্যসিদ্ধান্ত",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) আর্যসিদ্ধান্ত",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_xv",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_i",
+          "section_id": "A",
+          "question_number_raw": "১.১২",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "'আর্য্যवर्तवर्णनम्'- এর উৎস কী ?",
+          "options": [
+            "(a) নলচম্পূ",
+            "(b) যশস্তিলকচম্পূ",
+            "(c) চম্পুরামায়ণ",
+            "(d) চভারতম্ ।"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) নলচম্পূ",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) নলচম্পূ",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_i",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_ii",
+          "section_id": "A",
+          "question_number_raw": "১.১৩",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "ভগীরথ কোন্ বংশের রাজা ?",
+          "options": [
+            "(a) গুপ্তবংশ",
+            "(b) মৌর্যবংশ",
+            "(c) চন্দ্রবংশ",
+            "(d) ইক্ষ্বাকুবংশ ।"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) গুপ্তবংশ",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) গুপ্তবংশ",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_ii",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_iii",
+          "section_id": "A",
+          "question_number_raw": "১.১৪",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "... 'নুणीম্' - শব্দের অর্থ কি ?",
+          "options": [
+            "(a) সহসা",
+            "(c) চোর"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) সহসা",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) সহসা",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_iii",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_iv",
+          "section_id": "A",
+          "question_number_raw": "১.১৫",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": "'बंিशतिवयम्' - পদের অর্থ হল",
+          "options": [
+            "(a) আঠারো",
+            "(c) তিরিশ",
+            "(b) অশ্ব",
+            "(d) নিঃশব্দ !",
+            "(b) কুঁড়ি",
+            "(d) চল্লিশ । পদ্যাংশ"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) আঠারো",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) আঠারো",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_iv",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_v",
+          "section_id": "A",
+          "question_number_raw": "১.১৬",
+          "question_type": "MCQ",
+          "marks": 1.0,
+          "question_text": ". ত্রিলোকে কার কোনো কর্তব্য নেই ?",
+          "options": [
+            "(a) মানুষ",
+            "(c) অর্জুন",
+            "(b) কৃষ্ণ",
+            "(d) এঁদের কেউই নন ।"
+          ],
+          "correct_option": "(A)",
+          "correct_option_text": "(a) মানুষ",
+          "alternative_question_text": null,
+          "answer_text": "সঠিক বিকল্প: (a) মানুষ",
+          "alternative_answer_text": null,
+          "scoring_rubric": [],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_v",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    },
+    {
+      "section_id": "B",
+      "section_name": "বিভাগ—খ (Group B: VSA)",
+      "description": "অতিসংক্ষিপ্ত প্রশ্ন",
+      "total_marks": 16.0,
+      "instructions": "নির্দেশ অনুসারে অতিসংক্ষিপ্ত প্রশ্নের উত্তর দাও:",
+      "questions": [
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_1",
+          "section_id": "B",
+          "question_number_raw": "২.১",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "ঠিক উত্তরটি নির্বাচন করে লেখো : গদ্যাংশ ( Prose )",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "ঠিক উত্তরটি নির্বাচন করে লেখো : গদ্যাংশ ( Prose ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_i_1",
+          "section_id": "B",
+          "question_number_raw": "২.২",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "কতজন চোর বনে গিয়েছিল ? How many thieves went to the forest ? উ:/Ans:",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "কতজন চোর বনে গিয়েছিল ? How many thieves went to the forest ? উ:/Ans: এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_i_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_xi_1",
+          "section_id": "B",
+          "question_number_raw": "২.৩",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "‘কুহূঃ' পদের অর্থ কী ? What is the meaning of 'कुहू : ' ? :/Ans:",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "‘কুহূঃ' পদের অর্থ কী ? What is the meaning of 'कुहू : ' ? :/Ans: এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_xi_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_1",
+          "section_id": "B",
+          "question_number_raw": "২.৪",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "ঠিক উত্তরটি নির্বাচন করে লেখো : গদ্যাংশ",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "ঠিক উত্তরটি নির্বাচন করে লেখো : গদ্যাংশ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_ii_1",
+          "section_id": "B",
+          "question_number_raw": "২.৫",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "স্ফোর্টবাদ কাদের অভিমত ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "স্ফোর্টবাদ কাদের অভিমত ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_ii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_v_1",
+          "section_id": "B",
+          "question_number_raw": "২.৬",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "শ্রীমদ্‌ভগবদ্‌গীতায় কয়টি অধ্যায় আছে ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "শ্রীমদ্‌ভগবদ্‌গীতায় কয়টি অধ্যায় আছে ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_v_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_vi_1",
+          "section_id": "B",
+          "question_number_raw": "২.৭",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "নৈষ্কর্ম কি ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_vi_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_vii_1",
+          "section_id": "B",
+          "question_number_raw": "২.৮",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "'हिमविधुताधवলतरङ्गे' কথাটির অর্থ কি ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "'हिमविधुताधवলतरङ्गे' কথাটির অর্থ কি ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_vii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_viii_1",
+          "section_id": "B",
+          "question_number_raw": "২.৯",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": ". . 'নিगম' শব্দের অর্থ লেখো। নাট্যাংশ ( যে কোনো তিনটি )",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": ". . 'নিगম' শব্দের অর্থ লেখো। নাট্যাংশ ( যে কোনো তিনটি ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_viii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_ix_1",
+          "section_id": "B",
+          "question_number_raw": "২.১০",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "‘बासन्तिकस्वप्नম্' নাটকটি কে অনুবাদ করেন ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "‘बासन्तिकस्वप्नম্' নাটকটি কে অনুবাদ করেন ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_ix_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_xii_1",
+          "section_id": "B",
+          "question_number_raw": "২.১১",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "কোথায় মৃদঙ্গ বাজছিল ? সাহিত্যেতিহাস ( যে কোনো দুটি )",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "কোথায় মৃদঙ্গ বাজছিল ? সাহিত্যেতিহাস ( যে কোনো দুটি ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_xii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_xiii_1",
+          "section_id": "B",
+          "question_number_raw": "২.১২",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "সুশ্রুত কে ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বৈশিষ্ট্য বা উদাহরণ",
+              "allocated_marks": 0.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_xiii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2023_Sanskrit_q_xiv_1",
+          "section_id": "B",
+          "question_number_raw": "২.১৩",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": ". . স্ত্রীচরিত্রবিহীন সংস্কৃত নাটক কোটি ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": ". . স্ত্রীচরিত্রবিহীন সংস্কৃত নাটক কোটি ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2023_Sanskrit_q_xiv_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2024_Sanskrit_q_iv",
+          "section_id": "B",
+          "question_number_raw": "২.১৪",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "‘মহার্ঘ' শব্দটির অর্থ",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "‘মহার্ঘ' শব্দটির অর্থ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2024_Sanskrit_q_iv",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2024_Sanskrit_q_viii",
+          "section_id": "B",
+          "question_number_raw": "২.১৫",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "'गंगातोम'-এর রচয়িতা",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "'गंगातोम'-এর রচয়িতা এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2024_Sanskrit_q_viii",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2024_Sanskrit_q_x",
+          "section_id": "B",
+          "question_number_raw": "২.১৬",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "'कथय वा' 'বাসু' কে ?",
+          "options": [
+            "(a) কৌমুদী"
+          ],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "'कथय वा' 'বাসু' কে ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2024_Sanskrit_q_x",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2024_Sanskrit_q_i_1",
+          "section_id": "B",
+          "question_number_raw": "২.১৭",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "কুলস্ত্রীদের সঙ্গে কার তুলনা করা হয়েছে ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "কুলস্ত্রীদের সঙ্গে কার তুলনা করা হয়েছে ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2024_Sanskrit_q_i_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2024_Sanskrit_q_ii_1",
+          "section_id": "B",
+          "question_number_raw": "২.১৮",
+          "question_type": "VERY_SHORT_ANSWER",
+          "marks": 1.0,
+          "question_text": "আর্যাবর্ত কেমন রাজ্য ছিল ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "আর্যাবর্ত কেমন রাজ্য ছিল ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2024_Sanskrit_q_ii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "REMEMBERING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    },
+    {
+      "section_id": "C",
+      "section_name": "বিভাগ—গ (Group C: SA)",
+      "description": "সংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন (২ নম্বর)",
+      "total_marks": 20.0,
+      "instructions": "সংক্ষেপে উত্তর দাও (বিকল্প প্রশ্ন লক্ষণীয়):",
+      "questions": [
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_3",
+          "section_id": "C",
+          "question_number_raw": "৩.১",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "পরীক্ষা শেষ হলে মূল উত্তরপত্রের সাথে এই প্রশ্নসহ উত্তর পুস্তিকাটি অবশ্যই জুড়ে দিতে হবে। securely with main Answer-script. *(12)5045-(09)⚫-(NS)",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "পরীক্ষা শেষ হলে মূল উত্তরপত্রের সাথে এই প্রশ্নসহ উত্তর পুস্তিকাটি অবশ্যই জুড়ে দিতে হবে। securely with main Answer-script. *(12)5045-(09)⚫-(NS) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_3",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_ii_1",
+          "section_id": "C",
+          "question_number_raw": "৩.২",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "অলিপর্বা কোন্ নগরে বাস করত ? In which country did Aliparva live ? উ:/Ans:",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "অলিপর্বা কোন্ নগরে বাস করত ? In which country did Aliparva live ? উ:/Ans: এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_ii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_iii_1",
+          "section_id": "C",
+          "question_number_raw": "৩.৩",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "'বনগতাগুহা' পাঠ্যাংশের উৎসগ্রন্থের নাম কী ? What is the original text of वनगतागुहा ? উ:/Ans:",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "'বনগতাগুহা' পাঠ্যাংশের উৎসগ্রন্থের নাম কী ? What is the original text of वनगतागुहा ? উ:/Ans: এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_iii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_iv_1",
+          "section_id": "C",
+          "question_number_raw": "৩.৪",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "কশ্যপ কীভাবে ধনী হয়েছিল ? How did Kasyapa become rich ? উ:/Ans: পদ্যাংশ ( Poetry ) (যে কোনো তিনটি ) (Any three )",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "কশ্যপ কীভাবে ধনী হয়েছিল ? How did Kasyapa become rich ? উ:/Ans: পদ্যাংশ ( Poetry ) (যে কোনো তিনটি ) (Any three ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_iv_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_v_1",
+          "section_id": "C",
+          "question_number_raw": "৩.৫",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "গঙ্গাকে ভাগীরথী বলা হয় কেন ? Why is the Ganga known as 'भागीरथी' ? উ:/Ans:",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "গঙ্গাকে ভাগীরথী বলা হয় কেন ? Why is the Ganga known as 'भागीरथी' ? উ:/Ans: এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_v_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_vi_1",
+          "section_id": "C",
+          "question_number_raw": "৩.৬",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "'মুনিবরকনো' কাকে সম্বোধন করা হয়েছে ? Who is being referred to as 'मुनिवरकये' ? উ:/Ans:",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "'মুনিবরকনো' কাকে সম্বোধন করা হয়েছে ? Who is being referred to as 'मुनिवरकये' ? উ:/Ans: এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_vi_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_vii_1",
+          "section_id": "C",
+          "question_number_raw": "৩.৭",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "গঙ্গাজলের মহিমা কোথায় কীর্তিত ? Where is the greatness of Ganga water depicted ? উ:/Ans:",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "গঙ্গাজলের মহিমা কোথায় কীর্তিত ? Where is the greatness of Ganga water depicted ? উ:/Ans: এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_vii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_viii_1",
+          "section_id": "C",
+          "question_number_raw": "৩.৮",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "‘কর্মেন্দ্রিয়' কয়টি ও কি কি ? How many ‘कर्मेद्रिय ' '-s are there and what are they? উ:/Ans: Who is इद्र ?",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "‘কর্মেন্দ্রিয়' কয়টি ও কি কি ? How many ‘कर्मेद्रिय ' '-s are there and what are they? উ:/Ans: Who is इद्र ? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_viii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_ix_1",
+          "section_id": "C",
+          "question_number_raw": "৩.৯",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "ইন্দ্ৰবৰ্মা কে ? উ:/Ans: নাট্যাংশ ( Drama ) ( যে কোনো তিনটি ) ( Any three )",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "ইন্দ্ৰবৰ্মা কে ? উ:/Ans: নাট্যাংশ ( Drama ) ( যে কোনো তিনটি ) ( Any three ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_ix_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_x_1",
+          "section_id": "C",
+          "question_number_raw": "৩.১০",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "বাসন্তিকস্বপ্নম্-এর মূল ইংরাজি নাটকটির নাম লেখ । Name the original English play on which वासतिकस्वप्न is based. উ:/Ans:",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "বাসন্তিকস্বপ্নম্-এর মূল ইংরাজি নাটকটির নাম লেখ । Name the original English play on which वासतिकस्वप्न is based. উ:/Ans: এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_x_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_xii_1",
+          "section_id": "C",
+          "question_number_raw": "৩.১১",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "রাজার বিবাহের আর কতদিন দেরি ? How many days are left for the marriage of the king ? উ:/Ans: *(12)5045-(09)⚫-(NS) সাহিত্যেতিহাস ( History of Literature) (যে কোনো দুটি ) ( Any two )",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "রাজার বিবাহের আর কতদিন দেরি ? How many days are left for the marriage of the king ? উ:/Ans: *(12)5045-(09)⚫-(NS) সাহিত্যেতিহাস ( History of Literature) (যে কোনো দুটি ) ( Any two ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_xii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "gen_WB_HS_2022_Sanskrit_Part_B_q_xiii_1",
+          "section_id": "C",
+          "question_number_raw": "৩.১২",
+          "question_type": "SHORT_ANSWER",
+          "marks": 2.0,
+          "question_text": "মৃচ্ছকটিকম-এর রচয়িতার নাম লেখ। Who is the author of मृछकटिकम ? C/Ans:",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": null,
+          "answer_text": "মৃচ্ছকটিকম-এর রচয়িতার নাম লেখ। Who is the author of मृछकटिकम ? C/Ans: এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল ধারণা ও সংজ্ঞা",
+              "allocated_marks": 1.0
+            },
+            {
+              "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+              "allocated_marks": 1.0
+            }
+          ],
+          "rubric_type": "OFFICIAL_MARKING_SCHEME",
+          "provenance": "HISTORICAL",
+          "source_question_id": "WB_HS_2022_Sanskrit_Part_B_q_xiii_1",
+          "textbook_grounding": null,
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    },
+    {
+      "section_id": "D",
+      "section_name": "বিভাগ—ঘ (Group D: LA)",
+      "description": "দীর্ঘ উত্তরভিত্তিক / গাণিতিক সমস্যা",
+      "total_marks": 28.0,
+      "instructions": "নিচের প্রশ্নগুলির বিস্তারিত সমাধান ও ব্যাখ্যা লেখো:",
+      "questions": [
+        {
+          "question_id": "syn_San_D_1",
+          "section_id": "D",
+          "question_number_raw": "৪.১",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "বনগতা গুহা-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, বনগতা গুহা-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Sanskrit পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_San_D_2",
+          "section_id": "D",
+          "question_number_raw": "৪.২",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "শ্রীমদ্ভগবদ্গীতা-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, শ্রীমদ্ভগবদ্গীতা-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Sanskrit পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_San_D_3",
+          "section_id": "D",
+          "question_number_raw": "৪.৩",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "মেঘদূতম্-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, মেঘদূতম্-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Sanskrit পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_San_D_4",
+          "section_id": "D",
+          "question_number_raw": "৪.৪",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "ব্যাকরণ ও ভাষাতত্ত্ব-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, ব্যাকরণ ও ভাষাতত্ত্ব-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Sanskrit পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_San_D_5",
+          "section_id": "D",
+          "question_number_raw": "৪.৫",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "আর্যাবর্তবর্ণনম্-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, আর্যাবর্তবর্ণনম্-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Sanskrit পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_San_D_6",
+          "section_id": "D",
+          "question_number_raw": "৪.৬",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "বনগতা গুহা-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, বনগতা গুহা-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Sanskrit পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_San_D_7",
+          "section_id": "D",
+          "question_number_raw": "৪.৭",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "শ্রীমদ্ভগবদ্গীতা-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, শ্রীমদ্ভগবদ্গীতা-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Sanskrit পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_San_D_8",
+          "section_id": "D",
+          "question_number_raw": "৪.৮",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "মেঘদূতম্-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, মেঘদূতম্-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Sanskrit পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        },
+        {
+          "question_id": "syn_San_D_9",
+          "section_id": "D",
+          "question_number_raw": "৪.৯",
+          "question_type": "LONG_ANSWER",
+          "marks": 4.0,
+          "question_text": "ব্যাকরণ ও ভাষাতত্ত্ব-এর মূল কার্যপদ্ধতি ও নীতি বিশ্লেষণ করো। এর সাথে সংশ্লিষ্ট প্রধান উপাদানগুলির ভূমিকা পয়েন্ট আকারে বর্ণনা করো। [৩+২]",
+          "options": [],
+          "correct_option": null,
+          "correct_option_text": null,
+          "alternative_question_text": "অথবা, ব্যাকরণ ও ভাষাতত্ত্ব-এর গুরুত্ব এবং বাস্তব প্রয়োগ উদাহরণসহ বিশদে আলোচনা করো। [৫]",
+          "answer_text": "আদর্শ উত্তর ও ধারণাগত ব্যাখ্যা:\n১. মূল সংজ্ঞা ও তাৎপর্য সুস্পষ্টভাবে উপস্থাপন।\n২. প্রাসঙ্গিক উদাহরণ, সমীকরণ বা বৈশিষ্ট্য পয়েন্ট আকারে প্রদর্শন।",
+          "alternative_answer_text": null,
+          "scoring_rubric": [
+            {
+              "point": "মূল নীতি ও বিস্তৃত ব্যাখ্যা",
+              "allocated_marks": 3.0
+            },
+            {
+              "point": "প্রয়োজনীয় চিত্রাঙ্কন বা কার্যপদ্ধতি",
+              "allocated_marks": 2.0
+            }
+          ],
+          "rubric_type": "GENERATED_MARKING_SCHEME",
+          "provenance": "GENERATED",
+          "source_question_id": null,
+          "textbook_grounding": "WBBSE/WBCHSE অনুমোদিত Class 12 Sanskrit পাঠ্যপুস্তকের মূল বিষয়বস্তু ও ধারণা।",
+          "cognitive_level": "UNDERSTANDING",
+          "has_visual": false,
+          "visual_description": null
+        }
+      ]
+    }
+  ],
+  "mode": "PAST_PAPER",
+  "created_at": "2026-09-17T10:55:24.715118"
+}

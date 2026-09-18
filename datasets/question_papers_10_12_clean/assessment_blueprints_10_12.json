@@ -1,0 +1,1151 @@
+[
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Bengali",
+    "paper_family": "WBCHSE_Class_12_Bengali",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 36.4,
+    "aggregate_question_types": {
+      "SHORT_ANSWER": 43,
+      "LONG_ANSWER": 33,
+      "VERY_SHORT_ANSWER": 40,
+      "MCQ": 64,
+      "PROOF": 2
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Bengali_Part_A_sec_3",
+        "avg_question_count": 12,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 4,
+          "LONG_ANSWER": 7,
+          "VERY_SHORT_ANSWER": 1
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Biology",
+    "paper_family": "WBCHSE_Class_12_Biology",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 33.8,
+    "aggregate_question_types": {
+      "VERY_SHORT_ANSWER": 47,
+      "LONG_ANSWER": 7,
+      "SHORT_ANSWER": 67,
+      "MCQ": 48
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Biology_Part_A_sec_1",
+        "avg_question_count": 2,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 1,
+          "LONG_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Biology_Part_A_sec_2",
+        "avg_question_count": 51,
+        "section_marks": 5.0,
+        "question_types": {
+          "SHORT_ANSWER": 28,
+          "VERY_SHORT_ANSWER": 23
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Chemistry",
+    "paper_family": "WBCHSE_Class_12_Chemistry",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 46.6,
+    "aggregate_question_types": {
+      "VERY_SHORT_ANSWER": 104,
+      "MCQ": 49,
+      "NUMERICAL": 7,
+      "SHORT_ANSWER": 63,
+      "LONG_ANSWER": 10
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Chemistry_Part_A_sec_1",
+        "avg_question_count": 3,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 2,
+          "MCQ": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Chemistry_Part_A_sec_2",
+        "avg_question_count": 52,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 39,
+          "MCQ": 5,
+          "NUMERICAL": 2,
+          "SHORT_ANSWER": 5,
+          "LONG_ANSWER": 1
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Computer Application",
+    "paper_family": "WBCHSE_Class_12_Computer_Application",
+    "papers_observed": 4,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 4
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 23.5,
+    "aggregate_question_types": {
+      "MCQ": 49,
+      "VERY_SHORT_ANSWER": 24,
+      "SHORT_ANSWER": 20,
+      "LONG_ANSWER": 1
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Computer_Application_Part_A_sec_1",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 1
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Economics",
+    "paper_family": "WBCHSE_Class_12_Economics",
+    "papers_observed": 3,
+    "years_observed": [
+      "2022",
+      "2023"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 3
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 16.0,
+    "aggregate_question_types": {
+      "VERY_SHORT_ANSWER": 4,
+      "MCQ": 25,
+      "SHORT_ANSWER": 4,
+      "LONG_ANSWER": 2,
+      "TRUE_FALSE": 7,
+      "FILL_IN_THE_BLANK": 6
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Economics_Part_A_sec_1",
+        "avg_question_count": 2,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 1,
+          "MCQ": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Economics_Part_A_sec_2",
+        "avg_question_count": 5,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 1,
+          "MCQ": 3,
+          "SHORT_ANSWER": 1
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Education",
+    "paper_family": "WBCHSE_Class_12_Education",
+    "papers_observed": 6,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 6
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 23.833333333333332,
+    "aggregate_question_types": {
+      "SHORT_ANSWER": 25,
+      "VERY_SHORT_ANSWER": 42,
+      "MCQ": 72,
+      "LONG_ANSWER": 4
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Education_Part_A_sec_1",
+        "avg_question_count": 3,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 1,
+          "VERY_SHORT_ANSWER": 1,
+          "MCQ": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Education_Part_A_sec_2",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 1
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "English",
+    "paper_family": "WBCHSE_Class_12_English",
+    "papers_observed": 6,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 6
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 32.0,
+    "aggregate_question_types": {
+      "MCQ": 56,
+      "SHORT_ANSWER": 58,
+      "VERY_SHORT_ANSWER": 69,
+      "LONG_ANSWER": 6,
+      "PROOF": 1,
+      "MATCHING": 1,
+      "FILL_IN_THE_BLANK": 1
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_English_Part_A_sec_2",
+        "avg_question_count": 10,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 1,
+          "SHORT_ANSWER": 4,
+          "VERY_SHORT_ANSWER": 4,
+          "LONG_ANSWER": 1
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Geography",
+    "paper_family": "WBCHSE_Class_12_Geography",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 27.2,
+    "aggregate_question_types": {
+      "VERY_SHORT_ANSWER": 31,
+      "LONG_ANSWER": 5,
+      "MCQ": 61,
+      "SHORT_ANSWER": 39
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Geography_Part_A_sec_1",
+        "avg_question_count": 3,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 2,
+          "LONG_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Geography_Part_A_sec_2",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 1
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "History",
+    "paper_family": "WBCHSE_Class_12_History",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 50.0,
+    "aggregate_question_types": {
+      "LONG_ANSWER": 16,
+      "MCQ": 91,
+      "VERY_SHORT_ANSWER": 90,
+      "MATCHING": 2,
+      "SHORT_ANSWER": 51
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_History_Part_A_sec_2",
+        "avg_question_count": 74,
+        "section_marks": 0,
+        "question_types": {
+          "LONG_ANSWER": 1,
+          "MCQ": 28,
+          "VERY_SHORT_ANSWER": 25,
+          "MATCHING": 2,
+          "SHORT_ANSWER": 18
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Mathematics",
+    "paper_family": "WBCHSE_Class_12_Mathematics",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 30.2,
+    "aggregate_question_types": {
+      "SHORT_ANSWER": 39,
+      "VERY_SHORT_ANSWER": 39,
+      "NUMERICAL": 30,
+      "PROOF": 10,
+      "LONG_ANSWER": 7,
+      "MCQ": 26
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Mathematics_Part_A_sec_1",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Mathematics_Part_A_sec_2",
+        "avg_question_count": 31,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 7,
+          "NUMERICAL": 8,
+          "SHORT_ANSWER": 13,
+          "PROOF": 2,
+          "LONG_ANSWER": 1
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Philosophy",
+    "paper_family": "WBCHSE_Class_12_Philosophy",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 42.8,
+    "aggregate_question_types": {
+      "VERY_SHORT_ANSWER": 102,
+      "LONG_ANSWER": 13,
+      "SHORT_ANSWER": 41,
+      "MCQ": 58
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Philosophy_Part_A_sec_1",
+        "avg_question_count": 3,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 2,
+          "LONG_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Philosophy_Part_A_sec_2",
+        "avg_question_count": 35,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 22,
+          "SHORT_ANSWER": 8,
+          "MCQ": 1,
+          "LONG_ANSWER": 4
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Physics",
+    "paper_family": "WBCHSE_Class_12_Physics",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 21.4,
+    "aggregate_question_types": {
+      "VERY_SHORT_ANSWER": 16,
+      "LONG_ANSWER": 6,
+      "SHORT_ANSWER": 19,
+      "MCQ": 65,
+      "NUMERICAL": 1
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Physics_Part_A_sec_1",
+        "avg_question_count": 2,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 1,
+          "LONG_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Physics_Part_A_sec_12",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "LONG_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Physics_Part_A_sec_13",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Physics_Part_A_sec_14",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Physics_Part_A_sec_4",
+        "avg_question_count": 5,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 3,
+          "LONG_ANSWER": 1,
+          "VERY_SHORT_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Physics_Part_A_sec_5",
+        "avg_question_count": 2,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 2
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Physics_Part_A_sec_6",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Physics_Part_A_sec_8",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Physics_Part_A_sec_9",
+        "avg_question_count": 3,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 3
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Political Science",
+    "paper_family": "WBCHSE_Class_12_Political_Science",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 34.6,
+    "aggregate_question_types": {
+      "SHORT_ANSWER": 35,
+      "VERY_SHORT_ANSWER": 48,
+      "LONG_ANSWER": 16,
+      "MCQ": 74
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Political_Science_Part_A_sec_1",
+        "avg_question_count": 3,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 1,
+          "VERY_SHORT_ANSWER": 1,
+          "LONG_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Political_Science_Part_A_sec_2",
+        "avg_question_count": 11,
+        "section_marks": 0,
+        "question_types": {
+          "LONG_ANSWER": 5,
+          "SHORT_ANSWER": 4,
+          "VERY_SHORT_ANSWER": 2
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Sanskrit",
+    "paper_family": "WBCHSE_Class_12_Sanskrit",
+    "papers_observed": 5,
+    "years_observed": [
+      "2022",
+      "2023",
+      "2024",
+      "2025"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 5
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 22.2,
+    "aggregate_question_types": {
+      "MCQ": 58,
+      "SHORT_ANSWER": 21,
+      "VERY_SHORT_ANSWER": 31,
+      "FILL_IN_THE_BLANK": 1
+    },
+    "sections": [
+      {
+        "section_id": "WB_HS_2022_Sanskrit_Part_A_sec_1",
+        "avg_question_count": 1,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 1
+        }
+      },
+      {
+        "section_id": "WB_HS_2022_Sanskrit_Part_A_sec_2",
+        "avg_question_count": 2,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 2
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Environmental Studies",
+    "paper_family": "WBCHSE_Class_12_Environmental_Studies",
+    "papers_observed": 1,
+    "years_observed": [
+      "2024"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 1
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 32.0,
+    "aggregate_question_types": {
+      "MCQ": 13,
+      "VERY_SHORT_ANSWER": 7,
+      "SHORT_ANSWER": 11,
+      "LONG_ANSWER": 1
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "avg_question_count": 32,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 13,
+          "VERY_SHORT_ANSWER": 7,
+          "SHORT_ANSWER": 11,
+          "LONG_ANSWER": 1
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBCHSE",
+    "class_level": "Class 12",
+    "subject": "Nutrition",
+    "paper_family": "WBCHSE_Class_12_Nutrition",
+    "papers_observed": 1,
+    "years_observed": [
+      "2024"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 1
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 70.0,
+    "standard_duration_minutes": 195,
+    "average_question_count": 21.0,
+    "aggregate_question_types": {
+      "MCQ": 16,
+      "SHORT_ANSWER": 1,
+      "VERY_SHORT_ANSWER": 4
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "avg_question_count": 21,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 16,
+          "SHORT_ANSWER": 1,
+          "VERY_SHORT_ANSWER": 4
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBBSE",
+    "class_level": "Class 10",
+    "subject": "Bengali",
+    "paper_family": "WBBSE_Class_10_Bengali",
+    "papers_observed": 11,
+    "years_observed": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 11
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 90.0,
+    "standard_duration_minutes": 180,
+    "average_question_count": 74.0,
+    "aggregate_question_types": {
+      "SHORT_ANSWER": 289,
+      "VERY_SHORT_ANSWER": 347,
+      "LONG_ANSWER": 39,
+      "MCQ": 139
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "avg_question_count": 93,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 31,
+          "VERY_SHORT_ANSWER": 57,
+          "LONG_ANSWER": 5
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBBSE",
+    "class_level": "Class 10",
+    "subject": "English",
+    "paper_family": "WBBSE_Class_10_English",
+    "papers_observed": 11,
+    "years_observed": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 11
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 90.0,
+    "standard_duration_minutes": 180,
+    "average_question_count": 59.0,
+    "aggregate_question_types": {
+      "LONG_ANSWER": 73,
+      "VERY_SHORT_ANSWER": 347,
+      "SHORT_ANSWER": 142,
+      "MCQ": 61,
+      "FILL_IN_THE_BLANK": 19,
+      "TRUE_FALSE": 3,
+      "MATCHING": 3,
+      "NUMERICAL": 1
+    },
+    "sections": [
+      {
+        "section_id": "Madhyamik_2015_English_sec_5",
+        "avg_question_count": 24,
+        "section_marks": 0,
+        "question_types": {
+          "LONG_ANSWER": 2,
+          "VERY_SHORT_ANSWER": 16,
+          "SHORT_ANSWER": 4,
+          "MCQ": 2
+        }
+      },
+      {
+        "section_id": "Madhyamik_2015_English_sec_6",
+        "avg_question_count": 12,
+        "section_marks": 0,
+        "question_types": {
+          "FILL_IN_THE_BLANK": 1,
+          "VERY_SHORT_ANSWER": 5,
+          "SHORT_ANSWER": 5,
+          "LONG_ANSWER": 1
+        }
+      },
+      {
+        "section_id": "Madhyamik_2015_English_sec_7",
+        "avg_question_count": 3,
+        "section_marks": 0,
+        "question_types": {
+          "LONG_ANSWER": 3
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBBSE",
+    "class_level": "Class 10",
+    "subject": "Geography",
+    "paper_family": "WBBSE_Class_10_Geography",
+    "papers_observed": 10,
+    "years_observed": [
+      "2015",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 10
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 90.0,
+    "standard_duration_minutes": 180,
+    "average_question_count": 83.7,
+    "aggregate_question_types": {
+      "SHORT_ANSWER": 169,
+      "VERY_SHORT_ANSWER": 505,
+      "MCQ": 116,
+      "FILL_IN_THE_BLANK": 9,
+      "MATCHING": 5,
+      "LONG_ANSWER": 33
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "avg_question_count": 14,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 2,
+          "VERY_SHORT_ANSWER": 12
+        }
+      },
+      {
+        "section_id": "Madhyamik_2015_Geography_sec_1",
+        "avg_question_count": 14,
+        "section_marks": 0,
+        "question_types": {
+          "SHORT_ANSWER": 5,
+          "VERY_SHORT_ANSWER": 8,
+          "MCQ": 1
+        }
+      },
+      {
+        "section_id": "Madhyamik_2015_Geography_sec_2",
+        "avg_question_count": 2,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 2
+        }
+      },
+      {
+        "section_id": "Madhyamik_2015_Geography_sec_3",
+        "avg_question_count": 3,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 3
+        }
+      },
+      {
+        "section_id": "Madhyamik_2015_Geography_sec_4",
+        "avg_question_count": 3,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 3
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBBSE",
+    "class_level": "Class 10",
+    "subject": "History",
+    "paper_family": "WBBSE_Class_10_History",
+    "papers_observed": 11,
+    "years_observed": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 11
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 90.0,
+    "standard_duration_minutes": 180,
+    "average_question_count": 48.0,
+    "aggregate_question_types": {
+      "MCQ": 149,
+      "SHORT_ANSWER": 65,
+      "VERY_SHORT_ANSWER": 259,
+      "LONG_ANSWER": 46,
+      "FILL_IN_THE_BLANK": 6,
+      "TRUE_FALSE": 1,
+      "MATCHING": 2
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "avg_question_count": 16,
+        "section_marks": 0,
+        "question_types": {
+          "MCQ": 5,
+          "SHORT_ANSWER": 2,
+          "VERY_SHORT_ANSWER": 7,
+          "LONG_ANSWER": 2
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBBSE",
+    "class_level": "Class 10",
+    "subject": "Life Science",
+    "paper_family": "WBBSE_Class_10_Life_Science",
+    "papers_observed": 11,
+    "years_observed": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 11
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 90.0,
+    "standard_duration_minutes": 180,
+    "average_question_count": 69.54545454545455,
+    "aggregate_question_types": {
+      "VERY_SHORT_ANSWER": 219,
+      "MCQ": 170,
+      "FILL_IN_THE_BLANK": 4,
+      "SHORT_ANSWER": 316,
+      "NUMERICAL": 1,
+      "LONG_ANSWER": 45,
+      "PROOF": 10
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "avg_question_count": 52,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 14,
+          "MCQ": 10,
+          "FILL_IN_THE_BLANK": 2,
+          "SHORT_ANSWER": 26
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBBSE",
+    "class_level": "Class 10",
+    "subject": "Mathematics",
+    "paper_family": "WBBSE_Class_10_Mathematics",
+    "papers_observed": 11,
+    "years_observed": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 11
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 90.0,
+    "standard_duration_minutes": 180,
+    "average_question_count": 50.90909090909091,
+    "aggregate_question_types": {
+      "VERY_SHORT_ANSWER": 142,
+      "SHORT_ANSWER": 225,
+      "NUMERICAL": 66,
+      "MCQ": 62,
+      "LONG_ANSWER": 12,
+      "FILL_IN_THE_BLANK": 6,
+      "TRUE_FALSE": 10,
+      "PROOF": 37
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "avg_question_count": 14,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 5,
+          "SHORT_ANSWER": 3,
+          "NUMERICAL": 3,
+          "MCQ": 3
+        }
+      }
+    ]
+  },
+  {
+    "board": "WBBSE",
+    "class_level": "Class 10",
+    "subject": "Physical Science",
+    "paper_family": "WBBSE_Class_10_Physical_Science",
+    "papers_observed": 11,
+    "years_observed": [
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019",
+      "2020",
+      "2022",
+      "2023",
+      "2024",
+      "2025",
+      "2026"
+    ],
+    "paper_types_observed": {
+      "REAL_BOARD_PAPER": 11
+    },
+    "blueprint_classification": "HISTORICAL_EMPIRICAL_BLUEPRINT",
+    "standard_total_marks": 90.0,
+    "standard_duration_minutes": 180,
+    "average_question_count": 68.45454545454545,
+    "aggregate_question_types": {
+      "VERY_SHORT_ANSWER": 254,
+      "SHORT_ANSWER": 309,
+      "MCQ": 132,
+      "NUMERICAL": 20,
+      "LONG_ANSWER": 17,
+      "FILL_IN_THE_BLANK": 4,
+      "TRUE_FALSE": 16,
+      "PROOF": 1
+    },
+    "sections": [
+      {
+        "section_id": "A",
+        "avg_question_count": 74,
+        "section_marks": 0,
+        "question_types": {
+          "VERY_SHORT_ANSWER": 32,
+          "SHORT_ANSWER": 37,
+          "MCQ": 2,
+          "NUMERICAL": 1,
+          "LONG_ANSWER": 2
+        }
+      }
+    ]
+  }
+]

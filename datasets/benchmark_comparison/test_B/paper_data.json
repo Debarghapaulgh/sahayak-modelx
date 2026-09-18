@@ -1,0 +1,1894 @@
+{
+  "paper_id": "wbbse_class10_physical_science_1f591515",
+  "title": "পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 10 — Physical Science\nপূর্ণমান: ৯০ | সময়: ৩ ঘণ্টা",
+  "paper_config": {
+    "board": "WBBSE",
+    "grade": "Class 10",
+    "subject": "Physical Science",
+    "chapters": [
+      "পরিবেশের জন্য ভাবনা",
+      "গ্যাসের আচরণ"
+    ],
+    "chapter_mode": "CHAPTER_FILTERED",
+    "difficulty": "Mixed",
+    "difficulty_distribution": {
+      "easy_pct": 0.3,
+      "moderate_pct": 0.5,
+      "challenging_pct": 0.2
+    },
+    "language": "Bengali",
+    "total_marks": 90.0,
+    "duration_minutes": 180,
+    "include_answer_key": true,
+    "include_marking_scheme": false
+  },
+  "blueprint": {
+    "board": "WBBSE",
+    "class_level": "Class 10",
+    "subject": "Physical Science",
+    "total_marks": 90.0,
+    "duration_minutes": 180,
+    "sections": [
+      {
+        "section_id": "A",
+        "section_name": "বিভাগ—ক (Group A)",
+        "description": "বহুবিকল্পভিত্তিক প্রশ্ন (MCQ)",
+        "question_type": "MCQ",
+        "total_questions_to_answer": 15,
+        "total_questions_provided": 15,
+        "marks_per_question": 1.0,
+        "total_section_marks": 15.0,
+        "or_choices_count": 0,
+        "instructions": "প্রতিটি প্রশ্নের বিকল্পগুলি থেকে সঠিক উত্তরটি নির্বাচন করে লেখো:"
+      },
+      {
+        "section_id": "B",
+        "section_name": "বিভাগ—খ (Group B)",
+        "description": "অতিসংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন (এক কথায় উত্তর / শূন্যস্থান পূরণ)",
+        "question_type": "VERY_SHORT_ANSWER",
+        "total_questions_to_answer": 21,
+        "total_questions_provided": 21,
+        "marks_per_question": 1.0,
+        "total_section_marks": 21.0,
+        "or_choices_count": 7,
+        "instructions": "একটি বাক্যে বা নির্দিষ্ট এককে উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষণীয়):"
+      },
+      {
+        "section_id": "C",
+        "section_name": "বিভাগ—গ (Group C)",
+        "description": "সংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন ও প্রাথমিক গাণিতিক সমস্যা",
+        "question_type": "SHORT_ANSWER",
+        "total_questions_to_answer": 9,
+        "total_questions_provided": 9,
+        "marks_per_question": 2.0,
+        "total_section_marks": 18.0,
+        "or_choices_count": 4,
+        "instructions": "সংক্ষেপে উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষণীয়):"
+      },
+      {
+        "section_id": "D",
+        "section_name": "বিভাগ—ঘ (Group D)",
+        "description": "দীর্ঘ ব্যাখ্যামূলক প্রশ্ন ও গাণিতিক প্রতিপাদন (৩ নম্বরের প্রশ্ন)",
+        "question_type": "LONG_ANSWER",
+        "total_questions_to_answer": 12,
+        "total_questions_provided": 12,
+        "marks_per_question": 3.0,
+        "total_section_marks": 36.0,
+        "or_choices_count": 6,
+        "instructions": "নিচের প্রশ্নগুলির উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষণীয়):"
+      }
+    ],
+    "general_instructions": [
+      "প্রয়োজনীয় ক্ষেত্রে গাণিতিক গণনার ধাপ এবং এস.আই. (SI) একক স্পষ্ট উল্লেখ করতে হবে।",
+      "বহুবিকল্পভিত্তিক প্রশ্নগুলির ক্ষেত্রে সঠিক উত্তরের ক্রমিক সংখ্যা সহ পূর্ণ বাক্য লিখতে হবে।"
+    ],
+    "blueprint_source": "OFFICIAL_HISTORICAL_WBBSE_CLASS_10"
+  },
+  "is_valid": true,
+  "validation_report": {
+    "paper_id": "wbbse_class10_physical_science_1f591515",
+    "is_valid": true,
+    "structural_score": 1.0,
+    "content_score": 1.0,
+    "assessment_score": 1.0,
+    "language_score": 1.0,
+    "errors": [],
+    "warnings": [],
+    "metrics": {
+      "total_questions": 57,
+      "total_sections": 4,
+      "total_marks": 90.0,
+      "calculated_marks": 90.0,
+      "provenance_counts": {
+        "HISTORICAL": 57
+      },
+      "blueprint_source": "OFFICIAL_HISTORICAL_WBBSE_CLASS_10",
+      "chapter_mode": "CHAPTER_FILTERED",
+      "requested_chapters": [
+        "পরিবেশের জন্য ভাবনা",
+        "গ্যাসের আচরণ"
+      ],
+      "cognitive_distribution": {
+        "REMEMBERING": 15,
+        "APPLYING": 29,
+        "EVALUATING": 10,
+        "ANALYSING": 3
+      }
+    }
+  },
+  "question_paper_markdown": "# পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 10 — Physical Science\nপূর্ণমান: ৯০ | সময়: ৩ ঘণ্টা\n**বোর্ড / সংসদ:** WBBSE | **শ্রেণি:** Class 10 | **বিষয়:** Physical Science\n**সময়:** ১৮০ মিনিট | **পূর্ণমান:** ৯০\n\n---\n### সাধারণ নির্দেশাবলী:\n১. প্রয়োজনীয় ক্ষেত্রে গাণিতিক গণনার ধাপ এবং এস.আই. (SI) একক স্পষ্ট উল্লেখ করতে হবে।\n২. বহুবিকল্পভিত্তিক প্রশ্নগুলির ক্ষেত্রে সঠিক উত্তরের ক্রমিক সংখ্যা সহ পূর্ণ বাক্য লিখতে হবে।\n---\n\n## বিভাগ—ক (Group A)\n*প্রতিটি প্রশ্নের বিকল্পগুলি থেকে সঠিক উত্তরটি নির্বাচন করে লেখো:* [১৫ নম্বর]\n\n**১.১** 12 পারমাণবিক সংখ্যা যুক্ত কোনো পরমাণুর ইলেকট্রন বিন্যাস K ণুটির প্রকৃত ইলেকট্রন বিন্যাস কী হবে? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(2) , L\n&nbsp;&nbsp;&nbsp;&nbsp;(1) হতে পারে না কেন? পরমা-\n\n**১.২** CH3COOH ন্যাপথালিন &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(b) মেথিলেটেড স্পিরিট ও রেকটিফায়েড স্পিরিটের (ii) মুখ্য উপাদান\n&nbsp;&nbsp;&nbsp;&nbsp;(c) পিতল ও ব্রোঞ্জ উভয়েইর উপস্থিত 1+1 2 2 2 24 Cr\n&nbsp;&nbsp;&nbsp;&nbsp;(d) ভিনিগারে থাকে (e) কলঙ্কহীন ইস্পাতে থাকে\n\n**১.৩** কী ঘটে সমিত রাসায়নিক সমীকরণসহ লেখো: &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) লঘু হাইড্রোক্লোরিক অ্যাসিডের মধ্যে লৌহচূর্ণ যোগ করা হল ।\n&nbsp;&nbsp;&nbsp;&nbsp;(D) জিঙ্কের গুঁড়ো গাঢ় জলীয় সোডিয়াম হাইড্রক্সাইড সহযোগে ফোটানো হল । 2 2+2 [ কেবলমাত্র বহিরাগত পরীক্ষার্থীদের জন্য ] 'ঙ' বিভাগ in\n\n**১.৪** নীচের কোনটি গ্রিনহাউস গ্যাস নয়? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) মিথেন\n&nbsp;&nbsp;&nbsp;&nbsp;(c) কার্বন ডাইঅক্সাইড\n&nbsp;&nbsp;&nbsp;&nbsp;(b) জলীয় বাষ্প\n&nbsp;&nbsp;&nbsp;&nbsp;(d) অক্সিজেন\n\n**১.৫** নীচের কোনটি চাপের SI একক? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) NM 2\n&nbsp;&nbsp;&nbsp;&nbsp;(c) Nm\n&nbsp;&nbsp;&nbsp;&nbsp;(a) 8\n&nbsp;&nbsp;&nbsp;&nbsp;(c) 32\n&nbsp;&nbsp;&nbsp;&nbsp;(b) Nm-2\n&nbsp;&nbsp;&nbsp;&nbsp;(d) N\n&nbsp;&nbsp;&nbsp;&nbsp;(b) 16\n&nbsp;&nbsp;&nbsp;&nbsp;(d) 64\n\n**১.৬** নীচের কোনটির ওপর ধাতুর পরিবাহিতাঙ্ক নির্ভর করে? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) উন্নতা\n&nbsp;&nbsp;&nbsp;&nbsp;(c) উপাদানের প্রকৃতি\n&nbsp;&nbsp;&nbsp;&nbsp;(b) দৈৰ্ঘ্য\n&nbsp;&nbsp;&nbsp;&nbsp;(d) প্রস্থচ্ছেদ\n\n**১.৭** দর্পণের বক্রতা ব্যাসার্ধ এবং ফোকাস দৈর্ঘ্যের মধ্যে সম্পর্কটি কী? = &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) f\n&nbsp;&nbsp;&nbsp;&nbsp;(c) f = 1/1/2 2r\n&nbsp;&nbsp;&nbsp;&nbsp;(b) f = ;\n&nbsp;&nbsp;&nbsp;&nbsp;(d) f = r (Contd.) P.SC.(B & E)\n\n**১.৮** প্রিজমের মধ্যে দিয়ে সাদা আলো প্রতিসরণের ক্ষেত্রে যে বর্ণের বিচ্যুতি সর্বাধিক সেটি কোনটি? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) লাল\n&nbsp;&nbsp;&nbsp;&nbsp;(c) বেগুনি\n\n**১.৯** নিম্নলিখিত ভৌত রাশিগুলির মধ্যে অ্যাম্পিয়ার কোনটি? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(b) হলুদ\n&nbsp;&nbsp;&nbsp;&nbsp;(d) সবুজ\n&nbsp;&nbsp;&nbsp;&nbsp;(a) কুলম্ব সেকেন্ড\n&nbsp;&nbsp;&nbsp;&nbsp;(c) ভোল্ট / ওহম\n&nbsp;&nbsp;&nbsp;&nbsp;(b) ভোল্ট ওহম\n&nbsp;&nbsp;&nbsp;&nbsp;(d) ভোল্ট ওহম\n\n**১.১০** নীচের কোন্টির রোধাঙ্ক উয়তা বৃদ্ধির সাথে হ্রাস পায়? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) পরিবাহী\n&nbsp;&nbsp;&nbsp;&nbsp;(c) অতিপরিবাহী\n&nbsp;&nbsp;&nbsp;&nbsp;(b) অর্ধপরিবাহী\n&nbsp;&nbsp;&nbsp;&nbsp;(d) অন্তরক\n\n**১.১১** নীচের কোনটি a, B ও V রশ্মির আয়নায়ন ক্ষমতার সঠিক ক্রম? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) a > B > শ\n&nbsp;&nbsp;&nbsp;&nbsp;(c) 7 > B > a\n\n**১.১২** নীচের কোনটির পারমাণবিক ব্যাসার্ধ সর্বাধিক? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) K\n&nbsp;&nbsp;&nbsp;&nbsp;(c) Li\n\n**১.১৩** নীচের কোনটিতে সমযোজী বন্ধন বর্তমান? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) হাইড্রোজেন ক্লোরাইড\n&nbsp;&nbsp;&nbsp;&nbsp;(c) লিথিয়াম হাইড্রাইড\n&nbsp;&nbsp;&nbsp;&nbsp;(b) a > 7 > B\n&nbsp;&nbsp;&nbsp;&nbsp;(d) B > a > 7 cetips.in\n\n**১.১৪** নীচের কোনটি জলীয় দ্রবণে একটি মৃদু তড়িৎবিশ্লেষ্য? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) CH3COOH\n&nbsp;&nbsp;&nbsp;&nbsp;(c) H2SO4 ISO\n&nbsp;&nbsp;&nbsp;&nbsp;(b) সোডিয়াম ক্লোরাইড\n&nbsp;&nbsp;&nbsp;&nbsp;(d) ক্যালশিয়াম অক্সাইড\n&nbsp;&nbsp;&nbsp;&nbsp;(b) NaOH\n&nbsp;&nbsp;&nbsp;&nbsp;(d) NaCl\n\n**১.১৫** নীচের কোনটি আর্দ্র অ্যামোনিয়াকে শুষ্ক করতে ব্যবহৃত হয়? &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(a) গাঢ় H2SO4\n&nbsp;&nbsp;&nbsp;&nbsp;(c) CaO\n\n\n## বিভাগ—খ (Group B)\n*একটি বাক্যে বা নির্দিষ্ট এককে উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষণীয়):* [২১ নম্বর]\n\n**২.১** 28Ca তে আধানযুক্ত কণার মোট সংখ্যা কত? &nbsp;&nbsp; **[১]**\n**২.২** 327°C কে কেলভিনে প্রকাশ করো । encetips.in &nbsp;&nbsp; **[১]**\n**২.৩** STP তে 2.24 লিটার SO2 এ অণুর সংখ্যা কত? &nbsp;&nbsp; **[১]**\n**২.৪** ও ধO -এর মধ্যে সম্পর্ক কী? &nbsp;&nbsp; **[১]**\n**২.৫** কোন তরলের আপেক্ষিক তাপ সবচেয়ে বেশি? &nbsp;&nbsp; **[১]**\n**২.৬** আধানবিহীন তেজস্ক্রিয় রশ্মিটির নাম লেখো ৷ &nbsp;&nbsp; **[১]**\n**২.৭** মেন্ডেলিফের পর্যায় সারণিতে ক্ষার ধাতুগুলি কোন গ্রুপে অবস্থিত? &nbsp;&nbsp; **[১]**\n**২.৮** বলয় পরীক্ষা দ্বারা কোন অ্যাসিডকে শনাক্ত করা যায়? &nbsp;&nbsp; **[১]**\n**২.৯** হাইড্রোজেন ক্লোরাইডের অণুতে কোন ধরনের রাসায়নিক বন্ধন বর্তমান? &nbsp;&nbsp; **[১]**\n**২.১০** একটি জৈব গ্রিনহাউস গ্যাসের নাম লেখো । &nbsp;&nbsp; **[১]**\n**২.১১** পরমাণুর কেন্দ্রক কী? &nbsp;&nbsp; **[১]**\n**২.১২** বয়েল সূত্রটি বিবৃত করো এবং সূত্রটিকে গাণিতিক রূপে প্রকাশ করো 1+1 2+1 &nbsp;&nbsp; **[১]**\n**২.১৩** 1 মোল কীসের একক? &nbsp;&nbsp; **[১]**\n**২.১৪** ক্যালরিমিতির নীতিটি লেখো । &nbsp;&nbsp; **[১]**\n**২.১৫** 1 তাপের SI এককটি লেখো। &nbsp;&nbsp; **[১]**\n**২.১৬** 2 250 g জলের উষ্ণতা 10°C থেকে 100°C উষ্ণতায় তুলতে কত তাপ লাগবে? &nbsp;&nbsp; **[১]**\n**২.১৭** 2 একটি উত্তল লেন্সের ফোকাস দৈর্ঘ্য বলতে কী বোঝায়? &nbsp;&nbsp; **[১]**\n**২.১৮** 1 থ্রি-পিন টপের আর্থ পিন কোন্টি? &nbsp;&nbsp; **[১]**\n**২.১৯** বার্লোচক্রের ঘূর্ণনের ওপর কী প্রভাব দেখা যায় যখন &nbsp;&nbsp; **[১]**\n**২.২০** 1 তড়িৎচুম্বক কী? &nbsp;&nbsp; **[১]**\n**২.২১** X-রশ্মির একটি ধর্ম ও একটি ব্যবহারের উল্লেখ করো। &nbsp;&nbsp; **[১]**\n\n## বিভাগ—গ (Group C)\n*সংক্ষেপে উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষণীয়):* [১৮ নম্বর]\n\n**৩.১** ফ্লেমিং এর বামহস্ত নিয়মে তর্জনী দিয়ে কিসের অভিমুখ বোঝানো হয়? 1 x 10 &nbsp;&nbsp; **[২]**\n**৩.২** সমান্তরাল আলোক রশ্মিগুচ্ছকে অভিসারী আলোক রশ্মি তে পরিণত করতে কী ধরনের লেন্স ব্যবহার করা হয়? &nbsp;&nbsp; **[২]**\n**৩.৩** তিনটি কার্বন পরমাণুযুক্ত অ্যালকাইনে উপস্থিত হাইড্রোজেন পরমাণুর সংখ্যা কত? 'খ' বিভাগ &nbsp;&nbsp; **[২]**\n**৩.৪** 1 পরমাণুর কেন্দ্রকে উপস্থিত কণা' দুটির নাম লেখো (হাইড্রোজেন পরমাণু ছাড়া)। &nbsp;&nbsp; **[২]**\n**৩.৫** 2 আইসোটোপগুলির রাসায়নিক ধর্ম একই থাকে কেন? 2 2 2 2 (Contd.) PHYSICAL SCIENCE &nbsp;&nbsp; **[২]**\n**৩.৬** বয়েল সূত্র ও চার্লস সূত্রর সমন্বিত রূপটি সমীকরণ আকারে প্রকাশ করো। সমীকরণে ব্যবহৃত চিহ্নগুলি কী নির্দেশ করে? 1+2 &nbsp;&nbsp; **[২]**\n**৩.৭** অ্যাভোগাড্রো সূত্রটি বিবৃত করো এবং এর দুটি অনুসিদ্ধান্তের উল্লেখ করো । &nbsp;&nbsp; **[২]**\n**৩.৮** C-12 স্কেলে কোনো মৌলের পারমাণবিক ভরের সংজ্ঞা দাও । 2 2+2 2 &nbsp;&nbsp; **[২]**\n**৩.৯** 6.4 গ্রাম সালফার ডাইঅক্সাইডে যতগুলি অণু থাকে কত গ্রাম সালফার ট্রাইঅক্সাইডে ততগুলি অণু থাকবে? (S = 32, O = 16 ) &nbsp;&nbsp; **[২]**\n\n## বিভাগ—ঘ (Group D)\n*নিচের প্রশ্নগুলির উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষণীয়):* [৩৬ নম্বর]\n\n**৪.১** কপার তড়িৎদ্বার ব্যবহার করে সালফিউরিক অ্যাসিড দ্বারা অম্লায়িত কপার সালফেটের জলীয় দ্রবণের তড়িৎ- বিশ্লেষণ করলে ক্যাথোডে ও অ্যানোডে যে বিক্রিয়া ঘটে সে দুটি লেখো । 3 3 (Contd.) PHYSICAL SCIENCE &nbsp;&nbsp; **[৩]**\n**৪.২** একটি গাঢ় অ্যাসিডের বোতলের খোলা মুখে একটি অ্যামোনিয়া-সিক্ত কাচের দণ্ড ধরলে সাদা ধোঁয়ার সৃষ্টি হল। অ্যাসিডটি কী? সাদা’ ধোঁয়া উৎপন্ন হয় কেন? ওই অ্যাসিডের লঘু জলীয় দ্রবণে AgNO3-এর জলীয় দ্রবণ যোগ করলে যে বিক্রিয়া ঘটে তার সমিত রাসায়নিক সমীকরণ লেখো। 1+1+1 &nbsp;&nbsp; **[৩]**\n**৪.৩** CO, C2H4 ও NO যৌগ তিনটির এক মোলে উপস্থিত অণুর সংখ্যা সমান। এদের মধ্যে দুটি যৌগের 1 গ্ৰামে উপস্থিত অণুর সংখ্যা সমান হলেও অবশিষ্ট যৌগটির 1 গ্রামে উপস্থিত অণুর সংখ্যা এদের থেকে পৃথক। যৌগটিকে চিহ্নিত করো। এই যৌগটির 1 গ্রামে উপস্থিত অণুর সংখ্যা নির্ণয় করো। যৌগ তিনটির মধ্যে কোনটির 1 গ্রামে উপস্থিত পরমাণু সংখ্যা সর্বাধিক? (H = 1, C = 12, N = 14, O = 16) &nbsp;&nbsp; **[৩]**\n**৪.৪** বাম স্তম্ভের সঙ্গে ডানস্তম্ভের সামঞ্জস্য বিধান করো: 2 4 3 (Contd.) PHYSICAL SCIENCE বাম স্তম্ভ (1) অ্যাসিটিলিন অণুতে কার্বন-কার্বন বন্ধনের সংখ্যা (□) ছোটো (2) Li পরমাণুর আকারের তুলনায় Na পরমাণুর | (→→) মিথেন আকার (3) ডুরালুমিনে বর্তমান (4) নিয়নের সর্ববহিস্থ কক্ষে (→→→) কার্বন (00) Cu (5) ক্লোরিন পরমাণুর আকার ব্রোমিন পরমাণুর আকা- (i) বড়ো রের তুলনায় (6) প্রতিটি জৈব যৌগে বর্তমান (7) পলিমার গঠন করে (৪) আলেয়া উৎপন্নের জন্য দায়ী (00) আটটি (→→→) তিনটি (→→→→) ইথিলিন &nbsp;&nbsp; **[৩]**\n**৪.৫** MSO4 (M = ধাতু)-এর জলীয় দ্রবণকে তড়িৎ বিশ্লেষণ করলে ক্যাথোডে কী বিক্রিয়া ঘটে লেখো। বিক্রিয়াটি জারণ না বিজারণ বিক্রিয়া যুক্তিসহ লেখো। 2 &nbsp;&nbsp; **[৩]**\n&nbsp;&nbsp;&nbsp;&nbsp;*কপার ও অ্যালুমিনিয়ামের একটি করে ব্যবহার উল্লেখ করো । 2*\n\n**৪.৬** আয়রন পাইরাইটসকে অতিরিক্ত বায়ুপ্রবাহে পুড়িয়ে সালফিউরিক অ্যাসিডের শিল্পোৎপাদনের জন্য প্রয়োজনীয় SO, উৎপাদন করা হয়। বিক্রিয়াটির রাসায়নিক সমীকরণ নীচে দেওয়া হল : 4FeS2 + 1102 → 2Fe2O3 + 8SO2 512 g SO2 উৎপাদনের জন্য কত গ্রাম FeS2 প্রয়োজন? (Fe = 56, S = 32, O = 16) 3 &nbsp;&nbsp; **[৩]**\n&nbsp;&nbsp;&nbsp;&nbsp;*কোনো ধাতব কার্বনেটের 200g-কে উত্তপ্ত করলে 112 g ধাতব অক্সাইড ও একটি গ্যাসীয় যৌগ উৎপন্ন হয়। গ্যাসীয় যৌগটির বাষ্প ঘনত্ব 22। বিক্রিয়াটিতে কত মোল গ্যাসীয় যৌগটি উৎপন্ন হয়?*\n\n**৪.৭** তড়িৎ বিশ্লেষণের সাহায্যে অ্যালুমিনিয়ামের নিষ্কাশনের জন্য যে গলিত মিশ্রণের তড়িৎ বিশ্লেষণ করা হয় তাতে বিশুদ্ধ অ্যালুমিনা ছাড়া আর কী কী থাকে? এই তড়িৎ বিশ্লেষণে ক্যাথোড ও অ্যানোড হিসেবে কী কী ব্যবহৃত হয়? 1+2 &nbsp;&nbsp; **[৩]**\n**৪.৮** একটি জৈব যৌগের আণবিক সংকেত C2H4O2 যোগটি জলে দ্রাব্য এবং যৌগটির জলীয় দ্রবণে NaHCO3 যোগ করলে CO2 নির্গত হয়। জৈব যৌগটিকে শনাক্ত করো। জৈব যৌগটির সঙ্গে ইথানলের বিক্রিয়া শর্ত ও সমিত রাসায়নিক সমীকরণসহ লেখো । জৈব ও অজৈব যৌগের তিনটি ধর্মের তুলনা করো। &nbsp;&nbsp; **[৩]**\n&nbsp;&nbsp;&nbsp;&nbsp;*1+2 3 3 6*\n\n**৪.৯** g অ্যামোনিয়াম ক্লোরাইডকে ক্যালশিয়াম হাইড্রক্সাইড সহযোগে উত্তপ্ত করে 10.2 g NH3, 33.3 g CaCl2 ও 10.8 g H2O পাওয়া গেল। কত গ্রাম ক্যালশিয়াম হাইড্রক্সাইড বিক্রিয়াটিতে অংশগ্রহণ করল? এই বিক্রিয়ায় কত মোল NH3 এবং STP-তে কত লিটার N H3 উৎপন্ন হল? (N = 14, H = 1) 1+2 &nbsp;&nbsp; **[৩]**\n**৪.১০** ধাতব তারের মধ্য দিয়ে তড়িৎ পরিবহন এবং তড়িৎ বিশ্লেষণের সময় তড়িৎ-বিশ্লেষ্যের মধ্য দিয়ে তড়িৎ পরিবহ- নের মধ্যে দুটি পার্থক্য লেখো। তড়িৎ বিশ্লেষণ পদ্ধতিতে কপার ধাতুর পরিশোধনে অবিশুদ্ধ কপার দণ্ড কোন্ ইলেক ট্রোড রূপে ব্যবহার করা হয়? 2+1 &nbsp;&nbsp; **[৩]**\n**৪.১১** সমান দৈর্ঘ্যের দুটি ধাতব পরিবাহী A ও B এর রোধাঙ্ক যথাক্রমে 1.6 × 108 12m এবং 3.2 x 10-8 Sm পরিবাহীদুটিকে আলাদাভাবে একই বিভব প্রভেদে যুক্ত করা হল। এদের প্রস্থচ্ছেদের অনুপাত কী হলে এদের প্রতিটির মধ্যে প্রবাহমাত্রা একই হবে? &nbsp;&nbsp; **[৩]**\n&nbsp;&nbsp;&nbsp;&nbsp;*দুটি 10 ওহম রোধকে শ্রেণী সমবায়ে যুক্ত করে সমবায়টি একটি 20 ওহম রোধের সাথে সমান্তরাল সমবায়ে যোগ করা হল। অন্তিম সমবায়ের তুল্যরোধ নির্ণয় করো ।*\n\n**৪.১২** দুটি ভিন্ন জৈব যৌগ A ও B একই আণবিক সংকেত, C2H6O, সম্পন্ন। A ধাতব সোডিয়ামের সঙ্গে বিক্রিয়ায় হাইড্রোজেন গ্যাস উৎপন্ন করে কিন্তু B ধাতব সোডিয়ামের সঙ্গে বিক্রিয়া করে না। A ও B যৌগদুটির গঠন সংকেত লেখো। A এর সঙ্গে ধাতব সোডিয়ামের বিক্রিয়ার সমিত রাসায়নিক সমীকরণ লেখো। ২+১ &nbsp;&nbsp; **[৩]**\n&nbsp;&nbsp;&nbsp;&nbsp;*ইথিলিনে হাইড্রোজেন সংযোজন বিক্রিয়ার শর্ত উল্লেখ করো। বিক্রিয়াটির সমিত রাসায়নিক সমীকরণ লেখো। সি এন জি (CNG) র একটি ব্যবহার উল্লেখ করো । 'ঙ' বিভাগ ২+১ (কেবল বহিরাগত পরীক্ষার্থীদের জন্য)*\n\n",
+  "answer_key_markdown": "# পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 10 — Physical Science\nপূর্ণমান: ৯০ | সময়: ৩ ঘণ্টা — উত্তর নির্দেশিকা (Answer Key)\n**বোর্ড:** WBBSE | **শ্রেণি:** Class 10 | **বিষয়:** Physical Science | **পূর্ণমান:** ৯০\n\n---\n\n### বিভাগ—ক (Group A)\n- **১.১**: সঠিক বিকল্প **(A)** (2) , L\n- **১.২**: সঠিক বিকল্প **(A)** (b) মেথিলেটেড স্পিরিট ও রেকটিফায়েড স্পিরিটের (ii) মুখ্য উপাদান\n- **১.৩**: সঠিক বিকল্প **(A)** (ঘ) লঘু হাইড্রোক্লোরিক অ্যাসিডের মধ্যে লৌহচূর্ণ যোগ করা হল ।\n- **১.৪**: সঠিক বিকল্প **(A)** (a) মিথেন\n- **১.৫**: সঠিক বিকল্প **(A)** (a) NM 2\n- **১.৬**: সঠিক বিকল্প **(A)** (a) উন্নতা\n- **১.৭**: সঠিক বিকল্প **(A)** (a) f\n- **১.৮**: সঠিক বিকল্প **(A)** (a) লাল\n- **১.৯**: সঠিক বিকল্প **(A)** (b) হলুদ\n- **১.১০**: সঠিক বিকল্প **(A)** (a) পরিবাহী\n- **১.১১**: সঠিক বিকল্প **(A)** (a) a > B > শ\n- **১.১২**: সঠিক বিকল্প **(A)** (a) K\n- **১.১৩**: সঠিক বিকল্প **(A)** (a) হাইড্রোজেন ক্লোরাইড\n- **১.১৪**: সঠিক বিকল্প **(A)** (a) CH3COOH\n- **১.১৫**: সঠিক বিকল্প **(A)** (a) গাঢ় H2SO4\n\n### বিভাগ—খ (Group B)\n- **২.১**: 28Ca তে আধানযুক্ত কণার মোট সংখ্যা কত? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.২**: 327°C কে কেলভিনে প্রকাশ করো । encetips.in এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.৩**: STP তে 2.24 লিটার SO2 এ অণুর সংখ্যা কত? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.৪**: ও ধO -এর মধ্যে সম্পর্ক কী? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.৫**: কোন তরলের আপেক্ষিক তাপ সবচেয়ে বেশি? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.৬**: আধানবিহীন তেজস্ক্রিয় রশ্মিটির নাম লেখো ৷ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.৭**: মেন্ডেলিফের পর্যায় সারণিতে ক্ষার ধাতুগুলি কোন গ্রুপে অবস্থিত? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.৮**: বলয় পরীক্ষা দ্বারা কোন অ্যাসিডকে শনাক্ত করা যায়? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.৯**: হাইড্রোজেন ক্লোরাইডের অণুতে কোন ধরনের রাসায়নিক বন্ধন বর্তমান? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১০**: একটি জৈব গ্রিনহাউস গ্যাসের নাম লেখো । এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১১**: পরমাণুর কেন্দ্রক কী? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১২**: বয়েল সূত্রটি বিবৃত করো এবং সূত্রটিকে গাণিতিক রূপে প্রকাশ করো 1+1 2+1 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১৩**: 1 মোল কীসের একক? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১৪**: ক্যালরিমিতির নীতিটি লেখো । এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১৫**: 1 তাপের SI এককটি লেখো। এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১৬**: 2 250 g জলের উষ্ণতা 10°C থেকে 100°C উষ্ণতায় তুলতে কত তাপ লাগবে? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১৭**: 2 একটি উত্তল লেন্সের ফোকাস দৈর্ঘ্য বলতে কী বোঝায়? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১৮**: 1 থ্রি-পিন টপের আর্থ পিন কোন্টি? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.১৯**: বার্লোচক্রের ঘূর্ণনের ওপর কী প্রভাব দেখা যায় যখন এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.২০**: 1 তড়িৎচুম্বক কী? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **২.২১**: X-রশ্মির একটি ধর্ম ও একটি ব্যবহারের উল্লেখ করো। এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n\n### বিভাগ—গ (Group C)\n- **৩.১**: ফ্লেমিং এর বামহস্ত নিয়মে তর্জনী দিয়ে কিসের অভিমুখ বোঝানো হয়? 1 x 10 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৩.২**: সমান্তরাল আলোক রশ্মিগুচ্ছকে অভিসারী আলোক রশ্মি তে পরিণত করতে কী ধরনের লেন্স ব্যবহার করা হয়? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৩.৩**: তিনটি কার্বন পরমাণুযুক্ত অ্যালকাইনে উপস্থিত হাইড্রোজেন পরমাণুর সংখ্যা কত? 'খ' বিভাগ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৩.৪**: 1 পরমাণুর কেন্দ্রকে উপস্থিত কণা' দুটির নাম লেখো (হাইড্রোজেন পরমাণু ছাড়া)। এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৩.৫**: 2 আইসোটোপগুলির রাসায়নিক ধর্ম একই থাকে কেন? 2 2 2 2 (Contd.) PHYSICAL SCIENCE এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৩.৬**: বয়েল সূত্র ও চার্লস সূত্রর সমন্বিত রূপটি সমীকরণ আকারে প্রকাশ করো। সমীকরণে ব্যবহৃত চিহ্নগুলি কী নির্দেশ করে? 1+2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৩.৭**: অ্যাভোগাড্রো সূত্রটি বিবৃত করো এবং এর দুটি অনুসিদ্ধান্তের উল্লেখ করো । এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৩.৮**: C-12 স্কেলে কোনো মৌলের পারমাণবিক ভরের সংজ্ঞা দাও । 2 2+2 2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৩.৯**: 6.4 গ্রাম সালফার ডাইঅক্সাইডে যতগুলি অণু থাকে কত গ্রাম সালফার ট্রাইঅক্সাইডে ততগুলি অণু থাকবে? (S = 32, O = 16 ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n\n### বিভাগ—ঘ (Group D)\n- **৪.১**: কপার তড়িৎদ্বার ব্যবহার করে সালফিউরিক অ্যাসিড দ্বারা অম্লায়িত কপার সালফেটের জলীয় দ্রবণের তড়িৎ- বিশ্লেষণ করলে ক্যাথোডে ও অ্যানোডে যে বিক্রিয়া ঘটে সে দুটি লেখো । 3 3 (Contd.) PHYSICAL SCIENCE এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.২**: একটি গাঢ় অ্যাসিডের বোতলের খোলা মুখে একটি অ্যামোনিয়া-সিক্ত কাচের দণ্ড ধরলে সাদা ধোঁয়ার সৃষ্টি হল। অ্যাসিডটি কী? সাদা’ ধোঁয়া উৎপন্ন হয় কেন? ওই অ্যাসিডের লঘু জলীয় দ্রবণে AgNO3-এর জলীয় দ্রবণ যোগ করলে যে বিক্রিয়া ঘটে তার সমিত রাসায়নিক সমীকরণ লেখো। 1+1+1 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.৩**: CO, C2H4 ও NO যৌগ তিনটির এক মোলে উপস্থিত অণুর সংখ্যা সমান। এদের মধ্যে দুটি যৌগের 1 গ্ৰামে উপস্থিত অণুর সংখ্যা সমান হলেও অবশিষ্ট যৌগটির 1 গ্রামে উপস্থিত অণুর সংখ্যা এদের থেকে পৃথক। যৌগটিকে চিহ্নিত করো। এই যৌগটির 1 গ্রামে উপস্থিত অণুর সংখ্যা নির্ণয় করো। যৌগ তিনটির মধ্যে কোনটির 1 গ্রামে উপস্থিত পরমাণু সংখ্যা সর্বাধিক? (H = 1, C = 12, N = 14, O = 16) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.৪**: বাম স্তম্ভের সঙ্গে ডানস্তম্ভের সামঞ্জস্য বিধান করো: 2 4 3 (Contd.) PHYSICAL SCIENCE বাম স্তম্ভ (1) অ্যাসিটিলিন অণুতে কার্বন-কার্বন বন্ধনের সংখ্যা (□) ছোটো (2) Li পরমাণুর আকারের তুলনায় Na পরমাণুর | (→→) মিথেন আকার (3) ডুরালুমিনে বর্তমান (4) নিয়নের সর্ববহিস্থ কক্ষে (→→→) কার্বন (00) Cu (5) ক্লোরিন পরমাণুর আকার ব্রোমিন পরমাণুর আকা- (i) বড়ো রের তুলনায় (6) প্রতিটি জৈব যৌগে বর্তমান (7) পলিমার গঠন করে (৪) আলেয়া উৎপন্নের জন্য দায়ী (00) আটটি (→→→) তিনটি (→→→→) ইথিলিন এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.৫**: MSO4 (M = ধাতু)-এর জলীয় দ্রবণকে তড়িৎ বিশ্লেষণ করলে ক্যাথোডে কী বিক্রিয়া ঘটে লেখো। বিক্রিয়াটি জারণ না বিজারণ বিক্রিয়া যুক্তিসহ লেখো। 2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.৬**: আয়রন পাইরাইটসকে অতিরিক্ত বায়ুপ্রবাহে পুড়িয়ে সালফিউরিক অ্যাসিডের শিল্পোৎপাদনের জন্য প্রয়োজনীয় SO, উৎপাদন করা হয়। বিক্রিয়াটির রাসায়নিক সমীকরণ নীচে দেওয়া হল : 4FeS2 + 1102 → 2Fe2O3 + 8SO2 512 g SO2 উৎপাদনের জন্য কত গ্রাম FeS2 প্রয়োজন? (Fe = 56, S = 32, O = 16) 3 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.৭**: তড়িৎ বিশ্লেষণের সাহায্যে অ্যালুমিনিয়ামের নিষ্কাশনের জন্য যে গলিত মিশ্রণের তড়িৎ বিশ্লেষণ করা হয় তাতে বিশুদ্ধ অ্যালুমিনা ছাড়া আর কী কী থাকে? এই তড়িৎ বিশ্লেষণে ক্যাথোড ও অ্যানোড হিসেবে কী কী ব্যবহৃত হয়? 1+2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.৮**: একটি জৈব যৌগের আণবিক সংকেত C2H4O2 যোগটি জলে দ্রাব্য এবং যৌগটির জলীয় দ্রবণে NaHCO3 যোগ করলে CO2 নির্গত হয়। জৈব যৌগটিকে শনাক্ত করো। জৈব যৌগটির সঙ্গে ইথানলের বিক্রিয়া শর্ত ও সমিত রাসায়নিক সমীকরণসহ লেখো । জৈব ও অজৈব যৌগের তিনটি ধর্মের তুলনা করো। এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.৯**: g অ্যামোনিয়াম ক্লোরাইডকে ক্যালশিয়াম হাইড্রক্সাইড সহযোগে উত্তপ্ত করে 10.2 g NH3, 33.3 g CaCl2 ও 10.8 g H2O পাওয়া গেল। কত গ্রাম ক্যালশিয়াম হাইড্রক্সাইড বিক্রিয়াটিতে অংশগ্রহণ করল? এই বিক্রিয়ায় কত মোল NH3 এবং STP-তে কত লিটার N H3 উৎপন্ন হল? (N = 14, H = 1) 1+2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.১০**: ধাতব তারের মধ্য দিয়ে তড়িৎ পরিবহন এবং তড়িৎ বিশ্লেষণের সময় তড়িৎ-বিশ্লেষ্যের মধ্য দিয়ে তড়িৎ পরিবহ- নের মধ্যে দুটি পার্থক্য লেখো। তড়িৎ বিশ্লেষণ পদ্ধতিতে কপার ধাতুর পরিশোধনে অবিশুদ্ধ কপার দণ্ড কোন্ ইলেক ট্রোড রূপে ব্যবহার করা হয়? 2+1 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.১১**: সমান দৈর্ঘ্যের দুটি ধাতব পরিবাহী A ও B এর রোধাঙ্ক যথাক্রমে 1.6 × 108 12m এবং 3.2 x 10-8 Sm পরিবাহীদুটিকে আলাদাভাবে একই বিভব প্রভেদে যুক্ত করা হল। এদের প্রস্থচ্ছেদের অনুপাত কী হলে এদের প্রতিটির মধ্যে প্রবাহমাত্রা একই হবে? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n- **৪.১২**: দুটি ভিন্ন জৈব যৌগ A ও B একই আণবিক সংকেত, C2H6O, সম্পন্ন। A ধাতব সোডিয়ামের সঙ্গে বিক্রিয়ায় হাইড্রোজেন গ্যাস উৎপন্ন করে কিন্তু B ধাতব সোডিয়ামের সঙ্গে বিক্রিয়া করে না। A ও B যৌগদুটির গঠন সংকেত লেখো। A এর সঙ্গে ধাতব সোডিয়ামের বিক্রিয়ার সমিত রাসায়নিক সমীকরণ লেখো। ২+১ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।\n",
+  "marking_scheme_markdown": null,
+  "paper_data": {
+    "paper_id": "wbbse_class10_physical_science_1f591515",
+    "board": "WBBSE",
+    "class_level": "Class 10",
+    "subject": "Physical Science",
+    "medium": "Bengali",
+    "year": "২০২৫",
+    "total_marks": 90.0,
+    "duration_minutes": 180,
+    "title": "পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 10 — Physical Science\nপূর্ণমান: ৯০ | সময়: ৩ ঘণ্টা",
+    "general_instructions": [
+      "প্রয়োজনীয় ক্ষেত্রে গাণিতিক গণনার ধাপ এবং এস.আই. (SI) একক স্পষ্ট উল্লেখ করতে হবে।",
+      "বহুবিকল্পভিত্তিক প্রশ্নগুলির ক্ষেত্রে সঠিক উত্তরের ক্রমিক সংখ্যা সহ পূর্ণ বাক্য লিখতে হবে।"
+    ],
+    "sections": [
+      {
+        "section_id": "A",
+        "section_name": "বিভাগ—ক (Group A)",
+        "description": "বহুবিকল্পভিত্তিক প্রশ্ন (MCQ)",
+        "total_marks": 15.0,
+        "instructions": "প্রতিটি প্রশ্নের বিকল্পগুলি থেকে সঠিক উত্তরটি নির্বাচন করে লেখো:",
+        "questions": [
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_2.3",
+            "section_id": null,
+            "question_number_raw": "১.১",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "12 পারমাণবিক সংখ্যা যুক্ত কোনো পরমাণুর ইলেকট্রন বিন্যাস K ণুটির প্রকৃত ইলেকট্রন বিন্যাস কী হবে?",
+            "options": [
+              "(2) , L",
+              "(1) হতে পারে না কেন? পরমা-"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(2) , L",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (2) , L",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_2.3",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_i",
+            "section_id": null,
+            "question_number_raw": "১.২",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "CH3COOH ন্যাপথালিন",
+            "options": [
+              "(b) মেথিলেটেড স্পিরিট ও রেকটিফায়েড স্পিরিটের (ii) মুখ্য উপাদান",
+              "(c) পিতল ও ব্রোঞ্জ উভয়েইর উপস্থিত 1+1 2 2 2 24 Cr",
+              "(d) ভিনিগারে থাকে (e) কলঙ্কহীন ইস্পাতে থাকে"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(b) মেথিলেটেড স্পিরিট ও রেকটিফায়েড স্পিরিটের (ii) মুখ্য উপাদান",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (b) মেথিলেটেড স্পিরিট ও রেকটিফায়েড স্পিরিটের (ii) মুখ্য উপাদান",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_i",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2016_Physical_Science_q_17.3",
+            "section_id": null,
+            "question_number_raw": "১.৩",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "কী ঘটে সমিত রাসায়নিক সমীকরণসহ লেখো:",
+            "options": [
+              "(ঘ) লঘু হাইড্রোক্লোরিক অ্যাসিডের মধ্যে লৌহচূর্ণ যোগ করা হল ।",
+              "(D) জিঙ্কের গুঁড়ো গাঢ় জলীয় সোডিয়াম হাইড্রক্সাইড সহযোগে ফোটানো হল । 2 2+2 [ কেবলমাত্র বহিরাগত পরীক্ষার্থীদের জন্য ] 'ঙ' বিভাগ in"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(ঘ) লঘু হাইড্রোক্লোরিক অ্যাসিডের মধ্যে লৌহচূর্ণ যোগ করা হল ।",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (ঘ) লঘু হাইড্রোক্লোরিক অ্যাসিডের মধ্যে লৌহচূর্ণ যোগ করা হল ।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2016_Physical_Science_q_17.3",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.1",
+            "section_id": null,
+            "question_number_raw": "১.৪",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নীচের কোনটি গ্রিনহাউস গ্যাস নয়?",
+            "options": [
+              "(a) মিথেন",
+              "(c) কার্বন ডাইঅক্সাইড",
+              "(b) জলীয় বাষ্প",
+              "(d) অক্সিজেন"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) মিথেন",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) মিথেন",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.1",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.2",
+            "section_id": null,
+            "question_number_raw": "১.৫",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নীচের কোনটি চাপের SI একক?",
+            "options": [
+              "(a) NM 2",
+              "(c) Nm",
+              "(a) 8",
+              "(c) 32",
+              "(b) Nm-2",
+              "(d) N",
+              "(b) 16",
+              "(d) 64"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) NM 2",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) NM 2",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.2",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.4",
+            "section_id": null,
+            "question_number_raw": "১.৬",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নীচের কোনটির ওপর ধাতুর পরিবাহিতাঙ্ক নির্ভর করে?",
+            "options": [
+              "(a) উন্নতা",
+              "(c) উপাদানের প্রকৃতি",
+              "(b) দৈৰ্ঘ্য",
+              "(d) প্রস্থচ্ছেদ"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) উন্নতা",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) উন্নতা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.4",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.5",
+            "section_id": null,
+            "question_number_raw": "১.৭",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "দর্পণের বক্রতা ব্যাসার্ধ এবং ফোকাস দৈর্ঘ্যের মধ্যে সম্পর্কটি কী? =",
+            "options": [
+              "(a) f",
+              "(c) f = 1/1/2 2r",
+              "(b) f = ;",
+              "(d) f = r (Contd.) P.SC.(B & E)"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) f",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) f",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.5",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.6",
+            "section_id": null,
+            "question_number_raw": "১.৮",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "প্রিজমের মধ্যে দিয়ে সাদা আলো প্রতিসরণের ক্ষেত্রে যে বর্ণের বিচ্যুতি সর্বাধিক সেটি কোনটি?",
+            "options": [
+              "(a) লাল",
+              "(c) বেগুনি"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) লাল",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) লাল",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.6",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.7",
+            "section_id": null,
+            "question_number_raw": "১.৯",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নিম্নলিখিত ভৌত রাশিগুলির মধ্যে অ্যাম্পিয়ার কোনটি?",
+            "options": [
+              "(b) হলুদ",
+              "(d) সবুজ",
+              "(a) কুলম্ব সেকেন্ড",
+              "(c) ভোল্ট / ওহম",
+              "(b) ভোল্ট ওহম",
+              "(d) ভোল্ট ওহম"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(b) হলুদ",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (b) হলুদ",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.7",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.8",
+            "section_id": null,
+            "question_number_raw": "১.১০",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নীচের কোন্টির রোধাঙ্ক উয়তা বৃদ্ধির সাথে হ্রাস পায়?",
+            "options": [
+              "(a) পরিবাহী",
+              "(c) অতিপরিবাহী",
+              "(b) অর্ধপরিবাহী",
+              "(d) অন্তরক"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) পরিবাহী",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) পরিবাহী",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.8",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.9",
+            "section_id": null,
+            "question_number_raw": "১.১১",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নীচের কোনটি a, B ও V রশ্মির আয়নায়ন ক্ষমতার সঠিক ক্রম?",
+            "options": [
+              "(a) a > B > শ",
+              "(c) 7 > B > a"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) a > B > শ",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) a > B > শ",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.9",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.10",
+            "section_id": null,
+            "question_number_raw": "১.১২",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নীচের কোনটির পারমাণবিক ব্যাসার্ধ সর্বাধিক?",
+            "options": [
+              "(a) K",
+              "(c) Li"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) K",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) K",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.10",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.11",
+            "section_id": null,
+            "question_number_raw": "১.১৩",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নীচের কোনটিতে সমযোজী বন্ধন বর্তমান?",
+            "options": [
+              "(a) হাইড্রোজেন ক্লোরাইড",
+              "(c) লিথিয়াম হাইড্রাইড",
+              "(b) a > 7 > B",
+              "(d) B > a > 7 cetips.in"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) হাইড্রোজেন ক্লোরাইড",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) হাইড্রোজেন ক্লোরাইড",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.11",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.12",
+            "section_id": null,
+            "question_number_raw": "১.১৪",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নীচের কোনটি জলীয় দ্রবণে একটি মৃদু তড়িৎবিশ্লেষ্য?",
+            "options": [
+              "(a) CH3COOH",
+              "(c) H2SO4 ISO",
+              "(b) সোডিয়াম ক্লোরাইড",
+              "(d) ক্যালশিয়াম অক্সাইড",
+              "(b) NaOH",
+              "(d) NaCl"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) CH3COOH",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) CH3COOH",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.12",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2017_Physical_Science_q_1.13",
+            "section_id": null,
+            "question_number_raw": "১.১৫",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "নীচের কোনটি আর্দ্র অ্যামোনিয়াকে শুষ্ক করতে ব্যবহৃত হয়?",
+            "options": [
+              "(a) গাঢ় H2SO4",
+              "(c) CaO"
+            ],
+            "correct_option": "(A)",
+            "correct_option_text": "(a) গাঢ় H2SO4",
+            "alternative_question_text": null,
+            "answer_text": "সঠিক বিকল্প: (a) গাঢ় H2SO4",
+            "alternative_answer_text": null,
+            "scoring_rubric": [],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2017_Physical_Science_q_1.13",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      },
+      {
+        "section_id": "B",
+        "section_name": "বিভাগ—খ (Group B)",
+        "description": "অতিসংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন (এক কথায় উত্তর / শূন্যস্থান পূরণ)",
+        "total_marks": 21.0,
+        "instructions": "একটি বাক্যে বা নির্দিষ্ট এককে উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষণীয়):",
+        "questions": [
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.1",
+            "section_id": null,
+            "question_number_raw": "২.১",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "28Ca তে আধানযুক্ত কণার মোট সংখ্যা কত?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "28Ca তে আধানযুক্ত কণার মোট সংখ্যা কত? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.1",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.2",
+            "section_id": null,
+            "question_number_raw": "২.২",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "327°C কে কেলভিনে প্রকাশ করো । encetips.in",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "327°C কে কেলভিনে প্রকাশ করো । encetips.in এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.2",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.3",
+            "section_id": null,
+            "question_number_raw": "২.৩",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "STP তে 2.24 লিটার SO2 এ অণুর সংখ্যা কত?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "STP তে 2.24 লিটার SO2 এ অণুর সংখ্যা কত? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.3",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.470",
+            "section_id": null,
+            "question_number_raw": "২.৪",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "ও ধO -এর মধ্যে সম্পর্ক কী?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "ও ধO -এর মধ্যে সম্পর্ক কী? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.470",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.5",
+            "section_id": null,
+            "question_number_raw": "২.৫",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "কোন তরলের আপেক্ষিক তাপ সবচেয়ে বেশি?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "কোন তরলের আপেক্ষিক তাপ সবচেয়ে বেশি? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.5",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.8",
+            "section_id": null,
+            "question_number_raw": "২.৬",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "আধানবিহীন তেজস্ক্রিয় রশ্মিটির নাম লেখো ৷",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "আধানবিহীন তেজস্ক্রিয় রশ্মিটির নাম লেখো ৷ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.8",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.9",
+            "section_id": null,
+            "question_number_raw": "২.৭",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "মেন্ডেলিফের পর্যায় সারণিতে ক্ষার ধাতুগুলি কোন গ্রুপে অবস্থিত?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "মেন্ডেলিফের পর্যায় সারণিতে ক্ষার ধাতুগুলি কোন গ্রুপে অবস্থিত? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.9",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.10",
+            "section_id": null,
+            "question_number_raw": "২.৮",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "বলয় পরীক্ষা দ্বারা কোন অ্যাসিডকে শনাক্ত করা যায়?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "বলয় পরীক্ষা দ্বারা কোন অ্যাসিডকে শনাক্ত করা যায়? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.10",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.11",
+            "section_id": null,
+            "question_number_raw": "২.৯",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "হাইড্রোজেন ক্লোরাইডের অণুতে কোন ধরনের রাসায়নিক বন্ধন বর্তমান?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "হাইড্রোজেন ক্লোরাইডের অণুতে কোন ধরনের রাসায়নিক বন্ধন বর্তমান? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.11",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.12",
+            "section_id": null,
+            "question_number_raw": "২.১০",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "একটি জৈব গ্রিনহাউস গ্যাসের নাম লেখো ।",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "একটি জৈব গ্রিনহাউস গ্যাসের নাম লেখো । এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.12",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_2.1",
+            "section_id": null,
+            "question_number_raw": "২.১১",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "পরমাণুর কেন্দ্রক কী?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "পরমাণুর কেন্দ্রক কী? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_2.1",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_3.1",
+            "section_id": null,
+            "question_number_raw": "২.১২",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "বয়েল সূত্রটি বিবৃত করো এবং সূত্রটিকে গাণিতিক রূপে প্রকাশ করো 1+1 2+1",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "বয়েল সূত্রটি বিবৃত করো এবং সূত্রটিকে গাণিতিক রূপে প্রকাশ করো 1+1 2+1 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_3.1",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_5.2",
+            "section_id": null,
+            "question_number_raw": "২.১৩",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "1 মোল কীসের একক?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "1 মোল কীসের একক? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_5.2",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_6.2",
+            "section_id": null,
+            "question_number_raw": "২.১৪",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "ক্যালরিমিতির নীতিটি লেখো ।",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "ক্যালরিমিতির নীতিটি লেখো । এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_6.2",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_6.3",
+            "section_id": null,
+            "question_number_raw": "২.১৫",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "1 তাপের SI এককটি লেখো।",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "1 তাপের SI এককটি লেখো। এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_6.3",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_6.3_1",
+            "section_id": null,
+            "question_number_raw": "২.১৬",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "2 250 g জলের উষ্ণতা 10°C থেকে 100°C উষ্ণতায় তুলতে কত তাপ লাগবে?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "2 250 g জলের উষ্ণতা 10°C থেকে 100°C উষ্ণতায় তুলতে কত তাপ লাগবে? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_6.3_1",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_7.1_1",
+            "section_id": null,
+            "question_number_raw": "২.১৭",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "2 একটি উত্তল লেন্সের ফোকাস দৈর্ঘ্য বলতে কী বোঝায়?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "2 একটি উত্তল লেন্সের ফোকাস দৈর্ঘ্য বলতে কী বোঝায়? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_7.1_1",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_9.3",
+            "section_id": null,
+            "question_number_raw": "২.১৮",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "1 থ্রি-পিন টপের আর্থ পিন কোন্টি?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "1 থ্রি-পিন টপের আর্থ পিন কোন্টি? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_9.3",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_10.2",
+            "section_id": null,
+            "question_number_raw": "২.১৯",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "বার্লোচক্রের ঘূর্ণনের ওপর কী প্রভাব দেখা যায় যখন",
+            "options": [
+              "(ঘ) চুম্বকের শক্তি বাড়ানো হয় (→→) তড়িৎ প্রবাহের দিক উল্টে দেওয়া হয় ৷"
+            ],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "বার্লোচক্রের ঘূর্ণনের ওপর কী প্রভাব দেখা যায় যখন এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_10.2",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_10.3",
+            "section_id": null,
+            "question_number_raw": "২.২০",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "1 তড়িৎচুম্বক কী?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "1 তড়িৎচুম্বক কী? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_10.3",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_11.2",
+            "section_id": null,
+            "question_number_raw": "২.২১",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "X-রশ্মির একটি ধর্ম ও একটি ব্যবহারের উল্লেখ করো।",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "X-রশ্মির একটি ধর্ম ও একটি ব্যবহারের উল্লেখ করো। এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_11.2",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      },
+      {
+        "section_id": "C",
+        "section_name": "বিভাগ—গ (Group C)",
+        "description": "সংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন ও প্রাথমিক গাণিতিক সমস্যা",
+        "total_marks": 18.0,
+        "instructions": "সংক্ষেপে উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষণীয়):",
+        "questions": [
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.6",
+            "section_id": null,
+            "question_number_raw": "৩.১",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "ফ্লেমিং এর বামহস্ত নিয়মে তর্জনী দিয়ে কিসের অভিমুখ বোঝানো হয়? 1 x 10",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "ফ্লেমিং এর বামহস্ত নিয়মে তর্জনী দিয়ে কিসের অভিমুখ বোঝানো হয়? 1 x 10 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.6",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.7",
+            "section_id": null,
+            "question_number_raw": "৩.২",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "সমান্তরাল আলোক রশ্মিগুচ্ছকে অভিসারী আলোক রশ্মি তে পরিণত করতে কী ধরনের লেন্স ব্যবহার করা হয়?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "সমান্তরাল আলোক রশ্মিগুচ্ছকে অভিসারী আলোক রশ্মি তে পরিণত করতে কী ধরনের লেন্স ব্যবহার করা হয়? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.7",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_1.13",
+            "section_id": null,
+            "question_number_raw": "৩.৩",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "তিনটি কার্বন পরমাণুযুক্ত অ্যালকাইনে উপস্থিত হাইড্রোজেন পরমাণুর সংখ্যা কত? 'খ' বিভাগ",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "তিনটি কার্বন পরমাণুযুক্ত অ্যালকাইনে উপস্থিত হাইড্রোজেন পরমাণুর সংখ্যা কত? 'খ' বিভাগ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_1.13",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_2.2",
+            "section_id": null,
+            "question_number_raw": "৩.৪",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "1 পরমাণুর কেন্দ্রকে উপস্থিত কণা' দুটির নাম লেখো (হাইড্রোজেন পরমাণু ছাড়া)।",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "1 পরমাণুর কেন্দ্রকে উপস্থিত কণা' দুটির নাম লেখো (হাইড্রোজেন পরমাণু ছাড়া)। এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_2.2",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_2.2_1",
+            "section_id": null,
+            "question_number_raw": "৩.৫",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "2 আইসোটোপগুলির রাসায়নিক ধর্ম একই থাকে কেন? 2 2 2 2 (Contd.) PHYSICAL SCIENCE",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "2 আইসোটোপগুলির রাসায়নিক ধর্ম একই থাকে কেন? 2 2 2 2 (Contd.) PHYSICAL SCIENCE এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_2.2_1",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_3.2",
+            "section_id": null,
+            "question_number_raw": "৩.৬",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "বয়েল সূত্র ও চার্লস সূত্রর সমন্বিত রূপটি সমীকরণ আকারে প্রকাশ করো। সমীকরণে ব্যবহৃত চিহ্নগুলি কী নির্দেশ করে? 1+2",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "বয়েল সূত্র ও চার্লস সূত্রর সমন্বিত রূপটি সমীকরণ আকারে প্রকাশ করো। সমীকরণে ব্যবহৃত চিহ্নগুলি কী নির্দেশ করে? 1+2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_3.2",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_4.1",
+            "section_id": null,
+            "question_number_raw": "৩.৭",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "অ্যাভোগাড্রো সূত্রটি বিবৃত করো এবং এর দুটি অনুসিদ্ধান্তের উল্লেখ করো ।",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "অ্যাভোগাড্রো সূত্রটি বিবৃত করো এবং এর দুটি অনুসিদ্ধান্তের উল্লেখ করো । এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_4.1",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_4.2",
+            "section_id": null,
+            "question_number_raw": "৩.৮",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "C-12 স্কেলে কোনো মৌলের পারমাণবিক ভরের সংজ্ঞা দাও । 2 2+2 2",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "C-12 স্কেলে কোনো মৌলের পারমাণবিক ভরের সংজ্ঞা দাও । 2 2+2 2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_4.2",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_4.3",
+            "section_id": null,
+            "question_number_raw": "৩.৯",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "6.4 গ্রাম সালফার ডাইঅক্সাইডে যতগুলি অণু থাকে কত গ্রাম সালফার ট্রাইঅক্সাইডে ততগুলি অণু থাকবে? (S = 32, O = 16 )",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "6.4 গ্রাম সালফার ডাইঅক্সাইডে যতগুলি অণু থাকে কত গ্রাম সালফার ট্রাইঅক্সাইডে ততগুলি অণু থাকবে? (S = 32, O = 16 ) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_4.3",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      },
+      {
+        "section_id": "D",
+        "section_name": "বিভাগ—ঘ (Group D)",
+        "description": "দীর্ঘ ব্যাখ্যামূলক প্রশ্ন ও গাণিতিক প্রতিপাদন (৩ নম্বরের প্রশ্ন)",
+        "total_marks": 36.0,
+        "instructions": "নিচের প্রশ্নগুলির উত্তর দাও (বিকল্প প্রশ্নগুলি লক্ষণীয়):",
+        "questions": [
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_12.3",
+            "section_id": null,
+            "question_number_raw": "৪.১",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "কপার তড়িৎদ্বার ব্যবহার করে সালফিউরিক অ্যাসিড দ্বারা অম্লায়িত কপার সালফেটের জলীয় দ্রবণের তড়িৎ- বিশ্লেষণ করলে ক্যাথোডে ও অ্যানোডে যে বিক্রিয়া ঘটে সে দুটি লেখো । 3 3 (Contd.) PHYSICAL SCIENCE",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "কপার তড়িৎদ্বার ব্যবহার করে সালফিউরিক অ্যাসিড দ্বারা অম্লায়িত কপার সালফেটের জলীয় দ্রবণের তড়িৎ- বিশ্লেষণ করলে ক্যাথোডে ও অ্যানোডে যে বিক্রিয়া ঘটে সে দুটি লেখো । 3 3 (Contd.) PHYSICAL SCIENCE এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_12.3",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2015_Physical_Science_q_15.2",
+            "section_id": null,
+            "question_number_raw": "৪.২",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "একটি গাঢ় অ্যাসিডের বোতলের খোলা মুখে একটি অ্যামোনিয়া-সিক্ত কাচের দণ্ড ধরলে সাদা ধোঁয়ার সৃষ্টি হল। অ্যাসিডটি কী? সাদা’ ধোঁয়া উৎপন্ন হয় কেন? ওই অ্যাসিডের লঘু জলীয় দ্রবণে AgNO3-এর জলীয় দ্রবণ যোগ করলে যে বিক্রিয়া ঘটে তার সমিত রাসায়নিক সমীকরণ লেখো। 1+1+1",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "একটি গাঢ় অ্যাসিডের বোতলের খোলা মুখে একটি অ্যামোনিয়া-সিক্ত কাচের দণ্ড ধরলে সাদা ধোঁয়ার সৃষ্টি হল। অ্যাসিডটি কী? সাদা’ ধোঁয়া উৎপন্ন হয় কেন? ওই অ্যাসিডের লঘু জলীয় দ্রবণে AgNO3-এর জলীয় দ্রবণ যোগ করলে যে বিক্রিয়া ঘটে তার সমিত রাসায়নিক সমীকরণ লেখো। 1+1+1 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2015_Physical_Science_q_15.2",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2016_Physical_Science_q_4.1",
+            "section_id": null,
+            "question_number_raw": "৪.৩",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "CO, C2H4 ও NO যৌগ তিনটির এক মোলে উপস্থিত অণুর সংখ্যা সমান। এদের মধ্যে দুটি যৌগের 1 গ্ৰামে উপস্থিত অণুর সংখ্যা সমান হলেও অবশিষ্ট যৌগটির 1 গ্রামে উপস্থিত অণুর সংখ্যা এদের থেকে পৃথক। যৌগটিকে চিহ্নিত করো। এই যৌগটির 1 গ্রামে উপস্থিত অণুর সংখ্যা নির্ণয় করো। যৌগ তিনটির মধ্যে কোনটির 1 গ্রামে উপস্থিত পরমাণু সংখ্যা সর্বাধিক? (H = 1, C = 12, N = 14, O = 16)",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "CO, C2H4 ও NO যৌগ তিনটির এক মোলে উপস্থিত অণুর সংখ্যা সমান। এদের মধ্যে দুটি যৌগের 1 গ্ৰামে উপস্থিত অণুর সংখ্যা সমান হলেও অবশিষ্ট যৌগটির 1 গ্রামে উপস্থিত অণুর সংখ্যা এদের থেকে পৃথক। যৌগটিকে চিহ্নিত করো। এই যৌগটির 1 গ্রামে উপস্থিত অণুর সংখ্যা নির্ণয় করো। যৌগ তিনটির মধ্যে কোনটির 1 গ্রামে উপস্থিত পরমাণু সংখ্যা সর্বাধিক? (H = 1, C = 12, N = 14, O = 16) এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2016_Physical_Science_q_4.1",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2016_Physical_Science_q_13.3",
+            "section_id": null,
+            "question_number_raw": "৪.৪",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "বাম স্তম্ভের সঙ্গে ডানস্তম্ভের সামঞ্জস্য বিধান করো: 2 4 3 (Contd.) PHYSICAL SCIENCE বাম স্তম্ভ (1) অ্যাসিটিলিন অণুতে কার্বন-কার্বন বন্ধনের সংখ্যা (□) ছোটো (2) Li পরমাণুর আকারের তুলনায় Na পরমাণুর | (→→) মিথেন আকার (3) ডুরালুমিনে বর্তমান (4) নিয়নের সর্ববহিস্থ কক্ষে (→→→) কার্বন (00) Cu (5) ক্লোরিন পরমাণুর আকার ব্রোমিন পরমাণুর আকা- (i) বড়ো রের তুলনায় (6) প্রতিটি জৈব যৌগে বর্তমান (7) পলিমার গঠন করে (৪) আলেয়া উৎপন্নের জন্য দায়ী (00) আটটি (→→→) তিনটি (→→→→) ইথিলিন",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "বাম স্তম্ভের সঙ্গে ডানস্তম্ভের সামঞ্জস্য বিধান করো: 2 4 3 (Contd.) PHYSICAL SCIENCE বাম স্তম্ভ (1) অ্যাসিটিলিন অণুতে কার্বন-কার্বন বন্ধনের সংখ্যা (□) ছোটো (2) Li পরমাণুর আকারের তুলনায় Na পরমাণুর | (→→) মিথেন আকার (3) ডুরালুমিনে বর্তমান (4) নিয়নের সর্ববহিস্থ কক্ষে (→→→) কার্বন (00) Cu (5) ক্লোরিন পরমাণুর আকার ব্রোমিন পরমাণুর আকা- (i) বড়ো রের তুলনায় (6) প্রতিটি জৈব যৌগে বর্তমান (7) পলিমার গঠন করে (৪) আলেয়া উৎপন্নের জন্য দায়ী (00) আটটি (→→→) তিনটি (→→→→) ইথিলিন এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2016_Physical_Science_q_13.3",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2018_Physical_Science_q_3.8",
+            "section_id": null,
+            "question_number_raw": "৪.৫",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "MSO4 (M = ধাতু)-এর জলীয় দ্রবণকে তড়িৎ বিশ্লেষণ করলে ক্যাথোডে কী বিক্রিয়া ঘটে লেখো। বিক্রিয়াটি জারণ না বিজারণ বিক্রিয়া যুক্তিসহ লেখো। 2",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": "কপার ও অ্যালুমিনিয়ামের একটি করে ব্যবহার উল্লেখ করো । 2",
+            "answer_text": "MSO4 (M = ধাতু)-এর জলীয় দ্রবণকে তড়িৎ বিশ্লেষণ করলে ক্যাথোডে কী বিক্রিয়া ঘটে লেখো। বিক্রিয়াটি জারণ না বিজারণ বিক্রিয়া যুক্তিসহ লেখো। 2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2018_Physical_Science_q_3.8",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2018_Physical_Science_q_4.2",
+            "section_id": null,
+            "question_number_raw": "৪.৬",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "আয়রন পাইরাইটসকে অতিরিক্ত বায়ুপ্রবাহে পুড়িয়ে সালফিউরিক অ্যাসিডের শিল্পোৎপাদনের জন্য প্রয়োজনীয় SO, উৎপাদন করা হয়। বিক্রিয়াটির রাসায়নিক সমীকরণ নীচে দেওয়া হল : 4FeS2 + 1102 → 2Fe2O3 + 8SO2 512 g SO2 উৎপাদনের জন্য কত গ্রাম FeS2 প্রয়োজন? (Fe = 56, S = 32, O = 16) 3",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": "কোনো ধাতব কার্বনেটের 200g-কে উত্তপ্ত করলে 112 g ধাতব অক্সাইড ও একটি গ্যাসীয় যৌগ উৎপন্ন হয়। গ্যাসীয় যৌগটির বাষ্প ঘনত্ব 22। বিক্রিয়াটিতে কত মোল গ্যাসীয় যৌগটি উৎপন্ন হয়?",
+            "answer_text": "আয়রন পাইরাইটসকে অতিরিক্ত বায়ুপ্রবাহে পুড়িয়ে সালফিউরিক অ্যাসিডের শিল্পোৎপাদনের জন্য প্রয়োজনীয় SO, উৎপাদন করা হয়। বিক্রিয়াটির রাসায়নিক সমীকরণ নীচে দেওয়া হল : 4FeS2 + 1102 → 2Fe2O3 + 8SO2 512 g SO2 উৎপাদনের জন্য কত গ্রাম FeS2 প্রয়োজন? (Fe = 56, S = 32, O = 16) 3 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2018_Physical_Science_q_4.2",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2018_Physical_Science_q_4.10",
+            "section_id": null,
+            "question_number_raw": "৪.৭",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "তড়িৎ বিশ্লেষণের সাহায্যে অ্যালুমিনিয়ামের নিষ্কাশনের জন্য যে গলিত মিশ্রণের তড়িৎ বিশ্লেষণ করা হয় তাতে বিশুদ্ধ অ্যালুমিনা ছাড়া আর কী কী থাকে? এই তড়িৎ বিশ্লেষণে ক্যাথোড ও অ্যানোড হিসেবে কী কী ব্যবহৃত হয়? 1+2",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "তড়িৎ বিশ্লেষণের সাহায্যে অ্যালুমিনিয়ামের নিষ্কাশনের জন্য যে গলিত মিশ্রণের তড়িৎ বিশ্লেষণ করা হয় তাতে বিশুদ্ধ অ্যালুমিনা ছাড়া আর কী কী থাকে? এই তড়িৎ বিশ্লেষণে ক্যাথোড ও অ্যানোড হিসেবে কী কী ব্যবহৃত হয়? 1+2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2018_Physical_Science_q_4.10",
+            "textbook_grounding": "",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2018_Physical_Science_q_4.12",
+            "section_id": null,
+            "question_number_raw": "৪.৮",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "একটি জৈব যৌগের আণবিক সংকেত C2H4O2 যোগটি জলে দ্রাব্য এবং যৌগটির জলীয় দ্রবণে NaHCO3 যোগ করলে CO2 নির্গত হয়। জৈব যৌগটিকে শনাক্ত করো। জৈব যৌগটির সঙ্গে ইথানলের বিক্রিয়া শর্ত ও সমিত রাসায়নিক সমীকরণসহ লেখো । জৈব ও অজৈব যৌগের তিনটি ধর্মের তুলনা করো।",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": "1+2 3 3 6",
+            "answer_text": "একটি জৈব যৌগের আণবিক সংকেত C2H4O2 যোগটি জলে দ্রাব্য এবং যৌগটির জলীয় দ্রবণে NaHCO3 যোগ করলে CO2 নির্গত হয়। জৈব যৌগটিকে শনাক্ত করো। জৈব যৌগটির সঙ্গে ইথানলের বিক্রিয়া শর্ত ও সমিত রাসায়নিক সমীকরণসহ লেখো । জৈব ও অজৈব যৌগের তিনটি ধর্মের তুলনা করো। এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2018_Physical_Science_q_4.12",
+            "textbook_grounding": "",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2019_Physical_Science_q_32.1",
+            "section_id": null,
+            "question_number_raw": "৪.৯",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "g অ্যামোনিয়াম ক্লোরাইডকে ক্যালশিয়াম হাইড্রক্সাইড সহযোগে উত্তপ্ত করে 10.2 g NH3, 33.3 g CaCl2 ও 10.8 g H2O পাওয়া গেল। কত গ্রাম ক্যালশিয়াম হাইড্রক্সাইড বিক্রিয়াটিতে অংশগ্রহণ করল? এই বিক্রিয়ায় কত মোল NH3 এবং STP-তে কত লিটার N H3 উৎপন্ন হল? (N = 14, H = 1) 1+2",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "g অ্যামোনিয়াম ক্লোরাইডকে ক্যালশিয়াম হাইড্রক্সাইড সহযোগে উত্তপ্ত করে 10.2 g NH3, 33.3 g CaCl2 ও 10.8 g H2O পাওয়া গেল। কত গ্রাম ক্যালশিয়াম হাইড্রক্সাইড বিক্রিয়াটিতে অংশগ্রহণ করল? এই বিক্রিয়ায় কত মোল NH3 এবং STP-তে কত লিটার N H3 উৎপন্ন হল? (N = 14, H = 1) 1+2 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2019_Physical_Science_q_32.1",
+            "textbook_grounding": "",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2019_Physical_Science_q_4.10",
+            "section_id": null,
+            "question_number_raw": "৪.১০",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "ধাতব তারের মধ্য দিয়ে তড়িৎ পরিবহন এবং তড়িৎ বিশ্লেষণের সময় তড়িৎ-বিশ্লেষ্যের মধ্য দিয়ে তড়িৎ পরিবহ- নের মধ্যে দুটি পার্থক্য লেখো। তড়িৎ বিশ্লেষণ পদ্ধতিতে কপার ধাতুর পরিশোধনে অবিশুদ্ধ কপার দণ্ড কোন্ ইলেক ট্রোড রূপে ব্যবহার করা হয়? 2+1",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "ধাতব তারের মধ্য দিয়ে তড়িৎ পরিবহন এবং তড়িৎ বিশ্লেষণের সময় তড়িৎ-বিশ্লেষ্যের মধ্য দিয়ে তড়িৎ পরিবহ- নের মধ্যে দুটি পার্থক্য লেখো। তড়িৎ বিশ্লেষণ পদ্ধতিতে কপার ধাতুর পরিশোধনে অবিশুদ্ধ কপার দণ্ড কোন্ ইলেক ট্রোড রূপে ব্যবহার করা হয়? 2+1 এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2019_Physical_Science_q_4.10",
+            "textbook_grounding": "",
+            "cognitive_level": "ANALYSING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2020_Physical_Science_q_4.6",
+            "section_id": null,
+            "question_number_raw": "৪.১১",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "সমান দৈর্ঘ্যের দুটি ধাতব পরিবাহী A ও B এর রোধাঙ্ক যথাক্রমে 1.6 × 108 12m এবং 3.2 x 10-8 Sm পরিবাহীদুটিকে আলাদাভাবে একই বিভব প্রভেদে যুক্ত করা হল। এদের প্রস্থচ্ছেদের অনুপাত কী হলে এদের প্রতিটির মধ্যে প্রবাহমাত্রা একই হবে?",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": "দুটি 10 ওহম রোধকে শ্রেণী সমবায়ে যুক্ত করে সমবায়টি একটি 20 ওহম রোধের সাথে সমান্তরাল সমবায়ে যোগ করা হল। অন্তিম সমবায়ের তুল্যরোধ নির্ণয় করো ।",
+            "answer_text": "সমান দৈর্ঘ্যের দুটি ধাতব পরিবাহী A ও B এর রোধাঙ্ক যথাক্রমে 1.6 × 108 12m এবং 3.2 x 10-8 Sm পরিবাহীদুটিকে আলাদাভাবে একই বিভব প্রভেদে যুক্ত করা হল। এদের প্রস্থচ্ছেদের অনুপাত কী হলে এদের প্রতিটির মধ্যে প্রবাহমাত্রা একই হবে? এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2020_Physical_Science_q_4.6",
+            "textbook_grounding": "",
+            "cognitive_level": "ANALYSING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "hist_Madhyamik_2020_Physical_Science_q_4.12",
+            "section_id": null,
+            "question_number_raw": "৪.১২",
+            "question_type": "LONG_ANSWER",
+            "marks": 3.0,
+            "question_text": "দুটি ভিন্ন জৈব যৌগ A ও B একই আণবিক সংকেত, C2H6O, সম্পন্ন। A ধাতব সোডিয়ামের সঙ্গে বিক্রিয়ায় হাইড্রোজেন গ্যাস উৎপন্ন করে কিন্তু B ধাতব সোডিয়ামের সঙ্গে বিক্রিয়া করে না। A ও B যৌগদুটির গঠন সংকেত লেখো। A এর সঙ্গে ধাতব সোডিয়ামের বিক্রিয়ার সমিত রাসায়নিক সমীকরণ লেখো। ২+১",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": "ইথিলিনে হাইড্রোজেন সংযোজন বিক্রিয়ার শর্ত উল্লেখ করো। বিক্রিয়াটির সমিত রাসায়নিক সমীকরণ লেখো। সি এন জি (CNG) র একটি ব্যবহার উল্লেখ করো । 'ঙ' বিভাগ ২+১ (কেবল বহিরাগত পরীক্ষার্থীদের জন্য)",
+            "answer_text": "দুটি ভিন্ন জৈব যৌগ A ও B একই আণবিক সংকেত, C2H6O, সম্পন্ন। A ধাতব সোডিয়ামের সঙ্গে বিক্রিয়ায় হাইড্রোজেন গ্যাস উৎপন্ন করে কিন্তু B ধাতব সোডিয়ামের সঙ্গে বিক্রিয়া করে না। A ও B যৌগদুটির গঠন সংকেত লেখো। A এর সঙ্গে ধাতব সোডিয়ামের বিক্রিয়ার সমিত রাসায়নিক সমীকরণ লেখো। ২+১ এর সুনির্দিষ্ট পাঠ্যক্রমভিত্তিক উত্তর ও মূল ধারণার ব্যাখ্যা।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "point": "মূল ধারণা ও সংজ্ঞা",
+                "allocated_marks": 1.0
+              },
+              {
+                "point": "প্রাসঙ্গিক বিবরণ ও উদাহরণ",
+                "allocated_marks": 1.0
+              }
+            ],
+            "rubric_type": "OFFICIAL_MARKING_SCHEME",
+            "provenance": "HISTORICAL",
+            "source_question_id": "Madhyamik_2020_Physical_Science_q_4.12",
+            "textbook_grounding": "",
+            "cognitive_level": "ANALYSING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      }
+    ],
+    "mode": "HYBRID",
+    "created_at": "2026-09-17T08:51:03.999553"
+  },
+  "provenance": {
+    "curriculum_source": "FALLBACK_CURRICULUM",
+    "curriculum_verified": false,
+    "blueprint_source": "OFFICIAL_HISTORICAL_WBBSE_CLASS_10",
+    "chapter_mode": "CHAPTER_FILTERED",
+    "difficulty_distribution": [
+      0.3,
+      0.5,
+      0.2
+    ],
+    "validation_errors": [],
+    "validation_warnings": []
+  }
+}

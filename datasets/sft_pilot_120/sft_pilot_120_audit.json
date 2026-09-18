@@ -1,0 +1,79 @@
+{
+  "pilot_name": "WBBSE_SahayakAI_SFT_Pilot_120",
+  "generated_at": "2026-09-14T11:11:26Z",
+  "model_used": "gemini-2.5-flash",
+  "concurrency_workers": 8,
+  "total_targets": 120,
+  "total_generated": 120,
+  "clean_accepted_count": 120,
+  "acceptance_yield_percentage": 100.0,
+  "distribution": {
+    "source_pillar": {
+      "TEXTBOOK_GROUNDING": 84,
+      "QUESTION_PAPERS": 24,
+      "VISUAL_GROUNDING": 12
+    },
+    "grade": {
+      "9": 16,
+      "6": 24,
+      "8": 23,
+      "7": 19,
+      "10": 22,
+      "12": 16
+    },
+    "subject": {
+      "Mathematics": 24,
+      "English": 24,
+      "Bengali": 29,
+      "Science": 12,
+      "History": 11,
+      "Geography": 2,
+      "Life Science": 1,
+      "Nutrition": 1,
+      "General / Multi-Subject": 1,
+      "Education": 1,
+      "Computer Application": 1,
+      "Sanskrit": 1,
+      "Environmental Studies": 1,
+      "Biology": 1,
+      "Philosophy": 1,
+      "Business Studies": 1,
+      "Computer Science": 1,
+      "Costing and Taxation": 1,
+      "Odia": 1,
+      "Accountancy": 1,
+      "Chemistry": 1,
+      "Commercial Law and Preliminaries of Auditing": 1,
+      "Physical Science": 1,
+      "Statistics": 1
+    },
+    "task_type": {
+      "EXAM_PREPARATION_QA": 33,
+      "STEP_BY_STEP_TUTORING": 35,
+      "MISCONCEPTION_DIAGNOSIS": 10,
+      "APPLICATION_PROBLEM": 9,
+      "CONCEPTUAL_EXPLANATION": 29,
+      "COMPARATIVE_ANALYSIS": 4
+    },
+    "difficulty": {
+      "FOUNDATIONAL": 35,
+      "INTERMEDIATE": 54,
+      "ADVANCED": 31
+    },
+    "locale_mode": {
+      "NONE": 82,
+      "DISTRICT_ANALOGY": 27,
+      "REGIONAL_CONTEXT": 11
+    }
+  },
+  "quality_metrics": {
+    "validation_status_breakdown": {
+      "PASSED": 120
+    },
+    "dedup_status_breakdown": {
+      "UNIQUE": 120
+    },
+    "avg_user_query_char_len": 33.8,
+    "avg_assistant_response_char_len": 954.3
+  }
+}

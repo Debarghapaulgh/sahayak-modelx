@@ -1,0 +1,29 @@
+{
+  "paper_id": "wbbse_class6_bengali_1aca28d3",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: [\"'প্রথম অধ্যায়: ভাষা ও ধ্বনি' \", \"'প্রথম অধ্যায়: ভাষা ও ধ্বনি' \", \"'প্রথম অধ্যায়: ভাষা ও ধ্বনি' \", \"'প্রথম অধ্যায়: ভাষা ও ধ্বনি' \", \"'প্রথম অধ্যায়: ভাষা ও ধ্বনি' \", \"'প্রথম অধ্যায়: ভাষা ও ধ্বনি' \", \"'প্রথম অধ্যায়: ভাষা ও ধ্বনি' \", \"'প্রথম অধ্যায়: ভাষা ও ধ্বনি' \"]"
+  ],
+  "metrics": {
+    "total_questions": 36,
+    "total_sections": 5,
+    "total_marks": 70.0,
+    "calculated_marks": 70.0,
+    "provenance_counts": {
+      "GENERATED": 36
+    },
+    "blueprint_source": "GENERATED_STANDARD_PATTERN",
+    "blueprint_classification": "GENERATED_STANDARD_PATTERN",
+    "chapter_mode": "FULL_SYLLABUS",
+    "cognitive_distribution": {
+      "REMEMBERING": 23,
+      "APPLYING": 10,
+      "ANALYSING": 3
+    }
+  }
+}

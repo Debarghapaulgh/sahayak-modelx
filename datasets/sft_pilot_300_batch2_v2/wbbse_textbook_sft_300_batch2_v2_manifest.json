@@ -1,0 +1,16 @@
+{
+  "dataset_name": "wbbse_textbook_sft_300_batch2_v2",
+  "description": "Second Batch v2 of 300-Record Textbook-Only SFT Dataset with hard source eligibility filtering, clean educational topic metadata, and zero administrative/OCR contamination",
+  "version": "3.2.0",
+  "total_records": 300,
+  "files": {
+    "validated": "wbbse_textbook_sft_300_batch2_v2_validated.jsonl",
+    "provenance": "wbbse_textbook_sft_300_batch2_v2_provenance.jsonl",
+    "review": "wbbse_textbook_sft_300_batch2_v2_review.jsonl",
+    "raw": "wbbse_textbook_sft_300_batch2_v2_raw.jsonl",
+    "rejected": "wbbse_textbook_sft_300_batch2_v2_rejected.jsonl",
+    "audit": "wbbse_textbook_sft_300_batch2_v2_audit.json"
+  },
+  "target_audience": "WBBPE, WBBSE, WBCHSE Students (~205) & Teachers (~95)",
+  "created_at": "2026-09-16 16:53:56"
+}

@@ -1,0 +1,22 @@
+{
+  "paper_id": "WBCHSE_Class_12_Philosophy_2026_GEN",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: ['অবৈধ পক্ষ দোষ । (e) মিলের সহপর', 'নিচের কোনটি নিরপেক্ষ ন্যায়-এর', 'নিরপেক্ষ ন্যায় বলতে কী বোঝায়', 'বচন বলতে কী বোঝায়? একটি বাক্য', 'যদি a বচন সত্য হয় তবে i বচনের', '. . যদি e বচন মিথ্যা হয় তাহলে', 'उपत अंक क ोतक । বাংলা, ইংরাজী ']"
+  ],
+  "metrics": {
+    "total_questions": 30,
+    "total_sections": 4,
+    "total_marks": 40.0,
+    "calculated_marks": 40.0,
+    "provenance_counts": {
+      "HISTORICAL": 16,
+      "GENERATED": 14
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "paper_id": "WBCHSE_Class_12_Physics_2026_GEN",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: ['নিচের কোনটি স্থির তড়িৎ-এর একট', 'স্থির তড়িৎ বলতে কী বোঝায়? এক', 'স্থির তড়িৎ-এর দুটি গুরুত্বপূর', 'স্থির তড়িৎ-এর মূল কার্যপদ্ধতি']"
+  ],
+  "metrics": {
+    "total_questions": 27,
+    "total_sections": 4,
+    "total_marks": 35.0,
+    "calculated_marks": 35.0,
+    "provenance_counts": {
+      "HISTORICAL": 15,
+      "GENERATED": 12
+    }
+  }
+}

@@ -1,0 +1,1117 @@
+{
+  "paper_id": "wbbse_class9_mathematics_1115efdf",
+  "title": "পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 9 — Mathematics\nপূর্ণমান: ৪০ | সময়: ৩ ঘণ্টা",
+  "paper_config": {
+    "board": "WBBSE",
+    "grade": "Class 9",
+    "subject": "Mathematics",
+    "chapters": [
+      "বাস্তব সংখ্যা",
+      "লাভ ও ক্ষতি"
+    ],
+    "chapter_mode": "CHAPTER_FILTERED",
+    "difficulty": "Challenging",
+    "difficulty_distribution": {
+      "easy_pct": 0.1,
+      "moderate_pct": 0.3,
+      "challenging_pct": 0.6
+    },
+    "language": "Bengali",
+    "total_marks": 40.0,
+    "duration_minutes": 180,
+    "include_answer_key": true,
+    "include_marking_scheme": true
+  },
+  "blueprint": {
+    "board": "WBBSE",
+    "class_level": "Class 9",
+    "subject": "Mathematics",
+    "total_marks": 40.0,
+    "duration_minutes": 180,
+    "sections": [
+      {
+        "section_id": "A",
+        "section_name": "বিভাগ—ক (Group A: MCQ)",
+        "description": "বহুবিকল্পভিত্তিক প্রশ্ন",
+        "question_type": "MCQ",
+        "total_questions_to_answer": 8,
+        "total_questions_provided": 8,
+        "marks_per_question": 1.0,
+        "total_section_marks": 8.0,
+        "or_choices_count": 0,
+        "instructions": "প্রতিটি প্রশ্নের সঠিক বিকল্পটি নির্বাচন করে লেখো:"
+      },
+      {
+        "section_id": "B",
+        "section_name": "বিভাগ—খ (Group B: VSA)",
+        "description": "অতিসংক্ষিপ্ত প্রশ্ন",
+        "question_type": "VERY_SHORT_ANSWER",
+        "total_questions_to_answer": 8,
+        "total_questions_provided": 10,
+        "marks_per_question": 1.0,
+        "total_section_marks": 8.0,
+        "or_choices_count": 0,
+        "instructions": "নির্দেশ অনুসারে অতিসংক্ষিপ্ত প্রশ্নের উত্তর দাও:"
+      },
+      {
+        "section_id": "C",
+        "section_name": "বিভাগ—গ (Group C: SA)",
+        "description": "সংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন (২ নম্বর)",
+        "question_type": "SHORT_ANSWER",
+        "total_questions_to_answer": 5,
+        "total_questions_provided": 7,
+        "marks_per_question": 2.0,
+        "total_section_marks": 10.0,
+        "or_choices_count": 0,
+        "instructions": "সংক্ষেপে উত্তর দাও (বিকল্প প্রশ্ন লক্ষণীয়):"
+      },
+      {
+        "section_id": "D",
+        "section_name": "বিভাগ—ঘ (Group D: LA)",
+        "description": "দীর্ঘ উত্তরভিত্তিক / গাণিতিক সমস্যা",
+        "question_type": "LONG_ANSWER",
+        "total_questions_to_answer": 3,
+        "total_questions_provided": 5,
+        "marks_per_question": 4.666666666666667,
+        "total_section_marks": 14.0,
+        "or_choices_count": 3,
+        "instructions": "নিচের প্রশ্নগুলির বিস্তারিত সমাধান ও ব্যাখ্যা লেখো:"
+      }
+    ],
+    "general_instructions": [
+      "পরীক্ষার পূর্ণমান: 40 | সময়: 180 মিনিট।",
+      "সমস্ত প্রশ্নের উত্তর পরিচ্ছন্নভাবে উত্তরপত্রে লিখতে হবে।",
+      "প্রয়োজনীয় ক্ষেত্রে মার্জিন ও খসড়া কার্য প্রদর্শন করতে হবে।"
+    ],
+    "blueprint_source": "GENERATED_STANDARD_PATTERN"
+  },
+  "is_valid": true,
+  "validation_report": {
+    "paper_id": "wbbse_class9_mathematics_1115efdf",
+    "is_valid": true,
+    "structural_score": 1.0,
+    "content_score": 1.0,
+    "assessment_score": 0.85,
+    "language_score": 1.0,
+    "errors": [],
+    "warnings": [
+      "REPEATED_QUESTION_STEMS: [\"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\"]",
+      "POTENTIAL_CHAPTER_SCOPE_DRIFT: Questions ['১.১', '১.২', '১.৩', '১.৪', '১.৫'] might contain concepts outside requested chapters."
+    ],
+    "metrics": {
+      "total_questions": 30,
+      "total_sections": 4,
+      "total_marks": 40.0,
+      "calculated_marks": 40.0,
+      "provenance_counts": {
+        "GENERATED": 30
+      },
+      "blueprint_source": "GENERATED_STANDARD_PATTERN",
+      "blueprint_classification": "GENERATED_STANDARD_PATTERN",
+      "chapter_mode": "CHAPTER_FILTERED",
+      "requested_chapters": [
+        "বাস্তব সংখ্যা",
+        "লাভ ও ক্ষতি"
+      ],
+      "cognitive_distribution": {
+        "APPLYING": 9,
+        "EVALUATING": 17,
+        "REMEMBERING": 1,
+        "ANALYSING": 3
+      }
+    }
+  },
+  "question_paper_markdown": "# পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 9 — Mathematics\nপূর্ণমান: ৪০ | সময়: ৩ ঘণ্টা\n**বোর্ড / সংসদ:** WBBSE | **শ্রেণি:** Class 9 | **বিষয়:** Mathematics\n**সময়:** ১৮০ মিনিট | **পূর্ণমান:** ৪০\n\n---\n### সাধারণ নির্দেশাবলী:\n১. পরীক্ষার পূর্ণমান: 40 | সময়: 180 মিনিট।\n২. সমস্ত প্রশ্নের উত্তর পরিচ্ছন্নভাবে উত্তরপত্রে লিখতে হবে।\n৩. প্রয়োজনীয় ক্ষেত্রে মার্জিন ও খসড়া কার্য প্রদর্শন করতে হবে।\n---\n\n## বিভাগ—ক (Group A: MCQ)\n*প্রতিটি প্রশ্নের সঠিক বিকল্পটি নির্বাচন করে লেখো:* [৮ নম্বর]\n\n**১.১** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Moderate স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.২** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Moderate স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৩** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Challenging স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৪** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Moderate স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৫** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Moderate স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৬** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Challenging স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৭** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Challenging স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n**১.৮** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Challenging স্তর) &nbsp;&nbsp; **[১]**\n&nbsp;&nbsp;&nbsp;&nbsp;(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(খ) ভুল বিকল্প — পার্শ্ব ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(গ) ভুল বিকল্প — বিপরীত ধারণা\n&nbsp;&nbsp;&nbsp;&nbsp;(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা\n\n\n## বিভাগ—খ (Group B: VSA)\n*নির্দেশ অনুসারে অতিসংক্ষিপ্ত প্রশ্নের উত্তর দাও:* [৮ নম্বর]\n\n**২.১** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.২** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৩** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৪** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৫** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৬** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৭** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৮** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.৯** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n**২.১০** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর] &nbsp;&nbsp; **[১]**\n\n## বিভাগ—গ (Group C: SA)\n*সংক্ষেপে উত্তর দাও (বিকল্প প্রশ্ন লক্ষণীয়):* [১০ নম্বর]\n\n**৩.১** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.২** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৩** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৪** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — ANALYSING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৫** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৬** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n**৩.৭** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর] &nbsp;&nbsp; **[২]**\n\n## বিভাগ—ঘ (Group D: LA)\n*নিচের প্রশ্নগুলির বিস্তারিত সমাধান ও ব্যাখ্যা লেখো:* [১৪ নম্বর]\n\n**৪.১** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Moderate স্তর — ANALYSING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর] &nbsp;&nbsp; **[৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭]**\n**৪.২** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Moderate স্তর — ANALYSING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর] &nbsp;&nbsp; **[৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭]**\n**৪.৩** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Challenging স্তর — EVALUATING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর] &nbsp;&nbsp; **[৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭]**\n**৪.৪** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Challenging স্তর — EVALUATING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর] &nbsp;&nbsp; **[৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭]**\n**৪.৫** 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Challenging স্তর — EVALUATING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর] &nbsp;&nbsp; **[৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭]**\n",
+  "answer_key_markdown": "# পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 9 — Mathematics\nপূর্ণমান: ৪০ | সময়: ৩ ঘণ্টা — উত্তর নির্দেশিকা (Answer Key)\n**বোর্ড:** WBBSE | **শ্রেণি:** Class 9 | **বিষয়:** Mathematics | **পূর্ণমান:** ৪০\n\n---\n\n### বিভাগ—ক (Group A: MCQ)\n- **১.১**: সঠিক বিকল্প **(ক)** \n- **১.২**: সঠিক বিকল্প **(ক)** \n- **১.৩**: সঠিক বিকল্প **(ক)** \n- **১.৪**: সঠিক বিকল্প **(ক)** \n- **১.৫**: সঠিক বিকল্প **(ক)** \n- **১.৬**: সঠিক বিকল্প **(ক)** \n- **১.৭**: সঠিক বিকল্প **(ক)** \n- **১.৮**: সঠিক বিকল্প **(ক)** \n\n### বিভাগ—খ (Group B: VSA)\n- **২.১**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.২**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৩**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৪**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৫**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৬**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৭**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৮**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.৯**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n- **২.১০**: Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n### বিভাগ—গ (Group C: SA)\n- **৩.১**: Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.২**: Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৩**: Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৪**: Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৫**: Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৬**: Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n- **৩.৭**: Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n### বিভাগ—ঘ (Group D: LA)\n- **৪.১**: **ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n- **৪.২**: **ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n- **৪.৩**: **ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n- **৪.৪**: **ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n- **৪.৫**: **ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n",
+  "marking_scheme_markdown": "# পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 9 — Mathematics\nপূর্ণমান: ৪০ | সময়: ৩ ঘণ্টা — মূল্যায়ন নির্দেশিকা ও নম্বর বণ্টন (Marking Scheme)\n**বোর্ড:** WBBSE | **শ্রেণি:** Class 9 | **বিষয়:** Mathematics\n\n---\n\n## বিভাগ—ক (Group A: MCQ) (মোট নম্বর: ৮)\n\n### প্রশ্ন **১.১** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.২** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৩** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৪** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৫** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৬** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৭** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **১.৮** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n\n## বিভাগ—খ (Group B: VSA) (মোট নম্বর: ৮)\n\n### প্রশ্ন **২.১** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.২** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৩** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৪** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৫** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৬** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৭** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৮** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.৯** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **২.১০** [পূর্ণমান: ১] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n\n\n## বিভাগ—গ (Group C: SA) (মোট নম্বর: ১০)\n\n### প্রশ্ন **৩.১** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.২** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৩** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৪** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৫** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৬** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৩.৭** [পূর্ণমান: ২] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\nMathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n\n## বিভাগ—ঘ (Group D: LA) (মোট নম্বর: ১৪)\n\n### প্রশ্ন **৪.১** [পূর্ণমান: ৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.২** [পূর্ণমান: ৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.৩** [পূর্ণমান: ৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.৪** [পূর্ণমান: ৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n### প্রশ্ন **৪.৫** [পূর্ণমান: ৪.৬৬৬৬৬৬৬৬৬৬৬৬৬৬৭] *[জেনারেটেড মার্কিং স্কিম]*\n**আদর্শ উত্তর / সমাধান:**\n**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।\n\n**নম্বর বণ্টন ও মূল্যায়ন সূচক:**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n-  -----------------> **১.০ নম্বর**\n\n",
+  "paper_data": {
+    "paper_id": "wbbse_class9_mathematics_1115efdf",
+    "board": "WBBSE",
+    "class_level": "Class 9",
+    "subject": "Mathematics",
+    "medium": "Bengali",
+    "year": "২০২৫",
+    "total_marks": 40.0,
+    "duration_minutes": 180,
+    "title": "পশ্চিমবঙ্গ মধ্যশিক্ষা পর্ষদ (WBBSE)\nClass 9 — Mathematics\nপূর্ণমান: ৪০ | সময়: ৩ ঘণ্টা",
+    "general_instructions": [
+      "পরীক্ষার পূর্ণমান: 40 | সময়: 180 মিনিট।",
+      "সমস্ত প্রশ্নের উত্তর পরিচ্ছন্নভাবে উত্তরপত্রে লিখতে হবে।",
+      "প্রয়োজনীয় ক্ষেত্রে মার্জিন ও খসড়া কার্য প্রদর্শন করতে হবে।"
+    ],
+    "sections": [
+      {
+        "section_id": "A",
+        "section_name": "বিভাগ—ক (Group A: MCQ)",
+        "description": "বহুবিকল্পভিত্তিক প্রশ্ন",
+        "total_marks": 8.0,
+        "instructions": "প্রতিটি প্রশ্নের সঠিক বিকল্পটি নির্বাচন করে লেখো:",
+        "questions": [
+          {
+            "question_id": "gen_5a5f2f1c2e",
+            "section_id": "A",
+            "question_number_raw": "১.১",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Moderate স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_0d896d3df8",
+            "section_id": "A",
+            "question_number_raw": "১.২",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Moderate স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_997f55b7c5",
+            "section_id": "A",
+            "question_number_raw": "১.৩",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Challenging স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_cf6c68b506",
+            "section_id": "A",
+            "question_number_raw": "১.৪",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Moderate স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_cffd3f6a07",
+            "section_id": "A",
+            "question_number_raw": "১.৫",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Moderate স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_4d8851dfa6",
+            "section_id": "A",
+            "question_number_raw": "১.৬",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Challenging স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_aa508ac086",
+            "section_id": "A",
+            "question_number_raw": "১.৭",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Challenging স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_c45bb3f0ac",
+            "section_id": "A",
+            "question_number_raw": "১.৮",
+            "question_type": "MCQ",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে নিচের কোনটি সঠিক? (Class 9 Mathematics — Challenging স্তর)",
+            "options": [
+              "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+              "(খ) ভুল বিকল্প — পার্শ্ব ধারণা",
+              "(গ) ভুল বিকল্প — বিপরীত ধারণা",
+              "(ঘ) ভুল বিকল্প — অপ্রাসঙ্গিক ধারণা"
+            ],
+            "correct_option": "(ক)",
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "(ক) সঠিক উত্তর — Mathematics সম্পর্কিত ধারণা",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সঠিক উত্তর নির্বাচন"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      },
+      {
+        "section_id": "B",
+        "section_name": "বিভাগ—খ (Group B: VSA)",
+        "description": "অতিসংক্ষিপ্ত প্রশ্ন",
+        "total_marks": 8.0,
+        "instructions": "নির্দেশ অনুসারে অতিসংক্ষিপ্ত প্রশ্নের উত্তর দাও:",
+        "questions": [
+          {
+            "question_id": "gen_47388b45e1",
+            "section_id": "B",
+            "question_number_raw": "২.১",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "REMEMBERING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_c155fc717a",
+            "section_id": "B",
+            "question_number_raw": "২.২",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_e8419838bd",
+            "section_id": "B",
+            "question_number_raw": "২.৩",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_cbd90001d7",
+            "section_id": "B",
+            "question_number_raw": "২.৪",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_506b576ec0",
+            "section_id": "B",
+            "question_number_raw": "২.৫",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_4f00d6a28c",
+            "section_id": "B",
+            "question_number_raw": "২.৬",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_cb5b96f9a1",
+            "section_id": "B",
+            "question_number_raw": "২.৭",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_fe4b57d11d",
+            "section_id": "B",
+            "question_number_raw": "২.৮",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_740a812756",
+            "section_id": "B",
+            "question_number_raw": "২.৯",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_f7a842be40",
+            "section_id": "B",
+            "question_number_raw": "২.১০",
+            "question_type": "VERY_SHORT_ANSWER",
+            "marks": 1.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে এক কথায় উত্তর দাও। (Class 9 Mathematics) [১ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics সম্পর্কিত মূল ধারণার সংক্ষিপ্ত উত্তর।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "সংক্ষিপ্ত ও সঠিক উত্তর"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      },
+      {
+        "section_id": "C",
+        "section_name": "বিভাগ—গ (Group C: SA)",
+        "description": "সংক্ষিপ্ত উত্তরভিত্তিক প্রশ্ন (২ নম্বর)",
+        "total_marks": 10.0,
+        "instructions": "সংক্ষেপে উত্তর দাও (বিকল্প প্রশ্ন লক্ষণীয়):",
+        "questions": [
+          {
+            "question_id": "gen_839fa5c58b",
+            "section_id": "C",
+            "question_number_raw": "৩.১",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_8ddde60a70",
+            "section_id": "C",
+            "question_number_raw": "৩.২",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — APPLYING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "APPLYING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_12c7158b0d",
+            "section_id": "C",
+            "question_number_raw": "৩.৩",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_c4c3840998",
+            "section_id": "C",
+            "question_number_raw": "৩.৪",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Moderate — ANALYSING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "ANALYSING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_591a1de876",
+            "section_id": "C",
+            "question_number_raw": "৩.৫",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_1ee14d8132",
+            "section_id": "C",
+            "question_number_raw": "৩.৬",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_d8876e7023",
+            "section_id": "C",
+            "question_number_raw": "৩.৭",
+            "question_type": "SHORT_ANSWER",
+            "marks": 2.0,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে সংক্ষিপ্ত উত্তর দাও (Challenging — EVALUATING): \"Mathematics-এর একটি গুরুত্বপূর্ণ বিষয়বস্তু ব্যাখ্যা করো।\" [২ নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের মূল ধারণা: (i) প্রথম বিষয়: ... (ii) দ্বিতীয় বিষয়: ...",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "মূল ধারণা উল্লেখ"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "ব্যাখ্যা ও উদাহরণ"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      },
+      {
+        "section_id": "D",
+        "section_name": "বিভাগ—ঘ (Group D: LA)",
+        "description": "দীর্ঘ উত্তরভিত্তিক / গাণিতিক সমস্যা",
+        "total_marks": 14.0,
+        "instructions": "নিচের প্রশ্নগুলির বিস্তারিত সমাধান ও ব্যাখ্যা লেখো:",
+        "questions": [
+          {
+            "question_id": "gen_b5771ec764",
+            "section_id": "D",
+            "question_number_raw": "৪.১",
+            "question_type": "LONG_ANSWER",
+            "marks": 4.666666666666667,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Moderate স্তর — ANALYSING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "ভূমিকা"
+              },
+              {
+                "marks": 2.666666666666667,
+                "criterion": "মূল আলোচনার বিষয়বস্তু"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "উপসংহার"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "ANALYSING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_0962057f82",
+            "section_id": "D",
+            "question_number_raw": "৪.২",
+            "question_type": "LONG_ANSWER",
+            "marks": 4.666666666666667,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Moderate স্তর — ANALYSING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "ভূমিকা"
+              },
+              {
+                "marks": 2.666666666666667,
+                "criterion": "মূল আলোচনার বিষয়বস্তু"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "উপসংহার"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "ANALYSING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_dd87e9da9c",
+            "section_id": "D",
+            "question_number_raw": "৪.৩",
+            "question_type": "LONG_ANSWER",
+            "marks": 4.666666666666667,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Challenging স্তর — EVALUATING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "ভূমিকা"
+              },
+              {
+                "marks": 2.666666666666667,
+                "criterion": "মূল আলোচনার বিষয়বস্তু"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "উপসংহার"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_1befc46e71",
+            "section_id": "D",
+            "question_number_raw": "৪.৪",
+            "question_type": "LONG_ANSWER",
+            "marks": 4.666666666666667,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Challenging স্তর — EVALUATING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "ভূমিকা"
+              },
+              {
+                "marks": 2.666666666666667,
+                "criterion": "মূল আলোচনার বিষয়বস্তু"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "উপসংহার"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          },
+          {
+            "question_id": "gen_654abfdb9a",
+            "section_id": "D",
+            "question_number_raw": "৪.৫",
+            "question_type": "LONG_ANSWER",
+            "marks": 4.666666666666667,
+            "question_text": "'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায় থেকে বিস্তারিত আলোচনা করো (Challenging স্তর — EVALUATING): \"Mathematics-এর একটি জটিল ধারণা বিশ্লেষণ করো।\" [4.666666666666667 নম্বর]",
+            "options": [],
+            "correct_option": null,
+            "correct_option_text": null,
+            "alternative_question_text": null,
+            "answer_text": "**ভূমিকা:** Mathematics বিষয়ে 'অধ্যায় ১: বাস্তব সংখ্যা' অধ্যায়ের প্রাসঙ্গিক পটভূমি।\n\n**মূল আলোচনা:**\n১. প্রথম দিক — ব্যাখ্যা ও উদাহরণ।\n২. দ্বিতীয় দিক — বিশ্লেষণ।\n\n**উপসংহার:** সংক্ষিপ্ত সার।",
+            "alternative_answer_text": null,
+            "scoring_rubric": [
+              {
+                "marks": 1.0,
+                "criterion": "ভূমিকা"
+              },
+              {
+                "marks": 2.666666666666667,
+                "criterion": "মূল আলোচনার বিষয়বস্তু"
+              },
+              {
+                "marks": 1.0,
+                "criterion": "উপসংহার"
+              }
+            ],
+            "rubric_type": "GENERATED_MARKING_SCHEME",
+            "provenance": "GENERATED",
+            "source_question_id": null,
+            "textbook_grounding": "অধ্যায় ১: বাস্তব সংখ্যা",
+            "cognitive_level": "EVALUATING",
+            "has_visual": false,
+            "visual_description": null
+          }
+        ]
+      }
+    ],
+    "mode": "HYBRID",
+    "created_at": "2026-09-17T08:56:28.450491"
+  },
+  "provenance": {
+    "curriculum_source": "TEXTBOOK_CORPUS",
+    "curriculum_verified": true,
+    "blueprint_source": "GENERATED_STANDARD_PATTERN",
+    "chapter_mode": "CHAPTER_FILTERED",
+    "difficulty_distribution": [
+      0.1,
+      0.3,
+      0.6
+    ],
+    "validation_errors": [],
+    "validation_warnings": [
+      "REPEATED_QUESTION_STEMS: [\"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\", \"'অধ্যায় ১: বাস্তব সংখ্যা' অধ্\"]",
+      "POTENTIAL_CHAPTER_SCOPE_DRIFT: Questions ['১.১', '১.২', '১.৩', '১.৪', '১.৫'] might contain concepts outside requested chapters."
+    ]
+  }
+}

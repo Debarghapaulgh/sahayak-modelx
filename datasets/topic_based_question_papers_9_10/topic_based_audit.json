@@ -1,0 +1,20 @@
+{
+  "dataset_name": "topic_based_question_papers_9_10",
+  "total_papers_generated": 100,
+  "total_questions_generated": 2314,
+  "scope_breakdown": {
+    "Single Topic Papers": 50,
+    "Two / Multi-Topic Papers": 50
+  },
+  "grade_distribution": {
+    "Class 9": 51,
+    "Class 10": 49
+  },
+  "quality_metrics": {
+    "topic_boundary_compliance_rate": 100.0,
+    "textbook_grounding_rate": 100.0,
+    "historical_leakage_rate": 0.0,
+    "mark_consistency_rate": 100.0,
+    "rubric_coverage_rate": 100.0
+  }
+}

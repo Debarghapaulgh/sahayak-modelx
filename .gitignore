@@ -1,0 +1,102 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Testing & Caching
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables & secrets / API keys
+.env
+.env.*
+!.env.example
+credentials.json
+gen-lang-client-*.json
+*keys*.md
+ACTIVE_API_KEYS.md
+Deb_keys.md
+Nand_keys.md
+Nm_keys.md
+dy_keys.md
+groq_keys.md
+p_keys.md
+api_keys_active_pool.json
+
+# Model weights & binaries (> 100MB GitHub limits)
+*.gguf
+*.bin
+*.pt
+*.pth
+*.safetensors
+*.traineddata
+
+# Compressed Archives
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+
+# Raw Heavy PDF Collections & OCR Page Dumps (> 100MB / Multi-GBs)
+*.pdf
+WBBSE_Official_Textbooks/
+WBBSE_Books_PDFs_By_Class/
+WBBSE_Books/
+WB_Boards_All_Question_Papers/
+WB_Boards_Additional_Study_Materials/
+Question_Papers/
+raw-textbooks/
+datasets/extraction/
+datasets/extracted_textbooks_by_class/
+datasets/ocr_cache/
+datasets/question_papers/
+synthetic-corpus - Copy/
+northbengal-dataset-pipeline/
+northbengal-dataset-forge-2026-08-19/
+
+# Temporary / Scratch outputs
+scratch/
+output/
+__MACOSX/
+.DS_Store
+Thumbs.db

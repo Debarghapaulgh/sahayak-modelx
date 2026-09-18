@@ -1,0 +1,40 @@
+{
+  "dataset_name": "wbbse_product_comparison_dataset",
+  "total_records": 40,
+  "board": "WBBSE",
+  "medium": "Bengali",
+  "grades_covered": [
+    "Class 6",
+    "Class 5",
+    "Class 9",
+    "Class 2",
+    "Class 4",
+    "Class 3",
+    "Class 10",
+    "Class 1",
+    "Class 7",
+    "Class 8"
+  ],
+  "subjects_covered": [
+    "History",
+    "General",
+    "Science",
+    "Bengali",
+    "Geography",
+    "Life Science",
+    "Physical Science",
+    "Mathematics"
+  ],
+  "difficulties_covered": [
+    "Board_Style",
+    "Moderate",
+    "Mixed",
+    "Easy",
+    "Challenging"
+  ],
+  "files": {
+    "sft_conversations": "datasets/wbbse_product_comparison_dataset\\wbbse_comparison_sft.jsonl",
+    "structured_papers": "datasets/wbbse_product_comparison_dataset\\wbbse_comparison_papers.jsonl",
+    "individual_papers_dir": "datasets/wbbse_product_comparison_dataset\\papers"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "paper_id": "wbbse_class6_mathematics_64c8c9c5",
+  "is_valid": true,
+  "structural_score": 1.0,
+  "content_score": 1.0,
+  "assessment_score": 0.85,
+  "language_score": 1.0,
+  "errors": [],
+  "warnings": [
+    "REPEATED_QUESTION_STEMS: [\"'অধ্যায় ২: সাত ও আট অঙ্কের সং\", \"'অধ্যায় ২: সাত ও আট অঙ্কের সং\", \"'অধ্যায় ২: সাত ও আট অঙ্কের সং\", \"'অধ্যায় ২: সাত ও আট অঙ্কের সং\", \"'অধ্যায় ২: সাত ও আট অঙ্কের সং\", \"'অধ্যায় ২: সাত ও আট অঙ্কের সং\", \"'অধ্যায় ২: সাত ও আট অঙ্কের সং\"]"
+  ],
+  "metrics": {
+    "total_questions": 33,
+    "total_sections": 4,
+    "total_marks": 70.0,
+    "calculated_marks": 70.0,
+    "provenance_counts": {
+      "GENERATED": 33
+    },
+    "blueprint_source": "GENERATED_STANDARD_PATTERN",
+    "blueprint_classification": "GENERATED_STANDARD_PATTERN",
+    "chapter_mode": "FULL_SYLLABUS",
+    "cognitive_distribution": {
+      "REMEMBERING": 8,
+      "APPLYING": 18,
+      "EVALUATING": 4,
+      "ANALYSING": 3
+    }
+  }
+}

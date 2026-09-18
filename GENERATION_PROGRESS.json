@@ -1,0 +1,32 @@
+{
+  "status": "COMPLETED",
+  "completed": 2155,
+  "target": 2155,
+  "percent": 100.0,
+  "speed_records_per_sec": 11.22,
+  "speed_records_per_min": 673.21,
+  "elapsed_seconds": 192.1,
+  "eta_minutes": 0.0,
+  "primary_engine": "Sarvam AI Indic LLM (sarvam-105b-conversations / sarvam-105b)",
+  "stages": {
+    "Primary": 538,
+    "Middle": 538,
+    "Secondary": 646,
+    "Higher Secondary": 433
+  },
+  "task_types": {
+    "quiz_generation": 648,
+    "lesson_plan": 647,
+    "concept_explanation": 215,
+    "word_problem": 215,
+    "socratic_dialogue": 215,
+    "error_spotting": 215
+  },
+  "models": {
+    "sarvam-105b-conversations": 1656,
+    "sarvam-105b": 484,
+    "qwen/qwen3.8-27b": 7,
+    "openai/gpt-oss-120b": 8
+  },
+  "last_updated": "2026-09-18T08:26:50Z"
+}

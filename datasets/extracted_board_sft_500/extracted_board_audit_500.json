@@ -1,0 +1,16 @@
+{
+  "dataset_name": "extracted_board_sft_500",
+  "total_conversations": 500,
+  "total_question_applications": 5705,
+  "board_distribution": {
+    "WBBSE (Class 10)": 300,
+    "WBCHSE (Class 12)": 200
+  },
+  "schema_format": "pure_3_variable_messages",
+  "quality_gates": {
+    "historical_year_leakage_pct": 0.0,
+    "pure_3_variable_messages_pct": 100.0,
+    "system_prompt_compliance_pct": 100.0,
+    "solutions_and_rubrics_coverage_pct": 100.0
+  }
+}
