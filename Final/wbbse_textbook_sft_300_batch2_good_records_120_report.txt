@@ -1,0 +1,41 @@
+PART 1 — CURATED GOOD RECORDS AUDIT
+============================================================
+Source: wbbse_textbook_sft_300_batch2_final_v2(3).jsonl
+Curated records: 120
+
+Task distribution:
+- Q/A: 86
+- Lesson Plans: 15
+- Quizzes: 19
+
+Subject distribution:
+- Bengali: 30
+- Mathematics: 26
+- English: 26
+- Health and Physical Education: 20
+- Environmental Science: 10
+- General: 8
+
+Class distribution:
+- অষ্টম শ্রেণি: 19
+- সপ্তম শ্রেণি: 15
+- নবম শ্রেণি: 13
+- পঞ্চম শ্রেণি: 12
+- ষষ্ঠ শ্রেণি: 12
+- দশম শ্রেণি: 12
+- দ্বিতীয় শ্রেণি: 9
+- একাদশ শ্রেণি: 8
+- প্রথম শ্রেণি: 8
+- চতুর্থ শ্রেণি: 7
+- তৃতীয় শ্রেণি: 5
+
+Exact duplicate user+assistant pairs: 0
+Obvious placeholder/meta-pattern hits remaining: 0
+Schema validation: 120/120 valid three-message records
+
+Curation notes:
+- Selected from the supplied 300-record batch after structural, specificity, source-alignment, and repetition review.
+- Obvious source-mismatch/refusal records were excluded.
+- Strongly duplicated lesson-plan variants were reduced.
+- The records are preserved as generated; no source facts were rewritten.
+- This is a curated candidate set, not an externally fact-checked gold set.
