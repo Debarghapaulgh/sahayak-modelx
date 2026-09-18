@@ -1,0 +1,37 @@
+name: CI
+on:
+  pull_request:
+    branches: [develop, main]
+  push:
+    branches: [develop]
+permissions:
+  contents: read
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install tools
+        run: pip install ruff nbformat
+      - name: Python error-lint (syntax, undefined names, etc.)
+        run: ruff check --select E9,F63,F7,F82 .
+      - name: Notebooks parse cleanly
+        run: |
+          python - <<'PY'
+          import glob, nbformat, sys
+          bad = 0
+          for f in glob.glob('**/*.ipynb', recursive=True):
+              try:
+                  nbformat.read(f, as_version=4)
+              except Exception as e:
+                  print('BAD NOTEBOOK', f, e); bad += 1
+          sys.exit(1 if bad else 0)
+          PY
+      - name: Shell lint (advisory)
+        continue-on-error: true
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y shellcheck
+          find . -name '*.sh' -print0 | xargs -0 -r shellcheck -S warning
