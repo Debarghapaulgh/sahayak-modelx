@@ -1,4 +1,6 @@
-# SyntheticTutor 🎓🤖
+# sahayak-modelx
+
+## SyntheticTutor 🎓🤖
 
 **SyntheticTutor** is a research-quality, modular framework designed to generate realistic, pedagogically grounded Socratic tutoring dialogues from curriculum sources (such as NCERT and State Board textbooks). 
 
@@ -13,7 +15,7 @@ Rather than building a standard conversational agent, **SyntheticTutor** impleme
 - 🎯 **Pedagogical Strategy & Persona Generator**: Formulate Socratic lesson plans aligned with Bloom's Taxonomy and simulate realistic student learning curves.
 - 🤖💬 **Multi-Agent Simulation**: Autonomous Teacher and Student AI agents simulating realistic, multi-turn educational dialogues.
 - ⚖️ **Multi-Judge Guardrail Suite**: Evaluate synthetic dialogues for factual accuracy, pedagogical soundness, persona consistency, and anti-leakage (preventing direct answer spoilers).
-- 🇮🇳 **Indic Multilingual Support**: Translate and adapt educational dialogues into Indic languages (Hindi, Tamil, Hinglish, etc.).
+- 🇮🇳 **Indic Multilingual Support**: Translate and adapt educational dialogues into Indic languages (Hindi, Bengali, Tamil, Hinglish, etc.).
 - 📦 **Multi-Format SFT Exporter**: Export filtered high-quality datasets to ShareGPT, ChatML, HuggingFace Datasets, and Parquet.
 - ⚡ **Scalable Async Engine**: Rate-limited, concurrent execution engine with checkpointing and state tracking.
 
@@ -46,3 +48,4 @@ pip install -e .
 # Run sample pipeline CLI
 synthetictutor run --config configs/pipeline.yaml
 ```
+
