@@ -1,0 +1,17 @@
+name: Branch policy
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  develop-only:
+    runs-on: ubuntu-latest
+    steps:
+      - name: main accepts merges only from develop
+        if: ${{ github.head_ref != 'develop' }}
+        env:
+          HEAD_REF: ${{ github.head_ref }}   # untrusted → keep out of the shell literal
+        run: |
+          echo "::error::PRs into 'main' must come from 'develop' (got '${HEAD_REF}'). Merge features into develop first."
+          exit 1
