@@ -1,9 +1,0 @@
-{
-  "total_generated": 60,
-  "validated_count": 60,
-  "rejected_count": 0,
-  "validation_rate_percent": 100.0,
-  "schema": "messages[system, user, assistant]",
-  "system_prompt_standard": "SahayakAI 18-Rule Bengali WBBSE/WBCHSE",
-  "query_intent": "User asks SahayakAI to generate board-style questions/papers"
-}
