@@ -1,4 +1,4 @@
-﻿# Byte-compiled / optimized / DLL files
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *.class
@@ -96,7 +96,46 @@ northbengal-dataset-forge-2026-08-19/
 
 # Temporary / Scratch outputs
 scratch/
+scratch_*
 output/
 __MACOSX/
 .DS_Store
 Thumbs.db
+*.xlsx
+Modelfile*
+*progress*.txt
+GENERATION_*
+New folder/
+Final/
+Edutips_HS_Sem3_Model_Questions/
+part1_sft_train_2000_final_report.txt
+tess_test.py
+test.py
+test_write.txt
+zip_project.py
+
+# Non-WB Board / CBSE / Interim Packs
+cbse_bengali_generator_pack/
+class8-science-ch1/
+remakeplan/
+synthetic-corpus/
+generate_pan_ncert_indic_dataset.py
+sarg_llama_synthetic*.jsonl
+
+# Intermediate & Redundant Datasets (Master WB datasets retained in final_sft_bundle & root)
+datasets/separated_datasets/
+datasets/sft_pilot_*/
+datasets/grounding_first_trial_batch/
+datasets/question_paper_sft_pilot_60/
+datasets/sft_155_*.jsonl
+datasets/sft_2000_original_*.jsonl
+datasets/sft_2155_*.jsonl
+datasets/sft_chatml_2000.jsonl
+datasets/sft_exact_3field_2000.jsonl
+datasets/gold_standard_sft_*.jsonl
+datasets/textbook_sft_part1/
+datasets/textbook_sft_part1_test/
+datasets/board_pattern_sft_10_12/
+datasets/board_pattern_sft_1_9_11/
+datasets/question_papers_10_12_clean/
+datasets/question_papers_benchmark_10/
