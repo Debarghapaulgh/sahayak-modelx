@@ -184,3 +184,6 @@ datasets/*
 datasets/*.jsonl
 datasets/*.json
 
+
+# compiled localisation corpus (rebuild with DataEngine/localization/compile.py)
+DataEngine/localization/out/

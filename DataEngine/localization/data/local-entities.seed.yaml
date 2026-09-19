@@ -1,0 +1,75 @@
+# Reusable KB. Affordances are the substitution currency — a concept pulls entities
+# whose affordances satisfy its canonical_anchor.affordances. Build once per zone, reuse everywhere.
+
+zones:
+  - {id: north_bengal_tea_belt, name: North Bengal Tea Belt, states: [West Bengal], languages: [Bengali, Nepali, Hindi]}
+  - {id: sundarbans_delta,      name: Sundarbans Delta,       states: [West Bengal], languages: [Bengali]}
+  - {id: coastal_tamil_nadu,    name: Coastal Tamil Nadu,     states: [Tamil Nadu],  languages: [Tamil]}
+  - {id: kerala_coast,          name: Kerala Coast,           states: [Kerala],      languages: [Malayalam]}
+  - {id: punjab_plains,         name: Punjab Plains,          states: [Punjab],      languages: [Punjabi]}
+  - {id: deccan_plateau,        name: Deccan Plateau,         states: [Maharashtra, Karnataka], languages: [Marathi, Kannada]}
+  - {id: rajasthan_arid,        name: Rajasthan Arid,         states: [Rajasthan],   languages: [Hindi, Marwari]}
+
+entities:
+  - id: coconut
+    name: Coconut
+    kind: fruit
+    zones: [kerala_coast, coastal_tamil_nadu]
+    affordances: {visible_mass: true, detaches: true, falls: true, everyday: true, edible: true, involves_transformation: false}
+    authenticity: {validated_by: pending_teacher, note: ubiquitous roadside/backyard tree}
+
+  - id: mango
+    name: Mango
+    kind: fruit
+    zones: [north_bengal_tea_belt, deccan_plateau, punjab_plains]
+    affordances: {visible_mass: true, detaches: true, falls: true, everyday: true, seasonal: "summer", edible: true}
+    authenticity: {validated_by: pending_teacher, note: strong summer salience; kids shake trees}
+
+  - id: khichdi
+    name: Khichdi
+    kind: dish
+    zones: [punjab_plains, north_bengal_tea_belt, deccan_plateau]
+    affordances: {involves_transformation: true, needs_energy_input: "heat", raw_to_cooked: true, everyday: true, edible: true}
+    authenticity: {validated_by: pending_teacher, note: near-universal household dish}
+
+  - id: dahi_curd
+    name: Dahi (curd)
+    kind: food
+    zones: [punjab_plains, north_bengal_tea_belt, deccan_plateau, rajasthan_arid]
+    affordances: {involves_transformation: true, microbial: true, needs_starter: true, everyday: true, edible: true}
+    authenticity: {validated_by: pending_teacher, note: set at home daily; Lactobacillus real-world case}
+
+  - id: haldi_turmeric
+    name: Haldi (turmeric)
+    kind: crop
+    zones: [deccan_plateau, coastal_tamil_nadu, north_bengal_tea_belt]
+    affordances: {color_change_with_ph: true, everyday: true, edible: true, sacred: true}
+    authenticity: {validated_by: pending_teacher, note: kitchen + ritual; turns red in base = home indicator}
+
+  - id: solar_salt_pan
+    name: Solar salt pan
+    kind: occupation
+    zones: [coastal_tamil_nadu, rajasthan_arid]
+    affordances: {evaporation_visible: true, phase_change: "liquid_to_solid_residue", livelihood: true, seasonal: "dry season"}
+    authenticity: {validated_by: pending_teacher, note: Marakkanam/Kutch salt pans; visible large-scale evaporation}
+
+  - id: matka
+    name: Matka (clay pot)
+    kind: tool
+    zones: [rajasthan_arid, deccan_plateau, punjab_plains]
+    affordances: {evaporative_cooling: true, porous: true, everyday: true, NOT_conduction_cooling: true}
+    authenticity: {validated_by: pending_teacher, note: cools water — CAUTION mechanism is evaporation, not conduction}
+
+  - id: dhak_drum
+    name: Dhak (festival drum)
+    kind: festival
+    zones: [north_bengal_tea_belt, sundarbans_delta]
+    affordances: {vibration_visible: true, produces_sound: true, sacred: true, sensory_strong: true}
+    authenticity: {validated_by: pending_teacher, note: Durga Puja; membrane vibration you can see and feel}
+
+  - id: temple_tank
+    name: Temple tank (still water)
+    kind: landmark
+    zones: [coastal_tamil_nadu, kerala_coast]
+    affordances: {smooth_surface: true, reflects_image: true, everyday: true}
+    authenticity: {validated_by: pending_teacher, note: kovil kulam; clear reflection of gopuram}
