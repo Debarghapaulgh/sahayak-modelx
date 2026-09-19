@@ -14,7 +14,7 @@ _Last updated: 2026-09-19._
 | Format discipline | ⚠️ finding | base stamps **ধাপ 1/2/3** on every task (quiz, concept) — blunt ধাপে ধাপে prompt. Fix in data: `DATA_ENGINE.md` Track 4. |
 | Repo + CI + branching | ✅ done | `feature → develop → main`, CI + branch-policy enforced |
 | Data (honest SFT set) | 🟡 ready | `Finetune/prepare_data.py` → 491/66, 0 template overlap |
-| **Data engine (Debargha, PR #12)** | 🟡 **pending hardening** | 61 books OCR'd → **13,914 approved chunks**, `locale.json` (8 North Bengal districts, sourced), grounding-first pipeline, ~3,000 SFT. **Blockers:** hardcoded API keys (rotate), 125 MB JSONL in git (→ LFS/bucket), locale defaults CBSE/English, stale test, no CI run. See Track 0. |
+| **Data engine (Debargha, PR #12)** | 🟠 **merged, remediation open** | Merged to `develop` 2026-09-19 as a merge commit with **14 hardcoded API keys** (OpenRouter 3, Sarvam 1, Gemini 5, Groq 5), ~125 MB JSONL in history, CI red. Tip remediated (keys removed, CI fixed, locale defaults, stale test dropped, gitleaks job). **Still open:** rotate all keys (#20); LFS-vs-bucket + history-purge decision (#24, #20). |
 | Localisation ontology | 🟡 to move in | `GovWB/localized-learning-db/` (affordance gate, disanalogy flags, teacher authenticity) → `DataEngine/localization/` (Track 3) |
 | Data Engine plan | ✅ written | `DATA_ENGINE.md`, Tracks 0–7, epic + per-track issues |
 | RAG on WBBSE | ⏭ next | index the 13,914 approved chunks with the curriculum manifest |
