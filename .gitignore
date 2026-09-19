@@ -192,3 +192,8 @@ DataEngine/localization/review_sheets/
 DataEngine/out/*
 !DataEngine/out/MANIFEST.json
 !DataEngine/out/sample_50.jsonl
+
+# Finetune local rehearsal (smoke_local.sh)
+Finetune/.venv-smoke/
+Finetune/.smoke_local.ok
+Finetune/out/

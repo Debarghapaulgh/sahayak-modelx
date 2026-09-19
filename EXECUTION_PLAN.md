@@ -120,5 +120,28 @@ Track 0 harden + merge PR #12 → Tracks 1–7. **DoD:** 10,000 approved records
 | Data is the moat AND the bottleneck | teacher recruitment; grounded generation; Track 6 review loop |
 | Idle GPU cost | scale-to-zero + mandatory teardown |
 
+## GPU runs — process of record (set 2026-09-19 after 17 failed jobs)
+
+What the day taught: every failure was a library/API mismatch discovered ~7 min in, after the 30B model had loaded
+(~440 s of GPU each, ≈ ₹1,150 total); the one run that trained did so at ~270 tokens/s (4-bit dequant on a 128-expert
+MoE + serial `device_map="auto"`), i.e. ~5% of four A10Gs, with no step checkpoint under a 3 h cap.
+
+1. **Eval before training.** No run without the WB-local scorecard (#23) to judge it.
+2. **Rehearse for free.** `Finetune/smoke_local.sh` (CPU, pinned libs, 135M model, real Sarvam config/tokenizer) must pass
+   before `launch_sagemaker_training.py` will submit. It catches signatures, `token_type_ids`, the separate
+   `chat_template.jinja`, wrong LoRA target names (`query_key_value`, `dense`; never `gate`) and checkpoint/resume.
+3. **Iterate small, scale once.** Recipe work (format, direct answers, DPO pairs, eval calibration) on a 2–4B open
+   Bengali-capable model at ~₹100/epoch; port the winning recipe to the 30B.
+4. **Every job resumable and bounded.** `--save-steps` + `CheckpointConfig` (S3-synced), `MaxRuntime` sized from
+   measured steps/s, `--resume-from <job>` instead of relaunching from zero.
+5. **Provenance gate in code.** The launcher refuses data that is not in `DataEngine/out/MANIFEST.json`
+   (`licence: own`, sha256 match) unless `--allow-unverified-data` is passed for a throwaway experiment.
+6. **One slot, one protocol.** Job names carry the owner; `--stop` refuses other people's jobs; post on #28 before
+   launching; `--dry-run` first; a cost line per day in `PROGRESS.md`.
+7. **Fix the 30B stack next.** bf16 LoRA with FSDP/ZeRO-3 across all four GPUs (no dequant, real data parallelism) is
+   expected to be 10–20× the current throughput on the same instance; one smoke test decides. Spot training quota and the
+   IndiaAI Mission application cover the CPT phase; outside H100 providers are an acceptable fallback for training
+   (synthetic, PII-free data), never for serving.
+
 ## Tracking
 Epic issue **#3** (model) · Data Engine epic **#19** · `PROGRESS.md` = living status. This file = the plan.
