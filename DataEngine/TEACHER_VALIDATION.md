@@ -14,8 +14,8 @@ YAML or spreadsheets. So the rule is: **teachers judge; the team records.**
 3. **Phone call** — a team member reads the items; the teacher answers; the team fills the sheet.
 
 ## The review sheet
-Generated from the store (`DataEngine/localization/data/*.yaml`; SFT batches) by `make_review_sheet.py`
-(to build): **≤ 20 items per sheet, Bengali only**. Each item shows the local example or the answer exactly as a
+Generated from the store (`DataEngine/localization/data/*.yaml`; SFT batches) by `DataEngine/localization/make_review_sheet.py`
+(`python make_review_sheet.py`, defaults to West Bengal zones and pending items): **≤ 20 items per sheet, Bengali only**. Each item shows the local example or the answer exactly as a
 student would see it, then three boxes — **ঠিক আছে · ভুল · বদলাতে হবে** — and a line for the teacher's note.
 Sheet id and item ids are printed small so results can be keyed back without ambiguity.
 
