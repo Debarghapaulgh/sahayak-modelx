@@ -23,26 +23,19 @@ from typing import Dict, Any, List, Optional, Tuple
 import aiohttp
 from export_api_sft_formats import export_all
 
-# API Configuration
-SARVAM_API_KEY = os.environ.get("SARVAM_API_KEY", "sk_t3i8crml_elALafNJUw1DyJJZoqK6iS2r")
+def _keys_from_env(name: str) -> list:
+    """Comma-separated API keys from the environment. Never hardcode keys in this repo."""
+    return [k.strip() for k in os.environ.get(name, "").split(",") if k.strip()]
+
+
+# API Configuration (environment only)
+SARVAM_API_KEY = os.environ.get("SARVAM_API_KEY", "")
 SARVAM_URL = "https://api.sarvam.ai/v1/chat/completions"
-SARVAM_EXHAUSTED = False
+SARVAM_EXHAUSTED = not SARVAM_API_KEY  # no key configured -> provider disabled
 
-GEMINI_API_KEYS = [
-    "AQ.Ab8RN6KRGHlaXvzH59kf_Q4zNmNWMnv_b3c3hrF9FzLV5WVBxA",
-    "AQ.Ab8RN6IGnkeRe7sBlxCYameLFI43t8OREHu63kAQ7AuU6S2atg",
-    "AQ.Ab8RN6JVMJuY3xHJVcVHhwuX6Iv17Ml-D5MxKG6wbFfQxyTNaw",
-    "AQ.Ab8RN6KX4NQdgxgYEAA-arhGwWiYkD3jPgZzzJ4YOUHkUp7Upg",
-    "AQ.Ab8RN6KvcBXKAAdnQRtMBs370P0URNBZzDPUnwEVfMmzYY9YFA"
-]
+GEMINI_API_KEYS = _keys_from_env("GEMINI_API_KEYS")
 
-GROQ_API_KEYS = [
-    "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",
-    "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",
-    "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",
-    "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",
-    "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"
-]
+GROQ_API_KEYS = _keys_from_env("GROQ_API_KEYS")
 GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 OUTPUT_DIR = Path("datasets/separated_datasets/batch_500_expansion")
@@ -53,6 +46,9 @@ PART_B_FILE = OUTPUT_DIR / "part_b_all_grades_curriculum_papers_200.jsonl"
 PART_C_FILE = OUTPUT_DIR / "part_c_historic_naturalised_papers_100.jsonl"
 
 MASTER_2655_FILE = Path("datasets/gold_standard_sft_2655_master.jsonl")
+CHATML_2655_FILE = Path("datasets/gold_standard_sft_2655_master_chatml.jsonl")
+SHAREGPT_2655_FILE = Path("datasets/gold_standard_sft_2655_master_sharegpt.jsonl")
+EXACT_3FIELD_2655_FILE = Path("datasets/gold_standard_sft_2655_master_3field.jsonl")
 
 PROGRESS_MD = Path("GENERATION_500_PROGRESS.md")
 PROGRESS_JSON = Path("GENERATION_500_PROGRESS.json")

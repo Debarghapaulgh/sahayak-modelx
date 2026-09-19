@@ -3,8 +3,8 @@
     "name": "North Bengal",
     "state": "West Bengal",
     "country": "India",
-    "default_board": "CBSE",
-    "default_medium": "English",
+    "default_board": "WBBSE",
+    "default_medium": "Bengali",
     "standard_currency": "INR",
     "setting": "rural and semi-rural",
     "local_units": {

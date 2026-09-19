@@ -1,0 +1,7 @@
+# gitleaks config — default rules plus allowlisted documentation placeholders.
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Documentation placeholders, never real credentials"
+regexes = ['''your-key-here''', '''YOUR_OPENROUTER_KEY''']
