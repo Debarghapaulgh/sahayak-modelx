@@ -31,7 +31,7 @@ import os
 import time
 
 import torch
-from datasets import load_dataset
+from datasets import Dataset
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer
 from trl import SFTConfig, SFTTrainer
@@ -167,19 +167,20 @@ def main():
     model = get_peft_model(model, lora)
     model.print_trainable_parameters()
 
-    def fmt(ex):
-        return {"text": tok.apply_chat_template(ex["messages"], tokenize=False, add_generation_prompt=False)}
+    def read_rows(path, limit):
+        """Only `messages` is used. Never hand the file to datasets' JSON loader: it infers a nested schema for
+        `provenance` from the first rows and fails when later rows carry different keys (job 220640, 2026-09-19)."""
+        rows = []
+        with open(path, encoding="utf-8") as fh:
+            for line in fh:
+                if line.strip():
+                    rows.append({"text": tok.apply_chat_template(json.loads(line)["messages"], tokenize=False, add_generation_prompt=False)})
+                if limit and len(rows) >= limit:
+                    break
+        return Dataset.from_list(rows)
 
-    ds = load_dataset("json", data_files=a.train, split="train")
-    if a.limit:
-        ds = ds.select(range(min(a.limit, len(ds))))
-    ds = ds.map(fmt, remove_columns=ds.column_names)
-    ev = None
-    if a.eval and os.path.exists(a.eval):
-        ev = load_dataset("json", data_files=a.eval, split="train")
-        if a.limit:
-            ev = ev.select(range(min(max(a.limit // 5, 4), len(ev))))
-        ev = ev.map(fmt, remove_columns=ev.column_names)
+    ds = read_rows(a.train, a.limit)
+    ev = read_rows(a.eval, max(a.limit // 5, 4) if a.limit else 0) if a.eval and os.path.exists(a.eval) else None
     print(f"train rows={len(ds)} eval rows={len(ev) if ev else 0}; sample:\n{ds[0]['text'][:400]}", flush=True)
 
     save_strategy = "no" if (smoke and not a.save_steps) else ("steps" if a.save_steps else "epoch")
