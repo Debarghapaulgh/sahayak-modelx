@@ -223,9 +223,11 @@ def main():
         data = {"train": f"s3://{a.bucket}/data/<sha>/train/", **({"eval": f"s3://{a.bucket}/data/<sha>/eval/"} if os.path.exists(a.eval) else {})}
         spec = build_spec(a, role_arn, data, f"s3://{a.bucket}/source/{job}/sourcedir.tar.gz", job)
         print(json.dumps(spec, indent=1)); print("\nDRY RUN: nothing created."); return
-    busy = sm.list_training_jobs(StatusEquals="InProgress", MaxResults=5).get("TrainingJobSummaries", [])
+    # the quota is per instance type: only a running job on the SAME type blocks us
+    busy = [j["TrainingJobName"] for j in sm.list_training_jobs(StatusEquals="InProgress", MaxResults=10).get("TrainingJobSummaries", [])
+            if sm.describe_training_job(TrainingJobName=j["TrainingJobName"])["ResourceConfig"]["InstanceType"] == a.instance]
     if busy:
-        sys.exit("a training job is already InProgress on this account (quota 1): " + ", ".join(j["TrainingJobName"] for j in busy))
+        sys.exit(f"a training job is already InProgress on {a.instance} (quota 1): " + ", ".join(busy))
     s3 = boto3.client("s3", region_name=REGION)
     data = upload_data(s3, a.bucket, a.train, a.eval)
     source = upload_source(s3, a.bucket, job)
