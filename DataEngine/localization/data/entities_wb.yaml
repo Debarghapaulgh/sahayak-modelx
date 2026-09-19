@@ -1,0 +1,401 @@
+# West Bengal local-entity KB — the reusable substitution currency (Track 2/3).
+# A concept pulls entities whose affordances satisfy its canonical anchor. Build once per zone, reuse everywhere.
+# validated_by: teacher_informal = approved offline by teachers who do not use forms; attested_by = team member recording it.
+
+_attestation: &att {validated_by: teacher_informal, attested_by: AG, date: 2026-09-19}
+
+entities:
+  # ---------- fruit / crop / food ----------
+  - id: mango
+    name: Mango
+    name_bn: আম
+    kind: fruit
+    zones: [north_bengal_tea_belt, gangetic_plain, rarh_plateau, kolkata_metro]
+    affordances: {visible_mass: true, detaches: true, falls: true, everyday: true, seasonal: summer, edible: true, price: true, market: true, countable: true}
+    authenticity: {<<: *att, note_bn: গ্রীষ্মে খুব চেনা; মালদা-মুর্শিদাবাদের আম; ছেলেমেয়েরা গাছ ঝাঁকিয়ে আম পাড়ে}
+  - id: jackfruit
+    name: Jackfruit
+    name_bn: কাঁঠাল
+    kind: fruit
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta]
+    affordances: {visible_mass: true, detaches: true, falls: true, everyday: true, seasonal: summer, edible: true, heavy: true}
+    authenticity: {<<: *att, note_bn: গ্রামের বাড়িতে গাছ; ভারী ফল, পড়লে আওয়াজ হয়}
+  - id: coconut
+    name: Coconut
+    name_bn: নারকেল
+    kind: fruit
+    zones: [sundarbans_delta, gangetic_plain, medinipur_coastal, kolkata_metro]
+    affordances: {visible_mass: true, detaches: true, falls: true, everyday: true, edible: true, floats: true}
+    authenticity: {<<: *att, note_bn: পুকুরপাড় ও বাড়ির উঠোনের গাছ; নাড়ু-পিঠেতে লাগে}
+  - id: rice_paddy
+    name: Paddy / rice
+    name_bn: ধান
+    kind: crop
+    zones: [gangetic_plain, north_bengal_tea_belt, sundarbans_delta, rarh_plateau, medinipur_coastal]
+    affordances: {seasonal: monsoon, needs_water: true, livelihood: true, everyday: true, edible: true, grows_from_seed: true, unit_conversion: true, price: true}
+    authenticity: {<<: *att, note_bn: আমন ও বোরো ধান; নবান্ন; প্রায় সব পরিবারের সঙ্গে যুক্ত}
+  - id: jute
+    name: Jute
+    name_bn: পাট
+    kind: crop
+    zones: [gangetic_plain, north_bengal_tea_belt]
+    affordances: {fibre: true, retting_in_water: true, microbial: true, livelihood: true, seasonal: monsoon, involves_transformation: true}
+    authenticity: {<<: *att, note_bn: পাট পচানো (জাগ দেওয়া) জলে অণুজীবের কাজ; পাটকল; বর্ষার ফসল}
+  - id: potato
+    name: Potato
+    name_bn: আলু
+    kind: crop
+    zones: [gangetic_plain, rarh_plateau]
+    affordances: {tuber: true, cold_storage: true, temperature_sensitive: true, everyday: true, edible: true, price: true, seasonal: winter, livelihood: true}
+    authenticity: {<<: *att, note_bn: হুগলি-বর্ধমানের আলু; হিমঘর; দামের ওঠানামা সবাই জানে}
+  - id: tea
+    name: Tea
+    name_bn: চা
+    kind: crop
+    zones: [north_bengal_tea_belt]
+    affordances: {leaves: true, plucking: true, drying: true, evaporation_visible: true, livelihood: true, wage: true, hills: true, involves_transformation: true}
+    authenticity: {<<: *att, note_bn: দার্জিলিং-ডুয়ার্সের চা-বাগান; পাতা তোলা, শুকানো; অনেক পরিবারের জীবিকা}
+  - id: mustard
+    name: Mustard
+    name_bn: সরষে
+    kind: crop
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt]
+    affordances: {seeds: true, oil_extraction: true, seasonal: winter, yellow_fields: true, everyday: true, edible: true}
+    authenticity: {<<: *att, note_bn: শীতের হলুদ খেত; ঘানিতে তেল; সরষে-ইলিশ}
+  - id: hilsa
+    name: Hilsa
+    name_bn: ইলিশ
+    kind: animal
+    zones: [sundarbans_delta, gangetic_plain, kolkata_metro, medinipur_coastal]
+    affordances: {fish: true, seasonal: monsoon, migration_river_sea: true, price: true, market: true, edible: true, livelihood: true}
+    authenticity: {<<: *att, note_bn: বর্ষার ইলিশ; সমুদ্র থেকে নদীতে আসে; বাজারে দাম নিয়ে কথা হয়}
+  - id: khichdi
+    name: Khichuri
+    name_bn: খিচুড়ি
+    kind: dish
+    zones: [gangetic_plain, north_bengal_tea_belt, rarh_plateau, sundarbans_delta, kolkata_metro, medinipur_coastal]
+    affordances: {involves_transformation: true, needs_energy_input: heat, raw_to_cooked: true, everyday: true, edible: true, midday_meal: true}
+    authenticity: {<<: *att, note_bn: প্রায় প্রতিটি বাড়ির চেনা রান্না; স্কুলের মিড-ডে মিলে খিচুড়ি}
+  - id: dahi_curd
+    name: Doi (curd)
+    name_bn: দই
+    kind: food
+    zones: [gangetic_plain, north_bengal_tea_belt, rarh_plateau, kolkata_metro, sundarbans_delta, medinipur_coastal]
+    affordances: {involves_transformation: true, microbial: true, needs_starter: true, everyday: true, edible: true}
+    authenticity: {<<: *att, note_bn: রোজ বাড়িতে দই পাতা হয়; ল্যাক্টোব্যাসিলাসের বাস্তব উদাহরণ}
+  - id: haldi_turmeric
+    name: Holud (turmeric)
+    name_bn: হলুদ
+    kind: crop
+    zones: [gangetic_plain, north_bengal_tea_belt, rarh_plateau, kolkata_metro, sundarbans_delta, medinipur_coastal]
+    affordances: {color_change_with_ph: true, everyday: true, edible: true, sacred: true}
+    authenticity: {<<: *att, note_bn: রান্নাঘর ও পুজোয় রোজকার; সাবান বা চুনজলে লাল হয় বলে ঘরোয়া নির্দেশক}
+  - id: muri
+    name: Muri (puffed rice)
+    name_bn: মুড়ি
+    kind: food
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, kolkata_metro, medinipur_coastal]
+    affordances: {expansion_with_heat: true, puffing: true, everyday: true, edible: true, countable: true, cheap: true}
+    authenticity: {<<: *att, note_bn: গরম বালিতে চাল ফুলে মুড়ি হয়; সন্ধ্যার জলখাবার; গুনতে শেখার জন্য চেনা জিনিস}
+  - id: pithe
+    name: Pithe (winter rice cakes)
+    name_bn: পিঠে
+    kind: dish
+    zones: [gangetic_plain, rarh_plateau, sundarbans_delta, north_bengal_tea_belt, kolkata_metro]
+    affordances: {steam: true, phase_change: true, seasonal: winter, festival: true, edible: true, involves_transformation: true, countable: true, everyday: true}
+    authenticity: {<<: *att, note_bn: পৌষ পার্বণের পিঠে; ভাপা পিঠে বাষ্পে সেদ্ধ হয়}
+  - id: khejur_gur
+    name: Date-palm jaggery
+    name_bn: খেজুর গুড়
+    kind: food
+    zones: [gangetic_plain, sundarbans_delta, medinipur_coastal]
+    affordances: {evaporation_visible: true, phase_change: liquid_to_solid, seasonal: winter, livelihood: true, needs_energy_input: heat, edible: true}
+    authenticity: {<<: *att, note_bn: শিউলিরা রস জ্বাল দিয়ে গুড় বানায়; জল উড়ে গিয়ে রস ঘন হয়; নলেন গুড়}
+  - id: sundarban_honey
+    name: Sundarbans honey
+    name_bn: সুন্দরবনের মধু
+    kind: food
+    zones: [sundarbans_delta]
+    affordances: {bees: true, livelihood: true, seasonal: spring, forest: true, edible: true, risk: true}
+    authenticity: {<<: *att, note_bn: মৌলেরা জঙ্গলে মধু কাটে; বনবিবির পালা; জীবিকা ও বিপদ দুটোই}
+  - id: lac
+    name: Lac
+    name_bn: লাক্ষা
+    kind: crop
+    zones: [rarh_plateau]
+    affordances: {insect_product: true, livelihood: true, resin: true, trees: true}
+    authenticity: {<<: *att, note_bn: পুরুলিয়ার লাক্ষা চাষ; পোকার নিঃসরণ থেকে গালা}
+  - id: coal
+    name: Coal
+    name_bn: কয়লা
+    kind: resource
+    zones: [rarh_plateau]
+    affordances: {combustion: true, fossil: true, energy: true, livelihood: true, mining: true, black: true}
+    authenticity: {<<: *att, note_bn: রানিগঞ্জ-আসানসোলের খনি; উনুনের কয়লা; জীবাশ্ম জ্বালানি}
+
+  # ---------- tools / objects / vehicles ----------
+  - id: matka
+    name: Kolsi (clay pot)
+    name_bn: মাটির কলসি
+    kind: tool
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, medinipur_coastal]
+    affordances: {evaporative_cooling: true, porous: true, everyday: true, NOT_conduction_cooling: true}
+    authenticity: {<<: *att, note_bn: গরমে কলসির জল ঠান্ডা থাকে; কারণ বাষ্পীভবন, পরিবহন নয়}
+  - id: talpata_fan
+    name: Palm-leaf hand fan
+    name_bn: তালপাতার পাখা
+    kind: tool
+    zones: [gangetic_plain, rarh_plateau, sundarbans_delta, north_bengal_tea_belt, medinipur_coastal]
+    affordances: {air_movement: true, evaporative_cooling: true, everyday: true, no_electricity: true}
+    authenticity: {<<: *att, note_bn: লোডশেডিংয়ে পাখা; হাওয়া লাগলে ঘাম শুকিয়ে ঠান্ডা লাগে}
+  - id: bicycle
+    name: Bicycle
+    name_bn: সাইকেল
+    kind: vehicle
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, medinipur_coastal, kolkata_metro]
+    affordances: {surface_contact: true, opposes_motion: true, wheels: true, gears: true, lever: true, everyday: true, speed_distance: true}
+    authenticity: {<<: *att, note_bn: সবুজসাথী সাইকেলে স্কুলে যাওয়া; ব্রেক ঘর্ষণ; চেন-গিয়ার}
+  - id: tubewell
+    name: Tube-well hand pump
+    name_bn: নলকূপ
+    kind: tool
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, medinipur_coastal]
+    affordances: {lever: true, pressure: true, groundwater: true, everyday: true, effort_load: true}
+    authenticity: {<<: *att, note_bn: হাতল চেপে জল তোলা; লিভারের সহজ উদাহরণ}
+  - id: nouka_boat
+    name: Nouka (country boat)
+    name_bn: নৌকা
+    kind: vehicle
+    zones: [sundarbans_delta, gangetic_plain, medinipur_coastal, north_bengal_tea_belt]
+    affordances: {floats: true, buoyancy: true, livelihood: true, everyday: true, load_capacity: true, tides: true}
+    authenticity: {<<: *att, note_bn: নদী পারাপার ও মাছ ধরা; বেশি মাল তুললে বেশি ডোবে}
+  - id: kite
+    name: Kite
+    name_bn: ঘুড়ি
+    kind: tool
+    zones: [kolkata_metro, gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, medinipur_coastal]
+    affordances: {air_lift: true, wind: true, string_tension: true, festival: true, everyday: true, NOT_falls: true}
+    authenticity: {<<: *att, note_bn: বিশ্বকর্মা পুজোয় ঘুড়ি; ওপরে ওঠে বলে মহাকর্ষের উদাহরণ হিসেবে ভুল}
+  - id: tram
+    name: Tram
+    name_bn: ট্রাম
+    kind: vehicle
+    zones: [kolkata_metro]
+    affordances: {electricity: true, rails: true, surface_contact: true, speed_distance: true, fare: true, everyday: true, heritage: true}
+    authenticity: {<<: *att, note_bn: কলকাতার ট্রাম; তারের বিদ্যুতে চলে; ভাড়া ও সময়ের অঙ্ক}
+  - id: metro
+    name: Kolkata Metro
+    name_bn: মেট্রো
+    kind: vehicle
+    zones: [kolkata_metro]
+    affordances: {electricity: true, speed_distance: true, fare: true, everyday: true, timetable: true, underground: true}
+    authenticity: {<<: *att, note_bn: মেট্রোর সময়সূচি ও ভাড়া; গঙ্গার নিচ দিয়ে মেট্রো}
+  - id: hooghly_ferry
+    name: Hooghly ferry / launch
+    name_bn: লঞ্চ (গঙ্গার ফেরি)
+    kind: vehicle
+    zones: [kolkata_metro, sundarbans_delta, gangetic_plain]
+    affordances: {floats: true, buoyancy: true, engine: true, everyday: true, tides: true, fare: true}
+    authenticity: {<<: *att, note_bn: হাওড়া-বাবুঘাট লঞ্চ; সুন্দরবনের লঞ্চ}
+  - id: howrah_bridge
+    name: Howrah Bridge
+    name_bn: হাওড়া ব্রিজ
+    kind: landmark
+    zones: [kolkata_metro]
+    affordances: {structure: true, forces: true, steel: true, expansion_with_heat: true, everyday: true, iconic: true}
+    authenticity: {<<: *att, note_bn: ইস্পাতের সেতু; গরমে সামান্য বড় হয়, তাই জোড়ায় ফাঁক রাখা}
+  - id: toto
+    name: Toto (e-rickshaw)
+    name_bn: টোটো
+    kind: vehicle
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, medinipur_coastal, kolkata_metro]
+    affordances: {electricity: true, battery: true, fare: true, everyday: true, speed_distance: true, charging: true}
+    authenticity: {<<: *att, note_bn: ব্যাটারিতে চলে, রাতে চার্জ; ভাড়ার অঙ্ক}
+  - id: tant_loom
+    name: Handloom (tant)
+    name_bn: তাঁত
+    kind: tool
+    zones: [gangetic_plain]
+    affordances: {livelihood: true, threads: true, simple_machine: true, craft: true, pattern: true}
+    authenticity: {<<: *att, note_bn: শান্তিপুর-ফুলিয়ার তাঁতের শাড়ি; সুতোর জোড়া-বিয়োগ, নকশার গুনতি}
+  - id: hat_market
+    name: Weekly haat
+    name_bn: হাট
+    kind: place
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, medinipur_coastal]
+    affordances: {price: true, weight: true, arithmetic: true, everyday: true, market: true, bargaining: true}
+    authenticity: {<<: *att, note_bn: সপ্তাহের হাটে কেনাবেচা; দর-দাম, ওজন, খুচরো}
+  - id: pukur_pond
+    name: Pukur (village pond)
+    name_bn: পুকুর
+    kind: landmark
+    zones: [gangetic_plain, rarh_plateau, sundarbans_delta, north_bengal_tea_belt, medinipur_coastal]
+    affordances: {smooth_surface: true, reflects_image: true, evaporation_visible: true, fish: true, everyday: true, area_perimeter: true}
+    authenticity: {<<: *att, note_bn: শান্ত পুকুরে ছায়া পড়ে; গরমে জল কমে; মাছ চাষ; পাড়ের মাপ}
+  - id: midday_meal
+    name: Mid-day meal
+    name_bn: মিড-ডে মিল
+    kind: activity
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, medinipur_coastal, kolkata_metro]
+    affordances: {nutrition: true, quantity_per_child: true, arithmetic: true, everyday: true, school: true, food_groups: true}
+    authenticity: {<<: *att, note_bn: স্কুলের দুপুরের খাবার; ছাত্র সংখ্যা দিয়ে চাল-ডালের হিসাব}
+  - id: bigha_katha
+    name: Bigha / katha (land units)
+    name_bn: বিঘা ও কাঠা
+    kind: unit
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, medinipur_coastal]
+    affordances: {unit_conversion: true, arithmetic: true, land: true, everyday: true, local_unit: true}
+    authenticity: {<<: *att, note_bn: ১ বিঘা = ২০ কাঠা; জমির মাপ সবাই এই এককে বলে}
+
+  # ---------- weather / rivers / nature ----------
+  - id: monsoon
+    name: Monsoon (barsha)
+    name_bn: বর্ষা
+    kind: weather
+    zones: [gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, kolkata_metro, medinipur_coastal]
+    affordances: {evaporation_visible: true, condensation: true, water_cycle: true, seasonal: monsoon, flood: true, everyday: true}
+    authenticity: {<<: *att, note_bn: আষাঢ়-শ্রাবণের বৃষ্টি; জলচক্র; বন্যা ও ধানের জল}
+  - id: kalbaishakhi
+    name: Kalbaishakhi (nor'wester)
+    name_bn: কালবৈশাখী
+    kind: weather
+    zones: [gangetic_plain, kolkata_metro, rarh_plateau, medinipur_coastal]
+    affordances: {convection: true, wind: true, seasonal: summer, sudden: true, low_pressure: true, everyday: true}
+    authenticity: {<<: *att, note_bn: চৈত্র-বৈশাখের বিকেলের ঝড়; গরম বাতাস ওপরে উঠে ঝড়}
+  - id: cyclone
+    name: Cyclone (Aila, Amphan, Yaas)
+    name_bn: ঘূর্ণিঝড়
+    kind: weather
+    zones: [sundarbans_delta, medinipur_coastal, kolkata_metro]
+    affordances: {low_pressure: true, wind: true, hazard: true, tides: true, embankment: true, sea: true}
+    authenticity: {<<: *att, note_bn: আয়লা ২০০৯, আমফান ২০২০, ইয়াস ২০২১; বাঁধ ভাঙা ও নোনা জল}
+  - id: winter_fog
+    name: Winter fog
+    name_bn: শীতের কুয়াশা
+    kind: weather
+    zones: [gangetic_plain, north_bengal_tea_belt, rarh_plateau]
+    affordances: {condensation: true, water_droplets: true, seasonal: winter, everyday: true, visibility: true}
+    authenticity: {<<: *att, note_bn: পৌষ-মাঘের সকালে কুয়াশা; ঠান্ডায় জলীয় বাষ্প জমে ফোঁটা}
+  - id: teesta
+    name: Teesta river
+    name_bn: তিস্তা
+    kind: landmark
+    zones: [north_bengal_tea_belt]
+    affordances: {flow: true, erosion: true, flood: true, hills_to_plain: true, everyday: true, sediment: true}
+    authenticity: {<<: *att, note_bn: পাহাড় থেকে নেমে আসা নদী; বর্ষায় বন্যা ও পাড় ভাঙা}
+  - id: ganga_hooghly
+    name: Ganga / Hooghly
+    name_bn: গঙ্গা (হুগলি)
+    kind: landmark
+    zones: [gangetic_plain, kolkata_metro, sundarbans_delta]
+    affordances: {flow: true, tides: true, erosion: true, pollution: true, everyday: true, sediment: true, sacred: true}
+    authenticity: {<<: *att, note_bn: কলকাতায় গঙ্গায় জোয়ার-ভাটা; ঘাট; পলি}
+  - id: mangrove_sundari
+    name: Mangrove (sundari)
+    name_bn: সুন্দরী গাছ (ম্যানগ্রোভ)
+    kind: plant
+    zones: [sundarbans_delta]
+    affordances: {adaptation: true, breathing_roots: true, salinity: true, tides: true, ecosystem: true, protection: true}
+    authenticity: {<<: *att, note_bn: শ্বাসমূল কাদার ওপরে; নোনা জলে বাঁচে; ঝড় থেকে বাঁচায়}
+  - id: royal_bengal_tiger
+    name: Royal Bengal tiger
+    name_bn: রয়েল বেঙ্গল টাইগার
+    kind: animal
+    zones: [sundarbans_delta]
+    affordances: {food_chain: true, adaptation: true, predator: true, conservation: true, swims: true}
+    authenticity: {<<: *att, note_bn: সুন্দরবনের বাঘ সাঁতার কাটে; খাদ্যশৃঙ্খলের শীর্ষে}
+  - id: wild_elephant
+    name: Wild elephant (Dooars)
+    name_bn: বুনো হাতি
+    kind: animal
+    zones: [north_bengal_tea_belt, rarh_plateau]
+    affordances: {habitat: true, human_wildlife_conflict: true, herbivore: true, food_chain: true, forest: true, heavy: true}
+    authenticity: {<<: *att, note_bn: ডুয়ার্স ও ঝাড়গ্রামে হাতির দল; খেত ও জঙ্গলের সম্পর্ক}
+  - id: laterite_soil
+    name: Laterite (red soil)
+    name_bn: লালমাটি
+    kind: resource
+    zones: [rarh_plateau]
+    affordances: {iron_oxide: true, red_colour: true, drought: true, soil: true, low_water_retention: true, everyday: true}
+    authenticity: {<<: *att, note_bn: রাঢ়ের লাল মাটি; লোহার মরচের রং; জল ধরে রাখে না}
+  - id: sal_forest
+    name: Sal forest
+    name_bn: শালবন
+    kind: plant
+    zones: [rarh_plateau, north_bengal_tea_belt]
+    affordances: {deciduous: true, ecosystem: true, leaves: true, livelihood: true, forest: true, shade: true}
+    authenticity: {<<: *att, note_bn: শালপাতার থালা; বসন্তে পাতা ঝরে; জঙ্গলের জীবিকা}
+
+  # ---------- festivals / culture ----------
+  - id: dhak_drum
+    name: Dhak (festival drum)
+    name_bn: ঢাক
+    kind: festival
+    zones: [gangetic_plain, north_bengal_tea_belt, rarh_plateau, sundarbans_delta, kolkata_metro, medinipur_coastal]
+    affordances: {vibration_visible: true, produces_sound: true, sacred: true, sensory_strong: true, festival: true}
+    authenticity: {<<: *att, note_bn: দুর্গাপুজোর ঢাক; চামড়ার কম্পন দেখা ও হাতে অনুভব করা যায়}
+  - id: puja_pandal
+    name: Puja pandal
+    name_bn: পুজোর প্যান্ডেল
+    kind: festival
+    zones: [kolkata_metro, gangetic_plain, rarh_plateau, north_bengal_tea_belt, sundarbans_delta, medinipur_coastal]
+    affordances: {structure: true, bamboo: true, electricity: true, lighting: true, festival: true, crowd_counting: true}
+    authenticity: {<<: *att, note_bn: বাঁশের কাঠামো; আলোর সার্কিট; ভিড়ের হিসাব}
+  - id: poila_boishakh
+    name: Poila Boishakh
+    name_bn: পয়লা বৈশাখ
+    kind: festival
+    zones: [gangetic_plain, north_bengal_tea_belt, rarh_plateau, sundarbans_delta, kolkata_metro, medinipur_coastal]
+    affordances: {calendar: true, bangla_months: true, arithmetic: true, haalkhata: true, festival: true, everyday: true}
+    authenticity: {<<: *att, note_bn: বাংলা নববর্ষ; হালখাতায় দোকানের হিসাব; বাংলা মাসের নাম}
+  - id: rath_mahesh
+    name: Rath Yatra (Mahesh)
+    name_bn: মাহেশের রথ
+    kind: festival
+    zones: [gangetic_plain, kolkata_metro]
+    affordances: {wheels: true, force: true, friction: true, surface_contact: true, opposes_motion: true, rope_pull: true, festival: true, crowd_counting: true}
+    authenticity: {<<: *att, note_bn: হুগলির মাহেশের রথ; দড়ি টেনে রথ চলে}
+  - id: chhau_mask
+    name: Chhau mask
+    name_bn: ছৌ মুখোশ
+    kind: festival
+    zones: [rarh_plateau]
+    affordances: {craft: true, paper_mache: true, culture: true, livelihood: true, drying: true}
+    authenticity: {<<: *att, note_bn: পুরুলিয়ার চড়িদা গ্রামের মুখোশ; কাগজ-মাটির স্তর, রোদে শুকানো}
+  - id: poush_mela
+    name: Poush Mela (Santiniketan)
+    name_bn: পৌষমেলা
+    kind: festival
+    zones: [rarh_plateau]
+    affordances: {craft: true, market: true, price: true, seasonal: winter, festival: true, culture: true}
+    authenticity: {<<: *att, note_bn: শান্তিনিকেতনের পৌষমেলা; হস্তশিল্পের দাম; বাউল গান}
+  - id: gangasagar
+    name: Gangasagar Mela
+    name_bn: গঙ্গাসাগর মেলা
+    kind: festival
+    zones: [sundarbans_delta]
+    affordances: {tides: true, estuary: true, crowd_counting: true, festival: true, sea: true, sacred: true}
+    authenticity: {<<: *att, note_bn: মকর সংক্রান্তির স্নান; সাগরদ্বীপ; জোয়ারের সময় দেখে লঞ্চ}
+
+  # ---------- occupations ----------
+  - id: fisherfolk
+    name: Fisherfolk
+    name_bn: মৎস্যজীবী
+    kind: occupation
+    zones: [sundarbans_delta, medinipur_coastal, gangetic_plain]
+    affordances: {livelihood: true, tides: true, nets: true, seasonal: monsoon, price: true, risk: true, weight: true}
+    authenticity: {<<: *att, note_bn: জোয়ার-ভাটা দেখে জাল ফেলা; আড়তে ওজনে বিক্রি}
+  - id: tea_worker
+    name: Tea-garden worker
+    name_bn: চা-শ্রমিক
+    kind: occupation
+    zones: [north_bengal_tea_belt]
+    affordances: {livelihood: true, wage: true, plucking: true, weight: true, arithmetic: true, leaves: true}
+    authenticity: {<<: *att, note_bn: দিনে তোলা পাতার ওজনে মজুরি; অনেক ছাত্রছাত্রীর পরিবার}
+  - id: shiuli_tapper
+    name: Shiuli (date-palm tapper)
+    name_bn: শিউলি
+    kind: occupation
+    zones: [gangetic_plain, sundarbans_delta, medinipur_coastal]
+    affordances: {livelihood: true, sap: true, evaporation_visible: true, seasonal: winter, needs_energy_input: heat, climbing: true}
+    authenticity: {<<: *att, note_bn: ভোরে গাছ থেকে রসের হাঁড়ি নামায়; রস জ্বাল দিয়ে গুড়}

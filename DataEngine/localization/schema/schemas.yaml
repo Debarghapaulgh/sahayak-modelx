@@ -39,3 +39,15 @@ substitution:                # THE ATOMIC UNIT
   generated_text: str         # LLM output
   validation:    {pedagogy: enum[pass,fail], authenticity: str, factual: enum[pass,fail]}
   status:        enum[draft, teacher_review, approved, rejected]
+
+# ---- West Bengal extensions (2026-09-19, Track 3) ----
+wb_extensions:
+  entity.kind:        adds [plant, place, vehicle, unit, resource, activity]
+  entity.name_bn:     str            # Bengali display name (review sheets, SFT)
+  entity.affordances: may carry NOT_<key>: true to BLOCK any concept requiring <key> (kite NOT_falls, matka NOT_conduction_cooling)
+  zone:               adds name_bn, districts[], context_bn, everyday_places_bn[], festivals_bn[], local_units_bn[]
+  district_zone_map:  every WB district -> primary zone (+ secondary)
+  concept:            adds name_bn, subject, exam_term_bn (ALWAYS kept in output), quiz_bn[], board_aliases[].alias_status
+  substitution:       adds text_bn (block scalar), validation.attested_by, validation.date
+  validation.authenticity: enum[pending_teacher, teacher_informal, teacher_signed]
+                      # teacher_informal = approved offline by teachers who do not use forms; team attests who/when

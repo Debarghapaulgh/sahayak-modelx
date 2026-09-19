@@ -3,6 +3,11 @@
 Teachers have **already validated content informally**. They are not tech-savvy and will not use GitHub,
 YAML or spreadsheets. So the rule is: **teachers judge; the team records.**
 
+## Policy (2026-09-19): informal approval is real approval
+Teachers approve **offline** and will not sign forms. The store records that truthfully:
+`validation.authenticity: teacher_informal` with `attested_by` (the team member who heard it) and `date`.
+That record is sufficient for `status: approved`. Review sheets remain the tool for **new or contested** items.
+
 ## Principle
 - The teacher's word is the authority. The team's only job is to capture it faithfully, with **who / when /
   how**, so a record can move to `approved`.
