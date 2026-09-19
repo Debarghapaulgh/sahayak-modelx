@@ -1,17 +1,19 @@
-# Training-box requirements. On the SageMaker HuggingFace DLC (launch_sagemaker_training.py) torch/transformers/
-# accelerate/datasets are preinstalled and these lines are satisfied already; on a bare CUDA box they install.
-# Torch must be the CUDA build for your driver (a DL AMI ships it).
-# Lessons from 17 failed jobs on 2026-09-19 (each ~440 s of GPU): the sarvam_moe remote code needs
-# transformers >= 4.49 (dynamic_rope_update); transformers >= 4.50 needs accelerate >= 1.3
-# (unwrap_model keep_torch_compile); trl < 0.15 has no processing_class; the model rejects token_type_ids.
+# Training-box requirements. On the SageMaker HuggingFace DLC (launch_sagemaker_training.py) torch and transformers
+# are preinstalled at these versions; on a bare CUDA box they install. Torch must be the CUDA build for your driver.
+# Exact pins = the combination rehearsed by smoke_local.sh on 2026-09-19 (transformers 4.51.3 / trl 0.17.0 / peft 0.15.2).
+# Lessons from 17 failed jobs that day (each ~440 s of GPU): the sarvam_moe remote code needs transformers >= 4.51
+# (dynamic_rope_update; 4.49 and 4.50 lack it, verified locally); transformers >= 4.50 needs accelerate >= 1.3
+# (unwrap_model keep_torch_compile); trl < 0.15 has no processing_class; the model rejects token_type_ids; the hub
+# chat template is a separate chat_template.jinja. The DLC ships 4.49.0, so pip upgrades it at container start.
 torch>=2.3            # CUDA build (cu121/cu124)
-transformers>=4.49,<4.56
-peft>=0.14,<0.16
-trl>=0.15,<0.20       # 0.20 renamed max_seq_length -> max_length; train_qlora.py handles both
+transformers==4.51.3
+peft==0.15.2
+trl==0.17.0
 bitsandbytes>=0.45    # 4-bit QLoRA; needs CUDA
 accelerate>=1.3
 datasets>=2.20
 sentencepiece         # tokenizer
+huggingface_hub>=0.28
 hf_transfer           # fast shard download (HF_HUB_ENABLE_HF_TRANSFER=1)
 # merge/quant step (Phase F): install ONE of these on the box you quantize on:
 #   autoawq            # if quantizing to AWQ

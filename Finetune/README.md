@@ -26,12 +26,14 @@ from-scratch foundation model.
 pip install -r requirements.txt          # on a CUDA GPU box
 python prepare_data.py --train train.jsonl --eval eval.jsonl --out ./data
 python mix_general_data.py --sft ./data/train_v3.jsonl --general ./data/general.jsonl --out ./data/train_mixed.jsonl
-python inspect_modules.py                # confirm LoRA target names
+python inspect_modules.py                # LoRA target names on a meta device (no GPU, no weights): query_key_value, dense
 python train_qlora.py                    # QLoRA SFT; defaults to ../DataEngine/out/sft_wb_v1_train.jsonl (--train to override)
 # SageMaker Training Job instead of a GPU box (quota: 1 × ml.g5.12xlarge, on-demand):
+./smoke_local.sh                                                       # FREE CPU rehearsal (required; stamps .smoke_local.ok)
 python launch_sagemaker_training.py --dry-run                          # print the job spec
-python launch_sagemaker_training.py --limit 200 --max-steps 20 --wait   # smoke test (~30-45 min)
-python launch_sagemaker_training.py --epochs 2 --wait                   # full run; adapter lands in s3://<bucket>/runs/
+python launch_sagemaker_training.py --limit 200 --max-steps 20 --wait   # smoke test (~30-45 min, ~₹800)
+python launch_sagemaker_training.py --epochs 2 --save-steps 50 --wait   # full run; checkpoints in s3://<bucket>/checkpoints/<job>/
+python launch_sagemaker_training.py --resume-from <job> --epochs 2 --save-steps 50 --wait   # continue a capped/failed run
 python eval_compare.py --eval ./data/eval_real.jsonl --adapter ./out/sahayak-ft-v1
 python merge_and_quantize.py --adapter ./out/sahayak-ft-v1 --out ./out/sahayak-ft-merged
 ```
