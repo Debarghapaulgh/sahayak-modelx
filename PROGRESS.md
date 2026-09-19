@@ -19,7 +19,8 @@ _Last updated: 2026-09-19._
 | **Localised SFT v1 (10k)** | ✅ **compiled** | `DataEngine/out/`: **10,637 train / 943 eval** (11,580 total), 76 template variants, family-balanced held-out split (last variant of every family; 0 overlap), Bengali-digit share 1.0, step numbering outside maths = 0, licence own. 9 task families, 6 zones. Train JSONL is not committed (rebuild deterministically: `compile_wb_sft.py`, seed 42; sha256 in `MANIFEST.json`). |
 | Data Engine plan | ✅ written | `DATA_ENGINE.md`, Tracks 0–7, epic + per-track issues |
 | RAG on WBBSE | ⏭ next | index the 13,914 approved chunks with the curriculum manifest |
-| Fine-tune v1 (rung 3) | ⏳ data ready (≥ 10k); needs GPU quota (Sachitt, #28) | wider LoRA + DPO — `EXECUTION_PLAN.md` Phase 4 |
+| **Training smoke test (repo path)** | ✅ **Completed 2026-09-19 23:31** | `sahayak-qlora-sargupta-smoke-20260919-230317`, ml.g5.12xlarge, 20 steps on 200 rows of the licence-clean set: train loss 4.57 → 3.65, **eval loss 3.64**, 5.1M trainable params (`query_key_value`,`dense`), model load 306 s, **51 s/step at 8×1,024** (~5% GPU utilisation: 4-bit dequant on 128 experts + serial device_map). Adapter in `s3://sagemaker-sahayak-aps1/runs/…230317/output/model.tar.gz`. Path hardened by `Finetune/smoke_local.sh` (free CPU rehearsal) + guards in `train_qlora.py`/launcher (PRs #31–#39). |
+| Fine-tune v1 (rung 3) | ⏳ gated on the bf16 FSDP stack (Sachitt, #28 step 4): at 51 s/step a full run ≈ 38 h ≈ ₹27k; expected 10–20× faster on the same instance | wider LoRA + DPO — `EXECUTION_PLAN.md` Phase 4 |
 | CPT (rung 4) → v2 | ⏭ planned | rights-cleared WB corpus; IndiaAI / partner compute — Phase 7 |
 | Eval | ⏳ | `Evaluation/` + `Finetune/eval_compare.py` → WB-local scorecard (Track 5) |
 
@@ -39,3 +40,10 @@ base is coherent in English and Bengali. Working config: [`Serving/README.md`](S
 
 ## Cost posture
 GPU spend is from AWS **credits**, not cash — but an idle g5.12xlarge ≈ ₹16.7k/day, so every experiment tears down.
+
+## GPU spend ledger (AWS Activate credits)
+
+| date | jobs | billable | ≈ cost | outcome |
+|---|---|---|---|---|
+| 2026-09-19 | Sachitt 23 (21 failed, 1 stopped) | ~4.1 h | ~₹2,950 | loss curve on `bf16r` only; no artifact |
+| 2026-09-19 | repo path 7 (6 failed) | ~1.0 h | ~₹920 | **smoke Completed**: adapter + baseline numbers |
