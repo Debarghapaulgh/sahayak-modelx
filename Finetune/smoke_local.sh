@@ -47,15 +47,20 @@ print(f"template from {src}; eos={tok.eos_token!r}; rendered {n} tokens; tail: {
 EOF
 
 echo "== 3/3 end-to-end on $TINY with the EXACT argv the SageMaker toolkit will generate, then checkpoint + resume (CPU)"
-rm -rf "$OUT"
+rm -rf "$OUT"; mkdir -p "$OUT"
+# the training file is heterogeneous (compiled rows first, teacher-checked v3 rows appended, different provenance keys):
+# rehearse on a head+tail mix of the REAL file so schema surprises show up here, not on the GPU (job 220640)
+TRAIN_FULL="$HERE/../DataEngine/out/sft_wb_v1_train.jsonl"; MIX="$OUT/mixed.jsonl"
+if [ -s "$TRAIN_FULL" ]; then { head -4 "$TRAIN_FULL"; tail -4 "$TRAIN_FULL"; } > "$MIX"; else { head -4 "$HERE/../DataEngine/out/sample_50.jsonl"; head -4 "$HERE/data/train_v3.jsonl"; } > "$MIX"; fi
+echo "   rehearsal data: $(wc -l < "$MIX") rows from $( [ -s "$TRAIN_FULL" ] && echo "head+tail of the real train file" || echo "sample_50 + Finetune/data")"
 # --print-args needs boto3 only for import; it creates nothing and makes no AWS calls
 SM_ARGS=$("$VENV/bin/pip" -q install boto3 >/dev/null 2>&1; "$VENV/bin/python" "$HERE/launch_sagemaker_training.py" --print-args --limit 200 --max-steps 20)
 echo "   toolkit argv: $SM_ARGS"
 # later flags override earlier ones in argparse, so the tiny-model overrides come after the generated argv
 "$VENV/bin/python" "$HERE/train_qlora.py" $SM_ARGS --base "$TINY" --quant none --limit 6 --max-steps 2 --save-steps 1 --maxlen 192 --bs 1 --ga 1 \
-    --target-modules q_proj,v_proj --out "$OUT" --train "$HERE/../DataEngine/out/sample_50.jsonl" --eval "$HERE/../DataEngine/out/sample_50.jsonl" 2>&1 | grep -vE "Warning|warn" | tail -6
+    --target-modules q_proj,v_proj --out "$OUT" --train "$MIX" --eval "$MIX" 2>&1 | grep -vE "Warning|warn" | tail -6
 test -f "$OUT/adapter_config.json" && test -f "$OUT/train_summary.json" && ls -d "$OUT"/checkpoints/checkpoint-* >/dev/null
 "$VENV/bin/python" "$HERE/train_qlora.py" --base "$TINY" --quant none --limit 6 --max-steps 3 --save-steps 1 --resume 1 --maxlen 192 --bs 1 --ga 1 \
-    --target-modules q_proj,v_proj --out "$OUT" --train "$HERE/../DataEngine/out/sample_50.jsonl" 2>&1 | grep -E "resume_from_checkpoint|\"steps\"" | tail -2
+    --target-modules q_proj,v_proj --out "$OUT" --train "$MIX" 2>&1 | grep -E "resume_from_checkpoint|\"steps\"" | tail -2
 date > "$HERE/.smoke_local.ok"
 echo "PASS: smoke_local ($(date)) -> $HERE/.smoke_local.ok"
