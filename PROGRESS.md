@@ -15,11 +15,11 @@ _Last updated: 2026-09-19._
 | Repo + CI + branching | ✅ done | `feature → develop → main`, CI + branch-policy enforced |
 | Data (honest SFT set) | 🟡 ready | `Finetune/prepare_data.py` → 491/66, 0 template overlap |
 | **Data engine (Debargha, PR #12)** | 🟠 **merged, remediation open** | Merged to `develop` 2026-09-19 as a merge commit with **14 hardcoded API keys** (OpenRouter 3, Sarvam 1, Gemini 5, Groq 5), ~125 MB JSONL in history, CI red. Tip remediated (keys removed, CI fixed, locale defaults, stale test dropped, gitleaks job). **Still open:** rotate all keys (#20); LFS-vs-bucket + history-purge decision (#24, #20). |
-| Localisation ontology + **WB store v1** | ✅ **in repo** | `DataEngine/localization/`: 6 WB zones, all 23 districts mapped, 55 entities, 33 concepts re-keyed to WB textbooks, 55 Bengali substitutions (teacher_informal, attested), affordance gate + traps, tests. |
-| **Localised SFT v1** | ✅ **compiled** | `DataEngine/out/`: **385 train / 87 eval**, 48 templates (0 overlap), Bengali-digit share 1.0, step numbering outside maths = 0, licence own. Rebuild: `compile_wb_sft.py`. |
+| Localisation ontology + **WB store v1** | ✅ **in repo** | `DataEngine/localization/`: 6 WB zones, all 23 districts mapped, **71 entities**, 33 concepts re-keyed to WB textbooks, **85 Bengali substitutions** + **66 per-concept misconceptions** (teacher_informal, attested), affordance gate + traps, tests. |
+| **Localised SFT v1 (10k)** | ✅ **compiled** | `DataEngine/out/`: **10,637 train / 943 eval** (11,580 total), 76 template variants, family-balanced held-out split (last variant of every family; 0 overlap), Bengali-digit share 1.0, step numbering outside maths = 0, licence own. 9 task families, 6 zones. Train JSONL is not committed (rebuild deterministically: `compile_wb_sft.py`, seed 42; sha256 in `MANIFEST.json`). |
 | Data Engine plan | ✅ written | `DATA_ENGINE.md`, Tracks 0–7, epic + per-track issues |
 | RAG on WBBSE | ⏭ next | index the 13,914 approved chunks with the curriculum manifest |
-| Fine-tune v1 (rung 3) | ⏳ needs data ≥ 10k + GPU quota | wider LoRA + DPO — `EXECUTION_PLAN.md` Phase 4 |
+| Fine-tune v1 (rung 3) | ⏳ data ready (≥ 10k); needs GPU quota (Sachitt, #28) | wider LoRA + DPO — `EXECUTION_PLAN.md` Phase 4 |
 | CPT (rung 4) → v2 | ⏭ planned | rights-cleared WB corpus; IndiaAI / partner compute — Phase 7 |
 | Eval | ⏳ | `Evaluation/` + `Finetune/eval_compare.py` → WB-local scorecard (Track 5) |
 

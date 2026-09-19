@@ -1,0 +1,129 @@
+# West Bengal entities, batch 2 (2026-09-19): fills Medinipur coast and Kolkata, adds affordances to a few
+# earlier entities (records here override by id). validated_by: teacher_informal (offline approval), attested by the team.
+
+_att: &att {validated_by: teacher_informal, attested_by: AG, date: 2026-09-19}
+
+entities:
+  # ---- Medinipur coast ----
+  - id: betel_vine
+    name: Betel vine (paan boroj)
+    name_bn: পান বরজ
+    kind: crop
+    zones: [medinipur_coastal, gangetic_plain]
+    affordances: {leaves: true, shade_structure: true, humidity: true, livelihood: true, everyday: true, price: true, market: true, countable: true, area_perimeter: true, land: true}
+    authenticity: {<<: *att, note_bn: তমলুক-মহিষাদলের পান বরজ; ছায়া ও ভেজা রাখতে হয়; পান গুনে বিক্রি}
+  - id: cashew
+    name: Cashew
+    name_bn: কাজু
+    kind: crop
+    zones: [medinipur_coastal, rarh_plateau]
+    affordances: {seeds: true, price: true, market: true, edible: true, livelihood: true, seasonal: summer, countable: true, everyday: true, arithmetic: true}
+    authenticity: {<<: *att, note_bn: দিঘা-কাঁথি ও ঝাড়গ্রামের কাজু বাগান; দাম বেশি বলে গুনে হিসাব}
+  - id: marigold
+    name: Marigold
+    name_bn: গাঁদা ফুল
+    kind: crop
+    zones: [medinipur_coastal, gangetic_plain, kolkata_metro]
+    affordances: {seasonal: winter, price: true, market: true, countable: true, everyday: true, festival: true, livelihood: true, arithmetic: true, colour: true}
+    authenticity: {<<: *att, note_bn: পাঁশকুড়ার ফুলচাষ; মালা গেঁথে পুজোয়; ফুলের দাম ওঠানামা}
+  - id: digha_sea
+    name: Digha seashore
+    name_bn: দিঘার সমুদ্র
+    kind: landmark
+    zones: [medinipur_coastal]
+    affordances: {tides: true, waves: true, sea: true, evaporation_visible: true, salinity: true, wind: true, convection: true, everyday: true, tourism: true}
+    authenticity: {<<: *att, note_bn: জোয়ারে ঢেউ ওপরে ওঠে; সমুদ্রের হাওয়া; গায়ে নুন শুকিয়ে থাকে}
+  - id: haldia_port
+    name: Haldia port
+    name_bn: হলদিয়া বন্দর
+    kind: landmark
+    zones: [medinipur_coastal]
+    affordances: {floats: true, buoyancy: true, tides: true, engine: true, fossil: true, combustion: true, energy: true, livelihood: true, load_capacity: true}
+    authenticity: {<<: *att, note_bn: বড় জাহাজ জোয়ারে ঢোকে; তেল শোধনাগার; অনেকের চাকরি}
+  - id: shrimp_farm
+    name: Shrimp farm (bheri)
+    name_bn: চিংড়ি ভেড়ি
+    kind: occupation
+    zones: [medinipur_coastal, sundarbans_delta]
+    affordances: {salinity: true, livelihood: true, price: true, market: true, weight: true, water: true, adaptation: true, unit_conversion: true, arithmetic: true}
+    authenticity: {<<: *att, note_bn: নোনা জলের ভেড়িতে বাগদা-গলদা; কেজি-গ্রামে দাম; ঋণে চাষ}
+
+  # ---- Kolkata ----
+  - id: yellow_taxi
+    name: Yellow taxi
+    name_bn: হলুদ ট্যাক্সি
+    kind: vehicle
+    zones: [kolkata_metro]
+    affordances: {fare: true, speed_distance: true, everyday: true, combustion: true, fossil: true, energy: true, heritage: true, arithmetic: true}
+    authenticity: {<<: *att, note_bn: কলকাতার হলুদ অ্যাম্বাসাডর ট্যাক্সি; মিটারের ভাড়া; পেট্রোল-ডিজেল}
+  - id: maidan_football
+    name: Maidan football
+    name_bn: ময়দানের ফুটবল
+    kind: activity
+    zones: [kolkata_metro]
+    affordances: {surface_contact: true, opposes_motion: true, force: true, everyday: true, countable: true, sensory_strong: true, arithmetic: true}
+    authenticity: {<<: *att, note_bn: ময়দানে ঘাসে বল গড়িয়ে থেমে যায়; গোলের হিসাব; মোহনবাগান-ইস্টবেঙ্গল}
+  - id: kumartuli_idol
+    name: Kumartuli clay idol
+    name_bn: কুমোরটুলির প্রতিমা
+    kind: activity
+    zones: [kolkata_metro, gangetic_plain]
+    affordances: {evaporation_visible: true, phase_change: true, craft: true, livelihood: true, festival: true, drying: true, involves_transformation: true}
+    authenticity: {<<: *att, note_bn: খড়-মাটির প্রতিমা রোদে শুকায়; ভেজা মাটি শক্ত হয়; পুজোর আগে ব্যস্ততা}
+
+  # ---- North Bengal ----
+  - id: darjeeling_orange
+    name: Darjeeling orange
+    name_bn: দার্জিলিংয়ের কমলালেবু
+    kind: fruit
+    zones: [north_bengal_tea_belt]
+    affordances: {visible_mass: true, detaches: true, falls: true, everyday: true, seasonal: winter, edible: true, countable: true, price: true, hills: true, market: true}
+    authenticity: {<<: *att, note_bn: শীতে পাহাড়ি বাগানের কমলা; হাটে গুনে বিক্রি}
+  - id: toy_train
+    name: Darjeeling toy train
+    name_bn: টয় ট্রেন
+    kind: vehicle
+    zones: [north_bengal_tea_belt]
+    affordances: {speed_distance: true, hills: true, heritage: true, rails: true, surface_contact: true, expansion_with_heat: true, fare: true, combustion: true, energy: true}
+    authenticity: {<<: *att, note_bn: শিলিগুড়ি-দার্জিলিং ধীর গতির ট্রেন; কয়লার ইঞ্জিন; রেললাইনের ফাঁক}
+
+  # ---- Rarh ----
+  - id: terracotta_temple
+    name: Bishnupur terracotta temple
+    name_bn: বিষ্ণুপুরের টেরাকোটা মন্দির
+    kind: landmark
+    zones: [rarh_plateau]
+    affordances: {craft: true, culture: true, heritage: true, combustion: true, energy: true, needs_energy_input: heat, involves_transformation: true, soil: true}
+    authenticity: {<<: *att, note_bn: পোড়ামাটির ফলক; কাঁচা মাটি আগুনে পুড়ে শক্ত লাল টালি}
+
+  # ---- Sundarbans ----
+  - id: crab
+    name: Mud crab
+    name_bn: কাঁকড়া
+    kind: animal
+    zones: [sundarbans_delta, medinipur_coastal]
+    affordances: {livelihood: true, price: true, market: true, weight: true, edible: true, countable: true, tides: true, food_chain: true, adaptation: true, arithmetic: true}
+    authenticity: {<<: *att, note_bn: ভাটায় কাদায় কাঁকড়া ধরা; কেজি দরে আড়তে; খোলস দিয়ে বাঁচে}
+
+  # ---- overrides: earlier entities gain affordances needed by batch-2 substitutions ----
+  - id: hilsa
+    name: Hilsa
+    name_bn: ইলিশ
+    kind: animal
+    zones: [sundarbans_delta, gangetic_plain, kolkata_metro, medinipur_coastal]
+    affordances: {fish: true, seasonal: monsoon, migration_river_sea: true, price: true, market: true, edible: true, livelihood: true, nutrition: true, food_groups: true, weight: true, arithmetic: true}
+    authenticity: {<<: *att, note_bn: বর্ষার ইলিশ; সমুদ্র থেকে নদীতে আসে; বাজারে দাম নিয়ে কথা হয়; প্রোটিনের উৎস}
+  - id: nouka_boat
+    name: Nouka (country boat)
+    name_bn: নৌকা
+    kind: vehicle
+    zones: [sundarbans_delta, gangetic_plain, medinipur_coastal, north_bengal_tea_belt]
+    affordances: {floats: true, buoyancy: true, livelihood: true, everyday: true, load_capacity: true, tides: true, lever: true, effort_load: true, speed_distance: true}
+    authenticity: {<<: *att, note_bn: নদী পারাপার ও মাছ ধরা; বেশি মাল তুললে বেশি ডোবে; দাঁড় একটা লিভার}
+  - id: poush_mela
+    name: Poush Mela (Santiniketan)
+    name_bn: পৌষমেলা
+    kind: festival
+    zones: [rarh_plateau]
+    affordances: {craft: true, market: true, price: true, seasonal: winter, festival: true, culture: true, calendar: true, bangla_months: true, arithmetic: true}
+    authenticity: {<<: *att, note_bn: পৌষ মাসের ৭ তারিখে শুরু; হস্তশিল্পের দাম; বাউল গান}

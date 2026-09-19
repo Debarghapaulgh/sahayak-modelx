@@ -62,3 +62,29 @@ out/          # compiled corpus (gitignored in real use)
 1. `data/local-entities.seed.yaml` — the reusable KB (build once per zone).
 2. `data/substitutions.seed.yaml` — worked units (generated, teacher-validated).
 3. `python compile.py` — emit `out/train.jsonl`.
+
+
+## West Bengal store and compiler (2026-09-19)
+
+The seed above stays as the reusable pattern; the live store is the `*_wb*.yaml` set in `data/`, merged by id in
+`gate.py` (`STORE_FILES`, later files override earlier ones):
+
+| File | What | Count |
+|------|------|-------|
+| `zones_wb.yaml` | 6 zones, `district_zone_map` for all 23 districts, names, festivals, units, languages | 6 / 23 |
+| `entities_wb.yaml` + `entities_wb_batch2.yaml` | WB entities with affordance contracts, `NOT_<affordance>` guards, `authenticity` (teacher_informal, attested) | 71 |
+| `concepts_wb.yaml` | concepts re-keyed to WBBPE/WBBSE (`exam_term_bn` always kept, `board_aliases` unverified until linked to the manifest) | 33 |
+| `substitutions_wb.yaml` + `substitutions_wb_batch2.yaml` | Bengali substitutions, gate-validated, `status: approved` | 85 |
+| `misconceptions_wb.yaml` | per-concept wrong/why/right triples (corrections, teacher notes, true/false quiz items) | 66 |
+
+`python gate.py` must print `PASS` (exits 1 on any approved violation). `python compile_wb_sft.py` writes
+`../out/sft_wb_v1_{train,eval}.jsonl` + `MANIFEST.json` (tracked) + `sample_50.jsonl` (tracked). Current build (seed 42):
+**11,580 records, 10,637 train / 943 eval**, 76 template variants. Held-out split is
+family-balanced: the last variant of every template family with two or more variants is eval-only (capped at 40
+records each), so every task family has an eval slice and no template appears on both sides. Task families: CONCEPT_EXPLANATION 164, GUIDED_PROBLEM_SOLVING 7,151, LESSON_PLAN 761, LOCAL_CONTEXT_QA 182, MISCONCEPTION_CORRECTION 72, QUIZ_GENERATION 1,180, STORY 1,180, TEACHER_PEDAGOGY 146, WORKSHEET_PRACTICE 800.
+Zones: gangetic_plain 2,991, kolkata_metro 795, medinipur_coastal 1,292, north_bengal_tea_belt 1,183, rarh_plateau 1,304, sundarbans_delta 1,248. Worked sums are computed, so every number in a solution is correct by construction; numbered steps
+appear only in `GUIDED_PROBLEM_SOLVING`; digits are Bengali-digit checked (share 1.0).
+
+To scale further: add substitutions and misconceptions (each yields explanations, teacher notes, quiz items, lesson
+plans), add generator variants (a new `.vN` template), then raise the generator counts in `main()` and
+`CAP_PER_TEMPLATE`. `make_review_sheet.py` prints Bengali A4 sheets for teachers when a batch needs a fresh look.
