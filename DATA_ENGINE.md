@@ -112,8 +112,8 @@ PR #12 is **not mergeable as-is**. Required before merge:
 - Swap the NCERT `lo_code` spine → WB learning outcomes via `board_aliases`; map to `curriculum_manifest` entries.
 - New stages after `LocaleRetriever`: `LocalizationStrategySelector` + `AffordanceGate` — choose strategy per
   (concept, zone), enforce affordance match, require `disanalogy_flags` for analogy, always `keep_canonical`.
-- Merge validation: 8-stage deterministic + `{pedagogy, authenticity, factual}` + status lifecycle. Teacher sign-off can be a
-  sheet export/import at first.
+- Merge validation: 8-stage deterministic + `{pedagogy, authenticity, factual}` + status lifecycle. Teacher sign-off is
+  team-recorded from Bengali review sheets (`DataEngine/TEACHER_VALIDATION.md`).
 - **Licence policy for generated text:** prefer generation from our own served model (`Serving/`) or permissively-licensed
   open models; API-generated (OpenAI / Gemini) records stay out of training until legal clears them. Provenance mandatory.
 - **DoD:** records carry strategy + `affordance_match` + flags; 0 records reach `approved` without a teacher; the
@@ -136,8 +136,8 @@ PR #12 is **not mergeable as-is**. Required before merge:
 - **DoD:** one `make eval` producing a scorecard; gates wired into `Finetune/`.
 
 ### Track 6 — Teacher review loop · [T][C]
-- Reviewers per (grade × subject); review quota; sheet-based sign-off → `approved`; authenticity notes feed the entity KB.
-- **DoD:** every zone's entities and a sample per (grade × subject) signed by a teacher; reviewer recorded in provenance.
+- Teachers have already validated content informally and are not tech-savvy: **teachers judge, the team records.** Printed / WhatsApp / phone review sheets in Bengali (≤ 20 items), verdicts keyed back into the store the same day with who / when / how. Retroactive ledger first. Process: `DataEngine/TEACHER_VALIDATION.md`.
+- **DoD:** the retroactive ledger filled; every zone's entities and a sample per (grade × subject) validated; teacher (initials + method + date) recorded in provenance.
 
 ### Track 7 — Storage, versioning, CI · [C]
 - LFS / bucket for JSONL; manifests in git; `datasets/VERSIONS.md`; `make corpus` rebuilds manifest + audit;

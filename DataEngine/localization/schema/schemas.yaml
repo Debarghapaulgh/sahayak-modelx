@@ -1,0 +1,41 @@
+# Record contracts. Human-readable; enforce with jsonschema/pydantic in CI.
+
+concept:                     # curriculum spine node — anchor to LEARNING OUTCOME, not chapter
+  id:            str         # stable slug
+  lo_code:       str         # NCERT/NCF learning-outcome code = canonical, board-agnostic node
+  name:          str
+  subject:       enum[Science]        # wedge: Science only for now
+  grade:         int[6..10]
+  canonical_anchor:                   # the textbook example we KEEP (additive policy)
+    entity:      str                  # e.g. "apple"
+    affordances: list[str]            # properties that make it work — the substitution contract
+  board_aliases: list[{board, chapter}]   # WBBSE/CBSE/TN-SCERT views onto the same lo_code
+  localizable:   bool                 # some concepts must stay canonical — mark false, skip them
+
+local_entity:                # the reusable KB — build once, reused across every concept
+  id:            str
+  name:          str
+  kind:          enum[fruit, crop, food, festival, occupation, animal, landmark, tool, weather, dish]
+  zones:         list[zone_id]        # agro-cultural-ecological zones, NOT districts
+  affordances:   dict[str, bool|str]  # physical+cultural props: {visible_mass, falls, seasonal,
+                                      #   edible, involves_transformation, sacred, livelihood,...}
+  authenticity:  {validated_by, note} # teacher-confirmed it is actually common in the zone
+
+zone:                        # cultural-ecological zone (salience unit)
+  id:            str         # e.g. north_bengal_tea_belt
+  name:          str
+  states:        list[str]   # admin geography is metadata, not the key
+  languages:     list[str]
+
+substitution:                # THE ATOMIC UNIT
+  id:            str
+  concept_id:    ref[concept]
+  strategy:      enum[anchor_substitution, analogy, applied_context, cultural_grounding, sensory]
+  zone_id:       ref[zone]
+  local_anchor:  {entity_id: ref[local_entity], affordance_match: "n/m"}
+  mapping:       dict         # for analogy/applied: how local maps to concept parts
+  disanalogy_flags: list[str] # REQUIRED for strategy=analogy: where the analogy leaks
+  keep_canonical: bool        # additive policy — almost always true
+  generated_text: str         # LLM output
+  validation:    {pedagogy: enum[pass,fail], authenticity: str, factual: enum[pass,fail]}
+  status:        enum[draft, teacher_review, approved, rejected]
