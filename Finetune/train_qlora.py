@@ -74,8 +74,8 @@ def parse():
     ap.add_argument("--maxlen", type=int, default=1024)
     ap.add_argument("--bs", type=int, default=1)
     ap.add_argument("--ga", type=int, default=8)
-    ap.add_argument("--r", type=int, default=16)
-    ap.add_argument("--alpha", type=int, default=32)
+    ap.add_argument("--lora-r", "--r", dest="r", type=int, default=16)          # never 1-char names: SageMaker passes them as -r
+    ap.add_argument("--lora-alpha", "--alpha", dest="alpha", type=int, default=32)
     ap.add_argument("--dropout", type=float, default=0.05)
     ap.add_argument("--target-modules", default="query_key_value,dense",
                     help="comma list of Linear names; rung 3 may add gate_proj,up_proj,down_proj; NEVER the router (gate)")
