@@ -175,9 +175,11 @@ def main():
     if missing:
         raise SystemExit(f"target modules {missing} not in the model; Linear names are: {names}")
     if a.quant == "4bit":
-        model = prepare_model_for_kbit_training(model, use_gradient_checkpointing=True)
+        # reentrant checkpointing: the non-reentrant path re-runs MoE routing on recompute and fails the metadata check
+        # ("Recomputed values ... different metadata", job 223420); reentrant is what the working bf16r run used
+        model = prepare_model_for_kbit_training(model, use_gradient_checkpointing=True, gradient_checkpointing_kwargs={"use_reentrant": True})
     else:
-        model.gradient_checkpointing_enable(gradient_checkpointing_kwargs={"use_reentrant": False})
+        model.gradient_checkpointing_enable(gradient_checkpointing_kwargs={"use_reentrant": True})
         model.enable_input_require_grads()
     model.config.use_cache = False
 
@@ -206,7 +208,7 @@ def main():
     cfg_kwargs = dict(output_dir=ckpt_dir, dataset_text_field="text", num_train_epochs=a.epochs, max_steps=a.max_steps,
                       per_device_train_batch_size=a.bs, gradient_accumulation_steps=a.ga, learning_rate=a.lr,
                       lr_scheduler_type="cosine", warmup_ratio=0.03, bf16=torch.cuda.is_available(), gradient_checkpointing=True,
-                      gradient_checkpointing_kwargs={"use_reentrant": False},
+                      gradient_checkpointing_kwargs={"use_reentrant": True},
                       logging_steps=5 if smoke else 10, save_strategy=save_strategy, save_total_limit=2,
                       report_to="none", seed=a.seed)
     if a.save_steps:
