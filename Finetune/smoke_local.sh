@@ -46,6 +46,17 @@ assert row["messages"][-1]["content"][:30] in text, "assistant turn missing from
 print(f"template from {src}; eos={tok.eos_token!r}; rendered {n} tokens; tail: {text[-90:]!r}")
 EOF
 
+echo "== 2b/3 loss-device patch: a CPU tensor divided by a scalar on another device must not raise"
+"$VENV/bin/python" - "$HERE" <<'EOF'
+import importlib.util, os, sys, torch
+spec = importlib.util.spec_from_file_location("tq", os.path.join(sys.argv[1], "train_qlora.py")); tq = importlib.util.module_from_spec(spec); spec.loader.exec_module(tq)
+assert tq.patch_loss_device()
+import transformers.loss.loss_utils as lu
+logits = torch.randn(4, 10); labels = torch.tensor([1, 2, 3, -100]); n = torch.tensor(3)   # single device here; exercises the wrapper path
+loss = lu.fixed_cross_entropy(logits, labels, num_items_in_batch=n)
+assert torch.isfinite(loss), loss; print(f"   fixed_cross_entropy via patch OK: {loss.item():.3f}")
+EOF
+
 echo "== 3/3 end-to-end on $TINY with the EXACT argv the SageMaker toolkit will generate, then checkpoint + resume (CPU)"
 rm -rf "$OUT"; mkdir -p "$OUT"
 # the training file is heterogeneous (compiled rows first, teacher-checked v3 rows appended, different provenance keys):

@@ -90,6 +90,25 @@ def parse():
     return a
 
 
+def patch_loss_device():
+    """Multi-GPU device_map="auto": the loss lives on the last GPU (lm_head) but Trainer's num_items_in_batch
+    is on the first one, and transformers 4.51's fixed_cross_entropy divides them -> 'Expected all tensors to be
+    on the same device' (job 222037, 2026-09-19). Move the scalar to the loss's device; normalisation unchanged."""
+    try:
+        import transformers.loss.loss_utils as lu
+    except ImportError:
+        return False
+    orig = lu.fixed_cross_entropy
+
+    def fixed(source, target, num_items_in_batch=None, ignore_index=-100, **kw):
+        if torch.is_tensor(num_items_in_batch) and num_items_in_batch.device != source.device:
+            num_items_in_batch = num_items_in_batch.to(source.device)
+        return orig(source, target, num_items_in_batch, ignore_index, **kw)
+
+    lu.fixed_cross_entropy = fixed
+    return True
+
+
 def linear_names(model):
     return sorted({n.split(".")[-1] for n, m in model.named_modules() if isinstance(m, torch.nn.Linear)})
 
@@ -133,7 +152,7 @@ def main():
     ckpt_dir = SM_CKPT if os.path.isdir(SM_CKPT) else os.path.join(a.out, "checkpoints")
     smoke = a.max_steps > 0
     print(f"base={a.base} quant={a.quant} attn={a.attn} train={a.train} eval={a.eval} out={a.out} ckpt={ckpt_dir} "
-          f"targets={targets} gpus={torch.cuda.device_count()}", flush=True)
+          f"targets={targets} gpus={torch.cuda.device_count()} loss_device_patch={patch_loss_device()}", flush=True)
 
     tok = AutoTokenizer.from_pretrained(a.base, trust_remote_code=True)
     if tok.pad_token is None:
