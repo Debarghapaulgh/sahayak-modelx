@@ -91,6 +91,7 @@ def main():
     tok = AutoTokenizer.from_pretrained(a.base, trust_remote_code=True)
     if tok.pad_token is None:
         tok.pad_token = tok.eos_token
+    tok.model_input_names = ["input_ids", "attention_mask"]   # sarvam_moe forward rejects token_type_ids (seen 2026-09-19)
     t0 = time.time()
     model = AutoModelForCausalLM.from_pretrained(a.base, quantization_config=bnb, device_map="auto",
                                                  trust_remote_code=True, torch_dtype=torch.bfloat16)   # sarvam_moe is a custom arch
