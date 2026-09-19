@@ -169,4 +169,4 @@ PR #12 is **not mergeable as-is**. Required before merge:
 - Non-partisan content. Every locale fact carries a source.
 
 ## 7. Tracking
-Epic issue: **#** · per-track issues linked from it · `PROGRESS.md` = living status.
+Epic issue: **#19** · Track 0 #20 · Track 1 #15 · Track 2 #16 · Track 3 #21 · Track 4 #22 · Track 5 #23 · Track 6 #17 · Track 7 #24 · `PROGRESS.md` = living status.

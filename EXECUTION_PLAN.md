@@ -121,4 +121,4 @@ Track 0 harden + merge PR #12 → Tracks 1–7. **DoD:** 10,000 approved records
 | Idle GPU cost | scale-to-zero + mandatory teardown |
 
 ## Tracking
-Epic issue **#3** (model) · Data Engine epic **#** · `PROGRESS.md` = living status. This file = the plan.
+Epic issue **#3** (model) · Data Engine epic **#19** · `PROGRESS.md` = living status. This file = the plan.
