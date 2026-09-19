@@ -46,9 +46,13 @@ assert row["messages"][-1]["content"][:30] in text, "assistant turn missing from
 print(f"template from {src}; eos={tok.eos_token!r}; rendered {n} tokens; tail: {text[-90:]!r}")
 EOF
 
-echo "== 3/3 end-to-end on $TINY: 2 optimizer steps, LoRA, checkpoint + resume (CPU)"
+echo "== 3/3 end-to-end on $TINY with the EXACT argv the SageMaker toolkit will generate, then checkpoint + resume (CPU)"
 rm -rf "$OUT"
-"$VENV/bin/python" "$HERE/train_qlora.py" --base "$TINY" --quant none --limit 6 --max-steps 2 --save-steps 1 --maxlen 192 --bs 1 --ga 1 \
+# --print-args needs boto3 only for import; it creates nothing and makes no AWS calls
+SM_ARGS=$("$VENV/bin/pip" -q install boto3 >/dev/null 2>&1; "$VENV/bin/python" "$HERE/launch_sagemaker_training.py" --print-args --limit 200 --max-steps 20)
+echo "   toolkit argv: $SM_ARGS"
+# later flags override earlier ones in argparse, so the tiny-model overrides come after the generated argv
+"$VENV/bin/python" "$HERE/train_qlora.py" $SM_ARGS --base "$TINY" --quant none --limit 6 --max-steps 2 --save-steps 1 --maxlen 192 --bs 1 --ga 1 \
     --target-modules q_proj,v_proj --out "$OUT" --train "$HERE/../DataEngine/out/sample_50.jsonl" --eval "$HERE/../DataEngine/out/sample_50.jsonl" 2>&1 | grep -vE "Warning|warn" | tail -6
 test -f "$OUT/adapter_config.json" && test -f "$OUT/train_summary.json" && ls -d "$OUT"/checkpoints/checkpoint-* >/dev/null
 "$VENV/bin/python" "$HERE/train_qlora.py" --base "$TINY" --quant none --limit 6 --max-steps 3 --save-steps 1 --resume 1 --maxlen 192 --bs 1 --ga 1 \

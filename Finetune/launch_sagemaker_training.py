@@ -106,8 +106,9 @@ def build_spec(a, role_arn, data, source, job):
     hp = {"sagemaker_program": "train_qlora.py", "sagemaker_submit_directory": source, "sagemaker_region": REGION,
           "sagemaker_container_log_level": 20, "sagemaker_job_name": job,
           "epochs": a.epochs, "max-steps": a.max_steps, "limit": a.limit, "lr": a.lr, "maxlen": a.maxlen,
-          "bs": a.bs, "ga": a.ga, "r": a.r, "alpha": a.alpha, "target-modules": a.target_modules, "eval-steps": a.eval_steps,
+          "bs": a.bs, "ga": a.ga, "lora-r": a.r, "lora-alpha": a.alpha, "target-modules": a.target_modules, "eval-steps": a.eval_steps,
           "quant": a.quant, "attn": a.attn, "save-steps": a.save_steps, "resume": 1 if a.resume_from else 0}
+    assert all(len(k) > 1 for k in hp), "1-char hyperparameter names arrive as -k and break argparse (seen 2026-09-19)"
     channels = [{"ChannelName": c, "InputMode": "File",
                  "DataSource": {"S3DataSource": {"S3DataType": "S3Prefix", "S3Uri": uri, "S3DataDistributionType": "FullyReplicated"}}}
                 for c, uri in data.items()]
@@ -163,6 +164,7 @@ def logs(job, lines):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--print-args", action="store_true", help="print the exact argv the SageMaker toolkit will pass to train_qlora.py (used by smoke_local.sh)")
     ap.add_argument("--wait", action="store_true")
     ap.add_argument("--status"); ap.add_argument("--logs"); ap.add_argument("--stop")
     ap.add_argument("--force", action="store_true", help="with --stop: stop a job that is not yours (say why on #28)")
@@ -200,6 +202,14 @@ def main():
     a.max_runtime_min = a.max_runtime_min or (150 if smoke else 1440)
     if a.save_steps < 0:
         a.save_steps = 0 if smoke else 50
+    if a.print_args:
+        # the sagemaker-training toolkit turns each user hyperparameter into --key value (or -k value for 1-char keys)
+        hp = build_spec(a, "arn:aws:iam::0:role/x", {}, "s3://x/y", "x")["HyperParameters"]
+        argv = []
+        for k, v in sorted(hp.items()):
+            if not k.startswith("sagemaker_"):
+                v = json.loads(v); argv += [("--" if len(k) > 1 else "-") + k, str(v)]
+        print(" ".join(argv)); return
     if not os.path.exists(a.train):
         sys.exit(f"missing {a.train}: run DataEngine/localization/compile_wb_sft.py first")
     check_provenance(a.train, a.allow_unverified_data)
