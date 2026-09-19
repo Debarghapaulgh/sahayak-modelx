@@ -60,7 +60,7 @@
   "licence": "own",
   "validated_by": "teacher_informal (attested AG 2026-09-19)",
   "sha256": {
-    "sft_wb_v1_train.jsonl": "7b383de71a9a37fa7a9dccb07d095f905d5cd9c45932cb6b82d2a9b37554a510",
-    "sft_wb_v1_eval.jsonl": "a29272069c61e24d01a0321fba97bc9fbf14765d21dbb7bda1c9af26117cbec9"
+    "sft_wb_v1_train.jsonl": "af767ec790c7352a1b55474f6d33d6359ba88e4f2b07bb09a8f971ea39f0bc7b",
+    "sft_wb_v1_eval.jsonl": "131aebbd62e3b04920018892627209ac567267e3c31bbdebd0fb90390e05e469"
   }
 }
