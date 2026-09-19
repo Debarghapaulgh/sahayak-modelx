@@ -33,8 +33,8 @@ wbbse_class10_math_pack/
 ### Step 1: Install Prerequisites
 Ensure Python 3.9+ is installed. No complex third-party dependencies are required (built using standard Python libraries: `json`, `urllib`, `concurrent.futures`, `argparse`).
 
-### Step 2: Set API Key (Optional)
-The generator includes a default OpenRouter free tier key pool. You can optionally set your own API key in your environment or pass it via `--key`:
+### Step 2: Set API Key
+Set your OpenRouter API key in your environment or pass it via `--key`:
 
 ```bash
 # Option A: Pass via environment variable

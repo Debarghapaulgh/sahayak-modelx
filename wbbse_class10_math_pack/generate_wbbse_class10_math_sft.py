@@ -20,12 +20,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 sys.stdout.reconfigure(encoding='utf-8')
 
-# Default API Keys pool (OpenRouter free tier)
-DEFAULT_OPENROUTER_KEYS = [
-    "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",
-    "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",
-    "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"
-]
+# Models for generation
 
 DEFAULT_MODELS = [
     "inclusionai/ling-3.0-flash-sante:free",
@@ -169,9 +164,10 @@ def main():
 
     print(f"Loaded {len(chunks)} clean grounded textbook chunks.")
 
-    key_pool = [args.key] if args.key else DEFAULT_OPENROUTER_KEYS
-    if os.environ.get("OPENROUTER_API_KEY"):
-        key_pool.insert(0, os.environ.get("OPENROUTER_API_KEY"))
+    api_key = args.key or os.environ.get("OPENROUTER_API_KEY")
+    if not api_key:
+        raise ValueError("OPENROUTER_API_KEY not found. Please set OPENROUTER_API_KEY in your environment or pass --key.")
+    key_pool = [k.strip() for k in api_key.split(",") if k.strip()]
 
     existing_ids = set()
     cand_path = os.path.join(script_dir, args.out_cand)
