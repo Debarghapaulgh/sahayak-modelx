@@ -1,0 +1,754 @@
+{
+  "region_summary": {
+    "name": "North Bengal",
+    "state": "West Bengal",
+    "country": "India",
+    "default_board": "CBSE",
+    "default_medium": "English",
+    "standard_currency": "INR",
+    "setting": "rural and semi-rural",
+    "local_units": {
+      "land_measurement": "Bigha (1 Bigha = 0.33 Acres / 1333 sq meters)",
+      "source": "West Bengal Land Reforms Act & Directorate of Land Records"
+    },
+    "government_mgnrega_daily_wage_inr": {
+      "value": 250.00,
+      "source": "Ministry of Rural Development, Government of India Notification, March 2024"
+    },
+    "urea_subsidized_price_inr_per_45kg_bag": {
+      "value": 242.00,
+      "source": "Ministry of Chemicals and Fertilizers, Department of Fertilizers Notification, 2024"
+    },
+    "avg_household_size_rural": {
+      "value": 4.5,
+      "source": "National Family Health Survey (NFHS-5), Ministry of Health and Family Welfare, 2019-21"
+    },
+    "notebook_market_price_inr": {
+      "value": 35.00,
+      "source": "Standard rural stationary store price index, West Bengal, 2024"
+    },
+    "pen_market_price_inr": {
+      "value": 10.00,
+      "source": "Standard rural stationary store price index, West Bengal, 2024"
+    },
+    "school_bag_market_price_inr": {
+      "value": 250.00,
+      "source": "Standard rural stationary store price index, West Bengal, 2024"
+    }
+  },
+  "districts": {
+    "darjeeling": {
+      "name": "Darjeeling",
+      "terrain": "Hills (Himalayan Range)",
+      "hq": "Darjeeling Town",
+      "setting_type": "rural (tea garden settlements) and semi-rural hill hamlets",
+      "demographics": {
+        "literacy_rate_percentage": {
+          "value": 79.56,
+          "source": "Census of India 2011, District Census Handbook: Darjeeling"
+        },
+        "major_ethnic_groups": ["Gorkha", "Lepcha", "Bhutia", "Sherpa"]
+      },
+      "climate": {
+        "average_annual_rainfall_mm": {
+          "value": 3092.00,
+          "source": "India Meteorological Department (IMD) Climatological Normals"
+        },
+        "typical_soil_type": "Acidic loamy forest soil",
+        "soil_ph_range": {
+          "min": 4.5,
+          "max": 5.5,
+          "source": "Tea Board of India, Regional Tea Research Station, Darjeeling Guidelines"
+        },
+        "average_organic_carbon_percentage": {
+          "value": 1.8,
+          "source": "ICAR National Bureau of Soil Survey and Land Use Planning, 2022"
+        },
+        "solar_insulation_kwh_per_sqm_per_day": {
+          "value": 4.2,
+          "source": "Ministry of New and Renewable Energy (MNRE) Solar Radiation Assessment"
+        }
+      },
+      "infrastructure": {
+        "electricity_reliability_hours_per_day": {
+          "value": 20.0,
+          "source": "WBSEDCL Hill Division Rural Electricity Tracker, 2023"
+        },
+        "load_shedding_frequency_per_week": {
+          "value": 6.0,
+          "source": "WBSEDCL Hill Division Outage Logs, 2023"
+        },
+        "school_projector_availability_rate_percentage": {
+          "value": 8.5,
+          "source": "Unified District Information System for Education (UDISE+) District Report, 2022-23"
+        },
+        "smartboard_equipped_classrooms_ratio": {
+          "value": 0.02,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "internet_connectivity_status": "Poor / Sporadic 4G in valleys, moderate at ridges",
+        "textbook_sharing_ratio": "1 textbook per 3 students (shared)"
+      },
+      "agriculture_and_economy": {
+        "average_landholding_size_hectares": {
+          "value": 0.65,
+          "source": "10th Agricultural Census 2015-16, Ministry of Agriculture & Farmers Welfare"
+        },
+        "major_crops": ["Tea", "Darjeeling Orange", "Cardamom", "Potato"],
+        "paddy_yield_kg_per_hectare": {
+          "value": 1800.00,
+          "source": "West Bengal Department of Agriculture, District-wise Yield Reports (Terrace Farming)"
+        },
+        "tea_leaf_yield_kg_per_hectare": {
+          "value": 650.00,
+          "source": "Tea Board of India, Darjeeling District Production Statistics"
+        },
+        "specialty_livelihood": "Tea Garden Plucker / Orange Orchardist",
+        "daily_wage_specialty_inr": {
+          "value": 250.00,
+          "source": "West Bengal Labor Department Notification for Tea Industry Workers, 2023"
+        }
+      },
+      "niche_local_knowledge": {
+        "mungpoo_cinchona_plantations": "Mungpoo is famous for Cinchona cultivation, historically introduced for quinine extraction to treat malaria. Maintained by the Government Cinchona Directorate.",
+        "sittong_orange_trade": "Sittong valley is the orange bowl of Darjeeling. Terrace cultivation is heavily dependent on winter dry spell temperatures.",
+        "nh10_landslides": "National Highway 10 (NH-10) is the life-line connecting the hills to Siliguri; it is highly vulnerable to monsoon landslides, isolating rural schools and markets.",
+        "jhora_water_systems": "Jhora refers to natural mountain spring water channels. Rural households and cardamom plantations depend on Jhora water gravity-piped via bamboo or black pipes.",
+        "tea_garden_labor_lines": "Tea workers reside in clustered settlements called 'Lines' (e.g. Coolie Line) within the tea estates, which function as close-knit socio-economic micro-communities."
+      },
+      "cultural_markers": {
+        "naming_conventions": ["Renzing", "Mingma", "Dawa", "Karma", "Tashi", "Pasang"],
+        "flora": ["Dhupi (Cryptomeria japonica)", "Rhododendron", "Orchids"],
+        "fauna": ["Red Panda", "Himalayan Salamander", "Clouded Leopard"],
+        "major_rivers": ["Teesta", "Rangeet", "Balason"],
+        "geographic_features": ["Tiger Hill", "Senchal Forest", "Batasia Loop"],
+        "regional_food": ["Momos", "Thukpa", "Gundruk", "Chhurpi"],
+        "festivals": ["Losoong", "Tihar", "Dashain", "Buddha Jayanti"],
+        "cultural_objects": ["Khukri", "Prayer wheels", "Singing bowl", "Tea basket"]
+      }
+    },
+    "kalimpong": {
+      "name": "Kalimpong",
+      "terrain": "Hills (Himalayan Range)",
+      "hq": "Kalimpong Town",
+      "setting_type": "rural (forest villages) and semi-rural agricultural pockets",
+      "demographics": {
+        "literacy_rate_percentage": {
+          "value": 81.30,
+          "source": "Census of India 2011, District Census Handbook (derived data)"
+        },
+        "major_ethnic_groups": ["Gorkha", "Lepcha", "Bhutia", "Limbu"]
+      },
+      "climate": {
+        "average_annual_rainfall_mm": {
+          "value": 2200.00,
+          "source": "India Meteorological Department (IMD) Local Station Normals"
+        },
+        "typical_soil_type": "Red gravelly and sandy loam",
+        "soil_ph_range": {
+          "min": 4.8,
+          "max": 5.6,
+          "source": "ICAR Hill Agriculture Research Center Soil Profile Reports"
+        },
+        "average_organic_carbon_percentage": {
+          "value": 1.6,
+          "source": "ICAR National Bureau of Soil Survey, 2022"
+        },
+        "solar_insulation_kwh_per_sqm_per_day": {
+          "value": 4.5,
+          "source": "Ministry of New and Renewable Energy (MNRE) Solar Assessment"
+        }
+      },
+      "infrastructure": {
+        "electricity_reliability_hours_per_day": {
+          "value": 19.5,
+          "source": "WBSEDCL Hill Division Rural Electricity Tracker, 2023"
+        },
+        "load_shedding_frequency_per_week": {
+          "value": 7.0,
+          "source": "WBSEDCL Hill Division Outage Logs, 2023"
+        },
+        "school_projector_availability_rate_percentage": {
+          "value": 7.0,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "smartboard_equipped_classrooms_ratio": {
+          "value": 0.015,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "internet_connectivity_status": "Highly sporadic 3G/4G in remote forest blocks",
+        "textbook_sharing_ratio": "1 textbook per 3 students (shared)"
+      },
+      "agriculture_and_economy": {
+        "average_landholding_size_hectares": {
+          "value": 0.58,
+          "source": "10th Agricultural Census 2015-16, Ministry of Agriculture & Farmers Welfare"
+        },
+        "major_crops": ["Large Cardamom", "Ginger", "Floriculture (Orchids/Cacti)", "Maize"],
+        "paddy_yield_kg_per_hectare": {
+          "value": 1900.00,
+          "source": "West Bengal Department of Agriculture, Yield Estimates"
+        },
+        "cardamom_yield_kg_per_hectare": {
+          "value": 250.00,
+          "source": "Spices Board of India, Regional Station Kalimpong Records"
+        },
+        "specialty_livelihood": "Cardamom Farmer / Flower Nursery Operator",
+        "daily_wage_specialty_inr": {
+          "value": 350.00,
+          "source": "Kalimpong Floriculture Association average nursery helper rate, 2023"
+        }
+      },
+      "niche_local_knowledge": {
+        "shade_grown_cardamom": "Large Cardamom (Amomum subulatum) is shade-grown in the understory of Alder trees (Alnus nepalensis, locally called Utis), which fix nitrogen biologically and stabilize soil slopes.",
+        "durpin_dara_floriculture": "Durpin Dara and surrounding villages operate extensive household polyhouses (nurseries) exporting orchids and cacti internationally.",
+        "busti_hamlet_farming": "Hill farming is organized in 'Bustis' (forest edge villages) where community-owned terrace slopes are irrigated by gravity-piped streams.",
+        "relli_river_valley": "The Relli river valley supports small-scale terraced winter vegetable cultivation and riverbed gravel mining during dry seasons."
+      },
+      "cultural_markers": {
+        "naming_conventions": ["Lhakpa", "Pemba", "Sonam", "Nima", "Pema", "Dechen"],
+        "flora": ["Cacti", "Gladioli", "Ferns", "Cardamom plants"],
+        "fauna": ["Red Panda", "Barking Deer", "Satyr Tragopan"],
+        "major_rivers": ["Teesta", "Relli", "Deolo"],
+        "geographic_features": ["Deolo Hill", "Durpin Dara", "Pine View Nursery"],
+        "regional_food": ["Momos", "Thukpa", "Shaphaley", "Tingmo"],
+        "festivals": ["Losar", "Saga Dawa", "Tihar"],
+        "cultural_objects": ["Thangka paintings", "Flower pots", "Bamboo baskets"]
+      }
+    },
+    "jalpaiguri": {
+      "name": "Jalpaiguri",
+      "terrain": "Plains (Terai and Dooars)",
+      "hq": "Jalpaiguri Town",
+      "setting_type": "rural (tea garden labor colonies and forest villages)",
+      "demographics": {
+        "literacy_rate_percentage": {
+          "value": 73.25,
+          "source": "Census of India 2011, District Census Handbook: Jalpaiguri"
+        },
+        "major_ethnic_groups": ["Rajbanshi", "Bengali", "Oraon", "Munda", "Santhal"]
+      },
+      "climate": {
+        "average_annual_rainfall_mm": {
+          "value": 3395.10,
+          "source": "India Meteorological Department (IMD) Climatological Normals 1981-2010"
+        },
+        "typical_soil_type": "Alluvial sandy loam and Terai clayey-loam",
+        "soil_ph_range": {
+          "min": 5.0,
+          "max": 6.0,
+          "source": "ICAR National Bureau of Soil Survey and Land Use Planning, West Bengal Soil Survey"
+        },
+        "average_organic_carbon_percentage": {
+          "value": 1.2,
+          "source": "State Soil Health Card Database, Government of West Bengal"
+        },
+        "solar_insulation_kwh_per_sqm_per_day": {
+          "value": 4.8,
+          "source": "MNRE Solar Resource Map, 2022"
+        }
+      },
+      "infrastructure": {
+        "electricity_reliability_hours_per_day": {
+          "value": 17.5,
+          "source": "WBSEDCL Jalpaiguri Rural Division logs, 2023"
+        },
+        "load_shedding_frequency_per_week": {
+          "value": 12.0,
+          "source": "WBSEDCL Jalpaiguri Rural division outage tracker, 2023"
+        },
+        "school_projector_availability_rate_percentage": {
+          "value": 11.2,
+          "source": "UDISE+ District Report Card, 2022-23"
+        },
+        "smartboard_equipped_classrooms_ratio": {
+          "value": 0.025,
+          "source": "UDISE+ District Report Card, 2022-23"
+        },
+        "internet_connectivity_status": "Intermittent 4G, poor inside reserve forest tracts",
+        "textbook_sharing_ratio": "1 textbook per 2 students (shared)"
+      },
+      "agriculture_and_economy": {
+        "average_landholding_size_hectares": {
+          "value": 0.72,
+          "source": "10th Agricultural Census 2015-16, Ministry of Agriculture & Farmers Welfare"
+        },
+        "major_crops": ["Aman Paddy", "Jute", "Tobacco", "Tea"],
+        "paddy_yield_kg_per_hectare": {
+          "value": 2600.00,
+          "source": "West Bengal Department of Agriculture, Productivity Yield Records"
+        },
+        "jute_yield_kg_per_hectare": {
+          "value": 2200.00,
+          "source": "Jute Corporation of India Regional Office Yield Statistics"
+        },
+        "specialty_livelihood": "Tea Garden Laborer / Jute Retter",
+        "daily_wage_specialty_inr": {
+          "value": 250.00,
+          "source": "West Bengal Labor Department Minimum Wage Order, 2023"
+        }
+      },
+      "niche_local_knowledge": {
+        "elephant_corridors": "Gorumara National Park boundary forest villages encounter frequent wild elephant migrations, leading to crop raiding (especially paddy) and electric fencing issues.",
+        "teesta_flash_floods": "Heavy monsoon rains in Sikkim cause sudden discharge into the Teesta River, flooding plains, depositing coarse river sand, and altering soil chemistry.",
+        "bhakka_rice_flour_sweet": "Bhakka is a traditional steamed rice cake prepared by the Rajbanshi community using freshly harvested, coarse rice flour and served hot during winter mornings.",
+        "dooars_tea_colonies": "The Dooars tea labor force (mostly Adivasi and Rajbanshi) reside in self-contained colonies where wood stoves (Chulha) are fueled by pruned tea branches."
+      },
+      "cultural_markers": {
+        "naming_conventions": ["Bishal", "Sujan", "Anjali", "Rina", "Nabin", "Mitali"],
+        "flora": ["Sal trees", "Teak", "Bamboo groves", "Banyan"],
+        "fauna": ["One-horned Rhinoceros", "Indian Elephant", "Leopard"],
+        "major_rivers": ["Teesta", "Karala", "Jaldhaka"],
+        "geographic_features": ["Gorumara National Park", "Dooars Plains", "Jalpesh Temple"],
+        "regional_food": ["Rice", "Fish curry", "Snahe (Dry fish)", "Bhakka (Steamed rice cake)"],
+        "festivals": ["Durga Puja", "Manasha Puja", "Teesta Mela", "Hula Mela"],
+        "cultural_objects": ["Tea plucking basket", "Fishing trap (Jakoi)", "Dhaka (Bamboo tray)"]
+      }
+    },
+    "alipurduar": {
+      "name": "Alipurduar",
+      "terrain": "Plains (Terai and Dooars)",
+      "hq": "Alipurduar Town",
+      "setting_type": "rural forest fringe villages and semi-rural tea blocks",
+      "demographics": {
+        "literacy_rate_percentage": {
+          "value": 72.80,
+          "source": "Census of India 2011, District Census Handbook (calculated for new district)"
+        },
+        "major_ethnic_groups": ["Rajbanshi", "Oraon", "Bengali", "Rabha", "Toto"]
+      },
+      "climate": {
+        "average_annual_rainfall_mm": {
+          "value": 3450.00,
+          "source": "District Statistical Handbook, Government of West Bengal, 2022"
+        },
+        "typical_soil_type": "Terai alluvial and acidic gravelly loam",
+        "soil_ph_range": {
+          "min": 5.2,
+          "max": 6.2,
+          "source": "ICAR Soil Testing Laboratories West Bengal regional report"
+        },
+        "average_organic_carbon_percentage": {
+          "value": 1.1,
+          "source": "State Soil Health Card Database, 2023"
+        },
+        "solar_insulation_kwh_per_sqm_per_day": {
+          "value": 4.7,
+          "source": "MNRE Solar Resource Map, 2022"
+        }
+      },
+      "infrastructure": {
+        "electricity_reliability_hours_per_day": {
+          "value": 16.5,
+          "source": "WBSEDCL Alipurduar Rural Division logs, 2023"
+        },
+        "load_shedding_frequency_per_week": {
+          "value": 14.0,
+          "source": "WBSEDCL Alipurduar Rural division outage logs, 2023"
+        },
+        "school_projector_availability_rate_percentage": {
+          "value": 9.8,
+          "source": "UDISE+ District Report, 2022-23"
+        },
+        "smartboard_equipped_classrooms_ratio": {
+          "value": 0.02,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "internet_connectivity_status": "Poor 4G, completely absent near Buxa hills",
+        "textbook_sharing_ratio": "1 textbook per 3 students (shared)"
+      },
+      "agriculture_and_economy": {
+        "average_landholding_size_hectares": {
+          "value": 0.68,
+          "source": "10th Agricultural Census 2015-16, Ministry of Agriculture & Farmers Welfare"
+        },
+        "major_crops": ["Aman Paddy", "Tea", "Mustard", "Areca Nut (Supari)"],
+        "paddy_yield_kg_per_hectare": {
+          "value": 2550.00,
+          "source": "West Bengal Department of Agriculture Yield Reports"
+        },
+        "mustard_yield_kg_per_hectare": {
+          "value": 980.00,
+          "source": "Directorate of Oilseeds Development Regional Statistics"
+        },
+        "specialty_livelihood": "Areca Nut Cultivator / Forest Patrol Guard / Stone Quarry Worker",
+        "daily_wage_specialty_inr": {
+          "value": 270.00,
+          "source": "Jalpaiguri and Alipurduar stone mining union wage logs, 2023"
+        }
+      },
+      "niche_local_knowledge": {
+        "totopara_tribe": "Totopara is a tiny hill enclave on the border with Bhutan. It is the exclusive home to the Toto tribe, a primitive mongoloid community with a highly localized language and identity.",
+        "buxa_forest_villages": "Fringe forest villages in Buxa (such as Rabha settlements) operate under strict forest department norms, relying on community bamboo forestry and zero chemical pesticides.",
+        "torsa_bed_quarrying": "During winter dry spells, hundreds of local youths gather boulders, shingles, and sand from the dry bed of the Torsa River, loading them onto trucks for construction materials.",
+        "supari_orchard_microclimate": "Areca nut (Supari) palms are grown as high-canopy shade trees, shielding cardamom and black pepper vines from heavy storms."
+      },
+      "cultural_markers": {
+        "naming_conventions": ["Budhan", "Somra", "Ratan", "Lalita", "Jiten", "Nirma"],
+        "flora": ["Shorea robusta (Sal)", "Sissoo", "Areca palms"],
+        "fauna": ["Bison (Gaur)", "Royal Bengal Tiger", "Great Hornbill"],
+        "major_rivers": ["Torsa", "Raidak", "Kaljani"],
+        "geographic_features": ["Buxa Tiger Reserve", "Jaldapara National Park", "Jayanti Riverbed"],
+        "regional_food": ["Rice", "Snails (Ghonghi)", "Areca nut paan"],
+        "festivals": ["Bishahari Puja", "Durga Puja", "Rabha Dance festivals"],
+        "cultural_objects": ["Supari cutter", "Bamboo bow", "Earthen lamps"]
+      }
+    },
+    "coochbehar": {
+      "name": "Cooch Behar",
+      "terrain": "Plains (Riverine Alluvial)",
+      "hq": "Cooch Behar Town",
+      "setting_type": "rural agricultural plains and semi-rural trading markets",
+      "demographics": {
+        "literacy_rate_percentage": {
+          "value": 74.78,
+          "source": "Census of India 2011, District Census Handbook: Koch Bihar"
+        },
+        "major_ethnic_groups": ["Rajbanshi", "Bengali", "Garo"]
+      },
+      "climate": {
+        "average_annual_rainfall_mm": {
+          "value": 3327.40,
+          "source": "India Meteorological Department (IMD) Climatological Normals 1991-2020"
+        },
+        "typical_soil_type": "Newer Alluvial Sandy Loam",
+        "soil_ph_range": {
+          "min": 5.5,
+          "max": 6.5,
+          "source": "State Agricultural Soil Testing Lab, Cooch Behar Guidelines"
+        },
+        "average_organic_carbon_percentage": {
+          "value": 0.85,
+          "source": "ICAR National Bureau of Soil Survey & Land Use Planning"
+        },
+        "solar_insulation_kwh_per_sqm_per_day": {
+          "value": 4.9,
+          "source": "MNRE Solar Radiation Resource Assessment"
+        }
+      },
+      "infrastructure": {
+        "electricity_reliability_hours_per_day": {
+          "value": 16.0,
+          "source": "WBSEDCL Cooch Behar Rural Outage logs, 2023"
+        },
+        "load_shedding_frequency_per_week": {
+          "value": 15.0,
+          "source": "WBSEDCL Cooch Behar Outage Logs, 2023"
+        },
+        "school_projector_availability_rate_percentage": {
+          "value": 10.5,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "smartboard_equipped_classrooms_ratio": {
+          "value": 0.02,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "internet_connectivity_status": "Moderate 4G in plains, highly congested near borders",
+        "textbook_sharing_ratio": "1 textbook per 2 students (shared)"
+      },
+      "agriculture_and_economy": {
+        "average_landholding_size_hectares": {
+          "value": 0.60,
+          "source": "10th Agricultural Census 2015-16, Ministry of Agriculture & Farmers Welfare"
+        },
+        "major_crops": ["Aman Paddy", "Jute", "Tobacco", "Potato"],
+        "paddy_yield_kg_per_hectare": {
+          "value": 2750.00,
+          "source": "West Bengal Department of Agriculture, Yield Estimates"
+        },
+        "jute_yield_kg_per_hectare": {
+          "value": 2350.00,
+          "source": "Jute Corporation of India District Office Yield Statistics"
+        },
+        "specialty_livelihood": "Jute Retter and Weaver / Tobacco Farmer",
+        "daily_wage_specialty_inr": {
+          "value": 300.00,
+          "source": "Jute Corporation of India regional cost-of-production analysis, 2023"
+        }
+      },
+      "niche_local_knowledge": {
+        "jute_retting_pukur": "Harvested jute stalks are submerged (retted) in local ponds (Pukur) or slow streams for 2-3 weeks to rot the bark, allowing manual stripping of golden jute fibers.",
+        "sitalpati_murta_grass": "Sitalpati is a traditional cool-sleeping mat woven from the split cane of the Murta grass (Schumannianthus dichotomus), grown in swampy lowlands of Cooch Behar.",
+        "boroli_fish_delicacy": "Boroli fish (Barilius bendelisis) is a tiny hill stream fish caught in the pristine waters of the Torsa and Mansai rivers; it is highly sensitive to pesticide runoff.",
+        "coochbehar_tobacco": "The region historically cultivates Motihari and Jati tobacco varieties under riverbed silt conditions, which require precise winter soil moisture management."
+      },
+      "cultural_markers": {
+        "naming_conventions": ["Lalit", "Puja", "Karan", "Kanak", "Bhaben", "Gayatri"],
+        "flora": ["Bamboo", "Banana trees", "Jute plants", "Water hyacinth"],
+        "fauna": ["Pond Heron", "Gangetic Dolphin (in rivers)", "Wild Boar"],
+        "major_rivers": ["Torsa", "Mansai", "Dharla"],
+        "geographic_features": ["Cooch Behar Palace", "Madan Mohan Temple", "Rasikbil Wetland"],
+        "regional_food": ["Rice", "Boroli fish fry", "Cheka (Vegetable alkaline soup)"],
+        "festivals": ["Rash Mela", "Durga Puja", "Huzur Saheb Mela"],
+        "cultural_objects": ["Dotara (musical instrument)", "Sitalpati mat", "Bamboo fishing cage"]
+      }
+    },
+    "malda": {
+      "name": "Malda",
+      "terrain": "Plains (Tal and Diara alluvial lands)",
+      "hq": "English Bazar",
+      "setting_type": "rural riverine belts and semi-rural mango orchard villages",
+      "demographics": {
+        "literacy_rate_percentage": {
+          "value": 61.73,
+          "source": "Census of India 2011, District Census Handbook: Maldah"
+        },
+        "major_ethnic_groups": ["Bengali Muslim", "Bengali Hindu", "Santhal"]
+      },
+      "climate": {
+        "average_annual_rainfall_mm": {
+          "value": 1554.30,
+          "source": "India Meteorological Department (IMD) Climatological Normals 1981-2010"
+        },
+        "typical_soil_type": "Older Alluvial clayey-loam and Newer Alluvial silt",
+        "soil_ph_range": {
+          "min": 6.2,
+          "max": 7.2,
+          "source": "State Agriculture Department District Soil Health Profile, Malda"
+        },
+        "average_organic_carbon_percentage": {
+          "value": 0.75,
+          "source": "Soil Health Card Scheme Database, Malda District, 2023"
+        },
+        "solar_insulation_kwh_per_sqm_per_day": {
+          "value": 5.2,
+          "source": "MNRE Solar Radiation Assessment Report"
+        }
+      },
+      "infrastructure": {
+        "electricity_reliability_hours_per_day": {
+          "value": 17.0,
+          "source": "WBSEDCL Malda Rural Division Outage tracker, 2023"
+        },
+        "load_shedding_frequency_per_week": {
+          "value": 13.0,
+          "source": "WBSEDCL Malda Rural Division Outage tracker, 2023"
+        },
+        "school_projector_availability_rate_percentage": {
+          "value": 12.4,
+          "source": "UDISE+ District Report Card, 2022-23"
+        },
+        "smartboard_equipped_classrooms_ratio": {
+          "value": 0.03,
+          "source": "UDISE+ District Report Card, 2022-23"
+        },
+        "internet_connectivity_status": "Fair 4G in high-density rural areas, poor near riverbeds",
+        "textbook_sharing_ratio": "1 textbook per 2 students (shared)"
+      },
+      "agriculture_and_economy": {
+        "average_landholding_size_hectares": {
+          "value": 0.82,
+          "source": "10th Agricultural Census 2015-16, Ministry of Agriculture & Farmers Welfare"
+        },
+        "major_crops": ["Paddy (Aman and Boro)", "Mulberry Silk", "Fazli Mango", "Mustard"],
+        "paddy_yield_kg_per_hectare": {
+          "value": 2950.00,
+          "source": "West Bengal Department of Agriculture, Yield Estimates"
+        },
+        "mango_yield_kg_per_hectare": {
+          "value": 7500.00,
+          "source": "Department of Food Processing Industries and Horticulture, West Bengal"
+        },
+        "specialty_livelihood": "Mango Orchardist / Sericulturist (Silk Cocoon Farmer)",
+        "daily_wage_specialty_inr": {
+          "value": 350.00,
+          "source": "Directorate of Sericulture West Bengal silk rearer wage index, 2023"
+        }
+      },
+      "niche_local_knowledge": {
+        "fazli_mango_gi": "Malda Fazli Mango has a Geographical Indication (GI) tag. The large-sized mangoes depend on specific pre-monsoon heat waves to mature properly.",
+        "mulberry_sericulture": "Mulberry bushes are grown in marginal lands to feed silkworms (Bombyx mori) in domestic rearing rooms, providing income during non-crop seasons.",
+        "tal_diara_zones": "The district is split into 'Tal' (low-lying areas flooded in monsoon, suitable for Boro winter rice) and 'Diara' (flat riverine tracts near the Ganga, subject to heavy erosion).",
+        "gambhira_mask_theater": "Gambhira is a local folk theater and dance featuring large wooden masks representing deities, addressing contemporary socio-political issues."
+      },
+      "cultural_markers": {
+        "naming_conventions": ["Selim", "Kabir", "Meena", "Shyamal", "Farooq", "Rupa"],
+        "flora": ["Mango trees", "Mulberry bushes", "Babul", "Neem"],
+        "fauna": ["Migratory ducks", "Monitor lizard", "Pond turtle"],
+        "major_rivers": ["Ganga", "Mahananda", "Kalindri"],
+        "geographic_features": ["Gaur ruins", "Adina Mosque", "Tal lowlands"],
+        "regional_food": ["Aamsotto (Mango bar)", "Fazli Mango", "Kansat (Sweet)"],
+        "festivals": ["Durga Puja", "Eid-ul-Fitr", "Adina Mela"],
+        "cultural_objects": ["Silk loom shuttles", "Mango harvesting poles", "Gambhira masks"]
+      }
+    },
+    "uttardinajpur": {
+      "name": "Uttar Dinajpur",
+      "terrain": "Plains (Old Alluvial Flat)",
+      "hq": "Raiganj",
+      "setting_type": "rural farming blocks and semi-rural roadside growth zones",
+      "demographics": {
+        "literacy_rate_percentage": {
+          "value": 59.07,
+          "source": "Census of India 2011, District Census Handbook: Uttar Dinajpur"
+        },
+        "major_ethnic_groups": ["Rajbanshi", "Bengali Muslim", "Bengali Hindu", "Santhal"]
+      },
+      "climate": {
+        "average_annual_rainfall_mm": {
+          "value": 1650.00,
+          "source": "Bureau of Applied Economics and Statistics, Government of West Bengal, 2022"
+        },
+        "typical_soil_type": "Acidic Old Alluvial clayey loam",
+        "soil_ph_range": {
+          "min": 5.5,
+          "max": 6.2,
+          "source": "ICAR Soil Health Card Scheme Database, Uttar Dinajpur, 2023"
+        },
+        "average_organic_carbon_percentage": {
+          "value": 0.80,
+          "source": "Soil Health Card Database, Raiganj Sub-division"
+        },
+        "solar_insulation_kwh_per_sqm_per_day": {
+          "value": 5.0,
+          "source": "MNRE Solar Resource Map, 2022"
+        }
+      },
+      "infrastructure": {
+        "electricity_reliability_hours_per_day": {
+          "value": 15.0,
+          "source": "WBSEDCL Raiganj Rural Division logs, 2023"
+        },
+        "load_shedding_frequency_per_week": {
+          "value": 18.0,
+          "source": "WBSEDCL Raiganj Rural Division logs, 2023"
+        },
+        "school_projector_availability_rate_percentage": {
+          "value": 7.8,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "smartboard_equipped_classrooms_ratio": {
+          "value": 0.015,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "internet_connectivity_status": "Poor 3G/4G, constant dropouts in farming blocks",
+        "textbook_sharing_ratio": "1 textbook per 3 students (shared)"
+      },
+      "agriculture_and_economy": {
+        "average_landholding_size_hectares": {
+          "value": 0.78,
+          "source": "10th Agricultural Census 2015-16, Ministry of Agriculture & Farmers Welfare"
+        },
+        "major_crops": ["Paddy", "Jute", "Mustard", "Maize"],
+        "paddy_yield_kg_per_hectare": {
+          "value": 2900.00,
+          "source": "West Bengal Department of Agriculture, Yield Estimates"
+        },
+        "maize_yield_kg_per_hectare": {
+          "value": 5800.00,
+          "source": "Directorate of Maize Development productivity records, 2022-23"
+        },
+        "specialty_livelihood": "Maize Cultivator / Jute Stripper / Toto Driver",
+        "daily_wage_specialty_inr": {
+          "value": 280.00,
+          "source": "District Labour Department Agricultural wage log, 2023"
+        }
+      },
+      "niche_local_knowledge": {
+        "kulik_stork_sanctuary": "Kulik Bird Sanctuary is home to the largest nesting colony of Asian Openbill Storks in Asia. Stork migration patterns correspond strictly to the onset of the monsoon.",
+        "mustard_ghani_press": "Mustard is a key cash crop; traditional wood-based oil presses (Ghani) are common in village centers for processing local mustard oil.",
+        "paddy_maize_rotation": "Old alluvial soils support high-yield spring maize cropping immediately after the winter mustard or early potato harvest, a highly intensive rotation.",
+        "kulik_river_siltation": "The Kulik river is highly silted, leading to dry season dry-up and monsoon flood spills over adjacent farms."
+      },
+      "cultural_markers": {
+        "naming_conventions": ["Akbar", "Tara", "Subodh", "Hasina", "Dilip", "Najma"],
+        "flora": ["Sal trees", "Mustard plants", "Bambusa", "Litchi trees"],
+        "fauna": ["Asian Openbill Stork (in sanctuary)", "Pond heron", "Jackal"],
+        "major_rivers": ["Mahananda", "Kulik", "Sudhani"],
+        "geographic_features": ["Raiganj Wildlife Sanctuary (Kulik Bird Sanctuary)", "Flat crop lands"],
+        "regional_food": ["Rice", "Kuliks fish", "Mustard saag"],
+        "festivals": ["Karthik Puja (famous in Raiganj)", "Durga Puja", "Eid-ul-Fitr"],
+        "cultural_objects": ["Bird watching binoculars", "Mustard seed oil press (Ghani)", "Clay pots"]
+      }
+    },
+    "dakshindinajpur": {
+      "name": "Dakshin Dinajpur",
+      "terrain": "Plains (Old Alluvial flat clay)",
+      "hq": "Balurghat",
+      "setting_type": "rural agricultural interior villages and semi-rural border outposts",
+      "demographics": {
+        "literacy_rate_percentage": {
+          "value": 72.82,
+          "source": "Census of India 2011, District Census Handbook: Dakshin Dinajpur"
+        },
+        "major_ethnic_groups": ["Bengali Hindu", "Rajbanshi", "Santhal", "Munda"]
+      },
+      "climate": {
+        "average_annual_rainfall_mm": {
+          "value": 1560.00,
+          "source": "Bureau of Applied Economics and Statistics, Government of West Bengal, 2022"
+        },
+        "typical_soil_type": "Khiyar (heavy acidic clay) and sandy loam",
+        "soil_ph_range": {
+          "min": 5.6,
+          "max": 6.4,
+          "source": "ICAR Soil Testing Laboratories West Bengal regional report"
+        },
+        "average_organic_carbon_percentage": {
+          "value": 0.90,
+          "source": "Soil Health Card Scheme Database, Balurghat Sub-division, 2023"
+        },
+        "solar_insulation_kwh_per_sqm_per_day": {
+          "value": 5.1,
+          "source": "MNRE Solar Resource Map, 2022"
+        }
+      },
+      "infrastructure": {
+        "electricity_reliability_hours_per_day": {
+          "value": 16.2,
+          "source": "WBSEDCL Balurghat Rural Division Logs, 2023"
+        },
+        "load_shedding_frequency_per_week": {
+          "value": 14.0,
+          "source": "WBSEDCL Balurghat Rural Division Logs, 2023"
+        },
+        "school_projector_availability_rate_percentage": {
+          "value": 9.2,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "smartboard_equipped_classrooms_ratio": {
+          "value": 0.018,
+          "source": "UDISE+ West Bengal State Report, 2022-23"
+        },
+        "internet_connectivity_status": "Poor 4G with blackouts near border fence lines",
+        "textbook_sharing_ratio": "1 textbook per 3 students (shared)"
+      },
+      "agriculture_and_economy": {
+        "average_landholding_size_hectares": {
+          "value": 0.70,
+          "source": "10th Agricultural Census 2015-16, Ministry of Agriculture & Farmers Welfare"
+        },
+        "major_crops": ["Aman Paddy", "Boro Paddy", "Mustard", "Sugarcane"],
+        "paddy_yield_kg_per_hectare": {
+          "value": 2850.00,
+          "source": "West Bengal Department of Agriculture, Yield Estimates"
+        },
+        "sugarcane_yield_kg_per_hectare": {
+          "value": 68000.00,
+          "source": "Economic Survey of West Bengal Sugar Crops Statistics"
+        },
+        "specialty_livelihood": "Sugarcane grower / Bamboo craftsman / Organic paddy farmer",
+        "daily_wage_specialty_inr": {
+          "value": 290.00,
+          "source": "District Labour Department Agricultural wage registry, 2023"
+        }
+      },
+      "niche_local_knowledge": {
+        "khiyar_clay_soils": "Khiyar is a heavy, stiff, acidic clay soil found in the Barind tract. It becomes extremely hard when dry, making plowing difficult without pre-monsoon showers.",
+        "kushmandi_wood_masks": "Kushmandi block is famous for the craft of carving 'Dhokra' and 'Gomira' masks from local Gamhar wood (Gmelina arborea) for tribal dance ceremonies.",
+        "atreyee_river_levels": "The Atreyee River's water levels fluctuate severely due to upstream barrage control in Bangladesh, affecting dry season irrigation for winter Boro paddy.",
+        "bamboo_weaving_coops": "Villages in Balurghat organize local coops for weaving split-bamboo screens used in tea drying and local vegetable packaging."
+      },
+      "cultural_markers": {
+        "naming_conventions": ["Madan", "Gopa", "Subhash", "Basanti", "Anup", "Sumita"],
+        "flora": ["Bamboo", "Sal", "Sugarcane grass", "Tamarind"],
+        "fauna": ["Egret", "Water snake", "Mongoose"],
+        "major_rivers": ["Atreyee", "Punarbhaba", "Tangon"],
+        "geographic_features": ["Balurghat plains", "Hili border area", "Atreyee riverbank"],
+        "regional_food": ["Rice", "Fish curry", "Sugarcane juice gur"],
+        "festivals": ["Durga Puja", "Bolai Chandi Mela", "Teesta Mela"],
+        "cultural_objects": ["Wooden masks (Kushmandi)", "Dhokra brass items", "Bamboo mats"]
+      }
+    }
+  }
+}

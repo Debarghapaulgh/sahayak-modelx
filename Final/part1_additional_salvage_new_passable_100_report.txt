@@ -1,0 +1,37 @@
+PART 1 — ADDITIONAL SECOND-TIER SALVAGE REPORT
+========================================================================
+Purpose: NEW records not present in any earlier downloadable curated file.
+Selected records: 100
+Previously curated exact pairs excluded from consideration: 396
+Records skipped because they were already selected: 0
+Exact duplicate user+assistant pairs inside this set: 0
+Maximum repetition of any exact assistant response: 3
+Obvious bad-pattern hits remaining: 0
+
+This is intentionally a SECOND-TIER / PASSABLE set.
+It is weaker than the earlier gold/strict sets and should not automatically be merged into production SFT.
+
+Source contribution:
+- wbbse_pilot_strict_clean.jsonl: 25
+- wbbse_textbook_pilot_120_validated(1).jsonl: 30
+- wbbse_textbook_sft_300_validated.jsonl: 30
+- wbbse-full-sft-chat-regenerated-v2(1).jsonl: 15
+
+Task mix:
+- QA / Explanation: 100
+
+Subject mix:
+- Unknown: 25
+- Mathematics: 20
+- Bengali Grammar: 14
+- English: 12
+- Bengali: 11
+- Science: 8
+- History: 7
+- Environmental Science: 2
+- Bengali Literature | শ্রেণি: ৬ শ্রেণি (WBBSE) | বিষয়বস্তু: Amar Boi: 1
+
+Review guidance:
+- Some records are retained because they correctly avoid hallucinating when the supplied source does not contain the requested detail.
+- Some records are more templated or more locally flavored than the gold set.
+- Review factual accuracy and local-context relevance before merging into final SFT.

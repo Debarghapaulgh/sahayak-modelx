@@ -1,0 +1,67 @@
+{
+  "summary": {
+    "total_raw_chunks": 19566,
+    "total_approved_grounding_pool": 13914,
+    "eligible_text_only_chunks": 4029,
+    "eligible_with_visual_context_chunks": 9885,
+    "excluded_chunks": 5652,
+    "unresolved_review_chunks": 0,
+    "training_ready_percentage": 71.11
+  },
+  "distributions": {
+    "by_board": {
+      "WBBPE": 5284,
+      "WBBSE": 7816,
+      "WBCHSE": 814
+    },
+    "by_curriculum_authority": {
+      "West Bengal Board of Primary Education": 5284,
+      "West Bengal Board of Secondary Education": 7816,
+      "West Bengal Council of Higher Secondary Education": 814
+    },
+    "by_grade": {
+      "1": 334,
+      "10": 1185,
+      "11": 713,
+      "12": 101,
+      "2": 478,
+      "3": 1202,
+      "4": 1593,
+      "5": 1669,
+      "6": 1733,
+      "7": 1769,
+      "8": 2054,
+      "9": 1075,
+      "0": 8
+    },
+    "by_subject": {
+      "General": 935,
+      "Health and Physical Education": 670,
+      "English": 1679,
+      "Mathematics": 3970,
+      "Bengali": 4534,
+      "Environmental Science": 690,
+      "Geography": 205,
+      "History": 476,
+      "Science": 755
+    },
+    "by_content_type": {
+      "CONCEPT_EXPLANATION": 7506,
+      "DEFINITION": 546,
+      "QUESTION": 4897,
+      "EXPERIMENT": 99,
+      "HISTORICAL_NOTE": 115,
+      "BIOGRAPHICAL_NOTE": 196,
+      "EXERCISE": 509,
+      "ACTIVITY": 46
+    },
+    "by_visual_dependency": {
+      "NONE": 4029,
+      "SUPPORTIVE": 9885
+    },
+    "by_medium": {
+      "Bengali": 12235,
+      "English": 1679
+    }
+  }
+}

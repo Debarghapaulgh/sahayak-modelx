@@ -1,0 +1,20 @@
+{
+  "title": "NCERT Class 9 Science - Chapter 10: Gravitation",
+  "domain": "Physics",
+  "grade_level": "Grade 9",
+  "content": "We know that the moon goes around the earth. An object when thrown upwards reaches a certain height and then falls downwards. It is said that when Augustin or Newton was sitting under a tree, an apple fell on him. The fall of the apple made Newton think. He thought that if the earth can attract an apple, can it not attract the moon? Is the force the same in both cases? He conjectured that the same type of force is responsible in both cases. He argued that at each point of its orbit, the moon falls towards the earth, instead of going off in a straight line. So, it must be attracted by the earth. But we do not really see the moon falling towards the earth. Universal Law of Gravitation: Every object in the universe attracts every other object with a force which is proportional to the product of their masses and inversely proportional to the square of the distance between them. Mass is the measure of inertia of a body. Weight of an object is the force with which it is attracted towards the earth. Weight W = m * g.",
+  "sections": [
+    {
+      "title": "10.1 Gravitation and Newton's Universal Law",
+      "text": "Every object in the universe attracts every other object with a force proportional to product of masses and inversely proportional to square of distance."
+    },
+    {
+      "title": "10.2 Free Fall and Acceleration due to Gravity",
+      "text": "Whenever objects fall towards the earth under gravity force alone, we say that the objects are in free fall."
+    },
+    {
+      "title": "10.3 Mass vs Weight",
+      "text": "Mass is constant everywhere. Weight depends on acceleration due to gravity g and location."
+    }
+  ]
+}
