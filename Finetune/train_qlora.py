@@ -225,6 +225,10 @@ def main():
     tr_kwargs = dict(model=model, args=cfg, train_dataset=ds, eval_dataset=ev)
     tr_kwargs["processing_class" if "processing_class" in inspect.signature(SFTTrainer.__init__).parameters else "tokenizer"] = tok
     trainer = SFTTrainer(**tr_kwargs)
+    # torch's REENTRANT checkpoint rejects any kwargs reaching a checkpointed layer ("Unexpected keyword arguments"),
+    # and sarvam_moe forwards **kwargs into every decoder layer. Trainer would inject num_items_in_batch (job 224924;
+    # Sachitt's token_type_ids failure was the same mechanism). Classic per-micro-batch loss normalisation instead.
+    trainer.model_accepts_loss_kwargs = False
 
     resume = bool(a.resume and glob.glob(os.path.join(ckpt_dir, "checkpoint-*")))
     print(f"resume_from_checkpoint={resume}", flush=True)
