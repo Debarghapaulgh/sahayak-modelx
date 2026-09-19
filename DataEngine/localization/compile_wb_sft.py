@@ -65,6 +65,30 @@ def rate_phrase(unit, p):
     return f"একটি {bn(p)} টাকা" if unit == "টি" else f"{bn(p)} টাকা {unit}"
 
 
+_HYPHEN_SUFFIX = __import__("re").compile(r"([অ-হা-ৌৎড়-য়])-(এর|র|কে|তে|এ)(?![ঀ-৿])")
+
+
+def _join_suffix(m):
+    prev, suf = m.group(1), m.group(2); vowel = prev in VOWEL_END
+    if suf in ("এর", "র"):
+        return prev + ("র" if vowel else "ের")
+    if suf == "এ":
+        return prev + ("য়" if vowel else "ে")
+    return prev + suf          # কে, তে attach directly
+
+
+def unhyphen(s):
+    """'গোপাল-এর' -> 'গোপালের', 'রিনা-র' -> 'রিনার', 'স্কুল-এ' -> 'স্কুলে', 'বাড়ি-তে' -> 'বাড়িতে'. Digits ('শ্রেণি ৭-এর') are left alone."""
+    return _HYPHEN_SUFFIX.sub(_join_suffix, s)
+
+
+def normalise(rows):
+    for r in rows:
+        for m in r["messages"][1:]:
+            m["content"] = unhyphen(m["content"])
+    return rows
+
+
 def bn(x):
     """Render any number/str with Bengali digits."""
     if isinstance(x, float) and x.is_integer():
@@ -423,7 +447,7 @@ def gen_fraction(store, rng, n):
         den = rng.choice([2, 3, 4, 5, 6]); num = rng.randint(1, den - 1); total = den * rng.choice([2, 3, 4, 5, 6]); part = total * num // den; thing, zone = rng.choice(things)
         kind = i % 2
         if kind == 0:
-            u = f"{bn(total)}টি {thing}-এর {bn(num)}/{bn(den)} অংশ কতগুলি? ধাপে ধাপে দেখাও।"
+            u = f"{bn(total)}টি {gen(thing)} {bn(num)}/{bn(den)} অংশ কতগুলি? ধাপে ধাপে দেখাও।"
             a = worked([f"দেওয়া আছে: মোট {bn(total)}টি, অংশ {bn(num)}/{bn(den)}।", f"সূত্রানুসারে: {bn(num)}/{bn(den)} অংশ = মোট ÷ {bn(den)} × {bn(num)}।",
                         f"সমাধান: {bn(total)} ÷ {bn(den)} = {bn(total // den)}; {bn(total // den)} × {bn(num)} = {bn(part)}টি।"], f"{bn(part)}টি {thing}।")
         else:
@@ -646,6 +670,7 @@ def main():
     records += gen_mean(store, rng, 1100) + gen_profit_loss(store, rng, 1400) + gen_fraction(store, rng, 1100) + gen_multiplication(store, rng, 1100)
     records += gen_money(store, rng, 1100) + gen_compare(store, rng, 900) + gen_calendar(store, rng, 1200)
     records += gen_fln_story(store, rng, 1700) + gen_quiz(store, rng, 2100, mis) + gen_lesson_plan(store, rng, 1800) + gen_worksheet(store, rng, 1300)
+    normalise(records)
     families = {}
     for t in sorted({r["template_id"] for r in records}):
         m = TEMPLATE_RE.match(t)
@@ -659,8 +684,8 @@ def main():
             continue
         seen.add(d); per_template[t] = per_template.get(t, 0) + 1; kept.append(r)
     templates = sorted(per_template)
-    train = [r for r in kept if r["template_id"] not in eval_templates] + from_finetune("train_v3.jsonl", "train")
-    ev = [r for r in kept if r["template_id"] in eval_templates] + from_finetune("eval_real.jsonl", "eval")
+    train = [r for r in kept if r["template_id"] not in eval_templates] + normalise(from_finetune("train_v3.jsonl", "train"))
+    ev = [r for r in kept if r["template_id"] in eval_templates] + normalise(from_finetune("eval_real.jsonl", "eval"))
     assert not ({r["template_id"] for r in train} & {r["template_id"] for r in ev}), "template overlap"
     outdir = pathlib.Path(a.out); outdir.mkdir(parents=True, exist_ok=True)
     for name, rows in (("sft_wb_v1_train.jsonl", train), ("sft_wb_v1_eval.jsonl", ev)):
