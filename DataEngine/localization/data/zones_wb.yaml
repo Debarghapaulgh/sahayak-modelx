@@ -1,0 +1,96 @@
+# West Bengal zones — agro-cultural-ecological salience units (Tracks 2/3). Districts are metadata.
+# Qualitative context only. Quantitative facts live in locale.json and MUST carry a source (Track 2).
+# validated_by: teacher_informal = teachers approved offline (they do not use forms); attested by the team.
+
+zones:
+  - id: north_bengal_tea_belt
+    name: North Bengal
+    name_bn: উত্তরবঙ্গ
+    states: [West Bengal]
+    languages: [Bengali, Nepali, Rajbanshi, Hindi, Sadri]
+    districts: [Darjeeling, Kalimpong, Jalpaiguri, Alipurduar, Cooch Behar, Malda, Uttar Dinajpur, Dakshin Dinajpur]
+    context_bn: চা-বাগান, ডুয়ার্সের জঙ্গল ও বুনো হাতি, তিস্তা-তোর্সা-মহানন্দা, মালদার আম, ধান ও পাট, শীতের কুয়াশা, পাহাড় ও সমতল
+    everyday_places_bn: [চা-বাগান, হাট, নদীর ঘাট, স্কুলের মাঠ, আমবাগান]
+    festivals_bn: [দুর্গাপুজো, পয়লা বৈশাখ, ভান্ডানি পুজো, দশাইঁ, ঈদ]
+    local_units_bn: [বিঘা, কাঠা, মণ, সের, কুইন্টাল]
+
+  - id: gangetic_plain
+    name: Gangetic Plain
+    name_bn: গাঙ্গেয় সমভূমি
+    states: [West Bengal]
+    languages: [Bengali]
+    districts: [Murshidabad, Nadia, Purba Bardhaman, Hooghly, Howrah (rural), North 24 Parganas (rural)]
+    context_bn: ধান-পাট-আলু-সরষের খেত, ভাগীরথী-হুগলি, পুকুর, পাটকল, শান্তিপুরের তাঁত, খেজুর গুড়, মাহেশের রথ, কালবৈশাখী
+    everyday_places_bn: [ধানখেত, পুকুরপাড়, হাট, পাটকল, তাঁতঘর, স্টেশন]
+    festivals_bn: [দুর্গাপুজো, পয়লা বৈশাখ, রথযাত্রা, ঈদ, নবান্ন, পৌষ পার্বণ]
+    local_units_bn: [বিঘা, কাঠা, মণ, কেজি]
+
+  - id: rarh_plateau
+    name: Rarh Plateau
+    name_bn: রাঢ় অঞ্চল
+    states: [West Bengal]
+    languages: [Bengali, Santhali, Kurmali]
+    districts: [Purulia, Bankura, Jhargram, Paschim Bardhaman, Birbhum, Paschim Medinipur (west)]
+    context_bn: লালমাটি, শালবন, খরা, দামোদর-অজয়-কংসাবতী, আসানসোল-রানিগঞ্জের কয়লা, লাক্ষা, ছৌ নাচ, শান্তিনিকেতনের পৌষমেলা, টেরাকোটার মন্দির
+    everyday_places_bn: [শালবন, লালমাটির রাস্তা, খনি, হাট, মন্দির, স্কুলের মাঠ]
+    festivals_bn: [দুর্গাপুজো, টুসু, ভাদু, পৌষমেলা, বাঁদনা পরব, ঈদ]
+    local_units_bn: [বিঘা, কাঠা, মণ]
+
+  - id: sundarbans_delta
+    name: Sundarbans Delta
+    name_bn: সুন্দরবন
+    states: [West Bengal]
+    languages: [Bengali]
+    districts: [South 24 Parganas (estuarine blocks), North 24 Parganas (Hingalganj, Sandeshkhali, Hasnabad)]
+    context_bn: ম্যানগ্রোভ ও সুন্দরী গাছ, জোয়ার-ভাটা, নদীবাঁধ, নোনা জল, ঘূর্ণিঝড় (আয়লা, আমফান, ইয়াস), মাছ-কাঁকড়া-মধু, নৌকা, রয়েল বেঙ্গল টাইগার, গঙ্গাসাগর
+    everyday_places_bn: [নদীর ঘাট, নৌকা, বাঁধ, মাছের আড়ত, স্কুল, জঙ্গলের ধার]
+    festivals_bn: [দুর্গাপুজো, গঙ্গাসাগর মেলা, বনবিবির পালা, ঈদ, পয়লা বৈশাখ]
+    local_units_bn: [বিঘা, কাঠা, কেজি, হালি]
+
+  - id: kolkata_metro
+    name: Kolkata Metropolitan
+    name_bn: কলকাতা ও শহরতলি
+    states: [West Bengal]
+    languages: [Bengali, Hindi, Urdu, English]
+    districts: [Kolkata, Howrah (urban), North 24 Parganas (urban), South 24 Parganas (urban)]
+    context_bn: ট্রাম, মেট্রো, হাওড়া ব্রিজ, হুগলির ফেরি, বাজার, পুজোর প্যান্ডেল, ফুটবল মাঠ, ফ্ল্যাটবাড়ি, বইমেলা
+    everyday_places_bn: [বাজার, মেট্রো স্টেশন, পার্ক, ফুটবল মাঠ, গঙ্গার ঘাট, স্কুলবাস]
+    festivals_bn: [দুর্গাপুজো, কালীপুজো, ঈদ, বড়দিন, পয়লা বৈশাখ, বইমেলা]
+    local_units_bn: [কেজি, লিটার, কিমি, বর্গফুট]
+
+  - id: medinipur_coastal
+    name: Medinipur Coast
+    name_bn: মেদিনীপুর উপকূল
+    states: [West Bengal]
+    languages: [Bengali]
+    districts: [Purba Medinipur, Paschim Medinipur (east)]
+    context_bn: দিঘা-মন্দারমণির সমুদ্র, হলদিয়া বন্দর, পান বরজ, কাজু, ফুলচাষ, মাছ ধরা, চিংড়ি ভেড়ি
+    everyday_places_bn: [সমুদ্রতট, পান বরজ, ফুলের খেত, বন্দর, হাট]
+    festivals_bn: [দুর্গাপুজো, রথযাত্রা, ঈদ, পয়লা বৈশাখ]
+    local_units_bn: [বিঘা, কাঠা, কেজি]
+
+# every district of West Bengal -> primary zone (secondary zones where a district straddles two)
+district_zone_map:
+  Darjeeling: north_bengal_tea_belt
+  Kalimpong: north_bengal_tea_belt
+  Jalpaiguri: north_bengal_tea_belt
+  Alipurduar: north_bengal_tea_belt
+  Cooch Behar: north_bengal_tea_belt
+  Malda: north_bengal_tea_belt
+  Uttar Dinajpur: north_bengal_tea_belt
+  Dakshin Dinajpur: north_bengal_tea_belt
+  Murshidabad: gangetic_plain
+  Nadia: gangetic_plain
+  Purba Bardhaman: gangetic_plain
+  Hooghly: gangetic_plain
+  Howrah: {primary: kolkata_metro, secondary: [gangetic_plain]}
+  North 24 Parganas: {primary: kolkata_metro, secondary: [gangetic_plain, sundarbans_delta]}
+  South 24 Parganas: {primary: sundarbans_delta, secondary: [kolkata_metro]}
+  Kolkata: kolkata_metro
+  Purulia: rarh_plateau
+  Bankura: rarh_plateau
+  Jhargram: rarh_plateau
+  Paschim Bardhaman: rarh_plateau
+  Birbhum: rarh_plateau
+  Paschim Medinipur: {primary: rarh_plateau, secondary: [medinipur_coastal]}
+  Purba Medinipur: medinipur_coastal

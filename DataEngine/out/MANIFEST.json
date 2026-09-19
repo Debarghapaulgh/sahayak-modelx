@@ -1,0 +1,50 @@
+{
+  "version": "sft_wb_v1",
+  "seed": 42,
+  "train": 385,
+  "eval": 87,
+  "templates": 48,
+  "eval_templates": [
+    "quiz.v1",
+    "sub.student.analogy",
+    "sum.bigha.v0",
+    "sum.bigha.v2",
+    "sum.percentage.v3",
+    "sum.pl.v1",
+    "sum.ratio.v1",
+    "sum.si.v1",
+    "sum.si.v3",
+    "sum.speed.v2"
+  ],
+  "by_task_family": {
+    "CONCEPT_EXPLANATION": 38,
+    "GUIDED_PROBLEM_SOLVING": 259,
+    "LESSON_PLAN": 42,
+    "MISCONCEPTION_CORRECTION": 7,
+    "QUIZ_GENERATION": 42,
+    "STORY": 50,
+    "TEACHER_PEDAGOGY": 14,
+    "WORKSHEET_PRACTICE": 20
+  },
+  "by_zone": {
+    "-": 62,
+    "gangetic_plain": 150,
+    "kolkata_metro": 40,
+    "medinipur_coastal": 6,
+    "north_bengal_tea_belt": 79,
+    "rarh_plateau": 92,
+    "sundarbans_delta": 43
+  },
+  "by_target": {
+    "STUDENT": 378,
+    "TEACHER": 94
+  },
+  "bengali_digit_share": 1.0,
+  "step_numbering_outside_maths": 0,
+  "licence": "own",
+  "validated_by": "teacher_informal (attested AG 2026-09-19)",
+  "sha256": {
+    "sft_wb_v1_train.jsonl": "8b69a6198621e82e257916c71ea64928f525c80d914bb25bc83c10c3435c0f0d",
+    "sft_wb_v1_eval.jsonl": "fa7717f9834f2eb80506d4f7f672f8afb2b826dd19c22076cca171e68865d129"
+  }
+}

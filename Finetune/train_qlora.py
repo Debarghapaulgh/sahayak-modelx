@@ -18,7 +18,7 @@ from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 from trl import SFTTrainer, SFTConfig
 
 BASE      = "sarvamai/Sarvam-30B"          # bf16 base. Verify license before use (PDF Phase A).
-DATA      = "./data/train_v3.jsonl"        # from prepare_data.py
+DATA      = "../DataEngine/out/sft_wb_v1_train.jsonl"   # compile_wb_sft.py; falls back to ./data/train_v3.jsonl        # from prepare_data.py
 OUT       = "./out/sahayak-ft-v1"
 MAXLEN    = 1024
 
