@@ -23,28 +23,28 @@ entities:
     kind: fruit
     zones: [north_bengal_tea_belt, deccan_plateau, punjab_plains]
     affordances: {visible_mass: true, detaches: true, falls: true, everyday: true, seasonal: "summer", edible: true}
-    authenticity: {validated_by: pending_teacher, note: strong summer salience; kids shake trees}
+    authenticity: {validated_by: pending_teacher, note: গ্রীষ্মে খুব চেনা; ছেলেমেয়েরা গাছ ঝাঁকিয়ে আম পাড়ে}
 
   - id: khichdi
     name: Khichdi
     kind: dish
     zones: [punjab_plains, north_bengal_tea_belt, deccan_plateau]
     affordances: {involves_transformation: true, needs_energy_input: "heat", raw_to_cooked: true, everyday: true, edible: true}
-    authenticity: {validated_by: pending_teacher, note: near-universal household dish}
+    authenticity: {validated_by: pending_teacher, note: প্রায় প্রতিটি বাড়ির চেনা রান্না}
 
   - id: dahi_curd
     name: Dahi (curd)
     kind: food
     zones: [punjab_plains, north_bengal_tea_belt, deccan_plateau, rajasthan_arid]
     affordances: {involves_transformation: true, microbial: true, needs_starter: true, everyday: true, edible: true}
-    authenticity: {validated_by: pending_teacher, note: set at home daily; Lactobacillus real-world case}
+    authenticity: {validated_by: pending_teacher, note: রোজ বাড়িতে দই পাতা হয়; ল্যাক্টোব্যাসিলাসের বাস্তব উদাহরণ}
 
   - id: haldi_turmeric
     name: Haldi (turmeric)
     kind: crop
     zones: [deccan_plateau, coastal_tamil_nadu, north_bengal_tea_belt]
     affordances: {color_change_with_ph: true, everyday: true, edible: true, sacred: true}
-    authenticity: {validated_by: pending_teacher, note: kitchen + ritual; turns red in base = home indicator}
+    authenticity: {validated_by: pending_teacher, note: রান্নাঘর ও পুজোয় রোজকার; ক্ষারে লাল হয় বলে ঘরোয়া নির্দেশক}
 
   - id: solar_salt_pan
     name: Solar salt pan
@@ -65,7 +65,7 @@ entities:
     kind: festival
     zones: [north_bengal_tea_belt, sundarbans_delta]
     affordances: {vibration_visible: true, produces_sound: true, sacred: true, sensory_strong: true}
-    authenticity: {validated_by: pending_teacher, note: Durga Puja; membrane vibration you can see and feel}
+    authenticity: {validated_by: pending_teacher, note: দুর্গাপুজোর ঢাক; চামড়ার কম্পন দেখা ও হাতে অনুভব করা যায়}
 
   - id: temple_tank
     name: Temple tank (still water)
