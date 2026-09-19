@@ -1,13 +1,15 @@
-# Install on the GPU training box (CUDA). Torch must be the CUDA build for your driver.
-# On an AWS Deep Learning AMI, torch is preinstalled — pip install the rest.
-torch>=2.3            # CUDA build (cu121/cu124). DL AMI ships this.
-transformers>=4.44
-peft>=0.12
-trl>=0.9
-bitsandbytes>=0.43    # 4-bit QLoRA; needs CUDA
+# Training-box requirements. On the SageMaker HuggingFace DLC (launch_sagemaker_training.py) torch/transformers/
+# accelerate/datasets are preinstalled and these lines are satisfied already; on a bare CUDA box they install.
+# Torch must be the CUDA build for your driver (a DL AMI ships it).
+torch>=2.3            # CUDA build (cu121/cu124)
+transformers>=4.44,<4.56
+peft>=0.14,<0.16
+trl>=0.15,<0.20       # 0.20 renamed max_seq_length -> max_length; train_qlora.py handles both
+bitsandbytes>=0.45    # 4-bit QLoRA; needs CUDA
 accelerate>=0.33
 datasets>=2.20
 sentencepiece         # tokenizer
+hf_transfer           # fast shard download (HF_HUB_ENABLE_HF_TRANSFER=1)
 # merge/quant step (Phase F): install ONE of these on the box you quantize on:
 #   autoawq            # if quantizing to AWQ
 #   llmcompressor      # if quantizing to compressed-tensors (matches the base's format)

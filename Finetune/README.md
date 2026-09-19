@@ -27,7 +27,11 @@ pip install -r requirements.txt          # on a CUDA GPU box
 python prepare_data.py --train train.jsonl --eval eval.jsonl --out ./data
 python mix_general_data.py --sft ./data/train_v3.jsonl --general ./data/general.jsonl --out ./data/train_mixed.jsonl
 python inspect_modules.py                # confirm LoRA target names
-python train_qlora.py                    # QLoRA SFT (edit DATA to train_mixed.jsonl)
+python train_qlora.py                    # QLoRA SFT; defaults to ../DataEngine/out/sft_wb_v1_train.jsonl (--train to override)
+# SageMaker Training Job instead of a GPU box (quota: 1 × ml.g5.12xlarge, on-demand):
+python launch_sagemaker_training.py --dry-run                          # print the job spec
+python launch_sagemaker_training.py --limit 200 --max-steps 20 --wait   # smoke test (~30-45 min)
+python launch_sagemaker_training.py --epochs 2 --wait                   # full run; adapter lands in s3://<bucket>/runs/
 python eval_compare.py --eval ./data/eval_real.jsonl --adapter ./out/sahayak-ft-v1
 python merge_and_quantize.py --adapter ./out/sahayak-ft-v1 --out ./out/sahayak-ft-merged
 ```
