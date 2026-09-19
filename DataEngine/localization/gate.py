@@ -18,10 +18,10 @@ HERE = pathlib.Path(__file__).parent
 DATA = HERE / "data"
 STRATEGIES = {"anchor_substitution", "analogy", "applied_context", "cultural_grounding", "sensory"}
 STORE_FILES = {
-    "zones": ["zones_wb.yaml", "local-entities.seed.yaml"],
-    "entities": ["local-entities.seed.yaml", "entities_wb.yaml"],
+    "zones": ["local-entities.seed.yaml", "zones_wb.yaml"],   # WB zone records win over the seed by id
+    "entities": ["local-entities.seed.yaml", "entities_wb.yaml", "entities_wb_batch2.yaml"],
     "concepts": ["substitutions.seed.yaml", "concepts_wb.yaml"],
-    "substitutions": ["substitutions.seed.yaml", "substitutions_wb.yaml"],
+    "substitutions": ["substitutions.seed.yaml", "substitutions_wb.yaml", "substitutions_wb_batch2.yaml"],
 }
 
 
