@@ -20,7 +20,8 @@ _Last updated: 2026-09-19._
 | Data Engine plan | ✅ written | `DATA_ENGINE.md`, Tracks 0–7, epic + per-track issues |
 | RAG on WBBSE | ⏭ next | index the 13,914 approved chunks with the curriculum manifest |
 | **Training smoke test (repo path)** | ✅ **Completed 2026-09-19 23:31** | `sahayak-qlora-sargupta-smoke-20260919-230317`, ml.g5.12xlarge, 20 steps on 200 rows of the licence-clean set: train loss 4.57 → 3.65, **eval loss 3.64**, 5.1M trainable params (`query_key_value`,`dense`), model load 306 s, **51 s/step at 8×1,024** (~5% GPU utilisation: 4-bit dequant on 128 experts + serial device_map). Adapter in `s3://sagemaker-sahayak-aps1/runs/…230317/output/model.tar.gz`. Path hardened by `Finetune/smoke_local.sh` (free CPU rehearsal) + guards in `train_qlora.py`/launcher (PRs #31–#39). |
-| Fine-tune v1 (rung 3) | ⏳ gated on the bf16 FSDP stack (Sachitt, #28 step 4): at 51 s/step a full run ≈ 38 h ≈ ₹27k; expected 10–20× faster on the same instance | wider LoRA + DPO — `EXECUTION_PLAN.md` Phase 4 |
+| **Micro-batch sweep** | ✅ **2026-09-20** | same 20-step smoke, 8 seq/step: bs1×ga8 51.3 s/step → bs4×ga2 21.2 s → **bs8×ga1 16.1 s (3.2×, 509 padded tok/s)**, eval loss unchanged (3.64–3.67). Ran in **us-east-1** (Mumbai had no g5/g6e capacity for 80+ min; us-east-1 granted in 2 min). New launcher defaults bs 8 × ga 1; `--keep-alive` warm pool added. Full run now ≈ 12 h ≈ ₹8.5k. |
+| Fine-tune v1 (rung 3) | ⏳ gated on the bf16 FSDP stack (Sachitt, #28 step 4): remaining gap is the serial device map + 4-bit dequant; expected several× more on the same instance | wider LoRA + DPO — `EXECUTION_PLAN.md` Phase 4 |
 | CPT (rung 4) → v2 | ⏭ planned | rights-cleared WB corpus; IndiaAI / partner compute — Phase 7 |
 | Eval | ⏳ | `Evaluation/` + `Finetune/eval_compare.py` → WB-local scorecard (Track 5) |
 
@@ -47,3 +48,4 @@ GPU spend is from AWS **credits**, not cash — but an idle g5.12xlarge ≈ ₹1
 |---|---|---|---|---|
 | 2026-09-19 | Sachitt 23 (21 failed, 1 stopped) | ~4.1 h | ~₹2,950 | loss curve on `bf16r` only; no artifact |
 | 2026-09-19 | repo path 7 (6 failed) | ~1.0 h | ~₹920 | **smoke Completed**: adapter + baseline numbers |
+| 2026-09-20 | repo path 2 completed (us-east-1) + 3 Mumbai bids queued at ₹0 | ~0.5 h | ~₹365 | micro-batch sweep: 3.2× throughput |

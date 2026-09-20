@@ -122,7 +122,8 @@ def build_spec(a, role_arn, data, source, job):
             "InputDataConfig": channels,
             "OutputDataConfig": {"S3OutputPath": f"s3://{a.bucket}/runs/"},
             "CheckpointConfig": {"S3Uri": f"s3://{a.bucket}/checkpoints/{ckpt_job}/", "LocalPath": "/opt/ml/checkpoints"},
-            "ResourceConfig": {"InstanceType": a.instance, "InstanceCount": 1, "VolumeSizeInGB": a.volume_gb},
+            "ResourceConfig": {"InstanceType": a.instance, "InstanceCount": 1, "VolumeSizeInGB": a.volume_gb,
+                               **({"KeepAlivePeriodInSeconds": a.keep_alive * 60} if a.keep_alive else {})},
             "StoppingCondition": {"MaxRuntimeInSeconds": a.max_runtime_min * 60},
             "Environment": {"HF_HOME": "/tmp/hf", "HF_HUB_ENABLE_HF_TRANSFER": "1", "TOKENIZERS_PARALLELISM": "false",
                             "PYTORCH_CUDA_ALLOC_CONF": "expandable_segments:True"},
@@ -173,6 +174,7 @@ def main():
     ap.add_argument("--volume-gb", type=int, default=200)          # ~60 GB of bf16 shards + cache + checkpoints
     ap.add_argument("--max-runtime-min", type=int, default=0, help="0 = 150 for a smoke test, 1440 otherwise")
     ap.add_argument("--spot", action="store_true", help="managed spot (needs spot training quota > 0)")
+    ap.add_argument("--keep-alive", type=int, default=0, help="minutes to keep the instance warm after the job (warm pool; quota 1) so the next job skips the capacity queue")
     ap.add_argument("--bucket", default=BUCKET)
     ap.add_argument("--train", default=DATA_TRAIN); ap.add_argument("--eval", default=DATA_EVAL)
     ap.add_argument("--allow-unverified-data", action="store_true")
@@ -181,7 +183,9 @@ def main():
     ap.add_argument("--epochs", type=float, default=2.0); ap.add_argument("--max-steps", type=int, default=-1)
     ap.add_argument("--limit", type=int, default=0); ap.add_argument("--save-steps", type=int, default=-1, help="-1 = 50 for a full run, 0 for a smoke test")
     ap.add_argument("--lr", type=float, default=1e-4)
-    ap.add_argument("--maxlen", type=int, default=1024); ap.add_argument("--bs", type=int, default=1); ap.add_argument("--ga", type=int, default=8)
+    ap.add_argument("--maxlen", type=int, default=1024)
+    # bs 8 x ga 1 measured 3.2x faster than bs 1 x ga 8 on g5.12xlarge (2026-09-20): the 4-bit dequant is paid per forward
+    ap.add_argument("--bs", type=int, default=8); ap.add_argument("--ga", type=int, default=1)
     ap.add_argument("--r", type=int, default=16); ap.add_argument("--alpha", type=int, default=32)
     ap.add_argument("--target-modules", default="query_key_value,dense"); ap.add_argument("--eval-steps", type=int, default=0)
     ap.add_argument("--quant", default="4bit", choices=["4bit", "none"]); ap.add_argument("--attn", default="sdpa")
