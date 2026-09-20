@@ -72,8 +72,8 @@ def parse():
     ap.add_argument("--resume", type=int, default=0, help="1 = resume from the latest checkpoint in the checkpoint dir")
     ap.add_argument("--lr", type=float, default=1e-4)
     ap.add_argument("--maxlen", type=int, default=1024)
-    ap.add_argument("--bs", type=int, default=1)
-    ap.add_argument("--ga", type=int, default=8)
+    ap.add_argument("--bs", type=int, default=8)      # 8 x 1024 fits on 4 x 24 GB; 3.2x faster than bs 1 x ga 8 (2026-09-20)
+    ap.add_argument("--ga", type=int, default=1)
     ap.add_argument("--lora-r", "--r", dest="r", type=int, default=16)          # never 1-char names: SageMaker passes them as -r
     ap.add_argument("--lora-alpha", "--alpha", dest="alpha", type=int, default=32)
     ap.add_argument("--dropout", type=float, default=0.05)
