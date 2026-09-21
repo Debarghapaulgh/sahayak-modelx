@@ -1,0 +1,375 @@
+# West Bengal substitutions, batch 2 (2026-09-19): Medinipur coast, Kolkata, North Bengal, Rarh, Sundarbans gaps.
+# Every text_bn keeps the exam term. status approved = teacher_informal (offline), attested by the team.
+
+_val: &val {pedagogy: pass, authenticity: teacher_informal, factual: pass, attested_by: AG, date: 2026-09-19}
+
+substitutions:
+  - id: s_gravity_orange
+    concept_id: c_gravity
+    strategy: anchor_substitution
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: darjeeling_orange}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      শীতে পাহাড়ের বাগানে পাকা কমলালেবু বোঁটা থেকে খসে সোজা নিচে গড়িয়ে পড়ে, কখনো ওপরে ওঠে না। পৃথিবী কমলার ভরকে নিজের
+      কেন্দ্রের দিকে টানে, এই টানই অভিকর্ষ বল (মহাকর্ষ)। ঢালু বাগানে কমলা নিচের দিকেই গড়ায়, কারণ অভিকর্ষ সব সময় নিচের দিকে টানে।
+    validation: *val
+    status: approved
+  - id: s_tides_digha
+    concept_id: c_tides
+    strategy: applied_context
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: digha_sea}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      দিঘায় সকালে যেখানে বালিতে বসেছিলে, বিকেলে সেখানে সমুদ্রের জল চলে আসে, আবার রাতে সরে যায়। এটাই জোয়ার-ভাটা: চাঁদের
+      আকর্ষণে সমুদ্রের জল দিনে দুবার ফুলে ওঠে (জোয়ার) আর দুবার নেমে যায় (ভাটা)। জোয়ারের সময় জলে নামা বিপজ্জনক, তাই
+      লাইফগার্ডরা সময় দেখে সতর্ক করেন।
+    validation: *val
+    status: approved
+  - id: s_buoyancy_haldia
+    concept_id: c_buoyancy
+    strategy: anchor_substitution
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: haldia_port}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      হলদিয়া বন্দরে লক্ষ লক্ষ কেজি তেল বা কয়লা বোঝাই লোহার জাহাজ দিব্যি ভেসে থাকে। জাহাজের বিশাল ফাঁপা খোল অনেক জল সরায়,
+      আর সরানো জলের ওজনের সমান একটা ঊর্ধ্বমুখী বল, প্লবতা, জাহাজকে ধরে রাখে। মাল বেশি হলে জাহাজ আরও ডুবে আরও জল সরায়;
+      তাই খোলের গায়ে একটা দাগ থাকে, তার বেশি ডুবলে বোঝাই বন্ধ।
+    validation: *val
+    status: approved
+  - id: s_evap_digha_salt
+    concept_id: c_evap
+    strategy: sensory
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: digha_sea}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      দিঘায় সমুদ্রে স্নান করে রোদে দাঁড়ালে একটু পরে গা শুকিয়ে যায়, কিন্তু চামড়ায় সাদা নুনের গুঁড়ো লেগে থাকে। জল বাষ্প হয়ে
+      উড়ে গেছে, এটাই বাষ্পীভবন, আর নুন বাষ্প হয় না বলে পড়ে থাকে। সমুদ্রের জল শুকিয়ে যেভাবে লবণ তৈরি হয়, তার ছোট নমুনা এটা।
+    validation: *val
+    status: approved
+  - id: s_watercycle_digha
+    concept_id: c_watercycle
+    strategy: applied_context
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: digha_sea}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      বঙ্গোপসাগরের বিশাল জলরাশি রোদে সারাদিন বাষ্প হয়ে ওপরে ওঠে, ওপরে ঠান্ডায় ঘনীভূত হয়ে মেঘ হয়, আর সেই মেঘই ভেসে এসে
+      সারা বাংলায় বর্ষার বৃষ্টি হয়। বৃষ্টির জল নদী দিয়ে আবার সমুদ্রে ফেরে। বাষ্পীভবন, ঘনীভবন, বৃষ্টি, নদী, সমুদ্র, এই ঘুরে চলাই
+      জলচক্র, আর আমাদের বর্ষা আসে সমুদ্র থেকেই।
+    validation: *val
+    status: approved
+  - id: s_airpressure_sea_breeze
+    concept_id: c_airpressure
+    strategy: sensory
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: digha_sea}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      দিঘায় দুপুরে সমুদ্র থেকে ডাঙার দিকে ঠান্ডা হাওয়া বয়, রাতে উল্টো। দিনে ডাঙা তাড়াতাড়ি গরম হয়, তার ওপরের বাতাস হালকা
+      হয়ে ওপরে উঠে নিম্নচাপ তৈরি করে, আর সমুদ্রের ঠান্ডা বাতাস সেই জায়গা ভরাতে ছুটে আসে। বাতাস উচ্চচাপ থেকে নিম্নচাপের দিকে
+      বয়, সমুদ্রের হাওয়া সেটাই গায়ে বোঝায়।
+    validation: *val
+    status: approved
+  - id: s_adaptation_shrimp
+    concept_id: c_adaptation
+    strategy: applied_context
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: shrimp_farm}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      ভেড়ির নোনা জলে বাগদা চিংড়ি দিব্যি বাঁচে, অথচ পুকুরের রুই মাছ সেই জলে ছাড়লে মরে যাবে। নোনা জলের প্রাণীর শরীর লবণ
+      সামলানোর মতো করে গড়া, এটাই অভিযোজন। কোন প্রাণী কোন জলে বাঁচবে, ভেড়ির চাষি সেটা অভিযোজন বুঝেই ঠিক করে।
+    validation: *val
+    status: approved
+  - id: s_profitloss_marigold
+    concept_id: m_profitloss
+    strategy: applied_context
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: marigold}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পাঁশকুড়ার এক চাষি ১০০টি গাঁদার মালা ৫ টাকা দরে বানিয়ে পুজোর আগে ৮ টাকায় বেচলে প্রতি মালায় লাভ ৮ - ৫ = ৩ টাকা,
+      ১০০ মালায় ৩০০ টাকা। পুজো মিটে গেলে দাম ৪ টাকায় নামলে প্রতি মালায় ১ টাকা ক্ষতি। ক্রয়মূল্য আর বিক্রয়মূল্যের তুলনাই লাভ-ক্ষতি।
+    validation: *val
+    status: approved
+  - id: s_percentage_cashew
+    concept_id: m_percentage
+    strategy: applied_context
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: cashew}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      কাজুর দাম কেজিতে ৬০০ টাকা থেকে ২০% বাড়লে নতুন দাম কত? শতকরা মানে প্রতি ১০০ টাকায় ২০ টাকা, তাই বৃদ্ধি
+      ৬০০ × ২০ ÷ ১০০ = ১২০ টাকা, নতুন দাম ৭২০ টাকা। দাম বাড়া-কমা, ছাড়, নম্বর, সব শতকরায় বলা হয়।
+    validation: *val
+    status: approved
+  - id: s_area_betel_vine
+    concept_id: m_area
+    strategy: applied_context
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: betel_vine}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      একটা আয়তাকার পান বরজ ৩০ মিটার লম্বা ও ১০ মিটার চওড়া হলে চারদিকে বেড়া দিতে লাগবে পরিসীমা = ২ × (৩০ + ১০) = ৮০ মিটার,
+      আর ছাউনি লাগবে ক্ষেত্রফল = ৩০ × ১০ = ৩০০ বর্গমিটার। বেড়ার জন্য পরিসীমা, ছাউনির জন্য ক্ষেত্রফল, দুটো আলাদা মাপ।
+    validation: *val
+    status: approved
+  - id: s_unitconv_shrimp
+    concept_id: m_unitconv
+    strategy: applied_context
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: shrimp_farm}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      আড়তে চিংড়ির ওজন ২ কেজি ৭৫০ গ্রাম বললে কত গ্রাম? ১ কেজি = ১০০০ গ্রাম, তাই ২ × ১০০০ + ৭৫০ = ২৭৫০ গ্রাম। দাম গ্রামে
+      ধরা হলে এই একক রূপান্তর না জানলে ঠকতে হয়।
+    validation: *val
+    status: approved
+  - id: s_si_shrimp_loan
+    concept_id: m_si
+    strategy: applied_context
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: shrimp_farm}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      ভেড়ির চাষে ৫০০০ টাকা ঋণ নিয়ে বছরে ৮% সরল সুদে ২ বছর পর শোধ করলে সুদ = ৫০০০ × ৮ × ২ ÷ ১০০ = ৮০০ টাকা,
+      মোট ৫৮০০ টাকা। আসল, সুদের হার আর সময় দিয়ে সরল সুদের এই হিসাবটা চাষির জানা জরুরি।
+    validation: *val
+    status: approved
+  - id: s_foodchain_crab
+    concept_id: c_foodchain
+    strategy: applied_context
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: crab}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      সুন্দরবনের কাদায় কাঁকড়া ছোট প্রাণী ও পচা পাতা খায়, কাঁকড়াকে খায় বড় মাছ আর পাখি, আর সেই মাছ খায় কুমির।
+      এই খাবারের সারিই খাদ্যশৃঙ্খল। নদীর ধারে ম্যানগ্রোভের ঝরা পাতা থেকে শুরু হয়ে কুমির পর্যন্ত পৌঁছয়, তাই গাছ কাটা মানে
+      কাঁকড়া-মাছ কমে যাওয়া।
+    validation: *val
+    status: approved
+  - id: s_friction_football
+    concept_id: c_friction
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: maidan_football}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      ময়দানে জোরে মারা বলও কিছুদূর গড়িয়ে নিজে থেকেই থেমে যায়, কেউ ধরে না। ঘাস আর বলের ছোঁয়ায় ঘর্ষণ বল কাজ করে, যা
+      গতির বিপরীত দিকে বলকে টেনে ধরে। ভেজা ঘাসে ঘর্ষণ কম বলে বল অনেক দূর গড়ায়, তাই বর্ষায় খেলা বদলে যায়।
+    validation: *val
+    status: approved
+  - id: s_combustion_taxi
+    concept_id: c_combustion
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: yellow_taxi}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      হলুদ ট্যাক্সির ইঞ্জিনে পেট্রোল বা ডিজেল বাতাসের অক্সিজেনের সঙ্গে পুড়ে তাপ ও শক্তি দেয়, এটাই দহন, আর সেই শক্তিতে চাকা
+      ঘোরে। পেছনের পাইপ দিয়ে যে ধোঁয়া বেরোয় তা দহনের ফল। পেট্রোল-ডিজেল জীবাশ্ম জ্বালানি, পুড়লে ফুরিয়ে যায়, তাই মেট্রো বা
+      টোটোর মতো বিদ্যুতের গাড়ি বাড়ছে।
+    validation: *val
+    status: approved
+  - id: s_speed_taxi
+    concept_id: m_speed
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: yellow_taxi}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      হাওড়া থেকে গড়িয়াহাট ১২ কিমি, ট্যাক্সি ৩০ মিনিটে পৌঁছলে গতিবেগ = দূরত্ব ÷ সময় = ১২ ÷ (৩০ ÷ ৬০) = ২৪ কিমি/ঘণ্টা।
+      জ্যামে সময় বেশি লাগলে একই দূরত্বে গতিবেগ কমে, ভাড়া কিন্তু মিটারে বাড়ে।
+    validation: *val
+    status: approved
+  - id: s_speed_toy_train
+    concept_id: m_speed
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: toy_train}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      টয় ট্রেন ৭ ঘণ্টায় শিলিগুড়ি থেকে দার্জিলিং প্রায় ৭০ কিমি যায়, তাই গতিবেগ = ৭০ ÷ ৭ = ১০ কিমি/ঘণ্টা, সাইকেলের মতো ধীর।
+      পাহাড়ে ওঠার জন্যই এত ধীর। গতিবেগ = দূরত্ব ÷ সময়, দূরত্ব একই থাকলে সময় বেশি মানে গতিবেগ কম।
+    validation: *val
+    status: approved
+  - id: s_heatexp_toy_train
+    concept_id: c_heatexp
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: toy_train}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      টয় ট্রেনের লাইনে দেখবে, দুটো রেলের জোড়ায় ছোট ফাঁক রাখা। রোদে লোহার রেল সামান্য লম্বা হয়, এটাই তাপীয় প্রসারণ; ফাঁক না
+      থাকলে রেল বেঁকে যেত। শীতের সকালে ফাঁক একটু বড়, গরমের দুপুরে ছোট, রেলের পাশে দাঁড়িয়েই সেটা দেখা যায়।
+    validation: *val
+    status: approved
+  - id: s_evap_kumartuli
+    concept_id: c_evap
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: kumartuli_idol}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      কুমোরটুলিতে খড়ের কাঠামোয় ভেজা মাটি লাগিয়ে প্রতিমা গড়া হয়, তারপর দিনের পর দিন রোদে রাখা হয়। মাটির জল বাষ্প হয়ে
+      উড়ে যায়, এটাই বাষ্পীভবন, আর নরম মাটি শক্ত হয়। বর্ষায় বাতাসে জলীয় বাষ্প বেশি বলে শুকাতে দেরি হয়, তাই কুমোরদের
+      পুজোর আগে দুশ্চিন্তা থাকে।
+    validation: *val
+    status: approved
+  - id: s_combustion_terracotta
+    concept_id: c_combustion
+    strategy: applied_context
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: terracotta_temple}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      বিষ্ণুপুরের মন্দিরের লাল পোড়ামাটির ফলক কাঁচা মাটি থেকে তৈরি: মাটির ফলক ভাঁটিতে কাঠ বা কয়লা পুড়িয়ে প্রচণ্ড তাপে পোড়ানো
+      হয়। কাঠ-কয়লার সেই পোড়াটা দহন, যাতে অক্সিজেন লাগে আর তাপ বেরোয়; সেই তাপেই নরম মাটি শক্ত টালি হয়ে শত শত বছর টিকে
+      আছে।
+    validation: *val
+    status: approved
+  - id: s_circuit_metro
+    concept_id: c_circuit
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: metro}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      মেট্রোর লাইনের পাশে একটা তৃতীয় রেল থাকে, তাতে বিদ্যুৎ বয়। ট্রেনের একটা অংশ সেই রেল ছুঁয়ে বিদ্যুৎ নেয়, মোটর ঘোরে, আর
+      বিদ্যুৎ চাকা দিয়ে মূল রেল হয়ে ফিরে যায়, এই পুরো পথটাই বর্তনী। তাই মেট্রোর লাইনে নামা মারাত্মক বিপদ: শরীর ছুঁলেই
+      বর্তনী সম্পূর্ণ হয়ে যায়।
+    validation: *val
+    status: approved
+  - id: s_lever_oar
+    concept_id: c_lever
+    strategy: applied_context
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: nouka_boat}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      মাঝি যখন দাঁড় টানে, দাঁড়টা একটা লিভার: নৌকার কিনারার খাঁজ হলো আলম্ব, মাঝির হাত দেয় বল, আর জলের দিকের লম্বা অংশ ঠেলে
+      নৌকা এগোয়। দাঁড় লম্বা হলে অল্প বলে বেশি জল ঠেলা যায়, তাই সুন্দরবনের নৌকায় দাঁড় এত লম্বা।
+    validation: *val
+    status: approved
+  - id: s_mean_hilsa_price
+    concept_id: m_mean
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: hilsa}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      এক সপ্তাহে বাজারে ইলিশের কেজি-দর ছিল ৮০০, ১০০০, ৯০০, ১১০০ ও ৭০০ টাকা। গড় দাম = মোট ÷ দিন = ৪৫০০ ÷ ৫ = ৯০০ টাকা।
+      কোন দিন দাম গড়ের ওপরে আর কোন দিন নিচে, তা দেখেই ক্রেতা ঠিক করে কবে কিনবে।
+    validation: *val
+    status: approved
+  - id: s_nutrition_hilsa
+    concept_id: c_nutrition
+    strategy: applied_context
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: hilsa}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      বর্ষায় পাতে ইলিশ মানে শুধু স্বাদ নয়, প্রোটিন আর ভালো ফ্যাট, যা শরীর গড়ে। সঙ্গে ভাতের শর্করা কাজের শক্তি দেয় আর
+      শাকসবজি ভিটামিন-খনিজ দেয়। ভাত, মাছ, সবজি একসঙ্গে থাকলে থালাটা সুষম খাদ্য হয়; শুধু ভাত হলে নয়।
+    validation: *val
+    status: approved
+  - id: s_percentage_attendance
+    concept_id: m_percentage
+    strategy: applied_context
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: midday_meal}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      ক্লাসে ৪০ জনের মধ্যে ৩২ জন এলে উপস্থিতি কত শতাংশ? শতকরা মানে প্রতি ১০০-তে কত, তাই ৩২ ÷ ৪০ × ১০০ = ৮০%।
+      মিড-ডে মিলের চাল-ডালের হিসাবও এই উপস্থিতির শতকরা দিয়েই হয়।
+    validation: *val
+    status: approved
+  - id: s_ratio_garland
+    concept_id: m_ratio
+    strategy: applied_context
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: marigold}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      একটা মালায় গাঁদা আর রজনীগন্ধার অনুপাত ৩ : ১ রাখলে ৩০টি গাঁদায় ১০টি রজনীগন্ধা লাগবে। ৬০টি গাঁদা হলে ২০টি, অনুপাত
+      তখনও ৩ : ১। দুটো সংখ্যা একই গুণে বাড়ালে বা কমালে অনুপাত বদলায় না।
+    validation: *val
+    status: approved
+  - id: s_fraction_cashew
+    concept_id: m_fraction
+    strategy: anchor_substitution
+    zone_id: medinipur_coastal
+    local_anchor: {entity_id: cashew}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      ১২টি কাজু তিন ভাইবোনে সমান ভাগ করলে প্রত্যেকে পায় ১/৩ অংশ, অর্থাৎ ৪টি। দুজন মিলে নিলে ২/৩ অংশ, ৮টি। পুরোটাকে
+      সমান ভাগে ভেঙে তার কয় ভাগ নিলাম, সেটাই ভগ্নাংশ।
+    validation: *val
+    status: approved
+  - id: s_addition_orange
+    concept_id: m_addition
+    strategy: anchor_substitution
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: darjeeling_orange}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পেমার ঝুড়িতে ৫টি কমলালেবু, দিদি আরও ৪টি দিল। গুনে দেখো: ৫ + ৪ = ৯টি। পেমা ৩টি খেলে থাকে ৯ - ৩ = ৬টি।
+      হাতে ধরা জিনিস গুনে যোগ-বিয়োগ সবচেয়ে সহজে শেখা যায়।
+    validation: *val
+    status: approved
+  - id: s_addition_marigold
+    concept_id: m_addition
+    strategy: anchor_substitution
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: marigold}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      টুম্পা মালার জন্য ৬টি গাঁদা ফুল তুলল, মা আরও ২টি দিলেন। ৬ + ২ = ৮টি ফুল। মালায় ৫টি লাগালে হাতে থাকে ৮ - ৫ = ৩টি।
+      এটাই যোগ আর বিয়োগ।
+    validation: *val
+    status: approved
+  - id: s_calendar_poush_mela
+    concept_id: m_calendar
+    strategy: cultural_grounding
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: poush_mela}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      শান্তিনিকেতনের পৌষমেলা প্রতি বছর পৌষ মাসের ৭ তারিখে শুরু হয়। বাংলা ক্যালেন্ডারে পৌষ নবম মাস: বৈশাখ থেকে গুনলে
+      অগ্রহায়ণের পরে পৌষ, তারপর মাঘ। কোন মাসে কী উৎসব, ক্যালেন্ডার দেখে সেটা বার করা মানেই সময়ের অঙ্ক।
+    validation: *val
+    status: approved

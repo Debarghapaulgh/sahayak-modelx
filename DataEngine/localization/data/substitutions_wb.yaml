@@ -1,0 +1,726 @@
+# West Bengal substitutions — the atomic localisation units (Track 3, #21). All text_bn keeps the exam term.
+# status: approved = teachers approved offline (teacher_informal), attested by the team. The gate (gate.py)
+# recomputes affordance_match and rejects any unit whose local anchor breaks the concept's contract.
+
+_val: &val {pedagogy: pass, authenticity: teacher_informal, factual: pass, attested_by: AG, date: 2026-09-19}
+
+substitutions:
+  # ---- gravity ----
+  - id: s_gravity_mango
+    concept_id: c_gravity
+    strategy: anchor_substitution
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: mango}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      গরমে আমগাছ ঝাঁকালে সব আম সোজা নিচে পড়ে, একটাও ওপরে ওড়ে না। পৃথিবী আমের ভরকে নিজের কেন্দ্রের দিকে টানে,
+      এই টানই অভিকর্ষ বল (মহাকর্ষ)। ভারী ও হালকা আম একই ডাল থেকে পড়লে একই সময়ে মাটিতে পৌঁছয়।
+      নিউটনের আপেলও ঠিক এভাবেই পড়েছিল, আম আমাদের নিজের আপেল।
+    validation: *val
+    status: approved
+  - id: s_gravity_coconut
+    concept_id: c_gravity
+    strategy: anchor_substitution
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: coconut}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পুকুরপাড়ের নারকেল গাছ থেকে ডাব খসে পড়লে সোজা নিচে পড়ে, পাশে বা ওপরে যায় না। পৃথিবী নারকেলের ভরকে নিচের দিকে
+      টানে, এই টানই অভিকর্ষ বল। উঁচু গাছ থেকে পড়ে বলে বেগ বেশি হয়, তাই নিচে দাঁড়ানো বিপজ্জনক।
+    validation: *val
+    status: approved
+  - id: s_gravity_jackfruit
+    concept_id: c_gravity
+    strategy: anchor_substitution
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: jackfruit}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পাকা কাঁঠাল ডাল থেকে খসে পড়লে ধপ করে আওয়াজ হয়, কারণ পৃথিবী ভারী কাঁঠালকে জোরে টানে। এই টানই অভিকর্ষ বল।
+      মনে রাখবে, ভারী বলে বেশি জোরে টান লাগে, কিন্তু একই উচ্চতা থেকে হালকা ফলও একই সময়েই মাটিতে পড়ে।
+    validation: *val
+    status: approved
+
+  # ---- photosynthesis ----
+  - id: s_photo_khichdi
+    concept_id: c_photo
+    strategy: analogy
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: khichdi}
+    mapping: {inputs: "চাল-ডাল-জল ↔ কার্বন ডাই-অক্সাইড ও জল", energy: "উনুনের আঁচ ↔ সূর্যালোক", output: "খিচুড়ি ↔ গ্লুকোজ (খাদ্য)", site: "হাঁড়ি ↔ পাতার ক্লোরোপ্লাস্ট"}
+    keep_canonical: true
+    disanalogy_flags:
+      - "শক্তির উৎস আলাদা: খিচুড়ি রান্না হয় তাপে, সালোকসংশ্লেষ হয় আলোতে। শিক্ষক জোরে বলবেন, নইলে ছাত্র ভাববে গাছের গরম লাগে।"
+      - "রান্নায় গ্যাস বেরোয় না; সালোকসংশ্লেষে অক্সিজেন বেরোয়।"
+    text_bn: >-
+      পাতাকে ভাবো একটা ছোট রান্নাঘর, যেখানে খিচুড়ি রান্না হচ্ছে। কাঁচা উপকরণ ঢোকে (বাতাসের কার্বন ডাই-অক্সাইড আর শিকড়ের জল),
+      শক্তি দিয়ে সেগুলো খাদ্যে (গ্লুকোজ) বদলে যায়। হাঁড়িটা হলো পাতার ক্লোরোপ্লাস্ট। একটা পার্থক্য মনে রাখো: উনুন রান্না করে তাপে,
+      কিন্তু পাতা রান্না করে সূর্যের আলোতে, তাই গাছের রোদ লাগে, উনুন নয়। আর রান্নাঘরের মতো নয়, পাতা অক্সিজেনও ছাড়ে।
+      পরীক্ষায় শব্দটা সালোকসংশ্লেষই থাকবে।
+    validation: *val
+    status: approved
+  - id: s_photo_tea
+    concept_id: c_photo
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: tea}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      চা-বাগানের প্রতিটি সবুজ পাতা রোদে দাঁড়িয়ে নিজের খাদ্য বানায়, এটাই সালোকসংশ্লেষ। তাই চা গাছ ছায়ায় ভালো বাড়ে না,
+      আর পাতা তোলার পর নতুন কুঁড়ি গজাতে সময় লাগে, কারণ গাছ আবার খাদ্য তৈরির পাতা বানাচ্ছে। সালোকসংশ্লেষে গাছ বাতাসের
+      কার্বন ডাই-অক্সাইড ও জল থেকে আলোর শক্তিতে গ্লুকোজ বানায় এবং অক্সিজেন ছাড়ে।
+    validation: *val
+    status: approved
+
+  # ---- acids, bases, indicators ----
+  - id: s_acid_haldi
+    concept_id: c_acidbase
+    strategy: anchor_substitution
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: haldi_turmeric}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      অ্যাসিড-ক্ষার চিনতে দোকানের লিটমাস লাগে না, রান্নাঘরের হলুদই যথেষ্ট। জামায় হলুদের দাগে লেবুর রস (অ্যাসিড) লাগালে
+      হলুদই থাকে, কিন্তু সাবান বা চুনজল (ক্ষার) লাগলে দাগ লাল হয়ে যায়। রং বদলে যে জিনিস অ্যাসিড না ক্ষার তা জানায়,
+      তাকেই নির্দেশক বলে; হলুদ একটি প্রাকৃতিক নির্দেশক। পরীক্ষার জন্য লিটমাসই মূল নির্দেশক, হলুদ বাড়িতে সেই ধারণাটাই দেখায়।
+    validation: *val
+    status: approved
+
+  # ---- useful microorganisms ----
+  - id: s_microbe_dahi
+    concept_id: c_microbe
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: dahi_curd}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      বাড়িতে গরম দুধে এক চামচ পুরোনো দই মিশিয়ে রেখে দিলে পরদিন নতুন দই হয়। ওই চামচে থাকে ল্যাক্টোব্যাসিলাস নামের অণুজীব,
+      তারা বেড়ে দুধের চিনিকে অ্যাসিডে বদলায়, তাই দুধ জমে দই হয়। অণুজীব শুধু রোগ ছড়ায় না, এখানে খাবার বানায়।
+      পাউরুটিতে ইস্টের কাজও একই রকম উপকারী অণুজীবের কাজ।
+    validation: *val
+    status: approved
+  - id: s_microbe_jute
+    concept_id: c_microbe
+    strategy: applied_context
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: jute}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পাট কাটার পর আঁটি বেঁধে জলে ডুবিয়ে রাখা হয়, একে জাগ দেওয়া বলে। জলের অণুজীব পাটের ডাঁটার আঠালো অংশ পচিয়ে দেয়,
+      তখন সোনালি আঁশ সহজে ছাড়ানো যায়। এখানে অণুজীব চাষির বন্ধু, তাদের ছাড়া পাটের আঁশ পাওয়াই যেত না। এটি উপকারী অণুজীবের
+      একটি স্থানীয় উদাহরণ।
+    validation: *val
+    status: approved
+
+  # ---- evaporation, change of state ----
+  - id: s_evap_khejur_gur
+    concept_id: c_evap
+    strategy: applied_context
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: khejur_gur}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      শীতের ভোরে শিউলি খেজুর গাছ থেকে রসের হাঁড়ি নামিয়ে বড় কড়াইয়ে জ্বাল দেয়। আঁচে রসের জল বাষ্প হয়ে উড়ে যায়,
+      এটাই বাষ্পীভবন, আর কড়াইয়ে পড়ে থাকে ঘন গুড়। তরল রস থেকে শক্ত গুড় হওয়া অবস্থার পরিবর্তনের উদাহরণ।
+      নলেন গুড়ের গন্ধের পেছনে এই বিজ্ঞানটাই আছে।
+    validation: *val
+    status: approved
+  - id: s_evap_tea_drying
+    concept_id: c_evap
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: tea}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      বাগান থেকে তোলা চা পাতা কারখানায় ছড়িয়ে গরম বাতাসে শুকানো হয়। পাতার ভেতরের জল বাষ্প হয়ে বেরিয়ে যায়, এটাই বাষ্পীভবন,
+      তাই কেজি কেজি কাঁচা পাতা থেকে অল্প শুকনো চা হয়। রোদে ভেজা কাপড় শুকানোও একই বাষ্পীভবন।
+    validation: *val
+    status: approved
+  - id: s_evap_pukur
+    concept_id: c_evap
+    strategy: sensory
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: pukur_pond}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      চৈত্র-বৈশাখে পুকুরের জল দিন দিন নেমে যায়, পাড়ে শুকনো দাগ পড়ে, অথচ কেউ জল তুলছে না। রোদের তাপে জল বাষ্প হয়ে বাতাসে
+      মিশে যাচ্ছে, এটাই বাষ্পীভবন। রাঢ়ে গরম বেশি আর বৃষ্টি কম, তাই পুকুর তাড়াতাড়ি শুকায়।
+    validation: *val
+    status: approved
+
+  # ---- cooling by evaporation (matka trap handled) ----
+  - id: s_evapcool_matka
+    concept_id: c_evapcool
+    strategy: anchor_substitution
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: matka}
+    keep_canonical: true
+    disanalogy_flags:
+      - "কলসির ঠান্ডা পরিবহন (conduction) নয়। মাটির ছিদ্র দিয়ে জল বাইরে এসে বাষ্প হয়, বাষ্পীভবনে তাপ নেয় বলে জল ঠান্ডা হয়।"
+    text_bn: >-
+      গরমে মাটির কলসির জল ফ্রিজ ছাড়াই ঠান্ডা থাকে। কলসির গায়ে ছোট ছোট ছিদ্র আছে, সেখান দিয়ে একটু জল বাইরে এসে বাষ্প হয়ে
+      যায়। বাষ্প হতে জলের তাপ লাগে, সেই তাপ ভেতরের জল থেকেই নেয়, তাই ভেতরের জল ঠান্ডা হয়। একেই বাষ্পীভবনজনিত শীতলতা বলে;
+      ঘাম শুকিয়ে ঠান্ডা লাগাও একই কারণে।
+    validation: *val
+    status: approved
+  - id: s_evapcool_talpata
+    concept_id: c_evapcool
+    strategy: sensory
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: talpata_fan}
+    keep_canonical: true
+    disanalogy_flags:
+      - "পাখা বাতাস ঠান্ডা করে না; বাতাস ঘামের বাষ্পীভবন বাড়ায়, তাতেই ঠান্ডা লাগে।"
+    text_bn: >-
+      লোডশেডিংয়ে তালপাতার পাখা নাড়লে আরাম লাগে, অথচ পাখার হাওয়া তো গরমই। আসলে হাওয়া গায়ের ঘাম তাড়াতাড়ি বাষ্প করে দেয়,
+      আর বাষ্প হতে ঘাম শরীর থেকে তাপ নেয়, তাই ঠান্ডা লাগে। এটাই বাষ্পীভবনজনিত শীতলতা।
+    validation: *val
+    status: approved
+
+  # ---- friction ----
+  - id: s_friction_bicycle
+    concept_id: c_friction
+    strategy: anchor_substitution
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: bicycle}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      সাইকেলের ব্রেক চেপে ধরলে ব্রেকের রাবার চাকার রিমে ঘষা লাগে আর চাকা থেমে যায়। এই ঘষাঘষির বলই ঘর্ষণ বল, যা গতির
+      বিপরীত দিকে কাজ করে। ভেজা রাস্তায় ঘর্ষণ কমে যায় বলে ব্রেক ধরতে দেরি হয়, তাই বর্ষায় সাবধানে চালাতে হয়।
+    validation: *val
+    status: approved
+  - id: s_friction_rath
+    concept_id: c_friction
+    strategy: applied_context
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: rath_mahesh}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      মাহেশের রথ টানতে শত শত মানুষ দড়ি ধরে। এত বড় রথের চাকা আর রাস্তার মধ্যে প্রচণ্ড ঘর্ষণ বল কাজ করে, যা রথকে চলতে
+      বাধা দেয়; সেই বাধা কাটাতেই এত লোকের টান লাগে। ঘর্ষণ বল সব সময় গতির বিপরীত দিকে কাজ করে।
+    validation: *val
+    status: approved
+
+  # ---- sound ----
+  - id: s_sound_dhak
+    concept_id: c_sound
+    strategy: sensory
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: dhak_drum}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পুজোর সময় ঢাকি বাজানোর মাঝে ঢাকের চামড়ায় আলতো করে হাত রাখো, হাতে কাঁপুনি টের পাবে। এই কাঁপুনিই কম্পন, আর কম্পন
+      থেকেই শব্দ। হাত দিয়ে চামড়া চেপে ধরলে কম্পন থেমে যায় আর শব্দও থেমে যায়। বইয়ের সুরশলাকা একই কাজ করে, ঢাক সেটা
+      বুকে অনুভব করায়।
+    validation: *val
+    status: approved
+
+  # ---- reflection ----
+  - id: s_reflect_pukur
+    concept_id: c_reflect
+    strategy: anchor_substitution
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: pukur_pond}
+    keep_canonical: true
+    disanalogy_flags:
+      - "শান্ত জলেই ছায়া পড়ে; ঢেউ উঠলে ছায়া ভেঙে যায়। সমতল দর্পণ কেন মসৃণ হতে হয়, এই দিয়ে বোঝাও।"
+    text_bn: >-
+      সকালে শান্ত পুকুরের জলে পাড়ের তালগাছ উল্টো হয়ে দেখা যায়, এটা আলোর প্রতিফলন। একটা ঢিল ছুড়লেই ছায়া ভেঙে টুকরো হয়ে যায়,
+      কারণ জলের তল আর মসৃণ নেই। মসৃণ তল থেকে আলো নিয়ম মেনে ফিরে আসে বলেই স্পষ্ট ছায়া হয়; সমতল দর্পণ হলো সব সময় শান্ত
+      থাকা সেই জলেরই মতো একটা মসৃণ তল।
+    validation: *val
+    status: approved
+
+  # ---- water cycle ----
+  - id: s_watercycle_monsoon
+    concept_id: c_watercycle
+    strategy: applied_context
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: monsoon}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      চৈত্রের রোদে পুকুর, নদী আর ভেজা মাটি থেকে জল বাষ্প হয়ে ওপরে ওঠে। ওপরে ঠান্ডায় সেই বাষ্প ঘনীভূত হয়ে মেঘ হয়, আর আষাঢ়ে
+      সেই মেঘ বৃষ্টি হয়ে ধানখেতে ফিরে আসে। বাষ্পীভবন, ঘনীভবন, বৃষ্টি, আবার বাষ্পীভবন, এই ঘুরে চলাই জলচক্র। আমাদের বর্ষা
+      জলচক্রেরই এক ধাপ।
+    validation: *val
+    status: approved
+  - id: s_watercycle_fog
+    concept_id: c_watercycle
+    strategy: sensory
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: winter_fog}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পৌষের ভোরে চা-বাগান কুয়াশায় ঢাকা থাকে, দশ হাত দূরের গাছও দেখা যায় না। বাতাসে যে জলীয় বাষ্প ছিল, রাতের ঠান্ডায় তা
+      ঘনীভূত হয়ে অসংখ্য ছোট জলের ফোঁটা হয়ে ভাসছে, সেটাই কুয়াশা। রোদ উঠলে ফোঁটাগুলো আবার বাষ্প হয়ে যায়। ঘনীভবন জলচক্রের
+      একটি ধাপ।
+    validation: *val
+    status: approved
+
+  # ---- air pressure, wind ----
+  - id: s_airpressure_kalbaishakhi
+    concept_id: c_airpressure
+    strategy: applied_context
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: kalbaishakhi}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      চৈত্র-বৈশাখের দুপুরে মাটি খুব গরম হয়, তার ওপরের বাতাসও গরম ও হালকা হয়ে ওপরে উঠে যায়। নিচে তখন বাতাসের চাপ কমে,
+      এই নিম্নচাপ ভরাতে চারপাশ থেকে ঠান্ডা বাতাস হুড়মুড় করে ছুটে আসে। সেই দমকা হাওয়া, ধুলো আর বৃষ্টিই কালবৈশাখী।
+      বাতাস সব সময় উচ্চচাপ থেকে নিম্নচাপের দিকে বয়।
+    validation: *val
+    status: approved
+  - id: s_airpressure_cyclone
+    concept_id: c_airpressure
+    strategy: applied_context
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: cyclone}
+    keep_canonical: true
+    disanalogy_flags:
+      - "ছোটদের ভয় না দেখিয়ে বোঝাও; সঙ্গে আশ্রয়কেন্দ্র ও আবহাওয়া দপ্তরের সতর্কতার কথা বলো।"
+    text_bn: >-
+      আমফান বা ইয়াসের মতো ঘূর্ণিঝড় শুরু হয় সমুদ্রের ওপর, যেখানে গরম জলের ওপরের বাতাস উঠে গিয়ে একটা গভীর নিম্নচাপ তৈরি
+      করে। চারদিক থেকে বাতাস সেই নিম্নচাপের দিকে প্রচণ্ড বেগে ছুটে আসে আর ঘুরতে থাকে, তাই নাম ঘূর্ণিঝড়। আবহাওয়া দপ্তর
+      আগে থেকে জানায়, তাই সতর্কতা পেলে আশ্রয়কেন্দ্রে যাওয়াই নিয়ম।
+    validation: *val
+    status: approved
+  - id: s_airpressure_kite
+    concept_id: c_airpressure
+    strategy: sensory
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: kite}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      বিশ্বকর্মা পুজোয় ছাদে ঘুড়ি ওড়ানোর সময় দেখবে, বাতাস না থাকলে ঘুড়ি ওঠে না। ছুটন্ত বাতাস ঘুড়ির নিচের দিকে ধাক্কা দেয়,
+      সেই বাতাসের চাপই ঘুড়িকে ওপরে ঠেলে রাখে, আর সুতো টেনে ধরে বলে ঘুড়ি উড়ে যায় না। বাতাসের চাপ যে একটা সত্যিকারের বল,
+      ঘুড়ি তা হাতে টের পাওয়ায়।
+    validation: *val
+    status: approved
+
+  # ---- buoyancy ----
+  - id: s_buoyancy_nouka
+    concept_id: c_buoyancy
+    strategy: anchor_substitution
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: nouka_boat}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      নদীতে নৌকা ভাসে, কারণ জল নৌকাকে ওপরের দিকে ঠেলে, এই ঊর্ধ্বমুখী বলকে প্লবতা বলে। খালি নৌকা অল্প ডুবে থাকে; মাছ বা
+      মালে ভরলে নৌকা আরও নিচে নামে আর বেশি জল সরায়, তখন প্লবতাও বেশি হয়। বেশি ভার হলে নৌকা যত জল সরাতে পারে তার
+      চেয়ে ভারী হয়ে যায়, তখন ডুবে যায়, তাই মাঝিরা বোঝা মেপে তোলে।
+    validation: *val
+    status: approved
+  - id: s_buoyancy_ferry
+    concept_id: c_buoyancy
+    strategy: anchor_substitution
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: hooghly_ferry}
+    keep_canonical: true
+    disanalogy_flags:
+      - "লোহা ভাসে না, লোহার আকৃতি ভাসায়। পেরেক ডোবে কিন্তু লঞ্চ ভাসে, পার্থক্যটা কত জল সরায় তাতে।"
+    text_bn: >-
+      হাওড়া থেকে বাবুঘাটের লঞ্চ পুরো লোহার, তবু গঙ্গায় ভাসে, অথচ একটা লোহার পেরেক ফেললেই ডুবে যায়। লঞ্চের ফাঁপা খোল অনেকটা
+      জল সরায়, আর সরানো জলের ওজনের সমান একটা ঊর্ধ্বমুখী বল, প্লবতা, লঞ্চকে ধরে রাখে। পেরেক প্রায় জলই সরায় না, তাই প্লবতা
+      তার ওজনের চেয়ে কম, সে ডোবে।
+    validation: *val
+    status: approved
+
+  # ---- lever ----
+  - id: s_lever_tubewell
+    concept_id: c_lever
+    strategy: anchor_substitution
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: tubewell}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      নলকূপের লম্বা হাতল চাপলে অল্প বলেই মাটির নিচ থেকে জল উঠে আসে। হাতলটা একটা লিভার: মাঝখানে একটা আলম্ব, এক দিকে
+      তোমার হাতের বল, অন্য দিকে ভারী পিস্টন। হাতল যত লম্বা, তত কম বলে তত বেশি ভার ওঠে। এই জন্যই ছোট ছেলেমেয়েও নলকূপ
+      চালাতে পারে।
+    validation: *val
+    status: approved
+
+  # ---- thermal expansion ----
+  - id: s_heatexp_howrah
+    concept_id: c_heatexp
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: howrah_bridge}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      হাওড়া ব্রিজ পুরোটাই ইস্পাতের। গ্রীষ্মের দুপুরে রোদে গরম হয়ে ইস্পাত সামান্য লম্বা হয়, শীতের রাতে আবার ছোট হয়, একেই
+      তাপীয় প্রসারণ বলে। এত বড় সেতুতে এই সামান্য বদলও কয়েক ইঞ্চি হয়, তাই জোড়ায় ফাঁক রাখা হয় যাতে ইস্পাত বাড়ার জায়গা পায়।
+      রেললাইনের ফাঁকও একই কারণে।
+    validation: *val
+    status: approved
+  - id: s_heatexp_muri
+    concept_id: c_heatexp
+    strategy: analogy
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: muri}
+    mapping: {heat: "গরম বালি ↔ তাপ", expansion: "চাল ফুলে মুড়ি ↔ প্রসারণ"}
+    keep_canonical: true
+    disanalogy_flags:
+      - "মুড়ি ফোলে চালের ভেতরের জল হঠাৎ বাষ্প হয়ে ফেটে বেরোনোয়, কঠিন পদার্থের সাধারণ প্রসারণে নয়। উদাহরণটা শুধু এই কথা বোঝাতে যে তাপে জিনিস বড় হয়; সেতু বা রেললাইনের প্রসারণ অনেক ছোট ও নিয়মিত।"
+    text_bn: >-
+      গরম বালিতে চাল দিলে ফট ফট করে ফুলে মুড়ি হয়, ছোট দানা কয়েক গুণ বড়। তাপে জিনিস বড় হয়, এই ধারণাটা মুড়ি একবারে
+      দেখিয়ে দেয়। তবে মুড়ি ফোলে ভেতরের জল হঠাৎ বাষ্প হয়ে ফেটে বেরোনোয়; সেতু বা রেললাইনের তাপীয় প্রসারণ অনেক ছোট
+      আর ধীরে ধীরে হয়, ফাটে না।
+    validation: *val
+    status: approved
+
+  # ---- electric circuit ----
+  - id: s_circuit_toto
+    concept_id: c_circuit
+    strategy: applied_context
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: toto}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      টোটোর নিচে থাকে বড় ব্যাটারি, তার থেকে তার গিয়েছে মোটরে, মোটর থেকে আবার তার ফিরে এসেছে ব্যাটারিতে, এই গোল পথটাই
+      বিদ্যুৎ বর্তনী। চাবি ঘোরালে বর্তনী সম্পূর্ণ হয়, বিদ্যুৎ বয়, চাকা ঘোরে। রাতে চার্জ দিলে ব্যাটারি আবার ভরে যায়। টর্চের
+      ব্যাটারি-বাল্ব-সুইচও একই রকম বর্তনী।
+    validation: *val
+    status: approved
+  - id: s_circuit_pandal
+    concept_id: c_circuit
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: puja_pandal}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পুজোর প্যান্ডেলে হাজার হাজার আলো জ্বলে। একটা আলো খারাপ হলে বাকিগুলো নেভে না, কারণ আলোগুলো সমান্তরাল বর্তনীতে
+      লাগানো, প্রতিটির নিজের আলাদা পথ। পুরোনো দিনের টুনি বাল্বের মালায় একটা গেলে সব নিভে যেত, ওটা ছিল শ্রেণি বর্তনী।
+      বর্তনী সম্পূর্ণ না হলে বিদ্যুৎ বয় না, এই একটা নিয়মেই দুটোই বোঝা যায়।
+    validation: *val
+    status: approved
+  - id: s_circuit_tram
+    concept_id: c_circuit
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: tram}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      কলকাতার ট্রামের মাথায় একটা দণ্ড ওপরের তারে লেগে থাকে। তার থেকে বিদ্যুৎ দণ্ড দিয়ে মোটরে নামে, মোটর ঘোরে, আর বিদ্যুৎ
+      লোহার রেল দিয়ে ফিরে যায়। তার-দণ্ড-মোটর-রেল মিলে একটা সম্পূর্ণ বর্তনী; দণ্ড তার থেকে খসে গেলেই ট্রাম থেমে যায়, কারণ
+      বর্তনী ভেঙে যায়।
+    validation: *val
+    status: approved
+
+  # ---- food chain, adaptation ----
+  - id: s_foodchain_sundarban
+    concept_id: c_foodchain
+    strategy: cultural_grounding
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: royal_bengal_tiger}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      সুন্দরবনে সুন্দরী গাছ আর ঘাস রোদে খাদ্য বানায়, হরিণ সেই পাতা-ঘাস খায়, আর রয়েল বেঙ্গল টাইগার হরিণ শিকার করে।
+      উৎপাদক থেকে খাদক হয়ে শীর্ষ খাদক পর্যন্ত এই খাবারের সারিই খাদ্যশৃঙ্খল। নদীতেও একই শৃঙ্খল: ছোট মাছ, বড় মাছ, কুমির।
+      একটা কড়ি ভাঙলে পুরো শৃঙ্খলে টান পড়ে, তাই বাঘ বাঁচানো মানে জঙ্গল বাঁচানো।
+    validation: *val
+    status: approved
+  - id: s_foodchain_elephant
+    concept_id: c_foodchain
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: wild_elephant}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      ডুয়ার্সের বুনো হাতি তৃণভোজী, জঙ্গলের ঘাস-পাতা-কলাগাছ খায়। জঙ্গল কমলে খাবার কমে, তখন হাতির দল ধানখেত বা চা-বাগানে
+      ঢোকে। খাদ্যশৃঙ্খলে হাতি প্রথম স্তরের খাদক, তার খাদ্য উৎপাদক উদ্ভিদ; উদ্ভিদ কমলে খাদক বিপদে পড়ে, এটাই মানুষ-হাতি
+      সংঘাতের বিজ্ঞান।
+    validation: *val
+    status: approved
+  - id: s_adaptation_mangrove
+    concept_id: c_adaptation
+    strategy: anchor_substitution
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: mangrove_sundari}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      সুন্দরী গাছের শিকড় কাদার ওপরে খাড়া হয়ে বেরিয়ে থাকে, এদের নাম শ্বাসমূল। জোয়ারের নোনা জলে ডোবা কাদায় বাতাস কম,
+      তাই গাছ শিকড় ওপরে তুলে শ্বাস নেয়। নোনা জল সহ্য করা আর শ্বাসমূল, দুটোই সুন্দরবনের পরিবেশে বাঁচার অভিযোজন।
+      মরুভূমির ক্যাকটাসের কাঁটা যেমন অভিযোজন, সুন্দরী গাছের শ্বাসমূলও তেমন।
+    validation: *val
+    status: approved
+
+  # ---- combustion, fossil fuel, soil ----
+  - id: s_combustion_coal
+    concept_id: c_combustion
+    strategy: anchor_substitution
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: coal}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      রানিগঞ্জ-আসানসোলের খনির কয়লা উনুনে জ্বললে তাপ আর আলো দেয়, এটাই দহন। দহনের জন্য বাতাসের অক্সিজেন লাগে, তাই উনুনে
+      হাওয়া দিলে আগুন বাড়ে আর ঢাকা দিলে নিভে যায়। কয়লা লক্ষ লক্ষ বছর আগের গাছপালা মাটির নিচে চাপে-তাপে বদলে তৈরি,
+      তাই এটি জীবাশ্ম জ্বালানি, একবার পুড়লে আর ফিরে আসে না।
+    validation: *val
+    status: approved
+  - id: s_soil_laterite
+    concept_id: c_soil
+    strategy: anchor_substitution
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: laterite_soil}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পুরুলিয়া-বাঁকুড়ার মাটি লাল, কারণ এতে লোহার অক্সাইড আছে, ঠিক লোহায় মরচে পড়লে যেমন লাল হয়। এই লালমাটি জল ধরে রাখতে
+      পারে না, বৃষ্টির জল দ্রুত নিচে নেমে যায়, তাই গ্রীষ্মে খরা হয়। গঙ্গার পাড়ের কালো পলিমাটি জল ধরে রাখে বলে ধান ভালো হয়,
+      লালমাটিতে হয় শালবন আর শুকনো ফসল।
+    validation: *val
+    status: approved
+
+  # ---- nutrition, tides ----
+  - id: s_nutrition_midday
+    concept_id: c_nutrition
+    strategy: applied_context
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: midday_meal}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      স্কুলের মিড-ডে মিলের থালাটা একটা সুষম খাদ্যের পাঠ। খিচুড়ির চাল দেয় শর্করা, যা কাজের শক্তি; ডাল আর ডিম দেয় প্রোটিন,
+      যা শরীর গড়ে; সবজি দেয় ভিটামিন ও খনিজ, যা রোগ ঠেকায়। সব উপাদান ঠিক পরিমাণে থাকলে তাকেই সুষম খাদ্য বলে।
+    validation: *val
+    status: approved
+  - id: s_tides_gangasagar
+    concept_id: c_tides
+    strategy: applied_context
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: gangasagar}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      গঙ্গাসাগর মেলায় যাওয়ার লঞ্চ দিনে দুবার নির্দিষ্ট সময়ে ছাড়ে, কারণ ভাটায় জল এত নামে যে লঞ্চ ঘাটে ভিড়তে পারে না।
+      চাঁদের আকর্ষণে সমুদ্রের জল দিনে দুবার ফুলে ওঠে (জোয়ার) আর দুবার নেমে যায় (ভাটা)। সুন্দরবনের মানুষ ঘড়ির চেয়ে
+      জোয়ার-ভাটার সময় বেশি মনে রাখে।
+    validation: *val
+    status: approved
+  - id: s_tides_hooghly
+    concept_id: c_tides
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: ganga_hooghly}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      কলকাতার গঙ্গার ঘাটে দাঁড়ালে দেখবে, কখনো জল সিঁড়ির ওপরের ধাপ ছুঁয়ে ফেলে, কয়েক ঘণ্টা পরে অনেক নিচে নেমে যায়।
+      সমুদ্র থেকে এত দূরে এসেও হুগলি নদীতে দিনে দুবার জোয়ার-ভাটা হয়, কারণ চাঁদের আকর্ষণে সমুদ্রের জল ফুলে নদীতে ঢোকে।
+      জোয়ারে বড় জাহাজ বন্দরে ঢোকে, ভাটায় অপেক্ষা করে।
+    validation: *val
+    status: approved
+
+  # ---- mathematics ----
+  - id: s_percentage_hat
+    concept_id: m_percentage
+    strategy: applied_context
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: hat_market}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      হাটে দোকানি বলল, ৪০০ টাকার আমে ১৫% ছাড়। শতকরা মানে প্রতি ১০০ টাকায় ১৫ টাকা ছাড়, তাই ৪০০ টাকায় ছাড় হবে
+      ৪০০ × ১৫ ÷ ১০০ = ৬০ টাকা, দিতে হবে ৩৪০ টাকা। হাটের দর-দাম শতকরা শেখার সবচেয়ে সহজ জায়গা।
+    validation: *val
+    status: approved
+  - id: s_percentage_tea_wage
+    concept_id: m_percentage
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: tea_worker}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      চা-বাগানে মজুরি ২০০ টাকা থেকে ১০% বাড়লে কত হবে? ১০% মানে প্রতি ১০০ টাকায় ১০ টাকা, তাই ২০০ টাকায় বৃদ্ধি
+      ২০০ × ১০ ÷ ১০০ = ২০ টাকা, নতুন মজুরি ২২০ টাকা। মজুরি, ছাড়, পরীক্ষার নম্বর, সবই শতকরায় বলা হয়।
+    validation: *val
+    status: approved
+  - id: s_ratio_midday
+    concept_id: m_ratio
+    strategy: applied_context
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: midday_meal}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      মিড-ডে মিলের খিচুড়িতে চাল আর ডালের অনুপাত ৩ : ১, অর্থাৎ ৩ কেজি চালে ১ কেজি ডাল। ছাত্র বেশি হলে দুটোই একই গুণে
+      বাড়ে: ১২ কেজি চালে ৪ কেজি ডাল, অনুপাত তখনও ৩ : ১। অনুপাত মানে দুটো পরিমাণের তুলনা, মোট পরিমাণ নয়।
+    validation: *val
+    status: approved
+  - id: s_unitconv_bigha
+    concept_id: m_unitconv
+    strategy: applied_context
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: bigha_katha}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      গ্রামে জমির মাপ বিঘা-কাঠায় বলা হয়: ১ বিঘা = ২০ কাঠা। তাই ২ বিঘা ১০ কাঠা মানে ২ × ২০ + ১০ = ৫০ কাঠা।
+      মিটার-সেন্টিমিটারের মতো এটাও একক রূপান্তর, শুধু গুণ করার সংখ্যাটা ১০০ নয়, ২০।
+    validation: *val
+    status: approved
+  - id: s_si_haalkhata
+    concept_id: m_si
+    strategy: cultural_grounding
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: poila_boishakh}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পয়লা বৈশাখে দোকানে হালখাতা হয়, পুরোনো ধার মিটিয়ে নতুন খাতা খোলা। কেউ ১০০০ টাকা ধার নিয়ে বছরে ৫% হারে ১ বছর পর
+      শোধ করলে সুদ হয় ১০০০ × ৫ × ১ ÷ ১০০ = ৫০ টাকা, মোট ১০৫০ টাকা। আসল, সুদের হার আর সময় দিয়ে এই হিসাবই সরল সুদ।
+    validation: *val
+    status: approved
+  - id: s_profitloss_hilsa
+    concept_id: m_profitloss
+    strategy: applied_context
+    zone_id: sundarbans_delta
+    local_anchor: {entity_id: hilsa}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      আড়ত থেকে ৮০০ টাকা কেজিতে ইলিশ কিনে বাজারে ১০০০ টাকায় বেচলে প্রতি কেজিতে লাভ ১০০০ - ৮০০ = ২০০ টাকা। মাছ পচে
+      গিয়ে ৬০০ টাকায় বেচতে হলে ক্ষতি ২০০ টাকা। ক্রয়মূল্য আর বিক্রয়মূল্যের তুলনাই লাভ-ক্ষতি, মাছের বাজারে রোজ এই অঙ্ক হয়।
+    validation: *val
+    status: approved
+  - id: s_speed_metro
+    concept_id: m_speed
+    strategy: applied_context
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: metro}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      মেট্রো ২০ মিনিটে ১৫ কিমি গেলে গতিবেগ কত? গতিবেগ = দূরত্ব ÷ সময় = ১৫ কিমি ÷ (২০ ÷ ৬০) ঘণ্টা = ৪৫ কিমি/ঘণ্টা।
+      মেট্রোর সময়সূচি দেখে স্কুলে পৌঁছনোর সময় বার করা মানেই সময়-দূরত্ব-গতিবেগের অঙ্ক।
+    validation: *val
+    status: approved
+  - id: s_speed_toto
+    concept_id: m_speed
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: toto}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      বাড়ি থেকে স্কুল ৬ কিমি, টোটো ২০ কিমি/ঘণ্টা বেগে গেলে সময় লাগে দূরত্ব ÷ গতিবেগ = ৬ ÷ ২০ ঘণ্টা = ০.৩ ঘণ্টা = ১৮ মিনিট।
+      কখন বেরোলে সময়ে পৌঁছবে, তা এই হিসাবেই ঠিক হয়।
+    validation: *val
+    status: approved
+  - id: s_area_pukur
+    concept_id: m_area
+    strategy: applied_context
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: pukur_pond}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      একটা আয়তাকার পুকুর ৪০ মিটার লম্বা ও ২৫ মিটার চওড়া হলে পাড় ধরে হাঁটলে দূরত্ব হবে পরিসীমা = ২ × (৪০ + ২৫) = ১৩০ মিটার,
+      আর জলের ক্ষেত্রফল = ৪০ × ২৫ = ১০০০ বর্গমিটার। মাছ ছাড়ার সংখ্যা ঠিক হয় এই ক্ষেত্রফল দেখেই।
+    validation: *val
+    status: approved
+  - id: s_mean_tea
+    concept_id: m_mean
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: tea_worker}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      এক শ্রমিক সপ্তাহের পাঁচ দিনে ২৪, ২৬, ২২, ২৮ ও ২৫ কেজি পাতা তুললে দৈনিক গড় = মোট ÷ দিন = ১২৫ ÷ ৫ = ২৫ কেজি।
+      মজুরির হিসাবে এই গড় দেখা হয়। গড় মানে সব রাশির যোগফলকে রাশির সংখ্যা দিয়ে ভাগ।
+    validation: *val
+    status: approved
+  - id: s_fraction_pithe
+    concept_id: m_fraction
+    strategy: anchor_substitution
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: pithe}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      পৌষ পার্বণের একটা বড় পাটিসাপটা সমান ৪ টুকরো করে ভাইবোনে ভাগ করলে প্রত্যেকে পায় ১/৪ অংশ। দুজন মিলে খেলে ২/৪ অংশ,
+      যা আসলে অর্ধেক, অর্থাৎ ১/২। পুরোটাকে সমান ভাগে ভেঙে তার কয়টা নিলাম, সেটাই ভগ্নাংশ।
+    validation: *val
+    status: approved
+  - id: s_addition_muri
+    concept_id: m_addition
+    strategy: anchor_substitution
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: muri}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      রিনার হাতে ৩টি মুড়ির মোয়া, ঠাকুমা আরও ২টি দিলেন। এক, দুই, তিন, চার, পাঁচ। এখন রিনার ৫টি মোয়া। ৩ + ২ = ৫,
+      এটাই যোগ। দুটো মোয়া খেয়ে ফেললে থাকবে ৫ - ২ = ৩টি, এটা বিয়োগ।
+    validation: *val
+    status: approved
+  - id: s_addition_mango
+    concept_id: m_addition
+    strategy: anchor_substitution
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: mango}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      মিতুর কাছে ৪টি আম ছিল, বাবা বাগান থেকে আরও ৩টি আনলেন। গুনে দেখো: ৪ + ৩ = ৭টি আম। মিতু ২টি বন্ধুকে দিলে থাকবে
+      ৭ - ২ = ৫টি। জিনিস গুনে যোগ-বিয়োগ শেখা সবচেয়ে সহজ।
+    validation: *val
+    status: approved
+  - id: s_calendar_poila
+    concept_id: m_calendar
+    strategy: cultural_grounding
+    zone_id: gangetic_plain
+    local_anchor: {entity_id: poila_boishakh}
+    keep_canonical: true
+    disanalogy_flags: []
+    text_bn: >-
+      বাংলা বছর শুরু হয় বৈশাখে, পয়লা বৈশাখ মানে বৈশাখ মাসের ১ তারিখ। বৈশাখ, জ্যৈষ্ঠ, আষাঢ়, শ্রাবণ, ভাদ্র, আশ্বিন, কার্তিক,
+      অগ্রহায়ণ, পৌষ, মাঘ, ফাল্গুন, চৈত্র, এই ১২ মাসে বছর। ক্যালেন্ডারে দিন-সপ্তাহ-মাস গোনা মানেই সময়ের অঙ্ক।
+    validation: *val
+    status: approved
+
+# Documented traps: the gate must reject these automatically (the guardrail is data, not memory).
+rejected_examples:
+  - id: s_gravity_kite_REJECTED
+    concept_id: c_gravity
+    strategy: anchor_substitution
+    zone_id: kolkata_metro
+    local_anchor: {entity_id: kite}
+    reason_bn: ঘুড়ি ওপরে ওঠে, নিচে পড়ে না; মহাকর্ষের উদাহরণ হিসেবে ভুল ধারণা তৈরি করে। affordance NOT_falls ম্যাচ আটকায়।
+    status: rejected
+  - id: s_conduction_matka_REJECTED
+    concept_id: c_heatexp
+    strategy: anchor_substitution
+    zone_id: rarh_plateau
+    local_anchor: {entity_id: matka}
+    reason_bn: কলসি ঠান্ডা রাখে বাষ্পীভবনে, পরিবহনে নয়; তাপ-পরিবহনের উদাহরণ হিসেবে ব্যবহার করলে ভুল শেখানো হয়। NOT_conduction_cooling ম্যাচ আটকায়।
+    status: rejected

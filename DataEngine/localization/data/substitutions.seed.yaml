@@ -1,0 +1,161 @@
+# Worked units — 8 examples, all 5 strategies, Science G6-10, NCERT spine.
+# status: draft = machine-generated, awaiting teacher_review. NONE are 'approved' until a teacher signs authenticity.
+
+concepts:
+  - {id: c_gravity,    lo_code: "PhSc-8-Force-03", name: Gravitational force,          grade: 8,  canonical_anchor: {entity: apple,        affordances: [visible_mass, detaches, falls, everyday]}, localizable: true}
+  - {id: c_photo,      lo_code: "Bio-7-Nutrition-02", name: Photosynthesis,            grade: 7,  canonical_anchor: {entity: leaf_factory, affordances: [inputs, energy_source, output, transformation]}, localizable: true}
+  - {id: c_acidbase,   lo_code: "Chem-7-Matter-04", name: Acids, bases, indicators,    grade: 7,  canonical_anchor: {entity: litmus,       affordances: [color_change_with_ph]}, localizable: true}
+  - {id: c_microbe,    lo_code: "Bio-8-Microorg-01", name: Useful microorganisms,      grade: 8,  canonical_anchor: {entity: yeast_bread,  affordances: [microbial, involves_transformation, needs_starter]}, localizable: true}
+  - {id: c_evap,       lo_code: "PhSc-6-Matter-02", name: Evaporation & change of state, grade: 6, canonical_anchor: {entity: drying_clothes, affordances: [evaporation_visible, phase_change]}, localizable: true}
+  - {id: c_friction,   lo_code: "PhSc-8-Force-05", name: Friction,                     grade: 8,  canonical_anchor: {entity: ball_on_floor, affordances: [surface_contact, opposes_motion]}, localizable: true}
+  - {id: c_sound,      lo_code: "PhSc-8-Sound-01", name: Sound & vibration,             grade: 8,  canonical_anchor: {entity: tuning_fork,  affordances: [vibration_visible, produces_sound]}, localizable: true}
+  - {id: c_reflect,    lo_code: "PhSc-8-Light-02", name: Reflection of light,          grade: 8,  canonical_anchor: {entity: plane_mirror, affordances: [smooth_surface, reflects_image]}, localizable: true}
+
+substitutions:
+
+  - id: s_gravity_coconut
+    concept_id: c_gravity
+    strategy: anchor_substitution
+    zone_id: kerala_coast
+    local_anchor: {entity_id: coconut, affordance_match: "4/4"}
+    keep_canonical: true
+    disanalogy_flags: []
+    generated_text: >
+      Newton watched an apple fall. On the Kerala coast you see it every day when a
+      coconut drops from a tall tree — straight down, never sideways or up. The Earth
+      pulls the coconut toward its centre with a force we call gravity; a heavier coconut
+      is pulled harder but, dropped from the same height, lands at the same time as a
+      lighter one. (In your exam this is still the force of gravity, the same one that
+      pulled Newton's apple — the coconut is just our local apple.)
+    validation: {pedagogy: pass, authenticity: pending_teacher, factual: pass}
+    status: teacher_review
+
+  - id: s_gravity_mango
+    concept_id: c_gravity
+    strategy: anchor_substitution
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: mango, affordance_match: "4/4"}
+    keep_canonical: true
+    disanalogy_flags: []
+    generated_text: >
+      When you shake a mango tree in summer, every mango falls to the ground — none
+      floats away. That downward pull is gravity, the Earth's force on the mango's mass,
+      exactly the force Newton named watching an apple.
+    validation: {pedagogy: pass, authenticity: pending_teacher, factual: pass}
+    status: teacher_review
+
+  - id: s_photo_khichdi
+    concept_id: c_photo
+    strategy: analogy
+    zone_id: punjab_plains
+    local_anchor: {entity_id: khichdi, affordance_match: "3/4"}
+    mapping:
+      inputs:  "raw rice + dal + water  ↔  CO2 + water"
+      energy:  "heat of the chulha       ↔  sunlight"
+      output:  "cooked khichdi           ↔  glucose (food)"
+      site:    "the pot                  ↔  the chloroplast in the leaf"
+    keep_canonical: true
+    disanalogy_flags:
+      - "ENERGY DIFFERS: khichdi uses HEAT; photosynthesis captures LIGHT. Teacher must say this aloud or students think plants need warmth, not light."
+      - "No gas exchange in cooking; photosynthesis releases O2. Do not let the analogy imply cooking makes air."
+    generated_text: >
+      Think of a leaf as a tiny kitchen making khichdi. Raw ingredients (carbon dioxide
+      from the air and water from the roots) go in; energy cooks them into food (glucose).
+      The pot is the chloroplast. One difference to remember: your chulha cooks with HEAT,
+      but a leaf cooks with LIGHT from the sun — that is why plants need sunlight, not a
+      stove. And unlike your kitchen, the leaf also breathes out oxygen. The proper name
+      stays 'photosynthesis'.
+    validation: {pedagogy: pass, authenticity: pending_teacher, factual: pass}
+    status: teacher_review
+
+  - id: s_acidbase_haldi
+    concept_id: c_acidbase
+    strategy: anchor_substitution
+    zone_id: deccan_plateau
+    local_anchor: {entity_id: haldi_turmeric, affordance_match: "1/1"}
+    keep_canonical: true
+    disanalogy_flags: []
+    generated_text: >
+      You don't need shop-bought litmus to test acids and bases — your kitchen has haldi.
+      A stain of turmeric on cloth stays yellow with something sour like lemon (acid) but
+      turns bright red when soap or lime water (a base) touches it. That colour change is
+      exactly what a chemical indicator does; turmeric is a natural indicator. (Litmus is
+      still the standard indicator for your exam — haldi just shows you the same idea at home.)
+    validation: {pedagogy: pass, authenticity: pending_teacher, factual: pass}
+    status: teacher_review
+
+  - id: s_microbe_dahi
+    concept_id: c_microbe
+    strategy: applied_context
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: dahi_curd, affordance_match: "3/3"}
+    mapping: {starter: "a spoon of old dahi ↔ inoculating culture", agent: "Lactobacillus", change: "milk → curd"}
+    keep_canonical: true
+    disanalogy_flags: []
+    generated_text: >
+      Every time your family sets dahi by stirring a spoon of yesterday's curd into warm
+      milk, you are doing microbiology. That spoon carries Lactobacillus bacteria; they
+      multiply and turn the milk's sugar into acid, thickening it into curd. Microorganisms
+      aren't only germs that make us sick — here they make food. This is the same 'useful
+      microorganisms' idea as yeast in bread.
+    validation: {pedagogy: pass, authenticity: pending_teacher, factual: pass}
+    status: teacher_review
+
+  - id: s_evap_saltpan
+    concept_id: c_evap
+    strategy: applied_context
+    zone_id: coastal_tamil_nadu
+    local_anchor: {entity_id: solar_salt_pan, affordance_match: "2/2"}
+    keep_canonical: true
+    disanalogy_flags: []
+    generated_text: >
+      At the salt pans near the coast, seawater is let into shallow beds and the sun does
+      the rest — day by day the water evaporates and white salt is left behind. Evaporation
+      is water changing from liquid to vapour below its boiling point, using heat from the
+      sun. The salt worker's whole livelihood is one change of state.
+    validation: {pedagogy: pass, authenticity: pending_teacher, factual: pass}
+    status: teacher_review
+
+  - id: s_sound_dhak
+    concept_id: c_sound
+    strategy: sensory
+    zone_id: north_bengal_tea_belt
+    local_anchor: {entity_id: dhak_drum, affordance_match: "2/2"}
+    keep_canonical: true
+    disanalogy_flags: []
+    generated_text: >
+      During Durga Puja, put your hand lightly on the dhak as the dhaki plays — you feel
+      the skin buzzing. That buzzing is vibration, and vibration is sound. Stop the skin
+      with your palm and the sound dies instantly. A vibrating tuning fork in your textbook
+      does the same thing; the dhak just lets you feel it in your chest.
+    validation: {pedagogy: pass, authenticity: pending_teacher, factual: pass}
+    status: teacher_review
+
+  - id: s_reflect_temple_tank
+    concept_id: c_reflect
+    strategy: anchor_substitution
+    zone_id: coastal_tamil_nadu
+    local_anchor: {entity_id: temple_tank, affordance_match: "2/2"}
+    keep_canonical: true
+    disanalogy_flags:
+      - "Still water reflects only when SMOOTH; ripples destroy the image. Use to teach why a plane mirror must be smooth."
+    generated_text: >
+      Stand at the temple tank on a still morning and the gopuram appears upside-down in
+      the water — a clear reflection. Throw a pebble and the image breaks into ripples.
+      Light bounces off a smooth surface in a fixed way (reflection); a plane mirror is
+      just a perfectly smooth, permanent version of that calm water.
+    validation: {pedagogy: pass, authenticity: pending_teacher, factual: pass}
+    status: teacher_review
+
+# --- deliberately NOT generated: a trap case documented so the pipeline learns the guardrail ---
+rejected_examples:
+  - id: s_conduction_matka_REJECTED
+    concept_id: null   # would have been a conduction/heat concept
+    strategy: anchor_substitution
+    zone_id: rajasthan_arid
+    local_anchor: {entity_id: matka}
+    reason_rejected: >
+      A matka keeping water cool is EVAPORATIVE cooling (water seeps through porous clay
+      and evaporates), NOT conduction. Using it to teach conduction bakes in a misconception.
+      Correct use: teach evaporation/cooling, and explicitly contrast with conduction.
+    lesson: "affordance NOT_conduction_cooling=true must block the conduction match automatically."

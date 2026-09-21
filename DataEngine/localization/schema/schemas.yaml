@@ -1,0 +1,53 @@
+# Record contracts. Human-readable; enforce with jsonschema/pydantic in CI.
+
+concept:                     # curriculum spine node — anchor to LEARNING OUTCOME, not chapter
+  id:            str         # stable slug
+  lo_code:       str         # NCERT/NCF learning-outcome code = canonical, board-agnostic node
+  name:          str
+  subject:       enum[Science]        # wedge: Science only for now
+  grade:         int[6..10]
+  canonical_anchor:                   # the textbook example we KEEP (additive policy)
+    entity:      str                  # e.g. "apple"
+    affordances: list[str]            # properties that make it work — the substitution contract
+  board_aliases: list[{board, chapter}]   # WBBSE/CBSE/TN-SCERT views onto the same lo_code
+  localizable:   bool                 # some concepts must stay canonical — mark false, skip them
+
+local_entity:                # the reusable KB — build once, reused across every concept
+  id:            str
+  name:          str
+  kind:          enum[fruit, crop, food, festival, occupation, animal, landmark, tool, weather, dish]
+  zones:         list[zone_id]        # agro-cultural-ecological zones, NOT districts
+  affordances:   dict[str, bool|str]  # physical+cultural props: {visible_mass, falls, seasonal,
+                                      #   edible, involves_transformation, sacred, livelihood,...}
+  authenticity:  {validated_by, note} # teacher-confirmed it is actually common in the zone
+
+zone:                        # cultural-ecological zone (salience unit)
+  id:            str         # e.g. north_bengal_tea_belt
+  name:          str
+  states:        list[str]   # admin geography is metadata, not the key
+  languages:     list[str]
+
+substitution:                # THE ATOMIC UNIT
+  id:            str
+  concept_id:    ref[concept]
+  strategy:      enum[anchor_substitution, analogy, applied_context, cultural_grounding, sensory]
+  zone_id:       ref[zone]
+  local_anchor:  {entity_id: ref[local_entity], affordance_match: "n/m"}
+  mapping:       dict         # for analogy/applied: how local maps to concept parts
+  disanalogy_flags: list[str] # REQUIRED for strategy=analogy: where the analogy leaks
+  keep_canonical: bool        # additive policy — almost always true
+  generated_text: str         # LLM output
+  validation:    {pedagogy: enum[pass,fail], authenticity: str, factual: enum[pass,fail]}
+  status:        enum[draft, teacher_review, approved, rejected]
+
+# ---- West Bengal extensions (2026-09-19, Track 3) ----
+wb_extensions:
+  entity.kind:        adds [plant, place, vehicle, unit, resource, activity]
+  entity.name_bn:     str            # Bengali display name (review sheets, SFT)
+  entity.affordances: may carry NOT_<key>: true to BLOCK any concept requiring <key> (kite NOT_falls, matka NOT_conduction_cooling)
+  zone:               adds name_bn, districts[], context_bn, everyday_places_bn[], festivals_bn[], local_units_bn[]
+  district_zone_map:  every WB district -> primary zone (+ secondary)
+  concept:            adds name_bn, subject, exam_term_bn (ALWAYS kept in output), quiz_bn[], board_aliases[].alias_status
+  substitution:       adds text_bn (block scalar), validation.attested_by, validation.date
+  validation.authenticity: enum[pending_teacher, teacher_informal, teacher_signed]
+                      # teacher_informal = approved offline by teachers who do not use forms; team attests who/when

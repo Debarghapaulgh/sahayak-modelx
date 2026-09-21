@@ -1,0 +1,168 @@
+# West Bengal concept spine — curriculum nodes re-keyed to WB textbooks (Track 3, #21).
+# canonical_anchor.affordances = the substitution contract: a local entity may replace the anchor only if it
+# satisfies these. board_aliases are best-effort textbook/class placements; alias_status: unverified until
+# linked to synthetictutor/knowledge/curriculum_manifest.py (manifest_id). exam_term_bn is ALWAYS kept in output.
+
+concepts:
+  # ---------------- science ----------------
+  - {id: c_gravity, lo_code: PhSc-8-Force-03, name: Gravitational force, name_bn: মহাকর্ষ (অভিকর্ষ বল), subject: Science, grade: 8,
+     canonical_anchor: {entity: apple, entity_bn: আপেল, affordances: [visible_mass, detaches, falls, everyday]},
+     board_aliases: [{board: WBBSE, grade: 8, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: বল ও চাপ, alias_status: unverified}],
+     exam_term_bn: অভিকর্ষ বল, localizable: true,
+     quiz_bn: [{q: "কোন বলের জন্য গাছ থেকে ফল নিচে পড়ে?", a: "অভিকর্ষ বল (মহাকর্ষ)।"}, {q: "একই উচ্চতা থেকে ভারী ও হালকা ফল ফেললে কোনটি আগে মাটিতে পড়ে (বাতাসের বাধা না ধরলে)?", a: "একই সময়ে পড়ে।"}]}
+  - {id: c_photo, lo_code: Bio-7-Nutrition-02, name: Photosynthesis, name_bn: সালোকসংশ্লেষ, subject: Science, grade: 7,
+     canonical_anchor: {entity: leaf_factory, entity_bn: পাতার কারখানা, affordances: [inputs, needs_energy_input, output, involves_transformation]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: উদ্ভিদের পুষ্টি, alias_status: unverified}],
+     exam_term_bn: সালোকসংশ্লেষ, localizable: true,
+     quiz_bn: [{q: "সালোকসংশ্লেষে গাছ কোন গ্যাস গ্রহণ করে?", a: "কার্বন ডাই-অক্সাইড।"}, {q: "সালোকসংশ্লেষের জন্য শক্তি কোথা থেকে আসে?", a: "সূর্যালোক থেকে।"}]}
+  - {id: c_acidbase, lo_code: Chem-7-Matter-04, name: Acids bases and indicators, name_bn: অ্যাসিড ক্ষার ও নির্দেশক, subject: Science, grade: 8,
+     canonical_anchor: {entity: litmus, entity_bn: লিটমাস, affordances: [color_change_with_ph]},
+     board_aliases: [{board: WBBSE, grade: 8, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: অ্যাসিড ক্ষার ও লবণ, alias_status: unverified}],
+     exam_term_bn: নির্দেশক, localizable: true,
+     quiz_bn: [{q: "লাল লিটমাস কাগজ ক্ষারে কোন রং হয়?", a: "নীল।"}, {q: "রান্নাঘরের কোন জিনিস ঘরোয়া নির্দেশকের কাজ করে?", a: "হলুদ।"}]}
+  - {id: c_microbe, lo_code: Bio-8-Microorg-01, name: Useful microorganisms, name_bn: উপকারী অণুজীব, subject: Science, grade: 8,
+     canonical_anchor: {entity: yeast_bread, entity_bn: পাউরুটির ইস্ট, affordances: [microbial, involves_transformation, needs_starter]},
+     board_aliases: [{board: WBBSE, grade: 8, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: অণুজীবের জগৎ, alias_status: unverified}],
+     exam_term_bn: অণুজীব, localizable: true,
+     quiz_bn: [{q: "দুধ থেকে দই হয় কোন অণুজীবের কাজে?", a: "ল্যাক্টোব্যাসিলাস ব্যাকটেরিয়া।"}, {q: "পাট পচানো (জাগ দেওয়া) কার কাজ?", a: "জলের অণুজীবের।"}]}
+  - {id: c_evap, lo_code: PhSc-6-Matter-02, name: Evaporation and change of state, name_bn: বাষ্পীভবন ও অবস্থার পরিবর্তন, subject: Science, grade: 6,
+     canonical_anchor: {entity: drying_clothes, entity_bn: কাপড় শুকানো, affordances: [evaporation_visible, phase_change]},
+     board_aliases: [{board: WBBSE, grade: 6, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: পদার্থের অবস্থা, alias_status: unverified}],
+     exam_term_bn: বাষ্পীভবন, localizable: true,
+     quiz_bn: [{q: "তরল থেকে বাষ্পে পরিণত হওয়াকে কী বলে?", a: "বাষ্পীভবন।"}, {q: "রোদে ভেজা কাপড় শুকায় কেন?", a: "জল বাষ্প হয়ে বাতাসে মিশে যায়।"}]}
+  - {id: c_evapcool, lo_code: PhSc-7-Heat-03, name: Cooling by evaporation, name_bn: বাষ্পীভবনে শীতলতা, subject: Science, grade: 7,
+     canonical_anchor: {entity: sweat, entity_bn: ঘাম, affordances: [evaporative_cooling]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: তাপ, alias_status: unverified}],
+     exam_term_bn: বাষ্পীভবনজনিত শীতলতা, localizable: true,
+     quiz_bn: [{q: "ঘাম শুকালে ঠান্ডা লাগে কেন?", a: "বাষ্পীভবনের সময় ঘাম শরীর থেকে তাপ নেয়।"}, {q: "মাটির কলসির জল ঠান্ডা থাকে কোন প্রক্রিয়ায়?", a: "বাষ্পীভবনে, পরিবহনে নয়।"}]}
+  - {id: c_friction, lo_code: PhSc-8-Force-05, name: Friction, name_bn: ঘর্ষণ, subject: Science, grade: 8,
+     canonical_anchor: {entity: ball_on_floor, entity_bn: মেঝেতে গড়ানো বল, affordances: [surface_contact, opposes_motion]},
+     board_aliases: [{board: WBBSE, grade: 8, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: বল ও চাপ, alias_status: unverified}],
+     exam_term_bn: ঘর্ষণ বল, localizable: true,
+     quiz_bn: [{q: "ঘর্ষণ বল গতির দিকে না বিপরীত দিকে কাজ করে?", a: "বিপরীত দিকে।"}, {q: "সাইকেলের ব্রেক কোন বলের সাহায্যে গাড়ি থামায়?", a: "ঘর্ষণ বল।"}]}
+  - {id: c_sound, lo_code: PhSc-8-Sound-01, name: Sound and vibration, name_bn: শব্দ ও কম্পন, subject: Science, grade: 8,
+     canonical_anchor: {entity: tuning_fork, entity_bn: সুরশলাকা, affordances: [vibration_visible, produces_sound]},
+     board_aliases: [{board: WBBSE, grade: 8, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: শব্দ, alias_status: unverified}],
+     exam_term_bn: কম্পন, localizable: true,
+     quiz_bn: [{q: "শব্দ তৈরি হয় কীসের ফলে?", a: "কম্পনের ফলে।"}, {q: "ঢাকের চামড়া হাত দিয়ে চেপে ধরলে শব্দ থেমে যায় কেন?", a: "কম্পন বন্ধ হয়ে যায়।"}]}
+  - {id: c_reflect, lo_code: PhSc-8-Light-02, name: Reflection of light, name_bn: আলোর প্রতিফলন, subject: Science, grade: 7,
+     canonical_anchor: {entity: plane_mirror, entity_bn: সমতল দর্পণ, affordances: [smooth_surface, reflects_image]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: আলো, alias_status: unverified}],
+     exam_term_bn: প্রতিফলন, localizable: true,
+     quiz_bn: [{q: "শান্ত জলে গাছের ছায়া দেখা যায় কোন ঘটনার জন্য?", a: "আলোর প্রতিফলন।"}, {q: "জলে ঢেউ উঠলে ছায়া ভেঙে যায় কেন?", a: "তল আর মসৃণ থাকে না।"}]}
+  - {id: c_watercycle, lo_code: PhSc-6-Water-01, name: Water cycle, name_bn: জলচক্র, subject: Science, grade: 6,
+     canonical_anchor: {entity: kettle_steam, entity_bn: কেটলির বাষ্প, affordances: [evaporation_visible, condensation, water_cycle]},
+     board_aliases: [{board: WBBSE, grade: 6, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: জল, alias_status: unverified}],
+     exam_term_bn: জলচক্র, localizable: true,
+     quiz_bn: [{q: "মেঘ কীভাবে তৈরি হয়?", a: "জলীয় বাষ্প ওপরে উঠে ঠান্ডায় ঘনীভূত হয়ে।"}, {q: "শীতের সকালের কুয়াশা কী?", a: "বাতাসের জলীয় বাষ্প ঘনীভূত হয়ে তৈরি ছোট জলকণা।"}]}
+  - {id: c_airpressure, lo_code: PhSc-7-Air-02, name: Air pressure and wind, name_bn: বায়ুচাপ ও বাতাস, subject: Science, grade: 7,
+     canonical_anchor: {entity: hot_air_rises, entity_bn: গরম বাতাস ওপরে ওঠে, affordances: [convection, low_pressure, wind]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: বায়ু, alias_status: unverified}],
+     exam_term_bn: নিম্নচাপ, localizable: true,
+     quiz_bn: [{q: "গরম বাতাস ওপরে ওঠে না নিচে নামে?", a: "ওপরে ওঠে, কারণ হালকা।"}, {q: "ঝড় সাধারণত কোন চাপের জায়গার দিকে বাতাস ছুটে গেলে হয়?", a: "নিম্নচাপের দিকে।"}]}
+  - {id: c_buoyancy, lo_code: PhSc-8-Fluid-01, name: Buoyancy floating and sinking, name_bn: প্লবতা (ভাসা ও ডোবা), subject: Science, grade: 8,
+     canonical_anchor: {entity: iron_ship, entity_bn: লোহার জাহাজ, affordances: [floats, buoyancy]},
+     board_aliases: [{board: WBBSE, grade: 8, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: বল ও চাপ, alias_status: unverified}],
+     exam_term_bn: প্লবতা, localizable: true,
+     quiz_bn: [{q: "নৌকায় বেশি মাল তুললে কী হয়?", a: "নৌকা আরও বেশি ডুবে যায়, বেশি জল সরায়।"}, {q: "লোহার লঞ্চ ভাসে কিন্তু লোহার পেরেক ডোবে কেন?", a: "লঞ্চের আকৃতি অনেক বেশি জল সরায়।"}]}
+  - {id: c_lever, lo_code: PhSc-6-Machine-01, name: Lever simple machine, name_bn: লিভার (সরল যন্ত্র), subject: Science, grade: 6,
+     canonical_anchor: {entity: seesaw, entity_bn: ঢেঁকি বা সি-স, affordances: [lever, effort_load]},
+     board_aliases: [{board: WBBSE, grade: 6, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: সরল যন্ত্র, alias_status: unverified}],
+     exam_term_bn: লিভার, localizable: true,
+     quiz_bn: [{q: "লিভারে হাতল লম্বা হলে কম না বেশি বল লাগে?", a: "কম বল লাগে।"}, {q: "নলকূপের হাতল কোন সরল যন্ত্র?", a: "লিভার।"}]}
+  - {id: c_heatexp, lo_code: PhSc-7-Heat-01, name: Thermal expansion, name_bn: তাপে প্রসারণ, subject: Science, grade: 7,
+     canonical_anchor: {entity: railway_gap, entity_bn: রেললাইনের ফাঁক, affordances: [expansion_with_heat]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: তাপ, alias_status: unverified}],
+     exam_term_bn: তাপীয় প্রসারণ, localizable: true,
+     quiz_bn: [{q: "গরমে ধাতু বড় হয় না ছোট হয়?", a: "সামান্য বড় হয়।"}, {q: "রেললাইন বা সেতুর জোড়ায় ফাঁক রাখা হয় কেন?", a: "গরমে প্রসারণের জায়গা দিতে।"}]}
+  - {id: c_circuit, lo_code: PhSc-6-Elec-01, name: Electric circuit, name_bn: বিদ্যুৎ বর্তনী, subject: Science, grade: 6,
+     canonical_anchor: {entity: torch_bulb, entity_bn: টর্চের বাল্ব, affordances: [electricity, battery]},
+     board_aliases: [{board: WBBSE, grade: 6, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: বিদ্যুৎ, alias_status: unverified}],
+     exam_term_bn: বর্তনী, localizable: true,
+     quiz_bn: [{q: "বর্তনী খোলা থাকলে বাল্ব জ্বলে কি?", a: "না, বর্তনী সম্পূর্ণ হতে হয়।"}, {q: "টোটো কীসের শক্তিতে চলে?", a: "ব্যাটারির বিদ্যুতে।"}]}
+  - {id: c_foodchain, lo_code: Bio-7-Eco-01, name: Food chain, name_bn: খাদ্যশৃঙ্খল, subject: Science, grade: 7,
+     canonical_anchor: {entity: grass_deer_tiger, entity_bn: ঘাস-হরিণ-বাঘ, affordances: [food_chain, predator]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: পরিবেশ ও বাস্তুতন্ত্র, alias_status: unverified}],
+     exam_term_bn: খাদ্যশৃঙ্খল, localizable: true,
+     quiz_bn: [{q: "খাদ্যশৃঙ্খলের শুরুতে কে থাকে?", a: "উৎপাদক, অর্থাৎ সবুজ উদ্ভিদ।"}, {q: "সুন্দরবনের খাদ্যশৃঙ্খলে শীর্ষ খাদক কে?", a: "রয়েল বেঙ্গল টাইগার।"}]}
+  - {id: c_adaptation, lo_code: Bio-7-Adapt-01, name: Adaptation, name_bn: অভিযোজন, subject: Science, grade: 7,
+     canonical_anchor: {entity: cactus, entity_bn: ক্যাকটাস, affordances: [adaptation]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: পরিবেশ ও অভিযোজন, alias_status: unverified}],
+     exam_term_bn: অভিযোজন, localizable: true,
+     quiz_bn: [{q: "সুন্দরী গাছের শ্বাসমূল কেন থাকে?", a: "কাদায় বাতাস কম বলে ওপরে উঠে শ্বাস নেয়।"}, {q: "অভিযোজন মানে কী?", a: "পরিবেশে বাঁচার জন্য জীবের দেহ বা আচরণের বিশেষ পরিবর্তন।"}]}
+  - {id: c_combustion, lo_code: Chem-8-Comb-01, name: Combustion and fuels, name_bn: দহন ও জ্বালানি, subject: Science, grade: 8,
+     canonical_anchor: {entity: candle, entity_bn: মোমবাতি, affordances: [combustion, energy]},
+     board_aliases: [{board: WBBSE, grade: 8, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: দহন, alias_status: unverified}],
+     exam_term_bn: দহন, localizable: true,
+     quiz_bn: [{q: "দহনের জন্য কোন গ্যাস দরকার?", a: "অক্সিজেন।"}, {q: "কয়লা কোন ধরনের জ্বালানি?", a: "জীবাশ্ম জ্বালানি।"}]}
+  - {id: c_soil, lo_code: Sci-7-Soil-01, name: Soil, name_bn: মাটি, subject: Science, grade: 7,
+     canonical_anchor: {entity: soil_types, entity_bn: মাটির প্রকার, affordances: [soil]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: মাটি, alias_status: unverified}],
+     exam_term_bn: মাটি, localizable: true,
+     quiz_bn: [{q: "রাঢ়ের মাটি লাল কেন?", a: "মাটিতে লোহার অক্সাইড থাকে।"}, {q: "কোন মাটি জল বেশি ধরে রাখে, লালমাটি না পলিমাটি?", a: "পলিমাটি।"}]}
+  - {id: c_nutrition, lo_code: Bio-6-Food-01, name: Food and nutrition, name_bn: খাদ্য ও পুষ্টি, subject: Science, grade: 6,
+     canonical_anchor: {entity: balanced_plate, entity_bn: সুষম খাদ্যের থালা, affordances: [nutrition, food_groups]},
+     board_aliases: [{board: WBBSE, grade: 6, textbook: পরিবেশ ও বিজ্ঞান, topic_bn: খাদ্য, alias_status: unverified}],
+     exam_term_bn: সুষম খাদ্য, localizable: true,
+     quiz_bn: [{q: "ভাত বা খিচুড়ির চাল থেকে আমরা মূলত কী পাই?", a: "শর্করা (কার্বোহাইড্রেট)।"}, {q: "ডিম ও ডাল থেকে কোন পুষ্টি উপাদান পাই?", a: "প্রোটিন।"}]}
+  - {id: c_tides, lo_code: Geo-8-Tide-01, name: Tides, name_bn: জোয়ার-ভাটা, subject: Science, grade: 8,
+     canonical_anchor: {entity: moon_pull, entity_bn: চাঁদের টান, affordances: [tides]},
+     board_aliases: [{board: WBBSE, grade: 8, textbook: আমাদের পৃথিবী, topic_bn: জোয়ার-ভাটা, alias_status: unverified}],
+     exam_term_bn: জোয়ার-ভাটা, localizable: true,
+     quiz_bn: [{q: "জোয়ার-ভাটার প্রধান কারণ কী?", a: "চাঁদের আকর্ষণ।"}, {q: "দিনে সাধারণত কতবার জোয়ার আসে?", a: "দুবার।"}]}
+  # ---------------- mathematics ----------------
+  - {id: m_percentage, lo_code: Math-6-Percent-01, name: Percentage, name_bn: শতকরা, subject: Mathematics, grade: 6,
+     canonical_anchor: {entity: shop_discount, entity_bn: দোকানের ছাড়, affordances: [price, arithmetic]},
+     board_aliases: [{board: WBBSE, grade: 6, textbook: গণিতপ্রভা, topic_bn: শতকরা, alias_status: unverified}],
+     exam_term_bn: শতকরা, localizable: true,
+     quiz_bn: [{q: "১০০-এর ২৫% কত?", a: "২৫।"}, {q: "শতকরা মানে প্রতি কততে?", a: "প্রতি ১০০-তে।"}]}
+  - {id: m_ratio, lo_code: Math-6-Ratio-01, name: Ratio and proportion, name_bn: অনুপাত ও সমানুপাত, subject: Mathematics, grade: 6,
+     canonical_anchor: {entity: recipe_ratio, entity_bn: রান্নার অনুপাত, affordances: [arithmetic, quantity_per_child]},
+     board_aliases: [{board: WBBSE, grade: 6, textbook: গণিতপ্রভা, topic_bn: অনুপাত, alias_status: unverified}, {board: WBBSE, grade: 10, textbook: গণিত প্রকাশ, topic_bn: অনুপাত ও সমানুপাত, alias_status: verified_debargha_config}],
+     exam_term_bn: অনুপাত, localizable: true,
+     quiz_bn: [{q: "২ : ৩ অনুপাতে ১০ কেজি চালের সঙ্গে কত কেজি ডাল?", a: "১৫ কেজি।"}, {q: "অনুপাতের দুই পদকে একই সংখ্যা দিয়ে গুণ করলে অনুপাত বদলায় কি?", a: "না।"}]}
+  - {id: m_unitconv, lo_code: Math-5-Unit-01, name: Units and conversion, name_bn: একক ও রূপান্তর, subject: Mathematics, grade: 5,
+     canonical_anchor: {entity: metre_centimetre, entity_bn: মিটার-সেন্টিমিটার, affordances: [unit_conversion]},
+     board_aliases: [{board: WBBPE, grade: 5, textbook: আমার গণিত, topic_bn: পরিমাপ, alias_status: unverified}],
+     exam_term_bn: একক, localizable: true,
+     quiz_bn: [{q: "১ বিঘায় কত কাঠা?", a: "২০ কাঠা।"}, {q: "১ কিলোমিটারে কত মিটার?", a: "১০০০ মিটার।"}]}
+  - {id: m_si, lo_code: Math-7-SI-01, name: Simple interest, name_bn: সরল সুদ, subject: Mathematics, grade: 7,
+     canonical_anchor: {entity: bank_deposit, entity_bn: ব্যাংকে জমা টাকা, affordances: [price, arithmetic]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: গণিতপ্রভা, topic_bn: সরল সুদ, alias_status: unverified}, {board: WBBSE, grade: 10, textbook: গণিত প্রকাশ, topic_bn: সরল সুদকষা, alias_status: verified_debargha_config}],
+     exam_term_bn: সরল সুদ, localizable: true,
+     quiz_bn: [{q: "সরল সুদের সূত্র কী?", a: "সুদ = আসল × হার × সময় ÷ ১০০।"}, {q: "১০০০ টাকায় বছরে ৫% হারে ১ বছরের সুদ কত?", a: "৫০ টাকা।"}]}
+  - {id: m_profitloss, lo_code: Math-7-PL-01, name: Profit and loss, name_bn: লাভ-ক্ষতি, subject: Mathematics, grade: 7,
+     canonical_anchor: {entity: shopkeeper, entity_bn: দোকানদার, affordances: [price, market]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: গণিতপ্রভা, topic_bn: লাভ-ক্ষতি, alias_status: unverified}],
+     exam_term_bn: লাভ-ক্ষতি, localizable: true,
+     quiz_bn: [{q: "ক্রয়মূল্যের চেয়ে বিক্রয়মূল্য বেশি হলে কী হয়?", a: "লাভ।"}, {q: "৮০ টাকায় কিনে ১০০ টাকায় বেচলে লাভ কত?", a: "২০ টাকা।"}]}
+  - {id: m_speed, lo_code: Math-7-Speed-01, name: Time distance speed, name_bn: সময় দূরত্ব ও গতিবেগ, subject: Mathematics, grade: 7,
+     canonical_anchor: {entity: train_journey, entity_bn: ট্রেনযাত্রা, affordances: [speed_distance]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: গণিতপ্রভা, topic_bn: সময় ও দূরত্ব, alias_status: unverified}],
+     exam_term_bn: গতিবেগ, localizable: true,
+     quiz_bn: [{q: "গতিবেগ = দূরত্ব ÷ কী?", a: "সময়।"}, {q: "৬০ কিমি/ঘণ্টা বেগে ২ ঘণ্টায় কত দূর যাওয়া যায়?", a: "১২০ কিমি।"}]}
+  - {id: m_area, lo_code: Math-6-Area-01, name: Area and perimeter, name_bn: ক্ষেত্রফল ও পরিসীমা, subject: Mathematics, grade: 6,
+     canonical_anchor: {entity: rectangle_field, entity_bn: আয়তাকার মাঠ, affordances: [area_perimeter, land]},
+     board_aliases: [{board: WBBSE, grade: 6, textbook: গণিতপ্রভা, topic_bn: পরিসীমা ও ক্ষেত্রফল, alias_status: unverified}],
+     exam_term_bn: ক্ষেত্রফল, localizable: true,
+     quiz_bn: [{q: "আয়তক্ষেত্রের ক্ষেত্রফলের সূত্র কী?", a: "দৈর্ঘ্য × প্রস্থ।"}, {q: "আয়তক্ষেত্রের পরিসীমার সূত্র কী?", a: "২ × (দৈর্ঘ্য + প্রস্থ)।"}]}
+  - {id: m_mean, lo_code: Math-7-Stat-01, name: Mean and median, name_bn: গড় ও মধ্যমা (রাশিবিজ্ঞান), subject: Mathematics, grade: 7,
+     canonical_anchor: {entity: marks_average, entity_bn: নম্বরের গড়, affordances: [arithmetic]},
+     board_aliases: [{board: WBBSE, grade: 7, textbook: গণিতপ্রভা, topic_bn: গড়, alias_status: unverified}, {board: WBBSE, grade: 10, textbook: গণিত প্রকাশ, topic_bn: রাশিবিজ্ঞান, alias_status: verified_debargha_config}],
+     exam_term_bn: গড়, localizable: true,
+     quiz_bn: [{q: "গড় বার করতে সব রাশির যোগফলকে কী দিয়ে ভাগ করতে হয়?", a: "রাশির সংখ্যা দিয়ে।"}, {q: "৪, ৬, ৮-এর গড় কত?", a: "৬।"}]}
+  - {id: m_fraction, lo_code: Math-5-Frac-01, name: Fractions, name_bn: ভগ্নাংশ, subject: Mathematics, grade: 5,
+     canonical_anchor: {entity: cake_slices, entity_bn: কেকের টুকরো, affordances: [countable, everyday]},
+     board_aliases: [{board: WBBPE, grade: 5, textbook: আমার গণিত, topic_bn: ভগ্নাংশ, alias_status: unverified}],
+     exam_term_bn: ভগ্নাংশ, localizable: true,
+     quiz_bn: [{q: "একটি পিঠে ৪ টুকরো করে ১ টুকরো খেলে কত অংশ খাওয়া হলো?", a: "১/৪ অংশ।"}, {q: "১/২ আর ২/৪ কি সমান?", a: "হ্যাঁ।"}]}
+  - {id: m_addition, lo_code: Math-1-Add-01, name: Addition and subtraction, name_bn: যোগ ও বিয়োগ, subject: Mathematics, grade: 2,
+     canonical_anchor: {entity: counting_objects, entity_bn: জিনিস গোনা, affordances: [countable]},
+     board_aliases: [{board: WBBPE, grade: 2, textbook: আমার বই, topic_bn: যোগ-বিয়োগ, alias_status: unverified}],
+     exam_term_bn: যোগ, localizable: true,
+     quiz_bn: [{q: "৩ + ২ = কত?", a: "৫।"}, {q: "৭ - ৪ = কত?", a: "৩।"}]}
+  - {id: m_calendar, lo_code: Math-4-Time-01, name: Time and calendar, name_bn: সময় ও ক্যালেন্ডার, subject: Mathematics, grade: 4,
+     canonical_anchor: {entity: clock_calendar, entity_bn: ঘড়ি ও ক্যালেন্ডার, affordances: [calendar]},
+     board_aliases: [{board: WBBPE, grade: 4, textbook: আমার গণিত, topic_bn: সময়, alias_status: unverified}],
+     exam_term_bn: ক্যালেন্ডার, localizable: true,
+     quiz_bn: [{q: "বাংলা বছরের প্রথম মাস কোনটি?", a: "বৈশাখ।"}, {q: "এক সপ্তাহে কত দিন?", a: "৭ দিন।"}]}

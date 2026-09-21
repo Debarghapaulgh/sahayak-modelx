@@ -1,0 +1,66 @@
+{
+  "version": "sft_wb_v1",
+  "seed": 42,
+  "total": 11580,
+  "train": 10637,
+  "eval": 943,
+  "templates": 76,
+  "eval_templates": [
+    "lesson.v3",
+    "local.entity.v2",
+    "local.zone.v5",
+    "mis.student.v2",
+    "mis.teacher.v1",
+    "quiz.v3",
+    "story.fln.v3",
+    "sub.student.v4",
+    "sub.teacher.v2",
+    "sum.area.v2",
+    "sum.calendar.v2",
+    "sum.compare.v1",
+    "sum.fraction.v1",
+    "sum.mean.v1",
+    "sum.money.v1",
+    "sum.mult.v1",
+    "sum.pctof.v2",
+    "sum.percentage.v3",
+    "sum.pl.v1",
+    "sum.ratio.v1",
+    "sum.si.v2",
+    "sum.speed.v2",
+    "sum.unit.v4",
+    "worksheet.v2"
+  ],
+  "by_task_family": {
+    "CONCEPT_EXPLANATION": 164,
+    "GUIDED_PROBLEM_SOLVING": 7050,
+    "LESSON_PLAN": 776,
+    "LOCAL_CONTEXT_QA": 212,
+    "MISCONCEPTION_CORRECTION": 72,
+    "QUIZ_GENERATION": 1180,
+    "STORY": 1180,
+    "TEACHER_PEDAGOGY": 146,
+    "WORKSHEET_PRACTICE": 800
+  },
+  "by_zone": {
+    "-": 2841,
+    "gangetic_plain": 2918,
+    "kolkata_metro": 835,
+    "medinipur_coastal": 1257,
+    "north_bengal_tea_belt": 1204,
+    "rarh_plateau": 1299,
+    "sundarbans_delta": 1226
+  },
+  "by_target": {
+    "STUDENT": 9098,
+    "TEACHER": 2482
+  },
+  "bengali_digit_share": 1.0,
+  "step_numbering_outside_maths": 0,
+  "licence": "own",
+  "validated_by": "teacher_informal (attested AG 2026-09-19)",
+  "sha256": {
+    "sft_wb_v1_train.jsonl": "af767ec790c7352a1b55474f6d33d6359ba88e4f2b07bb09a8f971ea39f0bc7b",
+    "sft_wb_v1_eval.jsonl": "131aebbd62e3b04920018892627209ac567267e3c31bbdebd0fb90390e05e469"
+  }
+}

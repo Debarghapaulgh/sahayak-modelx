@@ -1,11 +1,3 @@
-"""
-generate_wbbse_class10_math_sft.py
-Standalone Synthetic SFT Generator for WBBSE Class 10 Mathematics (Ganit Prakash Class X)
-
-Usage:
-    python generate_wbbse_class10_math_sft.py --target 1000 --workers 8
-    python generate_wbbse_class10_math_sft.py --key YOUR_OPENROUTER_KEY --target 2000
-"""
 
 import os
 import sys
@@ -225,3 +217,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

@@ -42,3 +42,6 @@ testpaths = [
     "tests"
 ]
 asyncio_mode = "auto"
+
+[tool.ruff]
+target-version = "py312"   # CI runs 3.12; notebooks use 3.12 f-string syntax

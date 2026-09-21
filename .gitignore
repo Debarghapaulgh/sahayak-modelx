@@ -151,3 +151,16 @@ datasets/*
 datasets/*.jsonl
 datasets/*.json
 
+
+# compiled localisation corpus (rebuild with DataEngine/localization/compile.py)
+DataEngine/localization/out/
+DataEngine/localization/review_sheets/
+# compiled SFT (rebuild with DataEngine/localization/compile_wb_sft.py); manifest + sample stay tracked
+DataEngine/out/*
+!DataEngine/out/MANIFEST.json
+!DataEngine/out/sample_50.jsonl
+
+# Finetune local rehearsal (smoke_local.sh)
+Finetune/.venv-smoke/
+Finetune/.smoke_local.ok
+Finetune/out/
