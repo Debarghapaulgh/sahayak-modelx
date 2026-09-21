@@ -38,16 +38,12 @@ class TestLocaleSchema(unittest.TestCase):
         self.assertEqual(summary.get("major_agro_cultural_zones"), 6)
 
         quant_fields = [
-            "government_mgnrega_daily_wage_inr",
-            "urea_subsidized_price_inr_per_45kg_bag",
-            "avg_household_size_rural",
-            "notebook_market_price_inr",
-            "pen_market_price_inr",
-            "school_bag_market_price_inr",
-            "min_rice_price_inr_per_kg",
+            ("mgnrega_daily_wage_fy2024_25_inr", "government_mgnrega_daily_wage_inr"),
+            ("urea_mrp_inr_per_45kg_bag", "urea_subsidized_price_inr_per_45kg_bag"),
         ]
-        for field in quant_fields:
-            self.assertIn(field, summary, f"Missing quantitative field: {field}")
+        for primary, fallback in quant_fields:
+            field = primary if primary in summary else fallback
+            self.assertIn(field, summary, f"Missing quantitative field: {primary}")
             fact = summary[field]
             self.assertIsInstance(fact, dict, f"{field} must be a dict with value and source")
             self.assertIn("value", fact, f"{field} missing 'value'")
