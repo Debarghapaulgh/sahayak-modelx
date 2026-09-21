@@ -42,6 +42,10 @@ PART_B_FILE = OUTPUT_DIR / "part_b_all_grades_curriculum_papers_200.jsonl"
 PART_C_FILE = OUTPUT_DIR / "part_c_historic_naturalised_papers_100.jsonl"
 
 MASTER_2655_FILE = Path("datasets/gold_standard_sft_2655_master.jsonl")
+CHATML_2655_FILE = Path("datasets/gold_standard_sft_2655_chatml.jsonl")
+SHAREGPT_2655_FILE = Path("datasets/gold_standard_sft_2655_sharegpt.json")
+EXACT_3FIELD_2655_FILE = Path("datasets/gold_standard_sft_2655_3field.jsonl")
+
 
 PROGRESS_MD = Path("GENERATION_500_PROGRESS.md")
 PROGRESS_JSON = Path("GENERATION_500_PROGRESS.json")
