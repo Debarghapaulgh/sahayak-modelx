@@ -5,23 +5,23 @@
   "coverage_threshold_per_chapter": 15,
   "source_files": {
     "grounding_chunks_text_only.jsonl": {
-      "records": 9634,
-      "sha256": "988b3c45711c86169409bb9f7bf20f0adc67595ebf65c7955eca0c58e8e54a24",
+      "records": 8842,
+      "sha256": "1d56812fb00d9c9ed5a01cd8e823db587a86b3d80d82772eae5ab62cfa907097",
       "description": "All-board text-only grounding chunks with filled thin cells (v1.1)"
     },
     "grounding_chunks_visual_context.jsonl": {
-      "records": 9800,
-      "sha256": "0dee8000b06f37ce7736a407d62fabd441488db71b087da37f027580803ea751",
+      "records": 6742,
+      "sha256": "8dfcd40e888e7b9b60f82761db7daf301aafeae428a44b603e6e2831de3b5d66",
       "description": "Visual grounding chunks with paired bounding boxes"
     },
     "wbbse_sft_source_pool.jsonl": {
-      "records": 1632,
-      "sha256": "c2ee251423645ddee7599d4318b8c5da28ba8ec0c15602f4f8c63ef3dd62ce6b",
+      "records": 1277,
+      "sha256": "4be09622a455e3351caa5c0edddc96e4858df9ea00ba835353a4ec2fac29dbdf",
       "description": "Frozen verified WBBSE textbook text chunks across Classes 6-10"
     },
     "excluded_archive.jsonl": {
-      "records": 6296,
-      "sha256": "8384341f4224988dead8ac2f307ec8e00aa474cab1a3b6a2cb5b59b12ff0d5d2",
+      "records": 10501,
+      "sha256": "9dd63d4b5e6356355aa11f10864e3afc45778b6fd7d6137b65e534e080d3b551",
       "description": "Quarantined noisy or excluded structural units"
     }
   }

@@ -1,63 +1,63 @@
 {
   "summary": {
-    "total_text_only_chunks": 9634,
-    "total_indexed_chapters": 704,
-    "covered_chapters_count": 315,
-    "thin_or_missing_chapters_count": 389,
-    "chapter_coverage_percentage": 44.74,
+    "total_text_only_chunks": 8842,
+    "total_indexed_chapters": 689,
+    "covered_chapters_count": 298,
+    "thin_or_missing_chapters_count": 391,
+    "chapter_coverage_percentage": 43.25,
     "threshold_chunks_per_chapter": 15
   },
   "distributions": {
     "by_board": {
-      "WBBPE": 2472,
-      "WBBSE": 5874,
-      "WBCHSE": 1288
+      "WBBPE": 2156,
+      "WBBSE": 5478,
+      "WBCHSE": 1208
     },
     "by_grade": {
       "0": 5,
-      "1": 362,
-      "10": 3073,
-      "11": 672,
-      "12": 616,
-      "2": 476,
-      "3": 212,
-      "4": 305,
-      "5": 1112,
-      "5 Bengali Book Question Answer Golpoburo _ পাতাবাহার.pdf": 9,
-      "6": 550,
-      "7": 688,
-      "8": 814,
-      "9": 731,
+      "1": 316,
+      "10": 3025,
+      "11": 644,
+      "12": 564,
+      "2": 367,
+      "3": 162,
+      "4": 274,
+      "5": 1032,
+      "5 Bengali Book Question Answer Golpoburo _ পাতাবাহার.pdf": 3,
+      "6": 502,
+      "7": 558,
+      "8": 678,
+      "9": 703,
       "Bhasha Path V.pdf": 1,
       "Discussion.pdf": 8
     },
     "by_subject": {
-      "General": 3281,
-      "Mathematics": 1428,
-      "Bengali": 1415,
-      "English": 811,
-      "Health and Physical Education": 670,
-      "History": 465,
-      "Science": 420,
+      "General": 3099,
+      "Mathematics": 1238,
+      "Bengali": 1122,
+      "English": 786,
+      "Health and Physical Education": 598,
+      "History": 463,
+      "Science": 417,
       "Geography": 395,
       "Physical Science": 285,
       "Life Science": 175,
-      "Physics": 170,
-      "Environmental Science": 119
+      "Physics": 163,
+      "Environmental Science": 101
     },
     "by_content_type": {
-      "CONCEPT_EXPLANATION": 4715,
-      "QUESTION": 2787,
-      "DEFINITION": 634,
-      "EXERCISE": 541,
-      "EXPERIMENT": 481,
-      "HISTORICAL_NOTE": 381,
-      "BIOGRAPHICAL_NOTE": 67,
-      "ACTIVITY": 28
+      "CONCEPT_EXPLANATION": 4357,
+      "QUESTION": 2394,
+      "DEFINITION": 615,
+      "EXERCISE": 533,
+      "EXPERIMENT": 477,
+      "HISTORICAL_NOTE": 379,
+      "BIOGRAPHICAL_NOTE": 60,
+      "ACTIVITY": 27
     },
     "by_coverage_status": {
-      "COVERED": 315,
-      "THIN": 389
+      "COVERED": 298,
+      "THIN": 391
     }
   },
   "wbbse_core_curriculum_audit": {
@@ -843,7 +843,7 @@
       "grade": "1",
       "subject": "General",
       "chapter": "প্রথম পাঠ বনে থাকে বাঘ । গাছে থাকে পাখি । জলে থাকে মাছ । ডালে আছে ফল । পাখি ফল খায় ।",
-      "chunk_count": 4,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -864,8 +864,20 @@
       "board": "WBBPE",
       "grade": "2",
       "subject": "General",
+      "chapter": "|| A",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "2",
+      "subject": "General",
       "chapter": "আমার ব‍ই দ্বিতীয় শ্রেণি",
-      "chunk_count": 4,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -888,21 +900,10 @@
       "grade": "3",
       "subject": "Environmental Science",
       "chapter": "মার্চ , ২০১৭ মানিক ভট্টাচার্য সভাপতি আচার্য প্রফুল্লচন্দ্র ভবন ডি - কে ৭/১ , সেক্টর",
-      "chunk_count": 10,
+      "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
-        "CONCEPT_EXPLANATION"
-      ]
-    },
-    {
-      "board": "WBBPE",
-      "grade": "3",
-      "subject": "Mathematics",
-      "chapter": "ডিসেম্বর , ২০১৭ মানিক ভট্টাচার্য্য সভাপতি আচার্য প্রফুল্লচন্দ্র ভবন ডি - কে ৭/১ , সেক্টর",
-      "chunk_count": 1,
-      "coverage_status": "THIN",
-      "content_types": [
         "CONCEPT_EXPLANATION"
       ]
     },
@@ -914,8 +915,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -937,8 +938,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -949,8 +950,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "QUESTION"
+        "QUESTION",
+        "EXERCISE"
       ]
     },
     {
@@ -962,17 +963,6 @@
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
-      ]
-    },
-    {
-      "board": "WBBPE",
-      "grade": "3",
-      "subject": "Health and Physical Education",
-      "chapter": "কলকাতা -৭০০ ০৫৬ মুখবন্ধ শিশুর সর্বাঙ্গীণ বিকাশে খেলাধুলা ও শরীরচর্চার স্থান অত্যন্ত গুরুত্বপূর্ণ । বস্তুত খেলাই শিশুর জীবন । এই খেলার মাধ্যমেই দেহ ও মনের সুসংবদ্ধ বৃদ্ধি ঘটতে পারে এবং আনন্দময় পরিবেশে শিশু স্বতঃস্ফূর্তভাবে নিজেকে প্রকাশ করে । শরীরচর্চা একদিকে যেমন শারীরিক বিকাশে সহায়তা করে , তেমনি অন্যদিকে মনের নানাদিকের বিকাশের ও সু - অভ্যাস গঠনের সহায়ক । সুতরাং , সুস্থ জীবনযাপনের জন্য খেলাধুলা ও শরীরচর্চা শিশুকাল থেকেই শুরু করা উচিত । দেহ সুন্দর , সবল ও সতেজ থাকলে এবং ব্যক্তিগত ও পরিবেশগত পরিচ্ছন্নতাবোধ গড়ে উঠলে পঠন - পাঠনে যেমন আগ্রহ বাড়ে , তেমন ভবিষ্যতে সুনাগরিক হয়ে গড়ে ওঠারও পথ প্রশস্ত হয় । খেলাধুলা ও শরীরচর্চা শুধু জ্ঞানমূলক বিষয় নয় , এটি প্রধানত আচরণ ও অনুশীলনমূলক বিষয় । শ্রেণিকক্ষের মধ্যে ও শ্রেণিকক্ষের বাইরে শিক্ষক - শিক্ষিকাগণ এই বিষয়ের প্রতিটি কাজে মৌলনীতিগুলি ও কর্মপ্রয়াসের দিকগুলি ফুটিয়ে তুলতে সচেষ্ট হবেন । বর্তমানে শ্রেণিকক্ষে যেহেতু সমাজের পিছিয়ে - পড়া অংশ থেকে শিক্ষার্থীদের সংখ্যা বাড়ছে সেইহেতু শরীরচর্চা ও স্বাস্থ্যবিষয়ক সু - অভ্যাস গঠনে আরো বেশি লক্ষ রাখা প্রয়োজন । এই বিষয়ে অনুশীলন ও পর্যবেক্ষণের জন্য প্রতি শ্রেণিতে প্রতিদিন একটি নির্দিষ্ট সময়কাল দিতে হবে । শরীরচর্চার ক্ষেত্রে , যেমন খাদ্য , বিশ্রাম , আহার , নিয়মিত স্নান , মলমূত্র ত্যাগ , বিশুদ্ধ ও দূষিত জলের ব্যবহার , নিরাপত্তাবোধ , সংক্রামক রোগ ও তার প্রতিকার , পরিষ্কার - পরিচ্ছন্নতার প্রতিটি বিষয়গুলি সম্পর্কে দৈনিক অথবা সুবিধামতো শিক্ষার্থীদের সচেতনভাবে সজাগ করে দিতে হবে । রাজ্য সরকার প্রাথমিক পাঠক্রমে খেলাধুলা পাঠ্যসূচির বিভিন্ন দিককে গুরুত্ব দিয়ে পঞ্চায়েতস্তর থেকে রাজ্যস্তর পর্যন্ত নানা প্রতিযোগিতামূলক খেলাধুলার উপর জোর দিয়েছেন । সেদিক থেকে এই বিষয়ের অনুশীলন ও পারদর্শিতার মান বিদ্যালয়ের চার দেয়ালের মধ্যে আবদ্ধ রাখলেই চলবে না । সামগ্রিক জাতীয়স্তরের মানে যাতে শিক্ষার্থীরা পৌঁছোতে পারে সেদিকে দৃষ্টি রেখে শিক্ষক - শিক্ষিকাগণ তাঁদের অনুশীলনে আরো বেশি গুরুত্ব দেবেন এটা আশা করা যায় । ডিসেম্বর , ২০১৭ আচার্য প্রফুল্লচন্দ্র ভবন ডি কে - ৭/১ , সেক্টর",
-      "chunk_count": 8,
-      "coverage_status": "THIN",
-      "content_types": [
-        "QUESTION"
       ]
     },
     {
@@ -989,24 +979,11 @@
     {
       "board": "WBBPE",
       "grade": "4",
-      "subject": "Mathematics",
-      "chapter": "পশ্চিমবঙ্গ প্রাথমিক শিক্ষা পর্ষদ বিধাননগর , কলকাতা ৭০০",
-      "chunk_count": 4,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
-      ]
-    },
-    {
-      "board": "WBBPE",
-      "grade": "4",
       "subject": "General",
       "chapter": "ঋত্বিক মল্লিক সৌম্যসুন্দর মুখোপাধ্যায় রুদ্রশেখর সাহা মিথুন নারায়ণ বসু অপূর্ব সাহা স্বাতী চক্রবর্তী ইলোরা ঘোষ মির্জা প্রচ্ছদ ও অলংকরণ শংকর বসাক পুস্তক নির্মাণ বিপ্লব মণ্ডল এক . কথাবলার যন্ত্রপাতি – ১ সূচিপত্র ক দুই . স্বরধ্বনি – ৫ তিন . ব্যঞ্জনধ্বনি – ৯ বর্গ চার . স্বরসন্ধি - ১৭ চ বর্গ ছয় . যতিচিহ্ন - ৪২ সাত . প্রতিশব্দ – ৪৮ আট . দিনলিপি – ৫২ বগ নয় . অনুচ্ছেদ - ৫৬ শিখন পরামর্শ – ৬০ - - বগ 2 বর্গ - পাঁচ . বাক্যের কথা",
-      "chunk_count": 2,
+      "chunk_count": 1,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
         "BIOGRAPHICAL_NOTE"
       ]
     },
@@ -1019,9 +996,9 @@
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
+        "ACTIVITY",
         "EXERCISE",
-        "CONCEPT_EXPLANATION",
-        "ACTIVITY"
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -1032,9 +1009,9 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "ACTIVITY",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "ACTIVITY"
       ]
     },
     {
@@ -1045,10 +1022,10 @@
       "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
-        "ACTIVITY",
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXERCISE",
+        "ACTIVITY"
       ]
     },
     {
@@ -1071,8 +1048,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "ACTIVITY",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "ACTIVITY"
       ]
     },
     {
@@ -1105,8 +1082,8 @@
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
-        "ACTIVITY",
         "EXERCISE",
+        "ACTIVITY",
         "EXPERIMENT",
         "CONCEPT_EXPLANATION",
         "QUESTION"
@@ -1129,7 +1106,7 @@
       "grade": "5",
       "subject": "Environmental Science",
       "chapter": "পরিবেশ , খনিজ ও শক্তি সম্পদ ৩১২-৩৩৮ পরিবেশ ও পরিবহণ ৩৩৯",
-      "chunk_count": 8,
+      "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
@@ -1150,9 +1127,21 @@
     {
       "board": "WBBPE",
       "grade": "5",
+      "subject": "Environmental Science",
+      "chapter": "D Yp আমার পাতা পাঠ্যসূচি ও নমুনা প্রশ্ন ৪৪৮",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
       "subject": "Mathematics",
       "chapter": "ডিসেম্বর , ২০১৭ মানিক ভট্টাচার্য্য সভাপতি আচার্য প্রফুল্লচন্দ্র ভবন ডি - কে ৭/১ , সেক্টর",
-      "chunk_count": 6,
+      "chunk_count": 1,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -1163,7 +1152,7 @@
       "grade": "5",
       "subject": "General",
       "chapter": "सय a जय বিদ্যালয় শিক্ষা - দপ্তর পশ্চিমবঙ্গ সরকার পশ্চিমবঙ্গ প্রাথমিক শিক্ষা পর্ষদ ডি কে ৭/১ , বিধাননগর , বিকাশ ভবন , কলকাতা - ৭০০ ০৯১ কলকাতা – ৭০০ ০৯১ সেক্টর",
-      "chunk_count": 8,
+      "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -1214,8 +1203,8 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -1226,9 +1215,9 @@
       "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -1239,9 +1228,9 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -1249,7 +1238,7 @@
       "grade": "5",
       "subject": "General",
       "chapter": "Can You See the Pattern",
-      "chunk_count": 12,
+      "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -1313,8 +1302,8 @@
       "content_types": [
         "DEFINITION",
         "EXPERIMENT",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -1337,8 +1326,8 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -1431,9 +1420,9 @@
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -1499,7 +1488,7 @@
       "grade": "5",
       "subject": "General",
       "chapter": "क्या तुम पैटर्न देख सकते हो",
-      "chunk_count": 12,
+      "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -1565,7 +1554,7 @@
       "grade": "5",
       "subject": "General",
       "chapter": "चिट्ठी का सफ़र (लेख)",
-      "chunk_count": 6,
+      "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -1755,8 +1744,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -1764,12 +1753,26 @@
       "grade": "5",
       "subject": "English",
       "chapter": "Page 84 Lesson 9 Bird's Eye",
-      "chunk_count": 8,
+      "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXERCISE"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "English",
+      "chapter": "10 A Great Social Reformer",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXERCISE",
+        "ACTIVITY"
       ]
     },
     {
@@ -1780,7 +1783,19 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXERCISE"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "Bengali",
+      "chapter": "ফুলের কাছে আল মাহমুদ পৃষ্ঠা",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
         "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
@@ -1790,7 +1805,7 @@
       "grade": "5",
       "subject": "Bengali",
       "chapter": "L OO সাত ছেলেবেলা রবীন্দ্রনাথ ঠাকুর পৃষ্ঠা",
-      "chunk_count": 12,
+      "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
         "QUESTION"
@@ -1811,6 +1826,18 @@
       "board": "WBBPE",
       "grade": "5",
       "subject": "Bengali",
+      "chapter": "গান রবীন্দ্রনাথ ঠাকুর পৃষ্ঠা —২৯",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "Bengali",
       "chapter": "আকাশের দুই বন্ধু শৈলেন ঘোষ পৃষ্ঠা",
       "chunk_count": 3,
       "coverage_status": "THIN",
@@ -1824,17 +1851,6 @@
       "subject": "Bengali",
       "chapter": "বাইশ রাজা সুকুমার রায় পৃষ্ঠা",
       "chunk_count": 1,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION"
-      ]
-    },
-    {
-      "board": "WBBPE",
-      "grade": "5",
-      "subject": "Health and Physical Education",
-      "chapter": "খালি হাতের সৌন্দর্যমূলক ব্যায়াম পঞ্চম শ্রেণি কার্ড",
-      "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -1913,6 +1929,19 @@
       "board": "WBBSE",
       "grade": "10",
       "subject": "English",
+      "chapter": "Lesson 5: Our Runaway Kite (Lucy Maud Montgomery)",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "DEFINITION",
+        "HISTORICAL_NOTE",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "English",
       "chapter": "Lesson 6: Sea Fever (John Masefield)",
       "chunk_count": 3,
       "coverage_status": "THIN",
@@ -1943,8 +1972,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "HISTORICAL_NOTE",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -1999,7 +2028,7 @@
       "grade": "10",
       "subject": "Mathematics",
       "chapter": "mathematics  basic  ms",
-      "chunk_count": 12,
+      "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -2022,7 +2051,7 @@
       "grade": "10",
       "subject": "Mathematics",
       "chapter": "mathematics  basic   for visually impaired  ms",
-      "chunk_count": 7,
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -2045,7 +2074,7 @@
       "grade": "10",
       "subject": "Mathematics",
       "chapter": "mathematics  standard  ms",
-      "chunk_count": 9,
+      "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -2069,7 +2098,7 @@
       "grade": "10",
       "subject": "Mathematics",
       "chapter": "mathematics  standard   for visually impaired  ms",
-      "chunk_count": 9,
+      "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -2128,8 +2157,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "BIOGRAPHICAL_NOTE",
         "DEFINITION",
+        "BIOGRAPHICAL_NOTE",
         "CONCEPT_EXPLANATION"
       ]
     },
@@ -2138,7 +2167,7 @@
       "grade": "10",
       "subject": "Bengali",
       "chapter": "পঞ্চম পাঠ: পথের দাবী (শরৎচন্দ্র চট্টোপাধ্যায়) ও অদল বদল (পান্নালাল প্যাটেল)",
-      "chunk_count": 9,
+      "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
@@ -2154,9 +2183,9 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -2311,8 +2340,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "EXPERIMENT",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -2380,7 +2409,7 @@
       "grade": "10",
       "subject": "General",
       "chapter": "New Version (2023-24)",
-      "chunk_count": 14,
+      "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -2756,8 +2785,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "EXPERIMENT",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -2769,8 +2798,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "EXPERIMENT",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -2805,9 +2834,9 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -2819,8 +2848,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "EXPERIMENT",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -2832,8 +2861,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "EXPERIMENT",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -2901,7 +2930,7 @@
       "grade": "10",
       "subject": "General",
       "chapter": "65-1-1",
-      "chunk_count": 12,
+      "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -2913,10 +2942,9 @@
       "grade": "10",
       "subject": "General",
       "chapter": "65-1 set1",
-      "chunk_count": 12,
+      "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
     },
@@ -2925,7 +2953,7 @@
       "grade": "10",
       "subject": "General",
       "chapter": "65-2-1",
-      "chunk_count": 12,
+      "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -2937,7 +2965,7 @@
       "grade": "10",
       "subject": "General",
       "chapter": "65-2 set2",
-      "chunk_count": 12,
+      "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
         "QUESTION"
@@ -3021,8 +3049,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -3064,7 +3092,7 @@
       "grade": "6",
       "subject": "Bengali",
       "chapter": "প্রথম অধ্যায়: ভাষা ও ধ্বনি",
-      "chunk_count": 4,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -3075,7 +3103,7 @@
       "grade": "6",
       "subject": "Bengali",
       "chapter": "দ্বিতীয় অধ্যায়: স্বরধ্বনি ও ব্যঞ্জনধ্বনি",
-      "chunk_count": 8,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -3086,10 +3114,11 @@
       "board": "WBBSE",
       "grade": "6",
       "subject": "Bengali",
-      "chapter": "তৃতীয় অধ্যায়: শব্দ ও পদের ধারণা",
-      "chunk_count": 1,
+      "chapter": "চতুর্থ অধ্যায়: বাক্য ও বাক্যের গঠন",
+      "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
+        "DEFINITION",
         "CONCEPT_EXPLANATION"
       ]
     },
@@ -3097,12 +3126,25 @@
       "board": "WBBSE",
       "grade": "6",
       "subject": "Bengali",
-      "chapter": "চতুর্থ অধ্যায়: বাক্য ও বাক্যের গঠন",
-      "chunk_count": 4,
+      "chapter": "পঞ্চম অধ্যায়: বিশেষ্য, বিশেষণ, সর্বনাম, অব্যয়, ক্রিয়া",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "6",
+      "subject": "Bengali",
+      "chapter": "ষষ্ঠ অধ্যায়: বিপরীত শব্দ, প্রতিশব্দ ও পত্রলিখন",
+      "chunk_count": 14,
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -3135,9 +3177,9 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "ACTIVITY",
+        "CONCEPT_EXPLANATION",
         "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "ACTIVITY"
       ]
     },
     {
@@ -3160,9 +3202,9 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "ACTIVITY",
+        "CONCEPT_EXPLANATION",
         "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "ACTIVITY"
       ]
     },
     {
@@ -3186,8 +3228,8 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3195,11 +3237,11 @@
       "grade": "6",
       "subject": "English",
       "chapter": "Lesson 7: The Magic Fish Bone (Charles Dickens)",
-      "chunk_count": 5,
+      "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3210,8 +3252,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3222,8 +3264,8 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "QUESTION"
+        "QUESTION",
+        "EXERCISE"
       ]
     },
     {
@@ -3257,8 +3299,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3266,10 +3308,9 @@
       "grade": "6",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ২: সাত ও আট অঙ্কের সংখ্যার ধারণা",
-      "chunk_count": 10,
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
     },
@@ -3278,10 +3319,9 @@
       "grade": "6",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ৩: সংখ্যাতত্ত্বের ধারণা ও রোমান সংখ্যা",
-      "chunk_count": 7,
+      "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
     },
@@ -3301,10 +3341,9 @@
       "grade": "6",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ৭: দশমিক ভগ্নাংশের ধারণা",
-      "chunk_count": 11,
+      "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
     },
@@ -3324,8 +3363,8 @@
       "board": "WBBSE",
       "grade": "6",
       "subject": "Mathematics",
-      "chapter": "অধ্যায় ৯: শতকরা",
-      "chunk_count": 2,
+      "chapter": "অধ্যায় ১০: আবৃত্ত দশমিক সংখ্যা",
+      "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -3336,8 +3375,8 @@
       "board": "WBBSE",
       "grade": "6",
       "subject": "Mathematics",
-      "chapter": "অধ্যায় ১০: আবৃত্ত দশমিক সংখ্যা",
-      "chunk_count": 14,
+      "chapter": "অধ্যায় ১৫: ক্ষেত্রফল ও পরিসীমা",
+      "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -3349,10 +3388,9 @@
       "grade": "6",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১৬-২১: কোণ, ত্রিভুজ ও চতুর্ভুজ অঙ্কন, সমীকরণ গঠন",
-      "chunk_count": 14,
+      "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "BIOGRAPHICAL_NOTE",
         "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
@@ -3422,10 +3460,9 @@
       "grade": "6",
       "subject": "Science",
       "chapter": "পঞ্চম অধ্যায়: মাপজোখ বা পরিমাপ",
-      "chunk_count": 3,
+      "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "CONCEPT_EXPLANATION"
       ]
     },
@@ -3456,7 +3493,7 @@
       "grade": "7",
       "subject": "Bengali",
       "chapter": "দ্বিতীয় অধ্যায়: সন্ধি ও বিসর্গ সন্ধি",
-      "chunk_count": 8,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -3468,7 +3505,7 @@
       "grade": "7",
       "subject": "Bengali",
       "chapter": "তৃতীয় অধ্যায়: নানা রকম শব্দ (তৎসম, তদ্ভব, দেশি, বিদেশি)",
-      "chunk_count": 12,
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -3479,19 +3516,8 @@
       "board": "WBBSE",
       "grade": "7",
       "subject": "Bengali",
-      "chapter": "চতুর্থ অধ্যায়: শব্দের গঠন ও প্রত্যয়",
-      "chunk_count": 4,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION"
-      ]
-    },
-    {
-      "board": "WBBSE",
-      "grade": "7",
-      "subject": "Bengali",
       "chapter": "পঞ্চম অধ্যায়: ক্রিয়ার কাল",
-      "chunk_count": 12,
+      "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -3503,10 +3529,9 @@
       "grade": "7",
       "subject": "Bengali",
       "chapter": "ষষ্ঠ অধ্যায়: শব্দরূপ, ধাতুরূপ ও অনুচ্ছেদ রচনা",
-      "chunk_count": 14,
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "BIOGRAPHICAL_NOTE",
         "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
@@ -3548,13 +3573,37 @@
     {
       "board": "WBBSE",
       "grade": "7",
+      "subject": "Bengali",
+      "chapter": "তৃতীয় পাঠ: আঁকা লেখা (মৃদুল দাশগুপ্ত) ও খোকনের প্রথম ছবি (বনফুল)",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "7",
+      "subject": "Bengali",
+      "chapter": "ষষ্ঠ পাঠ: নোটবই (সুকুমার রায়) ও লালুর পাঠশালা (শরৎচন্দ্র চট্টোপাধ্যায়)",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "7",
       "subject": "English",
       "chapter": "Lesson 3: We are Seven (William Wordsworth)",
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3579,8 +3628,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3591,9 +3640,9 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "ACTIVITY",
+        "CONCEPT_EXPLANATION",
         "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "ACTIVITY"
       ]
     },
     {
@@ -3601,11 +3650,11 @@
       "grade": "7",
       "subject": "English",
       "chapter": "Lesson 7: Mowgli's Brothers (Rudyard Kipling)",
-      "chunk_count": 8,
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3616,8 +3665,8 @@
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3639,8 +3688,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3651,8 +3700,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3663,8 +3712,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3683,7 +3732,7 @@
       "grade": "7",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ২: অনুপাত",
-      "chunk_count": 10,
+      "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
         "QUESTION"
@@ -3694,19 +3743,6 @@
       "grade": "7",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ৩: সমানুপাত",
-      "chunk_count": 7,
-      "coverage_status": "THIN",
-      "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
-      ]
-    },
-    {
-      "board": "WBBSE",
-      "grade": "7",
-      "subject": "Mathematics",
-      "chapter": "অধ্যায় ৫: সূচকের ধারণা",
       "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
@@ -3718,19 +3754,8 @@
       "board": "WBBSE",
       "grade": "7",
       "subject": "Mathematics",
-      "chapter": "অধ্যায় ৬: বীজগাণিতিক প্রক্রিয়া",
-      "chunk_count": 3,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION"
-      ]
-    },
-    {
-      "board": "WBBSE",
-      "grade": "7",
-      "subject": "Mathematics",
-      "chapter": "অধ্যায় ৭: কম্পাসের সাহায্যে বিভিন্ন কোণ অঙ্কন",
-      "chunk_count": 8,
+      "chapter": "অধ্যায় ৫: সূচকের ধারণা",
+      "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -3741,8 +3766,8 @@
       "board": "WBBSE",
       "grade": "7",
       "subject": "Mathematics",
-      "chapter": "অধ্যায় ৮: ত্রিভুজ অঙ্কন",
-      "chunk_count": 1,
+      "chapter": "অধ্যায় ৭: কম্পাসের সাহায্যে বিভিন্ন কোণ অঙ্কন",
+      "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
         "QUESTION"
@@ -3753,33 +3778,9 @@
       "grade": "7",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ৯: সর্বসমতার ধারণা",
-      "chunk_count": 12,
+      "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
-      ]
-    },
-    {
-      "board": "WBBSE",
-      "grade": "7",
-      "subject": "Mathematics",
-      "chapter": "অধ্যায় ১১: ভগ্নাংশের বর্গমূল",
-      "chunk_count": 2,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION"
-      ]
-    },
-    {
-      "board": "WBBSE",
-      "grade": "7",
-      "subject": "Mathematics",
-      "chapter": "অধ্যায় ১২: বীজগাণিতিক সূত্রাবলি",
-      "chunk_count": 6,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
     },
@@ -3788,7 +3789,7 @@
       "grade": "7",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১৩: সমান্তরাল সরলরেখা ও ছেদক",
-      "chunk_count": 14,
+      "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -3800,22 +3801,11 @@
       "grade": "7",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১৪: চতুর্ভুজ অঙ্কন",
-      "chunk_count": 3,
+      "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
         "QUESTION"
-      ]
-    },
-    {
-      "board": "WBBSE",
-      "grade": "7",
-      "subject": "Mathematics",
-      "chapter": "অধ্যায় ১৫: সময় ও দূরত্ব",
-      "chunk_count": 1,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -3823,11 +3813,22 @@
       "grade": "7",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১৬: দ্বি-স্তম্ভ লেখ",
-      "chunk_count": 12,
+      "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
         "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "7",
+      "subject": "Mathematics",
+      "chapter": "অধ্যায় ১৭-১৯: ত্রিভুজ ও চতুর্ভুজের পরিসীমা ও ক্ষেত্রফল, প্রতিসাম্য, সমীকরণ গঠন ও সমাধান",
+      "chunk_count": 2,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -3860,8 +3861,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "ACTIVITY",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "ACTIVITY"
       ]
     },
     {
@@ -3869,10 +3870,23 @@
       "grade": "8",
       "subject": "Bengali",
       "chapter": "প্রথম অধ্যায়: দল ও ধ্বনি পরিবর্তন",
-      "chunk_count": 14,
+      "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "8",
+      "subject": "Bengali",
+      "chapter": "তৃতীয় অধ্যায়: পদ পরিবর্তন ও সমাস",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "DEFINITION",
+        "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
     },
@@ -3902,8 +3916,20 @@
       "board": "WBBSE",
       "grade": "8",
       "subject": "Bengali",
+      "chapter": "পঞ্চম পাঠ: পাড়াগাঁয়ের দু-পহর ভালোবাসি (জীবনানন্দ দাশ) ও টিকিটের অ্যালবাম (সুন্দরী রামস্বামী)",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "8",
+      "subject": "Bengali",
       "chapter": "ষষ্ঠ পাঠ: লোকটা জানলই না (সুভাষ মুখোপাধ্যায়) ও জেলখানার চিঠি (সুভাষচন্দ্র বসু)",
-      "chunk_count": 14,
+      "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -3915,11 +3941,11 @@
       "grade": "8",
       "subject": "English",
       "chapter": "Lesson 1: The Wind Cap (Jane Yolen)",
-      "chunk_count": 6,
+      "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3930,8 +3956,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3966,8 +3992,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -3975,7 +4001,7 @@
       "grade": "8",
       "subject": "English",
       "chapter": "Lesson 6: The Sea (James Reeves)",
-      "chunk_count": 5,
+      "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
         "ACTIVITY",
@@ -4003,8 +4029,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -4038,8 +4064,8 @@
       "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -4058,34 +4084,9 @@
       "grade": "8",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ২: পাই চিত্র",
-      "chunk_count": 6,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
-      ]
-    },
-    {
-      "board": "WBBSE",
-      "grade": "8",
-      "subject": "Mathematics",
-      "chapter": "অধ্যায় ৪: বীজগাণিতিক সংখ্যামালার গুণ ও ভাগ",
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
-      ]
-    },
-    {
-      "board": "WBBSE",
-      "grade": "8",
-      "subject": "Mathematics",
-      "chapter": "অধ্যায় ৫: ঘনফল নির্ণয়",
-      "chunk_count": 2,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
     },
@@ -4106,7 +4107,7 @@
       "grade": "8",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ৮: সমান্তরাল সরলরেখা ও ছেদকের ধর্ম",
-      "chunk_count": 13,
+      "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -4117,22 +4118,10 @@
       "board": "WBBSE",
       "grade": "8",
       "subject": "Mathematics",
-      "chapter": "অধ্যায় ৯: ত্রিভুজের দুটি বাহু ও তাদের বিপরীত কোণের সম্পর্ক",
+      "chapter": "অধ্যায় ১০: ত্রৈরাশিক",
       "chunk_count": 1,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION"
-      ]
-    },
-    {
-      "board": "WBBSE",
-      "grade": "8",
-      "subject": "Mathematics",
-      "chapter": "অধ্যায় ১০: ত্রৈরাশিক",
-      "chunk_count": 3,
-      "coverage_status": "THIN",
-      "content_types": [
-        "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
     },
@@ -4141,7 +4130,7 @@
       "grade": "8",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১১: শতকরা",
-      "chunk_count": 5,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
         "QUESTION"
@@ -4152,7 +4141,7 @@
       "grade": "8",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১২: মিশ্রণ",
-      "chunk_count": 7,
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -4164,7 +4153,7 @@
       "grade": "8",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১৩: বীজগাণিতিক সংখ্যামালার উৎপাদকে বিশ্লেষণ",
-      "chunk_count": 9,
+      "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -4176,11 +4165,10 @@
       "grade": "8",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১৫: বীজগাণিতিক সংখ্যামালার সরলীকরণ",
-      "chunk_count": 12,
+      "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -4245,10 +4233,9 @@
       "grade": "8",
       "subject": "History",
       "chapter": "অষ্টম অধ্যায়: ভারতীয় সংবিধান ও গণতন্ত্রের মূল কাঠামো",
-      "chunk_count": 5,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
         "CONCEPT_EXPLANATION"
       ]
     },
@@ -4304,7 +4291,7 @@
       "grade": "8",
       "subject": "Science",
       "chapter": "ষষ্ঠ অধ্যায়: অন্তঃক্ষরা গ্রন্থি ও বয়ঃসন্ধি",
-      "chunk_count": 10,
+      "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -4341,8 +4328,8 @@
       "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -4353,10 +4340,10 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "HISTORICAL_NOTE",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXERCISE"
       ]
     },
     {
@@ -4364,12 +4351,12 @@
       "grade": "9",
       "subject": "English",
       "chapter": "Lesson 6: Mild the Mist upon the Hill (Emily Jane Brontë)",
-      "chunk_count": 8,
+      "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "HISTORICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -4377,11 +4364,11 @@
       "grade": "9",
       "subject": "English",
       "chapter": "Lesson 7: Tom Loses a Tooth (Mark Twain)",
-      "chunk_count": 8,
+      "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -4389,11 +4376,11 @@
       "grade": "9",
       "subject": "English",
       "chapter": "Lesson 8: His First Flight (Liam O'Flaherty)",
-      "chunk_count": 7,
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "HISTORICAL_NOTE",
+        "EXERCISE",
         "CONCEPT_EXPLANATION"
       ]
     },
@@ -4402,11 +4389,11 @@
       "grade": "9",
       "subject": "English",
       "chapter": "Lesson 9: The North Ship (Philip Larkin)",
-      "chunk_count": 8,
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -4414,12 +4401,12 @@
       "grade": "9",
       "subject": "English",
       "chapter": "Lesson 10: The Price of Bananas (Mulk Raj Anand)",
-      "chunk_count": 11,
+      "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "HISTORICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -4430,9 +4417,9 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "EXERCISE",
-        "EXPERIMENT",
-        "CONCEPT_EXPLANATION"
+        "EXPERIMENT"
       ]
     },
     {
@@ -4451,7 +4438,7 @@
       "grade": "9",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১: বাস্তব সংখ্যা",
-      "chunk_count": 13,
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -4463,10 +4450,9 @@
       "grade": "9",
       "subject": "Mathematics",
       "chapter": "অধ্যায় ১৭-২১: সমবিন্দু সংক্রান্ত উপপাদ্য, স্থানাঙ্ক জ্যামিতি, লগারিদম",
-      "chunk_count": 4,
+      "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
         "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
@@ -4500,7 +4486,7 @@
       "grade": "9",
       "subject": "Bengali",
       "chapter": "কর্ভাস",
-      "chunk_count": 8,
+      "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -4511,7 +4497,7 @@
       "grade": "9",
       "subject": "Bengali",
       "chapter": "ডক্টর শেরিং-এর স্মরণশক্তি",
-      "chunk_count": 13,
+      "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
         "BIOGRAPHICAL_NOTE",
@@ -4523,7 +4509,7 @@
       "grade": "9",
       "subject": "Bengali",
       "chapter": "মহাকাশের দূত",
-      "chunk_count": 12,
+      "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
@@ -4570,11 +4556,11 @@
       "grade": "9",
       "subject": "Bengali",
       "chapter": "তৃতীয় পাঠ: নব নব সৃষ্টি (সৈয়দ মুজতবা আলী) ও হিমালয় দর্শন (বেগম রোকেয়া)",
-      "chunk_count": 5,
+      "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "BIOGRAPHICAL_NOTE",
         "DEFINITION",
+        "BIOGRAPHICAL_NOTE",
         "CONCEPT_EXPLANATION"
       ]
     },
@@ -4594,7 +4580,7 @@
       "grade": "9",
       "subject": "Bengali",
       "chapter": "পঞ্চম পাঠ: আবহমান (নীরেন্দ্রনাথ চক্রবর্তী) ও চিঠি (স্বামী বিবেকানন্দ)",
-      "chunk_count": 12,
+      "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
         "BIOGRAPHICAL_NOTE",
@@ -4618,10 +4604,9 @@
       "grade": "5 Bengali Book Question Answer Golpoburo _ পাতাবাহার.pdf",
       "subject": "Bengali",
       "chapter": "Class 5 Bengali Book Question Answer Golpoburo   পাতাবাহার",
-      "chunk_count": 9,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION",
         "QUESTION"
       ]
     },
@@ -4634,8 +4619,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "EXPERIMENT",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -4657,8 +4642,8 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -4681,9 +4666,9 @@
       "chunk_count": 14,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -4695,8 +4680,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "HISTORICAL_NOTE",
-        "EXPERIMENT",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -4743,9 +4728,9 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
         "HISTORICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -4757,8 +4742,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
-        "EXPERIMENT",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -4990,8 +4975,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
-        "HISTORICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "HISTORICAL_NOTE"
       ]
     },
     {
@@ -5055,7 +5040,7 @@
       "grade": "11",
       "subject": "Bengali",
       "chapter": "৯৫ ১১৮ রবীন্দ্রনাথ ঠাকুর",
-      "chunk_count": 6,
+      "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
@@ -5067,7 +5052,7 @@
       "grade": "11",
       "subject": "Bengali",
       "chapter": "১০১ ১১৯-১২৮",
-      "chunk_count": 6,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
@@ -5087,6 +5072,19 @@
     },
     {
       "board": "WBCHSE",
+      "grade": "11",
+      "subject": "Bengali",
+      "chapter": "১৫৭ ১৬৩",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "BIOGRAPHICAL_NOTE",
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
       "grade": "12",
       "subject": "Bengali",
       "chapter": "2 b ১৬",
@@ -5101,7 +5099,7 @@
       "grade": "12",
       "subject": "Physics",
       "chapter": "physics ms",
-      "chunk_count": 10,
+      "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
@@ -5125,7 +5123,18 @@
       "grade": "12",
       "subject": "Mathematics",
       "chapter": "applied mathematics ms",
-      "chunk_count": 10,
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Mathematics",
+      "chapter": "applied mathematics sqp",
+      "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -5136,8 +5145,8 @@
       "board": "WBCHSE",
       "grade": "12",
       "subject": "Mathematics",
-      "chapter": "applied mathematics sqp",
-      "chunk_count": 6,
+      "chapter": "applied mathematics  for visually impaired  ms",
+      "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -5160,11 +5169,21 @@
       "board": "WBCHSE",
       "grade": "12",
       "subject": "Mathematics",
-      "chapter": "mathematics sqp",
-      "chunk_count": 7,
+      "chapter": "mathematics ms",
+      "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "CONCEPT_EXPLANATION",
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Mathematics",
+      "chapter": "mathematics sqp",
+      "chunk_count": 3,
+      "coverage_status": "THIN",
+      "content_types": [
         "QUESTION"
       ]
     },
@@ -5173,7 +5192,7 @@
       "grade": "12",
       "subject": "Mathematics",
       "chapter": "mathematics  for visually impaired  ms",
-      "chunk_count": 12,
+      "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION",
@@ -5211,9 +5230,9 @@
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
-        "EXPERIMENT",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -5236,8 +5255,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "EXPERIMENT",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -5286,9 +5305,9 @@
       "coverage_status": "THIN",
       "content_types": [
         "DEFINITION",
-        "EXPERIMENT",
         "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "EXPERIMENT"
       ]
     },
     {
@@ -5300,8 +5319,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "EXPERIMENT",
-        "CONCEPT_EXPLANATION",
-        "QUESTION"
+        "QUESTION",
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
