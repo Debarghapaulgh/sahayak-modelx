@@ -1,60 +1,64 @@
 {
   "summary": {
-    "total_text_only_chunks": 6654,
-    "total_indexed_chapters": 461,
-    "covered_chapters_count": 239,
-    "thin_or_missing_chapters_count": 222,
-    "chapter_coverage_percentage": 51.84,
+    "total_text_only_chunks": 10176,
+    "total_indexed_chapters": 718,
+    "covered_chapters_count": 332,
+    "thin_or_missing_chapters_count": 386,
+    "chapter_coverage_percentage": 46.24,
     "threshold_chunks_per_chapter": 15
   },
   "distributions": {
     "by_board": {
-      "WBBPE": 1772,
-      "WBBSE": 3854,
-      "WBCHSE": 1028
+      "WBBPE": 2476,
+      "WBBSE": 6351,
+      "WBCHSE": 1349
     },
     "by_grade": {
       "0": 5,
       "1": 363,
-      "10": 1077,
+      "10": 3528,
       "11": 732,
-      "12": 296,
+      "12": 617,
       "2": 476,
       "3": 212,
-      "4": 287,
-      "5": 429,
+      "4": 307,
+      "5": 1113,
+      "5 Bengali Book Question Answer Golpoburo _ পাতাবাহার.pdf": 9,
       "6": 551,
       "7": 694,
       "8": 824,
-      "9": 708
+      "9": 731,
+      "Bhasa Charcha VII.pdf": 3,
+      "Bhasha Path V.pdf": 3,
+      "Discussion.pdf": 8
     },
     "by_subject": {
-      "Bengali": 1467,
-      "Mathematics": 1272,
-      "General": 743,
-      "English": 703,
+      "General": 3742,
+      "Bengali": 1476,
+      "Mathematics": 1448,
+      "English": 811,
       "Health and Physical Education": 670,
-      "History": 436,
-      "Geography": 376,
+      "History": 465,
+      "Science": 420,
+      "Geography": 395,
       "Physical Science": 285,
-      "Science": 283,
-      "Life Science": 150,
-      "Physics": 150,
+      "Life Science": 175,
+      "Physics": 170,
       "Environmental Science": 119
     },
     "by_content_type": {
-      "CONCEPT_EXPLANATION": 2723,
-      "QUESTION": 1878,
-      "DEFINITION": 619,
+      "CONCEPT_EXPLANATION": 5242,
+      "QUESTION": 2801,
+      "DEFINITION": 634,
       "EXERCISE": 541,
-      "EXPERIMENT": 417,
+      "EXPERIMENT": 482,
       "HISTORICAL_NOTE": 381,
       "BIOGRAPHICAL_NOTE": 67,
       "ACTIVITY": 28
     },
     "by_coverage_status": {
-      "COVERED": 239,
-      "THIN": 222
+      "COVERED": 332,
+      "THIN": 386
     }
   },
   "wbbse_core_curriculum_audit": {
@@ -865,8 +869,8 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -888,8 +892,8 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -911,8 +915,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -934,8 +938,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -991,8 +995,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1015,10 +1019,10 @@
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
+        "ACTIVITY",
         "EXERCISE",
-        "DEFINITION",
         "CONCEPT_EXPLANATION",
-        "ACTIVITY"
+        "DEFINITION"
       ]
     },
     {
@@ -1029,9 +1033,9 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
         "CONCEPT_EXPLANATION",
-        "ACTIVITY"
+        "ACTIVITY",
+        "QUESTION"
       ]
     },
     {
@@ -1042,10 +1046,10 @@
       "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "QUESTION",
+        "ACTIVITY",
         "CONCEPT_EXPLANATION",
-        "ACTIVITY"
+        "EXERCISE",
+        "QUESTION"
       ]
     },
     {
@@ -1056,8 +1060,8 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1103,8 +1107,8 @@
       "coverage_status": "THIN",
       "content_types": [
         "ACTIVITY",
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
+        "EXERCISE",
         "QUESTION",
         "EXPERIMENT"
       ]
@@ -1117,8 +1121,8 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -1129,8 +1133,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -1163,7 +1167,584 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "A Seed tells a Farmer’s Story",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "A Shelter is so High!",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "A Snake Charmer’s Story",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "A Treat for Mosquitoes",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Area and its Boundary",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
         "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Blow Hot, Blow Cold",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Can You See the Pattern",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Chapter 5",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Chapter 9",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Crying",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Every Drop Counts",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "How Big  How Heavy",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "DEFINITION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "My Shadow",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "No Place for Us",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "On the Move Again",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Smart Charts",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Teamwork",
+      "chunk_count": 4,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Tenths and Hundredths",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "The Lazy Frog",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Topsy-turvy Land",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Up You Go!",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Walls Tell Stories",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "What if it Finishes…",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Who will do this Work",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "Whose Forests",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "एक माँ की बेबसी (कविता)",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "कितना बड़ा  कितना भारी",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "क्या तुम पैटर्न देख सकते हो",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "क्या यह एक जैसा दिखता है",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "क्षेत्रफल और घेरा",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "खिलौनेवाला (कविता)",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "गुरु और चेला (कविता)",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "चावल की रोटियाँ (नाटक)",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "चिट्ठी का सफ़र (लेख)",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "चुनौती हिमालय की (यात्रा वर्णन)",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "छोटी-सी हमारी नदी (कविता)",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "जहाँ चाह वहाँ राह (लेख)",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "डाकिए की कहानी, कुँवरसिंह की जुबानी (भेंटवार्ता)",
+      "chunk_count": 4,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "डिब्बे और स्कैच",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "दसवाँ और सौवाँ भाग",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "नन्हा फनकार (कहानी)",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "पानी रे पानी (लेख)",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "फसलों के त्योहार (लेख)",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "बाघ आया उस रात (कविता)",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "बिशन की दिलेरी (कहानी)",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "राख की रस्सी (लोककथा)",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "वे दिन भी क्या दिन थे (विज्ञान कथा)",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "शब्दार्थ",
+      "chunk_count": 2,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "स्मार्ट चार्ट",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBPE",
+      "grade": "5",
+      "subject": "General",
+      "chapter": "स्वामी की दादी (कहानी)",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
         "CONCEPT_EXPLANATION"
       ]
     },
@@ -1175,8 +1756,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -1187,9 +1768,9 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "EXERCISE",
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "QUESTION"
       ]
     },
     {
@@ -1200,9 +1781,9 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "EXERCISE",
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "QUESTION"
       ]
     },
     {
@@ -1313,8 +1894,8 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
         "CONCEPT_EXPLANATION",
+        "QUESTION",
         "HISTORICAL_NOTE"
       ]
     },
@@ -1349,8 +1930,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
         "CONCEPT_EXPLANATION",
+        "QUESTION",
         "HISTORICAL_NOTE"
       ]
     },
@@ -1362,9 +1943,149 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
         "CONCEPT_EXPLANATION",
+        "QUESTION",
         "HISTORICAL_NOTE"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "English",
+      "chapter": "english  communicative  ms",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "English",
+      "chapter": "english  communicative  sqp",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "English",
+      "chapter": "english  language   literature  ms",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "English",
+      "chapter": "english  language   literature  sqp",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Mathematics",
+      "chapter": "mathematics  basic  ms",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Mathematics",
+      "chapter": "mathematics  basic  sqp",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Mathematics",
+      "chapter": "mathematics  basic   for visually impaired  ms",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Mathematics",
+      "chapter": "mathematics  basic   for visually impaired  sqp",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Mathematics",
+      "chapter": "mathematics  standard  ms",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Mathematics",
+      "chapter": "mathematics  standard  sqp",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Mathematics",
+      "chapter": "mathematics  standard   for visually impaired  ms",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Mathematics",
+      "chapter": "mathematics  standard   for visually impaired  sqp",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1408,9 +2129,9 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "DEFINITION",
-        "BIOGRAPHICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "BIOGRAPHICAL_NOTE"
       ]
     },
     {
@@ -1421,9 +2142,845 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "DEFINITION",
-        "BIOGRAPHICAL_NOTE",
+        "BIOGRAPHICAL_NOTE"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Life Science",
+      "chapter": "Forest and Wildlife Resources",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "जल संसाधन",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
         "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi ऋतुराज",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi कबीर – साखी",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi जयशंकर प्रसाद",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi तुलसीदास",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi देव",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi नागार्जुन",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi बिहारी – दोहे",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi मंगलेश डबराल",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi माता का अँचल",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi मीरा – पद",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi यशपाल",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "10 Hindi   10 Hindi स्वयं प्रकाश",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Agriculture",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "computer application ms",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "computer application sqp",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Manufacturing Industries",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Minerals and Energy Resources",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Nelson Mandela  Long Walk to Freedom",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "New Version (2023-24)",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Popular Struggles and Movements",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Power Sharing",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "The Hundred Dresses–I",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Two Stories about Flying",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Water Resources",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "अंतोन चेखव – गिरगिट",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "कृषि",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "खनिज और ऊर्जा संसाधन",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "गिरिजा कुमार माथुर",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "जन-संघर्ष और आंदोलन",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "जॉर्ज पंचम की नाक",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "टोपी शुक्ला राही मासूम रज़ा",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "तताँरा वामीरो कथा",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "प्रह्लाद अग्रवाल – तीसरी कसम के शिल्पकार शैलेंद्र",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "प्रेमचंद – बडे भाई साहब",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "महादेवी वर्मा – मधुर मधुर मेरे दीपक जल",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "मैथिलीशरण गुप्त – मानुषीता",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "रवींद्रनाथ ठाकुर – आत्मत्राण",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "रामवृक्ष बेनीपुरी",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "राष्ट्रीय अर्थव्यवस्था की जीवन रेखाएँ",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "वन और वन्यजीव संसाधन",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "वीरेन डंगवाल – तोप",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "संसाधन और विकास",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "सत्ता की साझेदारी",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "सपनों के से दिन गुरदयाल सिंह",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "साना – साना हाथ जोड़ि…",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "सीताराम सेकसरिया – डायरी का एक पन्ना",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "सुमित्रानंदन पंत – परवत प्रदेश के पावस",
+      "chunk_count": 5,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "सूरदास",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "सूर्यकांत त्रिपाठी ‘निराला’",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "2-1 set1",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "2-2 set2",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "28 set4 elective",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "31-1 set1",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "31-2 set2",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "32-1 set1",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "32-2 set2",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "61-1 set1",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "61-2 set2",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "61-4-1",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "65-1-C",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "65-1-E",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "65-1 set1",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "65-2 set2",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "65-4-1",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Set 1",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "General",
+      "chapter": "Set 2",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Science",
+      "chapter": "home science ms",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Science",
+      "chapter": "home science sqp",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Science",
+      "chapter": "science ms",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Science",
+      "chapter": "science sqp",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "10",
+      "subject": "Science",
+      "chapter": "social science sqp",
+      "chunk_count": 12,
+      "coverage_status": "THIN",
+      "content_types": [
+        "QUESTION"
       ]
     },
     {
@@ -1456,8 +3013,8 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1479,8 +3036,8 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -1513,8 +3070,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
+        "EXERCISE",
         "ACTIVITY"
       ]
     },
@@ -1526,8 +3083,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "ACTIVITY"
+        "ACTIVITY",
+        "EXERCISE"
       ]
     },
     {
@@ -1538,8 +3095,8 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
+        "EXERCISE",
         "ACTIVITY"
       ]
     },
@@ -1551,9 +3108,9 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
+        "ACTIVITY",
         "EXERCISE",
-        "CONCEPT_EXPLANATION",
-        "ACTIVITY"
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -1564,8 +3121,8 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -1576,8 +3133,8 @@
       "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -1588,8 +3145,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -1612,8 +3169,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "ACTIVITY"
+        "ACTIVITY",
+        "EXERCISE"
       ]
     },
     {
@@ -1635,8 +3192,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -1647,8 +3204,8 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1659,8 +3216,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1682,8 +3239,8 @@
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1694,8 +3251,8 @@
       "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1706,8 +3263,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1718,8 +3275,8 @@
       "chunk_count": 14,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1730,8 +3287,8 @@
       "chunk_count": 14,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
         "CONCEPT_EXPLANATION",
+        "QUESTION",
         "BIOGRAPHICAL_NOTE"
       ]
     },
@@ -1765,8 +3322,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1777,9 +3334,9 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "DEFINITION",
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "QUESTION"
       ]
     },
     {
@@ -1790,9 +3347,9 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "DEFINITION",
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "QUESTION"
       ]
     },
     {
@@ -1803,8 +3360,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -1837,8 +3394,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1849,8 +3406,8 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1872,8 +3429,8 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -1884,8 +3441,8 @@
       "chunk_count": 14,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
         "CONCEPT_EXPLANATION",
+        "QUESTION",
         "BIOGRAPHICAL_NOTE"
       ]
     },
@@ -1908,8 +3465,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "BIOGRAPHICAL_NOTE",
-        "EXPERIMENT"
+        "EXPERIMENT",
+        "BIOGRAPHICAL_NOTE"
       ]
     },
     {
@@ -1931,8 +3488,8 @@
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -1943,9 +3500,9 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
+        "ACTIVITY",
         "EXERCISE",
-        "CONCEPT_EXPLANATION",
-        "ACTIVITY"
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -1956,9 +3513,9 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "EXERCISE",
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "DEFINITION"
       ]
     },
     {
@@ -1969,8 +3526,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
+        "EXERCISE",
         "ACTIVITY"
       ]
     },
@@ -1982,8 +3539,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -1994,8 +3551,8 @@
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2017,8 +3574,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2029,8 +3586,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2041,8 +3598,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2075,9 +3632,9 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "DEFINITION",
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "QUESTION"
       ]
     },
     {
@@ -2088,8 +3645,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2111,8 +3668,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2134,8 +3691,8 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2157,8 +3714,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2169,8 +3726,8 @@
       "chunk_count": 14,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2181,8 +3738,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2204,8 +3761,8 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2284,8 +3841,8 @@
       "chunk_count": 14,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2296,8 +3853,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2308,8 +3865,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2331,9 +3888,9 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
+        "ACTIVITY",
         "EXERCISE",
-        "CONCEPT_EXPLANATION",
-        "ACTIVITY"
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -2344,8 +3901,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2356,9 +3913,9 @@
       "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
+        "ACTIVITY",
         "EXERCISE",
-        "CONCEPT_EXPLANATION",
-        "ACTIVITY"
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -2369,8 +3926,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "ACTIVITY"
+        "ACTIVITY",
+        "EXERCISE"
       ]
     },
     {
@@ -2381,8 +3938,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2393,8 +3950,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "ACTIVITY"
+        "ACTIVITY",
+        "EXERCISE"
       ]
     },
     {
@@ -2416,8 +3973,8 @@
       "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2439,8 +3996,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2451,8 +4008,8 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2463,8 +4020,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2475,8 +4032,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2487,8 +4044,8 @@
       "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2510,8 +4067,8 @@
       "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2533,8 +4090,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2545,8 +4102,8 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2557,8 +4114,8 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -2602,8 +4159,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -2614,8 +4171,8 @@
       "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -2626,8 +4183,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -2649,8 +4206,8 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2661,8 +4218,8 @@
       "chunk_count": 2,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -2673,8 +4230,8 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2707,8 +4264,8 @@
       "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2719,9 +4276,9 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "EXERCISE",
         "QUESTION",
-        "CONCEPT_EXPLANATION",
         "HISTORICAL_NOTE"
       ]
     },
@@ -2733,8 +4290,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
+        "EXERCISE",
         "HISTORICAL_NOTE"
       ]
     },
@@ -2746,8 +4303,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2758,8 +4315,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
+        "EXERCISE",
         "HISTORICAL_NOTE"
       ]
     },
@@ -2771,8 +4328,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "EXERCISE"
       ]
     },
     {
@@ -2783,8 +4340,8 @@
       "chunk_count": 11,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
+        "EXERCISE",
         "HISTORICAL_NOTE"
       ]
     },
@@ -2796,8 +4353,8 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
-        "EXERCISE",
         "CONCEPT_EXPLANATION",
+        "EXERCISE",
         "EXPERIMENT"
       ]
     },
@@ -2820,8 +4377,8 @@
       "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -2832,9 +4389,9 @@
       "chunk_count": 4,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "DEFINITION",
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "QUESTION"
       ]
     },
     {
@@ -2845,8 +4402,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -2857,8 +4414,8 @@
       "chunk_count": 8,
       "coverage_status": "THIN",
       "content_types": [
-        "BIOGRAPHICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "BIOGRAPHICAL_NOTE"
       ]
     },
     {
@@ -2880,8 +4437,8 @@
       "chunk_count": 13,
       "coverage_status": "THIN",
       "content_types": [
-        "BIOGRAPHICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "BIOGRAPHICAL_NOTE"
       ]
     },
     {
@@ -2892,9 +4449,9 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "DEFINITION",
-        "BIOGRAPHICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "BIOGRAPHICAL_NOTE"
       ]
     },
     {
@@ -2927,8 +4484,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -2939,9 +4496,9 @@
       "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
+        "CONCEPT_EXPLANATION",
         "DEFINITION",
-        "BIOGRAPHICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "BIOGRAPHICAL_NOTE"
       ]
     },
     {
@@ -2963,9 +4520,57 @@
       "chunk_count": 12,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
         "CONCEPT_EXPLANATION",
+        "QUESTION",
         "BIOGRAPHICAL_NOTE"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "Bhasha Path V.pdf",
+      "subject": "General",
+      "chapter": "Bhasha Path Class V",
+      "chunk_count": 3,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "5 Bengali Book Question Answer Golpoburo _ পাতাবাহার.pdf",
+      "subject": "Bengali",
+      "chapter": "Class 5 Bengali Book Question Answer Golpoburo   পাতাবাহার",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "Discussion.pdf",
+      "subject": "General",
+      "chapter": "Class Discussion",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBBSE",
+      "grade": "Bhasa Charcha VII.pdf",
+      "subject": "General",
+      "chapter": "Bhasa Charcha Class VII",
+      "chunk_count": 3,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
       ]
     },
     {
@@ -2999,8 +4604,8 @@
       "chunk_count": 5,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     },
     {
@@ -3011,8 +4616,8 @@
       "chunk_count": 14,
       "coverage_status": "THIN",
       "content_types": [
-        "QUESTION",
         "CONCEPT_EXPLANATION",
+        "QUESTION",
         "EXPERIMENT"
       ]
     },
@@ -3073,8 +4678,8 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
         "CONCEPT_EXPLANATION",
+        "DEFINITION",
         "HISTORICAL_NOTE"
       ]
     },
@@ -3086,8 +4691,8 @@
       "chunk_count": 10,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
         "CONCEPT_EXPLANATION",
+        "DEFINITION",
         "EXPERIMENT"
       ]
     },
@@ -3341,8 +4946,8 @@
       "chunk_count": 3,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
         "CONCEPT_EXPLANATION",
+        "DEFINITION",
         "HISTORICAL_NOTE"
       ]
     },
@@ -3365,8 +4970,8 @@
       "chunk_count": 9,
       "coverage_status": "THIN",
       "content_types": [
-        "BIOGRAPHICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "BIOGRAPHICAL_NOTE"
       ]
     },
     {
@@ -3410,8 +5015,8 @@
       "chunk_count": 6,
       "coverage_status": "THIN",
       "content_types": [
-        "DEFINITION",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
       ]
     },
     {
@@ -3433,8 +5038,8 @@
       "chunk_count": 7,
       "coverage_status": "THIN",
       "content_types": [
-        "BIOGRAPHICAL_NOTE",
-        "CONCEPT_EXPLANATION"
+        "CONCEPT_EXPLANATION",
+        "BIOGRAPHICAL_NOTE"
       ]
     },
     {
@@ -3446,6 +5051,310 @@
       "coverage_status": "THIN",
       "content_types": [
         "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Physics",
+      "chapter": "physics ms",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "DEFINITION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Physics",
+      "chapter": "physics sqp",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Mathematics",
+      "chapter": "applied mathematics ms",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Mathematics",
+      "chapter": "applied mathematics sqp",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Mathematics",
+      "chapter": "applied mathematics  for visually impaired  sqp",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Mathematics",
+      "chapter": "mathematics sqp",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Mathematics",
+      "chapter": "mathematics  for visually impaired  ms",
+      "chunk_count": 13,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Mathematics",
+      "chapter": "mathematics  for visually impaired  sqp",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Life Science",
+      "chapter": "biology ms",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Life Science",
+      "chapter": "biology sqp",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "General",
+      "chapter": "chemistry ms",
+      "chunk_count": 7,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "General",
+      "chapter": "chemistry sqp",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "General",
+      "chapter": "economics ms",
+      "chunk_count": 6,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "General",
+      "chapter": "economics sqp",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Science",
+      "chapter": "computer science ms",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "DEFINITION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Science",
+      "chapter": "home science ms",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "DEFINITION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Science",
+      "chapter": "home science sqp",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION",
+        "EXPERIMENT"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Science",
+      "chapter": "political science sqp",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "English",
+      "chapter": "english core ms",
+      "chunk_count": 14,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "English",
+      "chapter": "english core sqp",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "English",
+      "chapter": "english elective ms",
+      "chunk_count": 8,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "English",
+      "chapter": "english elective sqp",
+      "chunk_count": 11,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Geography",
+      "chapter": "geography ms",
+      "chunk_count": 9,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "Geography",
+      "chapter": "geography sqp",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
+      ]
+    },
+    {
+      "board": "WBCHSE",
+      "grade": "12",
+      "subject": "History",
+      "chapter": "history sqp",
+      "chunk_count": 10,
+      "coverage_status": "THIN",
+      "content_types": [
+        "CONCEPT_EXPLANATION",
+        "QUESTION"
       ]
     }
   ]

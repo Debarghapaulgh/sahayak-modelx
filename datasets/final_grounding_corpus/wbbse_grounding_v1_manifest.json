@@ -5,8 +5,8 @@
   "coverage_threshold_per_chapter": 15,
   "source_files": {
     "grounding_chunks_text_only.jsonl": {
-      "records": 6654,
-      "sha256": "959a0f239563c33bce65b21dfeabfdb33d2dc82d9b1fa82c92d2aa43a9989aba",
+      "records": 10176,
+      "sha256": "6a55f467634e590fbba2fbced98e9fa67f23a509949bd3ce89ce13a65adb95eb",
       "description": "All-board text-only grounding chunks with filled thin cells (v1.1)"
     },
     "grounding_chunks_visual_context.jsonl": {
