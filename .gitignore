@@ -145,10 +145,12 @@ sarg_lm_export.ipynb
 bengali_corrupted_row_regeneration_detailed_spec.md
 sample_inspection.json
 
-# Datasets directory: Ignore all subdirectories except final_grounding_corpus
+# Datasets directory: Ignore all subdirectories except final_grounding_corpus & clean master
 datasets/*
 !datasets/final_grounding_corpus/
+!datasets/grounding_corpus_clean_master.jsonl
 datasets/*.jsonl
+!datasets/grounding_corpus_clean_master.jsonl
 datasets/*.json
 
 
